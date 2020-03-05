@@ -1,0 +1,2 @@
+Empirical study on the productivity of the pair programming
+Many authors complain the lack of empirical studies which assess the  	benefits and the drawbacks of agile practices. Particularly, pair  	programming rises an interesting question for managers: does pair  	programming mean to pay two developers in the place of one? We realized  	an experiment to compare the productivity of a developer when performing  	pair programming and when working as solo programmer. We obtained  	empirical evidence that pair programming decreases the effort of  	the single programmer.

@@ -1,0 +1,2 @@
+Tool support for model checking of web application designs
+In this work we report our experience in applying model checking techniques to the analysis of static and dynamic properties of Web application models. We propose a mix of tools that facilitate model driven design of Web applications, automatic code generation, and automatic property verification. As recommended by current tendencies in the academic field, we bridge the gap between the tools by devising a set of {MDA

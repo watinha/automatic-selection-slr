@@ -1,0 +1,2 @@
+The usage model: describing product usage during design and development
+A usage model is a collection of data that describes system usage 	within a stated context. The usage model data describe the interactions 	between the user and the system at a level that identifies the system's 	benefits to the user.

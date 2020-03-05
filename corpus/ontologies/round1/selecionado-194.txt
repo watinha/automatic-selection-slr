@@ -1,0 +1,2 @@
+An Ontology-Based Approach for Test Case Reuse
+Building software test cases is a costly and time-consuming process; hence, good-quality test cases are stored in libraries, for possible reuse. Existing methods for search and retrieval of reusable test cases are not flexible enough, since they do not consider semantics. We propose a test case reuse approach based on the semantic Web technique�ontology, which improves flexibility and reusability during test case generation. Moreover, the addition of semantics to test cases handles users� queries better.

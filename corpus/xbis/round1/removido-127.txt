@@ -1,0 +1,2 @@
+ Refactoring and migration of cascading style sheets: towards optimization and improved maintainability
+Cascading Style Sheets is the standard styling language, and is extensively used for defining the presentation of web, mobile and desktop applications. Despite its popularity, the language's design shortcomings have made CSS development and maintenance challenging. This thesis aims at developing techniques for safely transforming CSS code (through refactoring, or migration to a preprocessor language), with the goal of optimization and improved maintainability.

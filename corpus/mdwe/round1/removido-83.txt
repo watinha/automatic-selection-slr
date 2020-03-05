@@ -1,0 +1,2 @@
+Aspect-oriented adaptation specification in web information systems: a semantics-based approach
+By tailoring content access, presentation, and functionality to the user's location, device, personal preferences, and needs, Web Information Systems {(WISs)

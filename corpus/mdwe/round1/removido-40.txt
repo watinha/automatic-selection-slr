@@ -1,0 +1,2 @@
+Data and web management research at Politecnico di Milano
+Research in data management at Politecnico di Milano has a long and solid tradition; forefront books on distributed databases, conceptual database design, logical databases, and active databases contributed to shape the foundations of this discipline in the last two decades. Historically, our work has addressed both all aspects of innovation in the technology of modern data management systems and the consequent support of design methods and tools.

@@ -1,0 +1,2 @@
+Supporting automatic model inconsistency fixing
+Modern development environments often involve models with complex consistency relations. Some of the relations can be automatically established through "fixing procedures". When users update some parts of the model and cause inconsistency, a fixing procedure dynamically propagates the update to other parts to fix the inconsistency. Existing fixing procedures are manually implemented, which requires a lot of efforts and the correctness of a fixing procedure is not guaranteed.

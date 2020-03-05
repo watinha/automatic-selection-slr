@@ -1,0 +1,2 @@
+Online shopping cart
+This thesis is about online shopping cart systems. After researching the various shopping cart systems, a user friendly shopping cart system has been developed and a mail delivery system has been incorporated into this shopping cart system. A mail delivery system is a system where the user can enter the email ID of a friend and suggest a product. Moreover, users can have a record of the items bought.

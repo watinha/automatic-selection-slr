@@ -1,0 +1,2 @@
+Heuristic Method to Improve Systematic Collection of Terminology
+Abstract: In this paper, we propose an experimental tool for analysis and graphical representation of glossaries. The original heuristic algorithms and analysis methods incorporated into the tool appeared to be useful to improve the quality of the glossaries. The tool was used for analysis of ISTQB Standard Glossary of Terms Used in Software Testing. There are instances of problems found in ISTQB glossary related to its consistency, completeness, and correctness described in the paper.

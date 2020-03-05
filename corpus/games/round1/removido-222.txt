@@ -1,0 +1,2 @@
+Decomposition of Multi-player Games
+Research in General Game Playing aims at building systems that learn  	to play unknown games without human intervention. We contribute to  	this endeavour by generalising the established technique of decomposition  	from AI Planning to multi-player games. To this end, we present a  	method for the automatic decomposition of previously unknown games  	into independent subgames, and we show how a general game player  	can exploit a successful decomposition for game tree search.

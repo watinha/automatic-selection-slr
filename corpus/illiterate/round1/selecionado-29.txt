@@ -1,0 +1,2 @@
+Extended abstract a field computer for animal trackers
+The field computer system has been developed to gather complex data 	on amimal behaviour that is observed by expert animal trackers. The 	system is location aware using the satellite Global Positioning Sytem. 	The system has been designed to empower semi-literate trackers. User 	testing showed that trackers were easily able to master the interface. 	They benefit from greater recognition, while the wider community 	gains from access to the knowledge of the trackers on animal behaviour.

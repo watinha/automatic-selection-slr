@@ -1,0 +1,2 @@
+Accounting for Product Similarity in Software Project Duration Estimation
+We extend an existing model proposed for estimating project duration for industrial projects in general, to software intensive systems projects. We show, through nine di�erent cases studies from di�erent sectors, that product similarity, measured in terms of requirements reuse, can be incorporated into that model to improve its applicability in software intensive systems projects.  

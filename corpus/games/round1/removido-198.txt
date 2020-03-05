@@ -1,0 +1,2 @@
+Java technologies for games
+Network games are the fastest growing segment of the games market.  	The technologies required to build these massively networked games  	is evolving at a rapid pace. There are many components to these technologies.  	There are server, desktop client, and mobile client technologies  	which enable these connected games. This article provides on overview  	of the server, desktop, and mobile technologies that are available  	to build a networked game with Java technology.

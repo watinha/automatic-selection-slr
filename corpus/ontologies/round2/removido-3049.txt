@@ -1,0 +1,2 @@
+Cloud-based streaming data receiver and persister
+The present system receives streaming raw data and inserts context into the raw data. The context raw data may be partitioned into sub-batches and transmitted to a data receiver and persister. The raw data may include context information as well as child-parent information to assist with persisting data. The context may be used to place the data in buckets without analysis of the data, thereby saving time and resources while storing the data batches.

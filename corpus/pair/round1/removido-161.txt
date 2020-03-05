@@ -1,0 +1,2 @@
+JeCo, a collaborative learning tool for programming
+Classroom pair-programming activities have been found to support novice  	student's learning during basic programming courses. However, there  	are very few tools that could support pair or group programming in  	distance education courses. Here, we explain the new concept of collaborative  	program visualization and present a tool to support it, called JeCo,  	that can help students work together on a platform that supports  	both collaborative authoring and program visualization.

@@ -1,0 +1,2 @@
+Design considerations for a financial management system for rural, 	semi-literate users
+In this paper, we describe the design process, results, and general 	observations obtained in designing a user interface for managing 	community-based micro-finance institutions in rural India. The primary 	users studied were semi-literate village women. We discuss our contextual 	study observations and conclude by presenting a grounded design approach 	that best leverages the existing learning patterns of the users.

@@ -1,0 +1,2 @@
+Tools and approaches for developing data-intensive Web applications: a survey
+The exponential growth and capillar diffusion of the Web are nurturing a novel generation of applications, characterized by a direct business-to-customer relationship. The development of such applications is a hybrid between traditional {IS

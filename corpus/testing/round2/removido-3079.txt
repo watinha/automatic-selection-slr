@@ -1,0 +1,2 @@
+Requirements-based testing with defect taxonomies
+Abstract: In this paper we summarize requirements-based testing with defect  taxonomies which seamlessly integrates defect taxonomies into the standard test  process to improve the effectiveness and the efficiency of testing requirements.

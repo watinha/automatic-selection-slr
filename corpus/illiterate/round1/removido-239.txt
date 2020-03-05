@@ -1,0 +1,2 @@
+Automatic verification on the large
+An automatic verification method from a high level resource management 	standpoint is presented. Various manipulators can be incorporated 	in the method to construct, refine, reduce, and model-check state 	space representation. Proper combinations of manipulators can then 	be picked strategically by users or computers for less resource (time 	and space) consumption. An algorithm based on group theory to pick 	a manipulator combination is presented. Verification sessions are 	conducted to illustrate our idea

@@ -1,0 +1,2 @@
+Evaluating the impact of test-first programming and pair programming  	through software process simulation
+In this article, we present a simulation model that we developed for  	exploring the influence of two key extreme programming (XP) practices  	test-first programming and pair programming - on the evolution of  	an XP software project. We present the results obtained simulating  	a typical XP project changing the usage levels of the two practices.  	We focused on output variables related to effort, size, quality and  	released functionalities.

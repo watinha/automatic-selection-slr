@@ -1,0 +1,2 @@
+Assembling Composite Web Services from Autonomous Components
+Web services are fast emerging as the technology of choice to build distributed information systems in multiple domains including {e-Business

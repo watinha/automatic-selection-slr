@@ -1,0 +1,2 @@
+Inventory of Testing Ideas and Structuring of Testing Terms
+Study includes software testing terms and ideas inventory, software testing overview and schematization on meta-level and structuring of lower level elements related to software testing such as testing oracles, testing levels, software quality characteristics, testing approaches, methods, and techniques. Main testing controversies are collected and described. Scientific basis is laid under proper use of such terms as testing approach, testing method, and testing technique.

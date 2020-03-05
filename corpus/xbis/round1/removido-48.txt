@@ -1,0 +1,2 @@
+CSSDev: refactoring duplication in cascading style sheets
+Cascading Style Sheets (CSS) is a widely-used language for defining the presentation of structured documents and user interfaces. Despite its popularity, CSS still lacks adequate tool support for everyday maintenance tasks, such as debugging and refactoring. In this paper, we present CSSDev, a tool suite for analyzing CSS code to detect refactoring opportunities. (https://youtu.be/lu3oITi1XrQ)

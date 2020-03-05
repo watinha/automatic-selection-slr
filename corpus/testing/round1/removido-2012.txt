@@ -1,0 +1,2 @@
+Ontologies in software testing: A Systematic Literature Review
+Abstract  Ontologies have been widely recognized as an important instrument for supporting Knowledge Management (KM). In order to look for a domain ontology that can be used in KM in software testing, in this paper, we investigate, by means of a Systematic Literature Review (SLR), ontologies in the software testing domain, including questions related to their coverage of the software testing domain, and how they were developed

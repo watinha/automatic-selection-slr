@@ -1,0 +1,2 @@
+Automated Techniques to Detect Faults Early in Large Software Applications
+Abstract Modern software applications are very complex and they need fre-quent changes  as per the changes in user requirements. These applications are developed using the  combination of various different programming languages. They consist of a multi-tiered  

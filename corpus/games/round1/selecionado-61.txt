@@ -1,0 +1,2 @@
+Non-visual Gameplay: Making Board Games Easy and Fun
+In this paper we report the results of a study on an evaluation of  	a game and techniques which allow playing board games in the total  	absence of visual feedback. We have demonstrated that a camera mouse  	can be used for blind navigation within a game field. Snapping a  	position of the virtual pointer to the regions of interest as well  	as audio-haptic complementary mapping significantly reduce the cognitive  	load and facilitate mental matching and integration of overview sound  	sequences.

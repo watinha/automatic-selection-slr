@@ -1,0 +1,2 @@
+The impact of using pair programming on system evolution a simulation-based  	study
+In this paper we investigate the impact of pair programming on the  	long term evolution of software systems. We use system dynamics to  	build simulation models which predict the trend in system growth  	with and without pair programming. Initial results suggest that the  	extra effort needed for two people to code together may generate  	sufficient benefit to justify pair programming.

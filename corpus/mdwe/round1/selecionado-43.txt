@@ -1,0 +1,2 @@
+Model transformations from requirements to web system design
+Requirements models are used to specify system functionalitiesfrom the customer viewpoint and are the starting point of softwaredevelopment. However, most Web engineering approaches do notprovide a systematic method to build design models fromrequirements specification. We propose an approach using modeltransformations to close this gap. Our transformation rules aredefined in the {QVT

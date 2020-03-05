@@ -1,0 +1,2 @@
+Unit Testing Tool Competition
+Abstract:  This paper describes the Java Unit Testing Tool Competition that ran in the context of the Search Based Software Testing (SBST) workshop at ICST 2013. It describes the main objective of the benchmark, the Java classes that were selected, the data that was collected, the tools that were used for data collection, the protocol that was carried out to execute the benchmark and how the final benchmark score for each participating tool can be calculated.

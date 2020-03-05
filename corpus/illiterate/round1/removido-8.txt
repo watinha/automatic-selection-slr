@@ -1,0 +1,2 @@
+Information salience and interpreting information
+The information available for many situations often causes information 	overload. To help prevent this overload, the designer and writer 	need to carefully consider the issues of what are the most salient 	information elements for the reader and what can be done to queue 	the reader that this is the most salient information.

@@ -1,0 +1,2 @@
+From playability to a hierarchical game usability model
+This paper presents a brief review of current game usability models.  	This leads to the conception of a high-level game usability framework  	model that integrates current usability approaches in game industry  	and game research.

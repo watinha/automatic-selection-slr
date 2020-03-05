@@ -1,0 +1,2 @@
+A framework for {QoS-based
+The extensive adoption of Web service-based applications in dynamic business scenarios, such as on-demand computing or highly reconfigurable virtual enterprises, advocates for methods and tools for the management of Web service nonfunctional aspects, such as Quality of Service {(QoS).

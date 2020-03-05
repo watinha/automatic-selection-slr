@@ -1,0 +1,2 @@
+Analyzing pair-programmer's satisfaction with the method, the result,  	and the partner
+We give an overview of a programmer satisfaction survey in pair-programming  	experiment. The experiment took place at Institute of Computer Science,  	University of Tartu (UT), Estonia. We include the problem statement,  	description of the questionnaire, and the survey results.

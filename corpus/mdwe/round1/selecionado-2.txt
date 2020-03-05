@@ -1,0 +1,2 @@
+An authoring environment for model-driven web applications
+This paper presents a development environment and framework that supports a Model Driven Development approach to Web Application Development. In this framework, the models are described through graphical diagrams that are processed by the environment. The main purpose is to ease the development of a web application using Visual Studio {.Net

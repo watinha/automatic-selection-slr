@@ -1,0 +1,2 @@
+SABiO: Systematic Approach for Building Ontologies
+Abstract. This paper presents the version 2.0 of SABiO - a Systematic Approach  for Building Ontologies. SABiO focus on the development of domain  ontologies, and propose also support and management processes, which are  strongly linked to the development process. SABiO distinguishes between reference  and operational ontologies, providing activities that apply to the development  of both types of domain ontologies.

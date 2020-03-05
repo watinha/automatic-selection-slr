@@ -1,0 +1,2 @@
+Agent based regression testing framework
+Abstract:  Regression testing is one of the important fields of testing. High testability is the desirable goal. Our research work advocates the use of agent based technology for the Regression Testing. We have proposed agent based testing framework for enhancing the efficiency of Regression Testing. Different agents have been proposed for SRS Comparison, Code Comparison, Design Comparison, Impact analysis and Test Case Generation. The results have been achieved by using JADE platform.

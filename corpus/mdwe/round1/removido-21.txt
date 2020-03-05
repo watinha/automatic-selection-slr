@@ -1,0 +1,2 @@
+A {Model-Driven
+Web service technologies are becoming increasingly important for integrating service-oriented applications. The Web services reverse engineering process becomes necessary in order to facilitate the reuse and composition of Web services. This paper describes a model driven Web service reverse engineering process, where Web service descriptions {(WSDL)

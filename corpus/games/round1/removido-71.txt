@@ -1,0 +1,2 @@
+A type assignment system for game semantics
+We present a type assignment system that provides a finitary interpretation  	of lambda terms in a game semantics model. Traditionally, type assignment  	systems describe the semantic interpretation of terms in domain-theoretic  	models. Quite surprisingly, the type assignment system presented  	in this paper is very similar to the traditional ones, the main difference  	being the omission of the subtyping rules.

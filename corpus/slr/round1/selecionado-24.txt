@@ -1,0 +1,2 @@
+Systematic review of Web engineering research
+This paper uses a systematic literature review as means of investigating  	the rigor of claims arising from Web engineering research. Rigor  	is measured using criteria combined from software engineering research.  	We reviewed 173 papers and results have shown that only 5% would  	be considered rigorous methodologically. In addition to presenting  	our results, we also provide suggestions for improvement of Web engineering  	research based on lessons learnt by the software engineering community.

@@ -1,0 +1,2 @@
+Multimedia Simulation and Comprehension Aid for Complex Technical 	Documents: A Course for Crane Drivers
+We present the design and the experimental test of a cognitive aid 	tool based on multimedia simulation constructed to help illiterate 	crane drivers to understand documents about crane transport limits.

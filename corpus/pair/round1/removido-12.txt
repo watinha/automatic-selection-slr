@@ -1,0 +1,2 @@
+XP as a Framework for Practical Software Engineering Experiments
+We discuss how Extreme Programming (XP) can be used as the base software  	development method to per-form practical experiments in software  	engineering. We show how the main features of XP can help us to minimize  	some of the problems and difficulties that appear when trying to  	perform such experiments in a university environment. We also discuss  	the execution and experiences from one experiment studying a new  	methodology: the Stepwise Feature Introduction.

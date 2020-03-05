@@ -1,0 +1,2 @@
+Employing Agents Towards Database Applications Testing
+Abstract:  Testing multi-tier database applications can be viewed as a distributed task performed at each tier by a number of agents. From this point of view, an agent based approach, originally introduced for the software maintenance of such applications, is extended to provide an effective, intelligent and extensible solution suitable for their testing.

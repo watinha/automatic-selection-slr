@@ -1,0 +1,2 @@
+Internetware computing: issues and perspective
+The Internetware is a new initiative to develop software on the web for web applications. The open and dynamic nature of Internet applications suggest new ways of thinking will be needed for this initiative. This paper discusses several important issues in Internetware and put forward to some relevant research directions. The relevant issues include lifecycle models, ontology and context systems, modeling and simulation, social networking, and adaptive control.

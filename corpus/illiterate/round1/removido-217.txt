@@ -1,0 +1,2 @@
+Using magnets in physical blocks that behave as programming objects
+In this paper we describe the implementation of GameBlocks, a novel 	digital manipulative system for coding simple programme sequences 	to control a toy robot. A contact-less, magnetic field-based mechanism 	for transferring information about the blocks is described. The mechanical 	and electronic system components are described. We position this 	implementation in relation to prior related work. Problems encountered 	are given, with suggestions for future work.

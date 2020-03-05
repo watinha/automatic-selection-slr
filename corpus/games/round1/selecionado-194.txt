@@ -1,0 +1,2 @@
+Computer game-flow design
+Computer games are a rapidly growing segment of the entertainment  	industry. Design and development of modern computer games can be  	a complex activity involving many participants from a variety of  	disciplines. However, computer game design approaches typically appear  	to be less formalised than those used for other types of software  	systems. In this article we describe an approach to computer game-flow  	design intended for the design of individual game levels within a  	computer game and demonstrate its application in practice.

@@ -1,0 +1,2 @@
+Dynamic Scenarios in Embedded System Verification
+Abstract  Scenario-based approaches have become attractive for designs through testing of embedded systems (ES). For verification, the system under development should be analyzed during its operation. Modeling of dynamic scenarios provides advantages of combining runtime verification with test generation and supports dynamic analysis of systems. This paper presents application of dynamic scenarios for test generation of a practical embedded signal processing system as case study.

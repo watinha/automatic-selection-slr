@@ -1,0 +1,2 @@
+Generalized spreadsheet for CACSD
+This paper presents an approach for a computer aided control system 	design (CACSD) software that is based on an extension of the spread-sheet 	metaphor. The spreadsheet are extended in two ways: the contents 	of the cells are abstract objects that can be manipulated directly, 	and the relations between the objects are bidirectional. Prototype 	implementations have been made in Matlab. The idea is illustrated 	by several small tools that illuminate various aspects of control 	system design

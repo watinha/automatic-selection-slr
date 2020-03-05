@@ -1,0 +1,2 @@
+Tackling online game development problems with a novel network scripting  	language
+We describe a novel scripting language for writing bandwidth-efficient  	online game logic. The language facilitates the development of deterministic,  	concurrent, distributed games, with assurances of consistency maintenance  	between clients and server. Our approach allows for increased simulation  	accuracy when compared to dead reckoning, and removes the need to  	write code to repair distributed state inconsistencies, or to explicitly  	transfer data over a network.

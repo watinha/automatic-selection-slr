@@ -1,0 +1,2 @@
+Generalised flowcharts and games
+We introduce a generalization of the classical notion of flowchart  	for languages with higher order and object-oriented features. These  	general flowcharts are obtained by an abstraction of the game semantics  	for Idealized Algol and as such rely on a solid mathematical basis.  	We demonstrate how charts may be used as the basis for data flow  	analysis.

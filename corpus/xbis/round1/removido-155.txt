@@ -1,0 +1,2 @@
+QVMMA: A Short Term and Long Term Layer 3 DDoS Detector and Mitigator
+QVMMA: A Short Term and Long Term Layer 3 DDoS Detector and Mitigator  {tag

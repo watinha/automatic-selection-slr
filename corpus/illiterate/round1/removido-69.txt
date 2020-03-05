@@ -1,0 +1,2 @@
+XP requirement negotiation workshop: co-located with XP2001 --- the 	second international conference on eXtreme programming and agile 	processes in software engineering Villasimius, Cagliari, Italy, 23rd 	May 2001 workshop log
+The plan is first to do an introduction with positions + interests 	and then to perform a visioning exercise.

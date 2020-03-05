@@ -1,0 +1,2 @@
+Trustworthiness framework of reusable test case
+Abstract:  To solve the trustworthiness of reusable test cases, a trustworthiness framework of reusable test cases is proposed in this paper, including the analysis of trustworthiness attributes and trustworthiness evidence. Furthermore, the trustworthiness assurance processes related are presented to support management activities of reusable test case.

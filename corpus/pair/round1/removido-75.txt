@@ -1,0 +1,2 @@
+Collaboration on software tasks
+In pair programming (PP), two developers work together on the same  	task using one computer and keyboard. PP involves not just coding,  	but many phases of the software development process such as design  	and testing. PP has been proposed by several authors since the 70's,  	but it is primarily during the last three to four years that some  	of the claimed benefits have been tested empirically.

@@ -1,0 +1,2 @@
+XP(Extreme Programming): Software Development Process Nouvelle Vague.  	Part I: Overview of XP and its Surroudings
+The following topics are discussed: Extreme Programming; a planning  	game; pair programming; the software life-cycle; daily schema migration;  	and object-oriented programming.

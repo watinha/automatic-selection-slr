@@ -1,0 +1,2 @@
+Process support and knowledge management for virtual teams doing  	agile software development
+Agile practices are arguably improving the productivity of small,  	co-located software development teams. We describe an approach that  	tries to overcome the constraint of co-location by introducing a  	process-support environment (called MILOS) that helps software development  	teams to maintain adaptive practices in a distributed setting. MILOS  	supports project coordination, information routing, team communication,  	pair programming and experience management.

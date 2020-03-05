@@ -1,0 +1,2 @@
+An empirical study about the feelgood factor in pair programming
+Why are programmer pairs more productive than single developers? Using  	empirical data from two controlled experiments, we find that pair  	performance is uncorrelated with programming experience, but shows  	a significant correlation with how comfortably the developers feel  	with pair programming during the session (the 'feelgood" factor).

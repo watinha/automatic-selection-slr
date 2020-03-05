@@ -1,0 +1,2 @@
+The case for research in game engine architecture
+This paper is a call for research in the field of game engine architecture  	and design, a more comprehensive and thorough understanding of which  	we consider to be essential for its development. We present a number  	of key aspects that may help to define the problem space and provide  	a catalogue of questions that we believe identify areas of interest  	for future investigation.

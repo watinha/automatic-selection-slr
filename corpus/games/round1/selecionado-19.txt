@@ -1,0 +1,2 @@
+Designing a PC Game Engine
+Computer game engine requirements change in response to evolving game  	platforms and demands for reduced development costs. We propose a  	3D game engine, marketed as NetImmerse, for varying performance levels.

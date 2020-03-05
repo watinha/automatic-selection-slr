@@ -1,0 +1,2 @@
+Advancements in data distribution methods and referential integrity
+An elastic parallel database system where data distribution is container- and container-context based. Container Based Tables are defined and Container Member Tables achieve co-location of data as needed. A polymorphic key may also establish polymorphic key relationships between rows in one table and rows in many other possible tables.

@@ -1,0 +1,2 @@
+A portable device for the translation of braille to text
+This paper presents the development of a portable device for the translation 	of embossed Braille to text. The device optically scans a Braille 	page and outputs the equivalent text output in real time, thus acting 	as a written communications gateway between sighted and vision impaired 	persons.

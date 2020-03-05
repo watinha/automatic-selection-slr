@@ -1,0 +1,2 @@
+An exploratory study on the effects of pair programming
+This paper reports results from an exploratory study investigating  	the practice of pair programming using a student project conducted  	over a period of nine weeks. We collected qualitative data on the  	use and effectiveness of pair programming. We found that depending  	on the pairing combination used, the effects of pair programming  	can be both positive and negative.

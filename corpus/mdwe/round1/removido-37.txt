@@ -1,0 +1,2 @@
+Towards a semantic- and context-based approach for composing web services
+Despite the widespread adoption of web services, several obstacles still hinder their smooth automatic composition. First, techniques that exploit semantic information during web services discovery are still lagging behind despite multiple initiatives like {OWL-S.

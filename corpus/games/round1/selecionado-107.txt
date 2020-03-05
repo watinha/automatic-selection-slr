@@ -1,0 +1,2 @@
+Gambit: A Prototyping Approach to Video Game Design
+Video game designers don't have to be assembly language programmers.  	Their creative talents can be expressed in a prototyping language.

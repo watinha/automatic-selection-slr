@@ -1,0 +1,2 @@
+Model-driven development of web applications with {UWA,
+This paper presents a model-driven approach to the development of web applications based on the Ubiquitous Web Application {(UWA)

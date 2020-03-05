@@ -1,0 +1,2 @@
+Test-first pair-programming tutorial
+This hands-on tutorial covers two practices of Extreme Programming  	(XP): test-first programming and test-driven development. It focuses  	on the deeper aspects of these practices, including how they affect  	productivity.

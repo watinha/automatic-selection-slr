@@ -1,0 +1,2 @@
+Technical and Human Perspectives on Pair Programming
+Extreme Programming is presented as an answer to problems in software  	engineering. Extreme Programming is briefly introduced and one of  	its primary principles, pair programming, is examined more closely.  	Drawing from readings and Medtronic employee interviews, potential  	challenges to pair programming are discussed and analyzed. Finally,  	recommendations for those considering pair programming are suggested.

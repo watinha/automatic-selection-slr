@@ -1,0 +1,2 @@
+Searching for the Best Test
+Abstract:  Random testing has been controversial throughout the history. In the early 70s opinions about random testing were divided: Girard and Rault (1973) call it a valuable test case generation scheme [11]. This is confirmed by Thayer, Lipow and Nelson (1978) in their book on software reliability [21] they say it is the necessary final step in the testing activities. However, Glenford Myers (1979) in his seminal work on the art of Software Testing [18] denominates random testing as probably the poorest testing method.

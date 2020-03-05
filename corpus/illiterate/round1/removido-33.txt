@@ -1,0 +1,2 @@
+The Challenges of Technology Research for Developing Regions
+The authors' projects in several developing regions encountered many 	technical, cultural, and environmental challenges that are outside 	the scope of typical computer science research. By sharing some of 	their experiences, they hope to increase understanding of these issues. 	They also hope to help others, especially researchers from outside 	these regions, avoid their mistakes by suggesting steps that might 	at least mitigate the problems.This article is part of a special 	issue on Emerging Economies.

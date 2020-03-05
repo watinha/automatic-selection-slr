@@ -1,0 +1,2 @@
+Weaving ontologies to support digital forensic analysis
+Numerous challenges currently face digital forensic analysis. Although a variety of techniques and tools exist to assist with the analysis of digital evidence, they inadequately address key problems. We consider the applicability and usefulness of weaving ontologies to address some of these problems. We introduce an ontological approach leading to future development of an automated digital forensic analysis tool.

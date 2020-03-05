@@ -1,0 +1,2 @@
+Characterizing navigation maps for web applications with the {NMM
+This paper presents the Navigation Maps Modeling approach {(NMM),

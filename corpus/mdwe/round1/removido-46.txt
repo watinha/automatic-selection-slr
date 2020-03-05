@@ -1,0 +1,2 @@
+Encoding process algebraic descriptions of web services into {BPEL
+Formal methods are helpful for many issues raised in the web services area. In this article, we advocate the use of process algebra as a first step in the design and development of executable web services. Verification tools can be used to validate the correct execution of these formal descriptions. We define some guidelines to encode abstract specifications of services-to-be written using these calculi into executable web services. As a back-end language, we consider {BPEL

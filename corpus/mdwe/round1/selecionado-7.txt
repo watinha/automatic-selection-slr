@@ -1,0 +1,2 @@
+A Methodology for {Model-Driven
+Web application composition can greatly benefit from the utilization of existing frameworks and reusable components, in order to reduce development effort. Frameworks implementing the {Model-View-Controller

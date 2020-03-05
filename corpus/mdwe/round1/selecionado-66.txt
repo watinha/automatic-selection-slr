@@ -1,0 +1,2 @@
+A system for teaching web engineering concepts in a supervised way using rich internet applications
+In the past, different methodologies have been proposed to systematise web development processes. Some of them are supported by Computer Aided Software Engineering {(CASE)

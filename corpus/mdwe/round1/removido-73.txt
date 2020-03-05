@@ -1,0 +1,2 @@
+Progress in Web-based decision support technologies
+World Wide Web technologies have transformed the design, development, implementation and deployment of decision support systems. This article reviews and summarizes recent technology developments, current usage of Web-based {DSS,

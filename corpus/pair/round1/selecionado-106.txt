@@ -1,0 +1,2 @@
+An empirical analysis on the discontinuous use of pair programming
+Pair programming has been shown to increase communication and teamwork  	skills and to provide better code. The aim of this work is to show  	the efficacy of pair programming in transferring knowledge and skills  	over an environment where people met only occasionally. In a quasi  	experiment, we find that pair programming is effective in sharing  	knowledge among 15 students who met once a week for a half day, and  	did their internship individually or in couple for the remaining  	4 half days.

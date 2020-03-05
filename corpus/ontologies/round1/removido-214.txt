@@ -1,0 +1,2 @@
+Application and Outlook
+Even though semantic service provisioning is still a hot research topic, many projects and collaborations already gained a tremendous amount of experiences. This chapter sketches the prototype experiences from one of these projects, the European integration project ASG, which was also the starting point for this book. The chapter further discusses possible next steps for advanced service provisioning platforms.

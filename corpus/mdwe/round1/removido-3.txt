@@ -1,0 +1,2 @@
+{Model-Driven
+Web service technologies are becoming increasinglyimportant for integrating systems and services. There ismuch activity and interest around standardization andusage of web service technologies. The Unified {ModelingLanguage

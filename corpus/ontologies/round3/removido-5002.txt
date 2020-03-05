@@ -1,0 +1,2 @@
+The Set of Pareto-Nash Equilibria in Multicriteria Strategic Games
+The paper investigates the notion of Pareto-Nash equilibrium  as continuation of the works [2-4]. Problems and basic theoretical  results are exposed. Method of intersection of graphs of best  response mappings [3] is applied to solve the dyadic two-criteria  games.

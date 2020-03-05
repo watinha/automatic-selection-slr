@@ -1,0 +1,2 @@
+South African sign language machine translation project
+We describe the South African Sign Language Machine Translation project, 	and point out the role that the project is playing in the larger 	context of South African Sign Language and accessibility for the 	South African Deaf community.

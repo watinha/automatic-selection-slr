@@ -1,0 +1,2 @@
+Preface to {MDWE'06
+In this paper we describe the aim, rationale and main objectives of the third edition of the Workshop on {Model-Driven

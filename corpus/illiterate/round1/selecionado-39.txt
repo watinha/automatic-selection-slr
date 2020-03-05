@@ -1,0 +1,2 @@
+VoiceList: user-driven telephone-based audio content
+We present VoiceList, a telephone-based user-generated audio classifieds 	service. The aim of the system is to provide an infrastructure for 	a user-driven community service where there is minimal connectivity 	to the Internet. Our approach takes advantage of prior knowledge 	and the ubiquitous presence of telephones in developing nations, 	overcoming literacy and connectivity barriers.

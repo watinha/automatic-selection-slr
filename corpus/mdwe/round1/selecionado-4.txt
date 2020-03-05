@@ -1,0 +1,2 @@
+{Model-Driven
+With the growing use of Web Content Management Systems for the support of complex online business processes, traditional implementation solutions proofed to be inefficient. Specifically the gap between business requirements and the realized Web application should be closed. This paper presents the development of a modeling tool for the automated configuration of Web Content Management Systems {(WCM)

@@ -1,0 +1,2 @@
+Exploring XP for scientific research
+Can we successfully apply XP (Extreme Programming) in a scientific  	research context? A pilot project at the NASA Langley Research Center  	tested XPs applicability in this context. Since the cultural environment  	at a government research center differs from the customer-centric  	business view, eight of XPs 12 practices seemed incompatible with  	the existing research culture. Despite initial awkwardness, the authors  	determined that XP can function in situations for which it appears  	to be ill suited.

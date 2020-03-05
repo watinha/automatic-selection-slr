@@ -1,0 +1,2 @@
+Architecture and behaviour analysis for engineering Service Modes
+Engineering services in the framework of an {Service-Oriented

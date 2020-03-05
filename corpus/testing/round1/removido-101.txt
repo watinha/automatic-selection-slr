@@ -1,0 +1,2 @@
+Unit testing tool competition: round three
+This paper describes the third round of the Java Unit Testing Tool Competition. This edition of the contest evaluates no less than seven automated testing tools! And, like during the second round, test suites written by human testers are also used for comparison. This paper contains the full results of the evaluation.

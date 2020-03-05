@@ -1,0 +1,2 @@
+Smart distributed transactions and multiply distributed tables
+An elastic parallel database system where metadata is specified out-of-band during database operations via a set of augmentation rules. The rules are used to augment or modify commands received, and indicate whether they are to be used for specific connections on which they are received, for all client connections, or some other scope.

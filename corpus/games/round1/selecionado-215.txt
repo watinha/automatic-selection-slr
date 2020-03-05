@@ -1,0 +1,2 @@
+Player Modeling Impact on Players Entertainment in Computer Games
+In this paper we introduce an effective mechanism for obtaining computer  	games of high interest (i.e. satisfaction for the player). The proposed  	approach is based on the interaction of a player modeling tool and  	a successful on-line learning mechanism from the authors previous  	work on prey/predator computer games. The methodology demonstrates  	high adaptability into dynamical playing strategies as well as reliability  	and justifiability to the game user.

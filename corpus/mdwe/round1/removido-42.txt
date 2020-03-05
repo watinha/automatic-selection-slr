@@ -1,0 +1,2 @@
+Towards a semantic infrastructure supporting model-based tool integration
+With the rise of model-driven software development, more and more development tasks are being performed on models. Seamless exchange of models among different modeling tools increasingly becomes a crucial prerequisite for effective software development processes. Due to lack of interoperability, however, it is often difficult to use tools in combination, thus the potential of model-driven software development cannot be fully utilized. To tackle this problem, we propose {ModelCVS,

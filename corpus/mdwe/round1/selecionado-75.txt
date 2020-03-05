@@ -1,0 +1,2 @@
+Using web accessibility patterns for web application development
+Design of accessible Web applications is a complex challenge. The presented concept demonstrates the potential of model-based and user-centered development. Based on Web accessibility patterns, a suitable solution is discussed which can be used to simplify the development process. Using an established approach from Web engineering, the use of patterns is demonstrated.

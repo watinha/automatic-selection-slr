@@ -1,0 +1,2 @@
+From business process models to process-oriented software systems
+Several methods for enterprise systems analysis rely on flow-oriented representations of business operations, otherwise known as business process models. The Business Process Modeling Notation {(BPMN)

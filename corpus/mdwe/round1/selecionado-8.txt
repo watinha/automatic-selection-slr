@@ -1,0 +1,2 @@
+A Framework of {Model-Driven
+Web applications have become complex and crucial in many fields. In order to assure their quality, a high demand for systematic methodologies of Web application testing is emerging. In this paper, a methodology of {Model-Driven

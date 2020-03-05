@@ -1,0 +1,2 @@
+Transformation of the Software Testing Glossary into a Browsable Concept Map
+Abstract: Authors propose a transformation method of the glossary Standard glossary of terms used in Software Testing created by ISTQB document into a basic concept map. By applying natural language processing techniques and analyzing the discovered relations between concepts the most essential aspects of the software testing domain are elicited and integrated. As the result a browsable concept map is created. Browsable concept map can be used as a learning support tool.

@@ -1,0 +1,2 @@
+The Magnus-Derek game
+We provide a new adaptive strategy for the maximizer in the Magnus-Derek  	game on the n-cycle. We show that this new strategy succeeds within  	O(nlogn) rounds, and thus improves on a predecessor result that uses  	a quadratic number of rounds.

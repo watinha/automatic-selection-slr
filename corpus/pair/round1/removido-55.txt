@@ -1,0 +1,2 @@
+Paired programming \& personality traits
+Paired programming is an essential element of extreme programming  	--a methodology comprised of applying best practices to software  	development. Not all developers are suited for paired development  	however, and care should be taken when building a team for extreme  	programming. The team members should be selected with personality  	traits that are beneficial to paired programming. These personality  	traits can be determined through various interview techniques and  	the corresponding behavioral responses of the candidates.
