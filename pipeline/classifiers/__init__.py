@@ -35,6 +35,7 @@ class SimpleClassifier:
         correct_exclusion_rate = []
         threasholds = []
         missed = []
+        fscore_threashold = []
         for train_index, test_index in kfold.split(X, y):
             X_train, X_test = X[train_index], X[test_index]
             y_train, y_test = y[train_index], y[test_index]
@@ -46,9 +47,11 @@ class SimpleClassifier:
             correct_exclusion_rate.append(matrix[0, 0] / (matrix[0, 0] + matrix[1, 1] + matrix[0, 1] + matrix[1, 0]))
             missed.append(matrix[1, 0] / (matrix[1, 1] + matrix[1, 0]))
             threasholds.append(threasholds2[0])
+            fscore_threashold.append(metrics.f1_score(y_test, [ 0 if i < threasholds2[0] else 1 for i in y_score ]))
         scores['exclusion_rate'] = correct_exclusion_rate
         scores['threasholds'] = threasholds
         scores['missed'] = missed
+        scores['fscore_threashold'] = fscore_threashold
 
         dataset['%s_scores' % self.classifier_name] = scores
         return dataset
