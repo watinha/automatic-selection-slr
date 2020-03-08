@@ -2,7 +2,10 @@ import pandas as pd
 
 files = ['games.csv', 'mdwe.csv', 'pair.csv', 'testing.csv',
          'illiterate.csv', 'ontologies.csv', 'slr.csv', 'xbi.csv']
-columns = [0, 9, 10]
+#columns = [0, 7, 8] # correct exclusion
+#columns = [0, 9, 10] # threashold
+#columns = [0, 11, 12] # missed
+columns = [0, 13, 14] # fscore
 folders = [ 'k50', 'k100', 'k300', 'k1000', 'k3000' ]
 
 complete_table = pd.DataFrame()
@@ -24,6 +27,6 @@ for folder in folders:
     else:
         complete_table = complete_table.merge(table, left_on=['fold', 'group'], right_on=['fold', 'group'])
 
-f = open('all-threashold.csv', 'w')
+f = open('all-fscore-threashold.csv', 'w')
 f.write(complete_table.to_csv())
 f.close()
