@@ -1,0 +1,35 @@
+ ============================ 
+   --- project slr ---
+ ============================ 
+===== Configure the lemmatizer =====
+===== Configuring stop words removal =====
+===== Reading bib and transforming to text =====
+===== Executing Text Filter =====
+===== Reading text and vectorizing =====
+(37, 6952)
+===== Feature selection - SelectKBest =====
+(37, 100)
+===== Decision Tree Classifier =====
+===== Hyperparameter tunning  =====
+class_weight : None
+criterion : gini
+max_depth : 10
+min_samples_split : 100
+OUR APPROACH F-measure: 0.383496503497 on average and 0.0115805547102 SD
+OUR APPROACH Precision: 0.31130952381 on average and 0.0151288869371 SD
+OUR APPROACH Recall: 0.5 on average and 0.0 SD
+===== SVM Classifier =====
+===== Hyperparameter tunning  =====
+C : 10
+class_weight : balanced
+kernel : linear
+tol : 0.001
+OUR APPROACH F-measure: 0.753131313131 on average and 0.205788689673 SD
+OUR APPROACH Precision: 0.801428571429 on average and 0.23859756534 SD
+OUR APPROACH Recall: 0.766666666667 on average and 0.16996731712 SD
+decision_tree -> Threashold 0.629630, Recall 1.000000, Precision 0.600000
+[[0 4]
+ [0 6]]
+svm -> Threashold 0.662739, Recall 1.000000, Precision 1.000000
+[[4 0]
+ [0 6]]

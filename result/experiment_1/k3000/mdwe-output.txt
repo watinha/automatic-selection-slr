@@ -1,0 +1,35 @@
+ ============================ 
+   --- project mdwe ---
+ ============================ 
+===== Configure the lemmatizer =====
+===== Configuring stop words removal =====
+===== Reading bib and transforming to text =====
+===== Executing Text Filter =====
+===== Reading text and vectorizing =====
+(95, 7943)
+===== Feature selection - SelectKBest =====
+(95, 3000)
+===== Decision Tree Classifier =====
+===== Hyperparameter tunning  =====
+class_weight : balanced
+criterion : gini
+max_depth : 10
+min_samples_split : 2
+OUR APPROACH F-measure: 0.630344251433 on average and 0.0865940908007 SD
+OUR APPROACH Precision: 0.724053005818 on average and 0.116656876024 SD
+OUR APPROACH Recall: 0.652564102564 on average and 0.0727952285466 SD
+===== SVM Classifier =====
+===== Hyperparameter tunning  =====
+C : 1
+class_weight : balanced
+kernel : linear
+tol : 1
+OUR APPROACH F-measure: 0.803102835861 on average and 0.0695919383995 SD
+OUR APPROACH Precision: 0.885742566257 on average and 0.0347052660686 SD
+OUR APPROACH Recall: 0.784615384615 on average and 0.0725917316251 SD
+decision_tree -> Threashold 0.000000, Recall 1.000000, Precision 0.291667
+[[ 0 17]
+ [ 0  7]]
+svm -> Threashold 0.238948, Recall 1.000000, Precision 0.411765
+[[ 7 10]
+ [ 0  7]]

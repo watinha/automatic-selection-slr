@@ -1,0 +1,35 @@
+ ============================ 
+   --- project illiterate ---
+ ============================ 
+===== Configure the lemmatizer =====
+===== Configuring stop words removal =====
+===== Reading bib and transforming to text =====
+===== Executing Text Filter =====
+===== Reading text and vectorizing =====
+(256, 49470)
+===== Feature selection - SelectKBest =====
+(256, 100)
+===== Decision Tree Classifier =====
+===== Hyperparameter tunning  =====
+class_weight : balanced
+criterion : gini
+max_depth : 50
+min_samples_split : 100
+OUR APPROACH F-measure: 0.8046695405 on average and 0.0640044981494 SD
+OUR APPROACH Precision: 0.790103268824 on average and 0.0710066941753 SD
+OUR APPROACH Recall: 0.833591731266 on average and 0.0700042486761 SD
+===== SVM Classifier =====
+===== Hyperparameter tunning  =====
+C : 100
+class_weight : balanced
+kernel : linear
+tol : 1
+OUR APPROACH F-measure: 0.771856347657 on average and 0.12919876837 SD
+OUR APPROACH Precision: 0.934432773109 on average and 0.033788321609 SD
+OUR APPROACH Recall: 0.74395994832 on average and 0.132695051531 SD
+decision_tree -> Threashold 0.000000, Recall 1.000000, Precision 0.109375
+[[ 0 57]
+ [ 0  7]]
+svm -> Threashold 0.107186, Recall 1.000000, Precision 0.114754
+[[ 3 54]
+ [ 0  7]]

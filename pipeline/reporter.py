@@ -13,6 +13,8 @@ class CSVReporter:
         self._threasholds = {}
         self._missed = {}
         self._fscore_threashold = {}
+        self._exclusion_baseline = {}
+        self._missed_baseline = {}
         csv_file = open(self._filename, 'w', newline='')
         self._csv_writer = csv.writer(csv_file, delimiter=';')
         self._classifiers = []
@@ -33,7 +35,9 @@ class CSVReporter:
                       '%s_exclusion' % self._classifiers[0], '%s_exclusion' % self._classifiers[1],
                       '%s_threashold' % self._classifiers[0], '%s_threashold' % self._classifiers[1],
                       '%s_missed' % self._classifiers[0], '%s_missed' % self._classifiers[1],
-                      '%s_fscore_th' % self._classifiers[0], '%s_fscore_th' % self._classifiers[1]]))
+                      '%s_fscore_th' % self._classifiers[0], '%s_fscore_th' % self._classifiers[1],
+                      '%s_exclusion_baseline' % self._classifiers[0], '%s_exclusion_baseline' % self._classifiers[1],
+                      '%s_missed_baseline' % self._classifiers[0], '%s_missed_baseline' % self._classifiers[1]]))
         for classifier_score in classifiers:
             scores = dataset[classifier_score]
             classifier_name = re.findall('(.*)_scores$', classifier_score)[0]
@@ -44,6 +48,8 @@ class CSVReporter:
             threasholds = scores['threasholds']
             missed = scores['missed']
             fscore_threashold = scores['fscore_threashold']
+            exclusion_baseline = scores['exclusion_baseline']
+            missed_baseline = scores['missed_baseline']
             if (self._precision.get(classifier_name) == None):
                 self._precision[classifier_name] = []
             self._precision[classifier_name] = self._precision[classifier_name] + precision
@@ -65,6 +71,12 @@ class CSVReporter:
             if (self._fscore_threashold.get(classifier_name) == None):
                 self._fscore_threashold[classifier_name] = []
             self._fscore_threashold[classifier_name] = self._fscore_threashold[classifier_name] + fscore_threashold
+            if (self._exclusion_baseline.get(classifier_name) == None):
+                self._exclusion_baseline[classifier_name] = []
+            self._exclusion_baseline[classifier_name] = self._exclusion_baseline[classifier_name] + exclusion_baseline
+            if (self._missed_baseline.get(classifier_name) == None):
+                self._missed_baseline[classifier_name] = []
+            self._missed_baseline[classifier_name] = self._missed_baseline[classifier_name] + missed_baseline
 
             y_score = scores['probabilities']
             y_test = scores['y_test']
@@ -117,6 +129,8 @@ class CSVReporter:
             threasholds_values = []
             missed_values = []
             fscore_threashold = []
+            exclusion_baseline_values = []
+            missed_baseline_values = []
             for j in self._classifiers:
                 precision_values += [self._precision[j][i]]
                 recall_values += [self._recall[j][i]]
@@ -125,7 +139,9 @@ class CSVReporter:
                 threasholds_values += [self._threasholds[j][i]]
                 missed_values += [self._missed[j][i]]
                 fscore_threashold += [self._fscore_threashold[j][i]]
+                exclusion_baseline_values += [self._exclusion_baseline[j][i]]
+                missed_baseline_values += [self._missed_baseline[j][i]]
 
-            row = ['Fold-%d' % i] + precision_values + recall_values + fscore_values + exclusion_values + threasholds_values + missed_values + fscore_threashold
+            row = ['Fold-%d' % i] + precision_values + recall_values + fscore_values + exclusion_values + threasholds_values + missed_values + fscore_threashold + exclusion_baseline_values + missed_baseline_values
             self._csv_writer.writerow(row)
 

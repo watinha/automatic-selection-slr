@@ -1,0 +1,35 @@
+ ============================ 
+   --- project games ---
+ ============================ 
+===== Configure the lemmatizer =====
+===== Configuring stop words removal =====
+===== Reading bib and transforming to text =====
+===== Executing Text Filter =====
+===== Reading text and vectorizing =====
+(223, 35828)
+===== Feature selection - SelectKBest =====
+(223, 300)
+===== Decision Tree Classifier =====
+===== Hyperparameter tunning  =====
+class_weight : None
+criterion : gini
+max_depth : 100
+min_samples_split : 100
+OUR APPROACH F-measure: 0.654094913652 on average and 0.0709191656623 SD
+OUR APPROACH Precision: 0.668203314424 on average and 0.0759468510763 SD
+OUR APPROACH Recall: 0.654717164644 on average and 0.0644207683313 SD
+===== SVM Classifier =====
+===== Hyperparameter tunning  =====
+C : 10
+class_weight : balanced
+kernel : linear
+tol : 1
+OUR APPROACH F-measure: 0.750272415739 on average and 0.0382232489599 SD
+OUR APPROACH Precision: 0.786704643396 on average and 0.0466163759735 SD
+OUR APPROACH Recall: 0.741485760971 on average and 0.0349607457521 SD
+decision_tree -> Threashold 0.071429, Recall 1.000000, Precision 0.410714
+[[ 0 33]
+ [ 0 23]]
+svm -> Threashold 0.071250, Recall 1.000000, Precision 0.410714
+[[ 0 33]
+ [ 0 23]]
