@@ -1,2 +1,13 @@
-Design of an advanced platform for citizen participation committed 	to ensuring freedom of speech
-The expansion of new platforms of digital democracy does not necessarily 	entail an increase in citizen participation. The VOTESCRIPT group 	has made a sociological analysis to determine the causes of this 	apparent failure, reaching the conclusion that users are demanding 	capabilities that are not available in present systems.   	This paper presents a proposal for an advanced system of debate in 	an environment of digital democracy which overcomes the limitations 	of existing systems. We have been especially careful in applying 	security procedures in telematic systems, for they are to offer citizens 	the guarantees that society demands. New functional tools have been 	included to ensure user authentication and to permit anonymous participation 	where the system is unable to disclose or even to know the identity 	of system users. The platform prevents participation by non-entitled 	persons who do not belong to the authorized group from giving their 	opinion. Furthermore, this proposal allows for verifying the proper 	function of the system, free of tampering or fraud intended to alter 	the conclusions or outcomes of participation. All these tools guarantee 	important aspects of both a social and technical nature, most importantly: 	freedom of expression, equality and auditability.
+Using mobile phones for secure, distributed document processing in
+the developing world
+Paper plays an essential role in many information ecologies in the
+developing world, but it can be inefficient and inflexible. We've
+developed an information services architecture that uses a smart
+phone equipped with a built-in digital camera to process augmented
+paper documents. The CAM document-processing framework exploits smart
+mobile phones' utility, usability, and growing ubiquity to link paper
+with modern information tools. CAM, so called because the phone's
+camera plays a key role in the user interface, is a three-tiered,
+document-based architecture for providing remote rural information
+services. The CAM framework comprises four components: CamForms,
+CamShell, CamBrowser, and CamServer.

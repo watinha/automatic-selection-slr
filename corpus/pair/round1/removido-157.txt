@@ -1,2 +1,11 @@
 Agile software development: human values and culture
-Software engineers need to know how to evaluate different methods  	of developing software. A group of new development methods have emerged  	under the general label "agile development." These techniques are  	sometimes called "light weight" as opposed to "heavy weight" techniques  	such as those based on the waterfall model. Two classic ethical techniques  	- utilitarian and deontological analyses - can offer insights into  	the arguments surrounding, agile methods. These and other applied  	ethics techniques offer software engineers a more precise language  	for articulating their ideas about software engineering issues that  	involve human values.
+Software engineers need to know how to evaluate different methods
+of developing software. A group of new development methods have emerged
+under the general label "agile development." These techniques are
+sometimes called "light weight" as opposed to "heavy weight" techniques
+such as those based on the waterfall model. Two classic ethical techniques
+- utilitarian and deontological analyses - can offer insights into
+the arguments surrounding, agile methods. These and other applied
+ethics techniques offer software engineers a more precise language
+for articulating their ideas about software engineering issues that
+involve human values.

@@ -1,2 +1,12 @@
-Using pen and paper to control networked appliances
-User interfaces to control networked household appliances are often 	inadequate. Either they are too simplistic or they are too complex 	and complicated relying on a PC-based interface. Therefore, a user 	interface that supports complex functionalities and is easy to use 	is required. In this article digital pen and paper are presented 	as a suitable interface. Digital pens are only marginally larger 	than their traditional counterparts, and digital paper is ordinary 	paper with an almost invisible unique pattern printed on it. Pen 	and paper are well known to users and thus an important barrier to 	the acceptance of networked appliances is removed. The approach is 	integrated with an open services gateway initiative (OSGi) gateway, 	thus allowing for flexibility with respect to the protocol used to 	communicate with the appliance. It is also shown how the approach 	can be applied to other appliances in and beyond the home
+Barriers to e-commerce and competitive business models in developing
+countries: A case study
+This paper integrates and extends research on e-commerce in the developing
+world. We use three categories of feedback systems-economic, sociopolitical
+and cognitive-to offer a simple model of e-commerce barriers in the
+developing world. We also examine characteristics of e-business models
+that can be successfully employed in developing countries. Then,
+we provide the case of an e-business model followed by a Nepal-based
+multiple international award winning online provider. This paper's
+theoretical contribution is to explain the 'hows' and 'whys' of e-commerce
+in developing countries and to identify clear contexts and attendant
+mechanism.

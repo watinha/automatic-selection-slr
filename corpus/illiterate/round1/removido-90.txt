@@ -1,2 +1,27 @@
-Computers, programming and people
-Now part of consumer society and marketed globally, computers are 	designed to be sold rather than used. Software marketers, e-businesses, 	and their technicians consider having an understanding of how the 	underlying machinery works to be utterly irrelevant. For them, the 	most important skills are marketing, management, and graphical expertise. 	The profession should strive to make it easy for people to exploit 	the computer on their own terms in their own culture. The symbolic 	programming system should be completely straightforward, but adaptable 	to different writing systems. Any complexity should be subsumed by 	the operating system or concealable within the macro-coding system
+Dynamic implicit solids with constraints for haptic sculpting
+We present a novel, interactive shape modeling technique: dynamic
+implicit solid modeling, which unifies volumetric implicit functions
+and powerful physics-based modeling. Although implicit functions
+are extremely powerful in graphics, geometric design, and shape modeling,
+the full potential of implicit functions is yet to be fully realized
+due to the lack of flexible and interactive design techniques. In
+order to broaden the accessibility of implicit functions in geometric
+modeling, we marry the implicit solids, which are semi-algebraic
+sets of volumetric implicit functions, with the principle of physics-based
+models and formulate dynamic implicit solids. By using "density springs"
+to connect the scalar values of implicit functions, we offer a viable
+solution to introduce the elasticity into implicit representations.
+As a result, our dynamic implicit solids respond to sculpting forces
+in a natural and predictive manner. The geometric and physical behaviors
+are tightly coupled in our modeling system. The flexibility of our
+modeling technique allows users to easily modify the geometry and
+topology of sculpted objects, while the inherent physical properties
+can provide a natural interface for direct, force-based free-form
+deformation. The additional constraints provide users more control
+on the dynamic implicit solids. We have developed a sculpting system
+equipped with a large variety of physics-based toolkits and an intuitive
+haptic interface to facilitate the direct, natural editing of implicit
+functions in real-time. Our experiments demonstrate many attractive
+advantages of our dynamic approach for implicit modeling such as
+intuitive control, direct manipulation, real-time haptic feedback,
+and capability to model complicated geometry and arbitrary topology

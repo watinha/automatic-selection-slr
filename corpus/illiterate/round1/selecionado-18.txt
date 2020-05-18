@@ -1,2 +1,11 @@
 Developmental informatics at IIT Bombay
-IIT Bombay's Developmental Informatics Lab is a cross disciplinary 	group consisting of 6 faculty, 30 research staff and several students. 	The lab is working towards increasing access to information -- through 	the use of internet and communication technologies -- to communities 	in the developing world especially rural and small town India. The 	lab is supported by Indian Government funding sources as well as 	corporate and multi-lateral agencies to solve technical problems 	in local communities in sustainable ways. This paper focuses on two 	mature projects of the lab -- one caters to Indian farmers while 	another helps with the education of tribal populations.
+IIT Bombay's Developmental Informatics Lab is a cross disciplinary
+group consisting of 6 faculty, 30 research staff and several students.
+The lab is working towards increasing access to information -- through
+the use of internet and communication technologies -- to communities
+in the developing world especially rural and small town India. The
+lab is supported by Indian Government funding sources as well as
+corporate and multi-lateral agencies to solve technical problems
+in local communities in sustainable ways. This paper focuses on two
+mature projects of the lab -- one caters to Indian farmers while
+another helps with the education of tribal populations.

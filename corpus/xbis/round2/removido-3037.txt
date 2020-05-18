@@ -1,2 +1,11 @@
 Another experience with Test? in industry: automated localisation testing
-Abstract. Test?  is a testing tool that automatically and dynamically  generates, executes and verifies test sequences based on a tree model that  is derived from the User Interface through the Accessibility API. Test?  is  an academic prototype that we continuously try to transfer to companies  to get feedback about its applicability. In this paper we report on one  of these short experiences of using Test?  in industry at the Valencian  company Indenova.
+Abstract. Test?
+is a testing tool that automatically and dynamically
+generates, executes and verifies test sequences based on a tree model that
+is derived from the User Interface through the Accessibility API. Test?
+is
+an academic prototype that we continuously try to transfer to companies
+to get feedback about its applicability. In this paper we report on one
+of these short experiences of using Test?
+in industry at the Valencian
+company Indenova.

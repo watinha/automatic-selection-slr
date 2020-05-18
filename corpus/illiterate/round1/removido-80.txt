@@ -1,2 +1,17 @@
-Dimensions of adaptivity in mobile systems: personality and people's 	attitudes
-In this work, we present a study about adaptation on a mobile museum 	guide aiming at investigating the relationships between personality 	traits and the attitudes toward some basic dimensions of adaptivity. 	Each participant was exposed to two simulated systems that realized 	an adaptive and a non-adaptive version, respectively, on each of 	the dimensions investigated. The study showed interesting effects 	of Big Five personality traits on acceptance of the adaptivity dimensions; 	in particular conscientiousness, creativity and stability. Locus 	of control seemed to have a limited yet quite selective effect on 	delegating to the system the choice of follow-ups.
+Glamour and Honor: Going Online and Reading in West African Culture
+In the fragile reading cultures of the developing world, will people
+abandon print as they embrace the Internet? Whether media compete
+or collaborate depends on place-specific factors. West Africans insert
+online practices into a local context of material circumstances,
+social roles, and cultural values. In Nigeria and Ghana these include
+(1) unreliable electricity and execrable telephone service; (2) overworked
+women, jobless young men, scammers, and ambitious teenagers; and
+(3) a reading culture of limited penetration but enormous prestige.
+Internet access via cybercafés has intensified personal communications,
+reinforced gender inequality, and enabled petty crooks to go global.
+It has not, however, encroached on reading's all-but-sacred status.
+Both netsavvy youth and the adult “reading class” protect reading
+practices through spatial and temporal separation, time management,
+and functional differentiation. These preserve the honored position
+of reading despite West Africans' enthusiasm for the glamour of going
+online.

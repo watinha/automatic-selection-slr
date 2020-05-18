@@ -1,2 +1,11 @@
 Testing Discovered Web Services Automatically
-The reliability of web services is important for both users and software developers. In order to guarantee the  reliability of the web services that are invoked and integrated at runtime, mechanisms for automatic testing  of web services are needed. A basic issue in web service testing is to be able to generate appropriate input  values for web services and to estimate whether the output obtained is proper for the functionality. In this  work, we propose a method for automatic web service testing that uses semantics dependency-based and data  mutation-based techniques to generate different test cases and to analyze web services. We check whether the  services function properly under the input values generated and enriched from various data sources and we  check robustness of web services by generating random and erronous data inputs. Experimental evaluation  with real web services show that proposed mechanisms provide promising results for automatic testing of web  services.
+The reliability of web services is important for both users and software developers. In order to guarantee the
+reliability of the web services that are invoked and integrated at runtime, mechanisms for automatic testing
+of web services are needed. A basic issue in web service testing is to be able to generate appropriate input
+values for web services and to estimate whether the output obtained is proper for the functionality. In this
+work, we propose a method for automatic web service testing that uses semantics dependency-based and data
+mutation-based techniques to generate different test cases and to analyze web services. We check whether the
+services function properly under the input values generated and enriched from various data sources and we
+check robustness of web services by generating random and erronous data inputs. Experimental evaluation
+with real web services show that proposed mechanisms provide promising results for automatic testing of web
+services.

@@ -1,2 +1,7 @@
 Student-based pair programming: an examination
-This paper examines the retention and learning of unfamiliar material  	to undergraduate students through the use of pair programming. Students  	in a networking class were asked to develop software applications  	together in the hope that each student would learn more and develop  	better applications. A survey was then distributed to assess the  	outcome and analyze the results.
+This paper examines the retention and learning of unfamiliar material
+to undergraduate students through the use of pair programming. Students
+in a networking class were asked to develop software applications
+together in the hope that each student would learn more and develop
+better applications. A survey was then distributed to assess the
+outcome and analyze the results.

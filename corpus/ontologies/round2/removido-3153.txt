@@ -1,2 +1,13 @@
 Towards Vocabulary Development by Convention
-A major bottleneck for a wider deployment and use of ontologies and knowledge engineering techniques  is the lack of established conventions along with cumbersome and inefficient support for vocabulary and  ontology authoring. We argue, that the pragmatic development by convention paradigm well-accepted within  software engineering, can be successfully applied for ontology engineering, too. However, the definition of  a valid set of conventions requires broadly-accepted best-practices. In this regard, we empirically analyzed a  number of popular vocabularies and ontology development efforts with respect to their use of guidelines and  common practices. Based on this analysis, we identified the following main aspects of common practices:  documentation, internationalization, naming, structure, reuse, validation and authoring. In this paper, these  aspects are presented and discussed in detail. We propose a set of practices for each aspect and evaluate their  relevance in a study with vocabulary developers. The overall goal is to pave the way for a new paradigm  of vocabulary development similar to Software Development by Convention, which we name Vocabulary  Development by Convention.
+A major bottleneck for a wider deployment and use of ontologies and knowledge engineering techniques
+is the lack of established conventions along with cumbersome and inefficient support for vocabulary and
+ontology authoring. We argue, that the pragmatic development by convention paradigm well-accepted within
+software engineering, can be successfully applied for ontology engineering, too. However, the definition of
+a valid set of conventions requires broadly-accepted best-practices. In this regard, we empirically analyzed a
+number of popular vocabularies and ontology development efforts with respect to their use of guidelines and
+common practices. Based on this analysis, we identified the following main aspects of common practices:
+documentation, internationalization, naming, structure, reuse, validation and authoring. In this paper, these
+aspects are presented and discussed in detail. We propose a set of practices for each aspect and evaluate their
+relevance in a study with vocabulary developers. The overall goal is to pave the way for a new paradigm
+of vocabulary development similar to Software Development by Convention, which we name Vocabulary
+Development by Convention.

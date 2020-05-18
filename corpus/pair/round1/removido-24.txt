@@ -1,2 +1,16 @@
-Programming in pairs with Alice to improve confidence, enjoyment,  	and achievement
-Students in an introductory computing class participated in a study  	investigating the impact of using a graphics programming environment  	(Alice) and pair-programming on confidence, enjoyment and achievement.  	Sixty-four participants completed a short questionnaire and a content  	pre-test about computer programming concepts. Students were then  	assigned to one of two groups: individual or paired. The pairs completed  	a tutorial on Alice and then completed a short assignment over a  	period of one week working as a team of two. The individuals completed  	the same tutorial and assignment but completed it alone. Lastly,  	all participants took the same questionnaire and content post-test.  	The results showed that all students experienced increased confidence  	in programming, that students in pairs enjoyed programming more than  	students who worked individually, and that all students performed  	significantly better on the content post-test.
+Programming in pairs with Alice to improve confidence, enjoyment,
+and achievement
+Students in an introductory computing class participated in a study
+investigating the impact of using a graphics programming environment
+(Alice) and pair-programming on confidence, enjoyment and achievement.
+Sixty-four participants completed a short questionnaire and a content
+pre-test about computer programming concepts. Students were then
+assigned to one of two groups: individual or paired. The pairs completed
+a tutorial on Alice and then completed a short assignment over a
+period of one week working as a team of two. The individuals completed
+the same tutorial and assignment but completed it alone. Lastly,
+all participants took the same questionnaire and content post-test.
+The results showed that all students experienced increased confidence
+in programming, that students in pairs enjoyed programming more than
+students who worked individually, and that all students performed
+significantly better on the content post-test.

@@ -1,2 +1,15 @@
-Pair Programming as a Model of Collaborative Learning: A Review of  	the Research
-Pair programming is a form of collaborative learning; the pair works  	together to achieve a common goal. Recent research has clearly documented  	the benefits of pair programming on student performance. Collaborative  	learning research has established two things: (1) the effectiveness  	of having students work together and, (2) the critical attributes  	common to successful collaborative learning approaches. This paper  	uses the critical attributes of collaborative learning as a framework  	to review research on pair programming. The conclusion is that pair  	programming, as reported in the literature, is a model of collaborative  	learning, i.e., pair programming is generally consistent with the  	identified critical attributes. One way that those of us who use  	the pair programming pedagogy can enhance this consistency is to  	increase the emphasis on the pair programming process.
+Pair Programming as a Model of Collaborative Learning: A Review of
+the Research
+Pair programming is a form of collaborative learning; the pair works
+together to achieve a common goal. Recent research has clearly documented
+the benefits of pair programming on student performance. Collaborative
+learning research has established two things: (1) the effectiveness
+of having students work together and, (2) the critical attributes
+common to successful collaborative learning approaches. This paper
+uses the critical attributes of collaborative learning as a framework
+to review research on pair programming. The conclusion is that pair
+programming, as reported in the literature, is a model of collaborative
+learning, i.e., pair programming is generally consistent with the
+identified critical attributes. One way that those of us who use
+the pair programming pedagogy can enhance this consistency is to
+increase the emphasis on the pair programming process.

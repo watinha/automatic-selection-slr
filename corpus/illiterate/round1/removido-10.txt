@@ -1,2 +1,12 @@
 Design of complex information
-This paper addresses the issues surrounding analysis and design which 	supports developing web-based information for use in situations which 	require supporting multiple levels of audience knowledge and ability. 	Firmly focused on communicating information, it addresses the analysis 	and design of information content requirements for systems that assemble 	customized information; a communication possibility that has only 	recently become possible on a practical scale. It develops a five 	element model (situation, user, user goals, information needs, system). 	It builds an argument stressing the need to analyze and design for 	user goals and information needs within the situational context in 	order to maximize communication with the user.
+This paper addresses the issues surrounding analysis and design which
+supports developing web-based information for use in situations which
+require supporting multiple levels of audience knowledge and ability.
+Firmly focused on communicating information, it addresses the analysis
+and design of information content requirements for systems that assemble
+customized information; a communication possibility that has only
+recently become possible on a practical scale. It develops a five
+element model (situation, user, user goals, information needs, system).
+It builds an argument stressing the need to analyze and design for
+user goals and information needs within the situational context in
+order to maximize communication with the user.

@@ -1,2 +1,21 @@
-On the Effects of Pair Programming on Thoroughness and Fault-Finding  	Effectiveness of Unit Tests
-Code coverage and mutation score measure how thoroughly tests exercise  	programs and how effective they are, respectively. The objective  	is to provide empirical evidence on the impact of pair programming  	on both, thoroughness and effectiveness of test suites, as pair programming  	is considered one of the practices that can make testing more rigorous,  	thorough and effective. A large experiment with MSc students working  	solo and in pairs was conducted. The subjects were asked to write  	unit tests using JUnit, and to follow test-driven development approach,  	as suggested by eXtreme Programming methodology. It appeared that  	branch coverage, as well as mutation score indicator (the lower bound  	on mutation score), was not significantly affected by using pair  	programming, instead of solo programming. However, slight but insignificant  	positive impact of pair programming on mutations score indicator  	was noticeable. The results do not support the positive impact of  	pair programming on testing to make it more effective and thorough.  	The generalization of the results is limited due to the fact that  	MSc students participated in the study. It is possible that the benefits  	of pair programming will exceed the results obtained in this experiment  	for larger, more complex and longer projects.
+On the Effects of Pair Programming on Thoroughness and Fault-Finding
+Effectiveness of Unit Tests
+Code coverage and mutation score measure how thoroughly tests exercise
+programs and how effective they are, respectively. The objective
+is to provide empirical evidence on the impact of pair programming
+on both, thoroughness and effectiveness of test suites, as pair programming
+is considered one of the practices that can make testing more rigorous,
+thorough and effective. A large experiment with MSc students working
+solo and in pairs was conducted. The subjects were asked to write
+unit tests using JUnit, and to follow test-driven development approach,
+as suggested by eXtreme Programming methodology. It appeared that
+branch coverage, as well as mutation score indicator (the lower bound
+on mutation score), was not significantly affected by using pair
+programming, instead of solo programming. However, slight but insignificant
+positive impact of pair programming on mutations score indicator
+was noticeable. The results do not support the positive impact of
+pair programming on testing to make it more effective and thorough.
+The generalization of the results is limited due to the fact that
+MSc students participated in the study. It is possible that the benefits
+of pair programming will exceed the results obtained in this experiment
+for larger, more complex and longer projects.

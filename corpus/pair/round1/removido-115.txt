@@ -1,2 +1,8 @@
 Extreme programming considered harmful for reliable software development
-This paper presents and discusses various facts and data collected  	on extreme programming and how this method relates to traditional  	software engineering practices. The paper presents reasons, albeit  	no scientific proofs, why extreme programming fails to provide answers  	to significant questions that contemporary software development methods  	have to answer. This paper is an attempt to contribute to a discussion  	that is based on data and facts.
+This paper presents and discusses various facts and data collected
+on extreme programming and how this method relates to traditional
+software engineering practices. The paper presents reasons, albeit
+no scientific proofs, why extreme programming fails to provide answers
+to significant questions that contemporary software development methods
+have to answer. This paper is an attempt to contribute to a discussion
+that is based on data and facts.

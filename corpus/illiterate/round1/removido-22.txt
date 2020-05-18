@@ -1,2 +1,12 @@
-Information access for visually impaired persons: do we still keep 	a “document” in “documentation”?
-At the same time that global economies and multimedia technologies 	provide impetus for increasingly visual communication, the information 	needs of persons with limited vision may require communication to 	shift from graphics back to text, or on to audio or tactile forms. 	To understand documentation issues related to this shift, one must 	understand the varied forms of visual impairment, available assistive 	technologies, and the resultant design considerations. Efforts to 	prepare more effective materials for visually impaired users may 	yield “universal design” benefits by identifying and reducing sources 	of confusion for all users
+Information access for visually impaired persons: do we still keep
+a “document” in “documentation”?
+At the same time that global economies and multimedia technologies
+provide impetus for increasingly visual communication, the information
+needs of persons with limited vision may require communication to
+shift from graphics back to text, or on to audio or tactile forms.
+To understand documentation issues related to this shift, one must
+understand the varied forms of visual impairment, available assistive
+technologies, and the resultant design considerations. Efforts to
+prepare more effective materials for visually impaired users may
+yield “universal design” benefits by identifying and reducing sources
+of confusion for all users

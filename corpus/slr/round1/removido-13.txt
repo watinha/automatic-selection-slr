@@ -1,2 +1,9 @@
 Combating architectural degeneration: a survey
-As software systems evolve over time, they invariably undergo changes  	that can lead to a degeneration of the architecture. Left unchecked,  	degeneration may reach a level where a complete redesign is necessary,  	a task that requires significant effort. In this paper, we present  	a survey of technologies developed by researchers that can be used  	to combat degeneration, that is, technologies that can be employed  	in identifying, treating and researching degeneration. We also discuss  	the various causes of degeneration and how it can be prevented.
+As software systems evolve over time, they invariably undergo changes
+that can lead to a degeneration of the architecture. Left unchecked,
+degeneration may reach a level where a complete redesign is necessary,
+a task that requires significant effort. In this paper, we present
+a survey of technologies developed by researchers that can be used
+to combat degeneration, that is, technologies that can be employed
+in identifying, treating and researching degeneration. We also discuss
+the various causes of degeneration and how it can be prevented.

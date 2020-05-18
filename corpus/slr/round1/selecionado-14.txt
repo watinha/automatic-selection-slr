@@ -1,2 +1,19 @@
-Capture–recapture in software inspections after 10 years research  	– theory, evaluation and application
-Software inspection is a method to detect faults in the early phases  	of the software life cycle. In order to estimate the number of faults  	not found, capture–recapture was introduced for software inspections  	in 1992 to estimate remaining faults after an inspection. Since then,  	several papers have been written in the area, concerning the basic  	theory, evaluation of models and application of the method. This  	paper summarizes the work made in capture–recapture for software  	inspections during these years. Furthermore, and more importantly,  	the contribution of the papers are classified as theory, evaluation  	or application, in order to analyse the performed research as well  	as to highlight the areas of research that need further work. It  	is concluded that (1) most of the basic theory is investigated within  	biostatistics, (2) most software engineering research is performed  	on evaluation, a majority ending up in recommendation of the Mh–JK  	model, and (3) there is a need for application experiences. In order  	to support the application, an inspection process is presented with  	decision points based on capture–recapture estimates.
+Capture–recapture in software inspections after 10 years research
+– theory, evaluation and application
+Software inspection is a method to detect faults in the early phases
+of the software life cycle. In order to estimate the number of faults
+not found, capture–recapture was introduced for software inspections
+in 1992 to estimate remaining faults after an inspection. Since then,
+several papers have been written in the area, concerning the basic
+theory, evaluation of models and application of the method. This
+paper summarizes the work made in capture–recapture for software
+inspections during these years. Furthermore, and more importantly,
+the contribution of the papers are classified as theory, evaluation
+or application, in order to analyse the performed research as well
+as to highlight the areas of research that need further work. It
+is concluded that (1) most of the basic theory is investigated within
+biostatistics, (2) most software engineering research is performed
+on evaluation, a majority ending up in recommendation of the Mh–JK
+model, and (3) there is a need for application experiences. In order
+to support the application, an inspection process is presented with
+decision points based on capture–recapture estimates.

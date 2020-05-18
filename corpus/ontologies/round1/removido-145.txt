@@ -1,2 +1,3 @@
 An agent-based framework for testing Web applications
-Abstract:  Software testing in general and Web applications testing in particular are knowledge-driven, labor intensive activities, which are best performed by intelligent, autonomous agents. The proposed framework is based on the Belief-Desire-Intention (BDI) model of rational agents and the Unified Modeling Language (UML). We describe how Web applications testing can be modeled and reasoned using the framework.
+Abstract:
+Software testing in general and Web applications testing in particular are knowledge-driven, labor intensive activities, which are best performed by intelligent, autonomous agents. The proposed framework is based on the Belief-Desire-Intention (BDI) model of rational agents and the Unified Modeling Language (UML). We describe how Web applications testing can be modeled and reasoned using the framework.

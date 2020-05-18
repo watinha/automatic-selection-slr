@@ -1,2 +1,12 @@
 DEVELOPMENT OF AGNOSTIC MOBILE APPLICATIONS WITH CROSS-PLATFORM CLOUD COMPUTING PLATFORMS
-Smart phones became part and parcel of our life, where mobility provides a freedom of not being  bounded by time and space. In addition, number of smartphones produced each year is skyrocketing.  However, this also created discrepancies or fragmentation among devices and OSes, which in turn  made an exceeding hard for developers to deliver hundreds of similar featured applications with  various versions for the market consumption.  This thesis is an attempt to investigate whether cloud based mobile development platforms can mitigate  and eventually eliminate fragmentation challenges. During this research, we have selected and analyzed  the most popular cloud based development platforms and tested integrated cloud features.  This research showed that cloud based mobile development platforms may able to reduce mobile  fragmentation and enable to utilize single codebase to deliver a mobile application for different  platforms.
+Smart phones became part and parcel of our life, where mobility provides a freedom of not being
+bounded by time and space. In addition, number of smartphones produced each year is skyrocketing.
+However, this also created discrepancies or fragmentation among devices and OSes, which in turn
+made an exceeding hard for developers to deliver hundreds of similar featured applications with
+various versions for the market consumption.
+This thesis is an attempt to investigate whether cloud based mobile development platforms can mitigate
+and eventually eliminate fragmentation challenges. During this research, we have selected and analyzed
+the most popular cloud based development platforms and tested integrated cloud features.
+This research showed that cloud based mobile development platforms may able to reduce mobile
+fragmentation and enable to utilize single codebase to deliver a mobile application for different
+platforms.

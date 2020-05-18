@@ -1,2 +1,9 @@
 Jadoo: a paper user interface for users unfamiliar with computers
-In this paper we look at how socialization in a community can be used 	to help computer illiterate users start using computers and internet 	in a few minutes. We describe a prototype system, Jadoo, which can 	be used by computer literates to create and distribute paper user 	interfaces. This paper interface can then be used by computer illiterates 	to access online information. We tested Jadoo with our target audience, 	people living in rural India, and iterated the design to fit their 	needs.
+In this paper we look at how socialization in a community can be used
+to help computer illiterate users start using computers and internet
+in a few minutes. We describe a prototype system, Jadoo, which can
+be used by computer literates to create and distribute paper user
+interfaces. This paper interface can then be used by computer illiterates
+to access online information. We tested Jadoo with our target audience,
+people living in rural India, and iterated the design to fit their
+needs.

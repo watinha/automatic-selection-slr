@@ -1,2 +1,13 @@
-An initial Exploration of the relationship between Pair Programming  	and Brooks' Law
-Through his law, "adding manpower to a late software project makes  	it later,'' Brooks asserts that the assimilation, training, and intercommunication  	costs of adding new team members outweigh the associated team productivity  	gain in the short term. Anecdotes suggest that adding manpower to  	a late project yields productivity gains to the team more quickly  	if the team employs the pair programming technique when compared  	to teams where new team members work alone. We utilize a system dynamics  	model which demonstrates support of these observations. Parameter  	values for the model were obtained via a small-scale, nonprobabilistic,  	convenience survey. Our initial findings suggest that managers should  	incorporate the pair programming practice when growing their team.
+An initial Exploration of the relationship between Pair Programming
+and Brooks' Law
+Through his law, "adding manpower to a late software project makes
+it later,'' Brooks asserts that the assimilation, training, and intercommunication
+costs of adding new team members outweigh the associated team productivity
+gain in the short term. Anecdotes suggest that adding manpower to
+a late project yields productivity gains to the team more quickly
+if the team employs the pair programming technique when compared
+to teams where new team members work alone. We utilize a system dynamics
+model which demonstrates support of these observations. Parameter
+values for the model were obtained via a small-scale, nonprobabilistic,
+convenience survey. Our initial findings suggest that managers should
+incorporate the pair programming practice when growing their team.

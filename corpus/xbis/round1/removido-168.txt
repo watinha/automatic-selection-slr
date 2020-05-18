@@ -1,2 +1,28 @@
 Extraction of User Behavior Profiles for Software Modernization
-In the field of software modernization static and dynamic analysis of the system is a core  part of the modernization process. The static analysis focuses on the extraction of structural  and architectural information by searching the source code for dependencies. The dynamic  analysis tracks method calls at runtime and enables statements about the real usage of  the software in a productive environment. Often the monitoring is executed from the  systems point of view and not from the user behavior perspective focusing on architectural  information. The idea of user behavior profile extraction was picked up by research groups  dealing with automatic generation of test cases. Based on user sessions, a user behavior  model is created. The derived test cases are augmented with workload characteristics for  simulating realistic load during the test execution.  This thesis we combine the concept of user behavior profiles and software modernization.  We introduce a session extraction tool and a behavior model extraction tool based on the  TeeTime framework. The Pipe-and-Filter architecture provides a good performance and  reusability. The session extraction tool processes custom records created with the Kieker  framework in order to create log files of user sessions. The session log files are analyzed  with the behavior model extraction tool. It supports several visualizations, calculates think  time statistics and is highly customizable for analyzing single processes.  We instrument the b+m bAV-Manager, an session-based, workflow-oriented administration  software for customer and calculation data of insurers, developed by the b+m  Informatik AG. The implementation of instrumentation components is realized with interceptors  of the Spring framework. In an experiment we monitor the web application and  record the user behavior with the session extraction tool. Based on the session logs we  analyze the screenflow and the workflow with the behavior extraction tool. The results  allow us, to make quantitative and qualitative statements about the user behavior in comparison  with the application model. We derive several suggestions regarding the imminent  modernization of the b+m bAV-Manager, that improve the matching of defined screen- and  workflows and the extracted user behavior profiles.  
+In the field of software modernization static and dynamic analysis of the system is a core
+part of the modernization process. The static analysis focuses on the extraction of structural
+and architectural information by searching the source code for dependencies. The dynamic
+analysis tracks method calls at runtime and enables statements about the real usage of
+the software in a productive environment. Often the monitoring is executed from the
+systems point of view and not from the user behavior perspective focusing on architectural
+information. The idea of user behavior profile extraction was picked up by research groups
+dealing with automatic generation of test cases. Based on user sessions, a user behavior
+model is created. The derived test cases are augmented with workload characteristics for
+simulating realistic load during the test execution.
+This thesis we combine the concept of user behavior profiles and software modernization.
+We introduce a session extraction tool and a behavior model extraction tool based on the
+TeeTime framework. The Pipe-and-Filter architecture provides a good performance and
+reusability. The session extraction tool processes custom records created with the Kieker
+framework in order to create log files of user sessions. The session log files are analyzed
+with the behavior model extraction tool. It supports several visualizations, calculates think
+time statistics and is highly customizable for analyzing single processes.
+We instrument the b+m bAV-Manager, an session-based, workflow-oriented administration
+software for customer and calculation data of insurers, developed by the b+m
+Informatik AG. The implementation of instrumentation components is realized with interceptors
+of the Spring framework. In an experiment we monitor the web application and
+record the user behavior with the session extraction tool. Based on the session logs we
+analyze the screenflow and the workflow with the behavior extraction tool. The results
+allow us, to make quantitative and qualitative statements about the user behavior in comparison
+with the application model. We derive several suggestions regarding the imminent
+modernization of the b+m bAV-Manager, that improve the matching of defined screen- and
+workflows and the extracted user behavior profiles.

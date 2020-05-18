@@ -1,2 +1,2 @@
-Model-driven in reverse: the practical experience of the {AQUA
-{Model-Driven
+Model-driven in reverse: the practical experience of the {AQUA} project
+{Model-Driven} Web Engineering {(MDWE)} is a new paradigm which provides satisfactory results in software development. However, most experiments with {MDWE} towards the development of software from the requirements to the implementation stages. However, in practice, sometimes software development does not follow this classic path. In this paper, {MDWE} is presented as a suitable selection in software projects of technological evolution. The {AQUA} project is a very large and important project which is a fusion of three previous systems. Thus, this project starts with the original code of these three systems. The paper introduces the power of {MDWE} in this kind of systems.

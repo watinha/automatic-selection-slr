@@ -1,2 +1,11 @@
-Establishing user requirements: incorporating gamer preferences into  	interactive games design
-In a previous paper we investigated how various aspects of rally/racing  	game design can be quantified for the development of future titles.  	This paper explores how gamer preferences can be prioritised, analysed,  	and incorporated into the design of rally games by structuring information  	via a technique known as the Analytic Hierarchy Process, so as to  	allow the data to be put to practical effect by games designers.  	Combined with other techniques developed by the authors of this paper,  	the results can be used for a holistic management of the design and  	development process for many categories of interactive video games.
+Establishing user requirements: incorporating gamer preferences into
+interactive games design
+In a previous paper we investigated how various aspects of rally/racing
+game design can be quantified for the development of future titles.
+This paper explores how gamer preferences can be prioritised, analysed,
+and incorporated into the design of rally games by structuring information
+via a technique known as the Analytic Hierarchy Process, so as to
+allow the data to be put to practical effect by games designers.
+Combined with other techniques developed by the authors of this paper,
+the results can be used for a holistic management of the design and
+development process for many categories of interactive video games.

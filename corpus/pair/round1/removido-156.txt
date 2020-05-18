@@ -1,2 +1,8 @@
 Are groups working in the Information Technology class?
-We discuss teachers' perception of the use of group work in the Information  	Technology (IT) classroom. We describe the current situation regarding  	the implementation of group work in IT classrooms in South Africa  	as well as the challenges that IT teachers face when implementing  	group work. This information will be used in further research to  	develop a training model for teachers and student teachers, which  	should enable them to apply group work effectively in the IT classroom.
+We discuss teachers' perception of the use of group work in the Information
+Technology (IT) classroom. We describe the current situation regarding
+the implementation of group work in IT classrooms in South Africa
+as well as the challenges that IT teachers face when implementing
+group work. This information will be used in further research to
+develop a training model for teachers and student teachers, which
+should enable them to apply group work effectively in the IT classroom.

@@ -1,2 +1,11 @@
-Reliability, equivalence and respondent preference of computerized 	versus paper-and-pencil mental health questionnaires
-The purpose of this study was to examine the reliability, equivalence 	and respondent preference of a computerized version of the General 	Health Questionnaire (GHQ-12), Symptom Checklist (SCL-90-R), Medical 	Outcomes Study Social Support Survey (MOSSSS), Perceived Stress Scale 	(PSS) and Utrecht Coping List (UCL) in comparison with the original 	version in a general adult population. Internal consistency, equivalence 	and preference between both administration modes was assessed in 	a group of participants (n=130) who first completed the computerized 	questionnaire, followed by the traditional questionnaire and a post-assessment 	evaluation measure. Test-retest reliability was measured in a second 	group of participants (n=115), who completed the computerized questionnaire 	twice. In both groups, the interval between first and second administration 	was set at one week. Reliability of the PC versions was acceptable 	to excellent; internal consistency ranged from a=0.52-0.98, ICC's 	for test-retest reliability ranged from 0.58-0.92. Equivalence was 	fair to excellent with ICC's ranging from 0.54-0.91. Interestingly, 	more subjects preferred the computerized instead of the traditional 	questionnaires (computerized: 39.2%, traditional: 21.6%, no preference: 	39.2%). These results support the use of computerized assessment 	for these five instruments in a general population of adults.
+Conversational interfaces: advances and challenges
+The past decade has witnessed the emergence of a new breed of human-computer
+interfaces that combines several human language technologies to enable
+humans to converse with computers using spoken dialogue for information
+access, creation and processing. In this paper, we introduce the
+nature of these conversational interfaces and describe the underlying
+human language technologies on which they are based. After summarizing
+some of the recent progress in this area around the world, we discuss
+development issues faced by researchers creating these kinds of systems
+and present some of the ongoing and unmet research challenges in
+this field

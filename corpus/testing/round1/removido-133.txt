@@ -1,2 +1,13 @@
 SELECAO DE TECNICAS DE TESTE BASEADO EM MODELOS
-This work proposes an approach developed by following a scientific  methodology based on the conduction of secondary and primary studies with the  purpose of supporting the combined selection of Model Based Testing (MBT)  techniques for a given software project considering two aspects: (1) the adequacy level  between MBT techniques and the software project characteristics and (2) impact of  more than one MBT technique in some testing process variables. Results of an  experimental evaluation indicate this approach contributes to improve the MBT  techniques selection process effectiveness and efficiency when compared to another  selection approach available in the technical literature. Finally, it is presented a  computerized infrastructure to support the proposed selection approach, evaluated by  software engineers of an international software organization that indicated the  infrastructure can contribute positively for the MBT selection process.
+This work proposes an approach developed by following a scientific
+methodology based on the conduction of secondary and primary studies with the
+purpose of supporting the combined selection of Model Based Testing (MBT)
+techniques for a given software project considering two aspects: (1) the adequacy level
+between MBT techniques and the software project characteristics and (2) impact of
+more than one MBT technique in some testing process variables. Results of an
+experimental evaluation indicate this approach contributes to improve the MBT
+techniques selection process effectiveness and efficiency when compared to another
+selection approach available in the technical literature. Finally, it is presented a
+computerized infrastructure to support the proposed selection approach, evaluated by
+software engineers of an international software organization that indicated the
+infrastructure can contribute positively for the MBT selection process.

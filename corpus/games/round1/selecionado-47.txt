@@ -1,2 +1,21 @@
 PlayMancer: A Serious Gaming 3D Environment
-Serious games are computer games used as educational technology or  	as a vehicle for presenting or promoting a point of view. Serious  	games are intended to provide an engaging, self-reinforcing context  	in which to motivate and educate the players towards non-game events  	or processes, including business operations, training, marketing  	and advertisement. The potential of games for entertainment and learning  	has been demonstrated thoroughly from research and clearly in the  	market place. Unfortunately, the investments committed to entertainment  	dwarfs that which is committed for more serious purposes. Furthermore,  	game development has become more complex, expensive, and burdened  	with a long development cycle. In this paper we introduce PlayMancer,  	a work in progress that aims to overcome such barriers by augmenting  	existing 3D gaming engines with new possibilities and thusly creating  	a novel development framework. In section I of this paper we briefly  	survey the serious games market. In section II we introduce the PlayMancer  	project and its objectives, whereas in section III we present the  	platform architecture. Section VI describes an application scenario  	where a PlayMancer-based game is being used as additional therapeutic  	tool to treat chronic mental disorders, such as eating disorders  	and behavioral addiction.
+Serious games are computer games used as educational technology or
+as a vehicle for presenting or promoting a point of view. Serious
+games are intended to provide an engaging, self-reinforcing context
+in which to motivate and educate the players towards non-game events
+or processes, including business operations, training, marketing
+and advertisement. The potential of games for entertainment and learning
+has been demonstrated thoroughly from research and clearly in the
+market place. Unfortunately, the investments committed to entertainment
+dwarfs that which is committed for more serious purposes. Furthermore,
+game development has become more complex, expensive, and burdened
+with a long development cycle. In this paper we introduce PlayMancer,
+a work in progress that aims to overcome such barriers by augmenting
+existing 3D gaming engines with new possibilities and thusly creating
+a novel development framework. In section I of this paper we briefly
+survey the serious games market. In section II we introduce the PlayMancer
+project and its objectives, whereas in section III we present the
+platform architecture. Section VI describes an application scenario
+where a PlayMancer-based game is being used as additional therapeutic
+tool to treat chronic mental disorders, such as eating disorders
+and behavioral addiction.

@@ -1,2 +1,30 @@
 A discovery and analysis of influencing factors of pair programming
-The exploration into the underlying psychosocial links of pair programming,  	a new and unorthodox programming paradigm in which two programmers  	share one keyboard and monitor during real-time programming sessions,  	is undertaken. These complex psychosocial relationships, along with  	cognitive process exchanges, ultimately mold the programming output  	as well as determine the level of communication, satisfaction, confidence  	and compatibility. Laying the framework for this research, a thorough  	review of traditional and contemporary paradigms with a special focus  	on their limitations and a list of current software development problems  	are presented. Next, a detailed summary of pair programming and related  	agile software paradigms, such as extreme programming, which lists  	pair programming as one of its twelve principles, is given. From  	earlier pair programming studies, a number of programming benefits  	have been unveiled and these are listed and discussed. However, a  	lack of formal studies pertaining to the psychosocial aspects of  	pair programming exists. Given this void, a field survey is administered  	to a group of professional programmers and a resulting list of influencing  	factors on pair programming emerges. From the list, the most popular  	factor, personality, and two other factors, communication and gender,  	have been selected in order to study their impact on pair programming  	product outcome and the level of communication, satisfaction, confidence  	and compatibility. An experiment focusing on these factors is designed  	and implemented. From the experimental findings, the personality  	of the two partners in pair programming is found to have a significant  	impact on the pair programming output. Also, it is discovered that  	same gender pairs exhibited an unusually high level of communication,  	satisfaction and compatibility between each other, especially among  	female-female pairs. A detailed statistical experiment result based  	on research hypotheses is reported.
+The exploration into the underlying psychosocial links of pair programming,
+a new and unorthodox programming paradigm in which two programmers
+share one keyboard and monitor during real-time programming sessions,
+is undertaken. These complex psychosocial relationships, along with
+cognitive process exchanges, ultimately mold the programming output
+as well as determine the level of communication, satisfaction, confidence
+and compatibility. Laying the framework for this research, a thorough
+review of traditional and contemporary paradigms with a special focus
+on their limitations and a list of current software development problems
+are presented. Next, a detailed summary of pair programming and related
+agile software paradigms, such as extreme programming, which lists
+pair programming as one of its twelve principles, is given. From
+earlier pair programming studies, a number of programming benefits
+have been unveiled and these are listed and discussed. However, a
+lack of formal studies pertaining to the psychosocial aspects of
+pair programming exists. Given this void, a field survey is administered
+to a group of professional programmers and a resulting list of influencing
+factors on pair programming emerges. From the list, the most popular
+factor, personality, and two other factors, communication and gender,
+have been selected in order to study their impact on pair programming
+product outcome and the level of communication, satisfaction, confidence
+and compatibility. An experiment focusing on these factors is designed
+and implemented. From the experimental findings, the personality
+of the two partners in pair programming is found to have a significant
+impact on the pair programming output. Also, it is discovered that
+same gender pairs exhibited an unusually high level of communication,
+satisfaction and compatibility between each other, especially among
+female-female pairs. A detailed statistical experiment result based
+on research hypotheses is reported.

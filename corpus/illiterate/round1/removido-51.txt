@@ -1,2 +1,34 @@
-The Important Contribution of Photovoltaics in a Rural School Electrification 	Program
-This paper describes Brazil's photovoltaic rural school electrification 	program developed in the southeastern state of Minas Gerais, from 	its demonstration phase through its current larger-scale (near 1000 	systems) deployment. Based upon several successful initial demonstration 	projects, which have shown PV could be both reliable and cost effective 	in remote rural areas, over previous 10-year period, CEMIG-Energetic 	Company of Minas Gerais (the largest utility in Brazil) has developed 	a PV rural-electrification program that is driven by quality-of-life 	improvement objectives for the electricity consumer. The Luz no Saber 	has been specifically designed inside a larger-scale rural electrification 	program (Luz para Todos - M.G.). It has been implemented in rural 	areas of Minas Gerais State by CEMIG, in collaboration with state 	and federal governments. The main objective has been to find an energy 	delivery alternative to grid connection for dispersed rural communities 	to realize the recent "Universal Attendance Law" (10438). That is, 	starting July, 2002, electric utilities in Brazil have been required 	to electrify the entire areas they serve. Because of solar resource 	availability and geographical constraints, PV is the most important 	complementary technology to satisfy the universal electrical delivery 	to rural and remote communities in Minas Gerais. The technology allows 	the access of lower-income people to lighting, communication, as 	well as a variety of educational delivery opportunities. A major 	impact has been reducing illiteracy and improving the quality of 	education. The major conclusion of this 10-year CEMIG investment 	is that an adequate service infrastructure is required to make projects 	viable, mainly characterized by a technical network which guarantees 	the system's technical performance, system design, qualified technical 	support, and also avoids a lack of unreasonable and unfulfilled user 	expectations. The lessons learned under several phases of the CEM- 	IG's PV programmes focused on the "Luz no Saber Program" are detailed 	in this paper, with the conclusion that they have helped avoid potential 	failures in this sustainability model program
+The Important Contribution of Photovoltaics in a Rural School Electrification
+Program
+This paper describes Brazil's photovoltaic rural school electrification
+program developed in the southeastern state of Minas Gerais, from
+its demonstration phase through its current larger-scale (near 1000
+systems) deployment. Based upon several successful initial demonstration
+projects, which have shown PV could be both reliable and cost effective
+in remote rural areas, over previous 10-year period, CEMIG-Energetic
+Company of Minas Gerais (the largest utility in Brazil) has developed
+a PV rural-electrification program that is driven by quality-of-life
+improvement objectives for the electricity consumer. The Luz no Saber
+has been specifically designed inside a larger-scale rural electrification
+program (Luz para Todos - M.G.). It has been implemented in rural
+areas of Minas Gerais State by CEMIG, in collaboration with state
+and federal governments. The main objective has been to find an energy
+delivery alternative to grid connection for dispersed rural communities
+to realize the recent "Universal Attendance Law" (10438). That is,
+starting July, 2002, electric utilities in Brazil have been required
+to electrify the entire areas they serve. Because of solar resource
+availability and geographical constraints, PV is the most important
+complementary technology to satisfy the universal electrical delivery
+to rural and remote communities in Minas Gerais. The technology allows
+the access of lower-income people to lighting, communication, as
+well as a variety of educational delivery opportunities. A major
+impact has been reducing illiteracy and improving the quality of
+education. The major conclusion of this 10-year CEMIG investment
+is that an adequate service infrastructure is required to make projects
+viable, mainly characterized by a technical network which guarantees
+the system's technical performance, system design, qualified technical
+support, and also avoids a lack of unreasonable and unfulfilled user
+expectations. The lessons learned under several phases of the CEM-
+IG's PV programmes focused on the "Luz no Saber Program" are detailed
+in this paper, with the conclusion that they have helped avoid potential
+failures in this sustainability model program

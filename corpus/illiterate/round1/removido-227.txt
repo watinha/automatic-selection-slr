@@ -1,2 +1,15 @@
-The effect of data set characteristics on the choice of clustering 	validity index type
-Clustering techniques are widely used to give insight about the similarities/dissimilarities 	between data set items. Most algorithms require the user to tune 	parameters such as number of clusters or threshold for cut-off point 	in a dendrogram. Such parameters also affect the clustering quality. 	In a good quality cluster, the intra-cluster similarity should be 	high, whereas the inter-cluster similarity should be low. To determine 	the optimal cluster number, several cluster validity methods have 	been proposed. However, there is no guideline with respect to which 	clustering validity methods can be used in conjunction with which 	clustering algorithms. In this paper, Dunn and SD validity indices 	were applied to Kohonen self organizing maps, k-means and agglomerative 	clustering algorithms and their limitations were shown empirically.
+A new driving force behind capacity building in Africa: group support
+systems
+This paper explores, through a number of case studies, the application
+of group support systems for capacity building initiatives in various
+sectors in Africa. A model is introduced on the adoption of GSS in
+an African context. Notwithstanding skeptical expectations with respect
+to the successful application of the technology, the results clearly
+indicate that: there is support from key participants and top managers
+to use the technology; computer illiteracy does not seem to hinder
+successful GSS application; electronic communication does not get
+in the way of the traditional verbal meeting culture; and participants
+were very satisfied with the technology, the process, and the results
+of the electronic meetings. The case studies show the potential of
+applying GSS to give new momentum to capacity building and capacity
+mobilization efforts in Africa

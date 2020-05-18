@@ -1,2 +1,12 @@
-Accessibility of graphics in technical documentation for the cognitive 	and visually impaired
-With the U.S. government's new requirement for accessibility, companies 	such as IBM, are revising their method of selling products and solutions 	to ensure compliance. The delivery mechanism for information must 	be accessible to all users, including users with vision, hearing, 	motor, or cognitive disabilities.Users consume information from many 	different sources. An increasingly popular method of distributing 	information is using computers and the Internet. The Web houses volumes 	of documents and graphics available to anyone at any time. Paired 	with assistive technology such as Home Page Reader, the Internet 	makes information that would otherwise be restrictive accessible.However, 	as approachable as the Internet may be with its sheer volume of information, 	it does have limitations. The old saying about a chain, that it is 	only as good as its weakest link, aptly describes the Internet. Beside 	problems with retrievability and searchability, many other issues 	plague this vehicle of information. No matter how sophisticated HTML, 	DHTML, XHTML, and XML present information, the graphics within the 	body text are the weakest link, from the viewpoint of users with 	visual or cognitive impairments.This presentation is divided into 	two sections and explores how a method of creating and exporting 	graphics can improve the experiences of users with visual or cognitive 	impairments when viewing technical documentation:   	 * Clear, concise, and well-structured diagrams enable better comprehension 	for the cognitively impaired suffering from dyslexia and Attention-Deficit/Hyperactive 	Disorder (ADHD).  	 * The Scalable Vector Graphics (SVG) solution addresses many challenges 	for visually impaired people.
+Blogging as social activity, or, would you let 900 million people
+read your diary?
+"Blogging" is a Web-based form of communication that is rapidly becoming
+mainstream. In this paper, we report the results of an ethnographic
+study of blogging, focusing on blogs written by individuals or small
+groups, with limited audiences. We discuss motivations for blogging,
+the quality of social interactivity that characterized the blogs
+we studied, and relationships to the blogger's audience. We consider
+the way bloggers related to the known audience of their personal
+social networks as well as the wider "blogosphere" of unknown readers.
+We then make design recommendations for blogging software based on
+these findings.

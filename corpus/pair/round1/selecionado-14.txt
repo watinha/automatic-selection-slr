@@ -1,2 +1,29 @@
-Task complexity and effectiveness of pair programming: An experimental  	study
-Extreme Programming, which is recently gaining popularity as an alternate  	software development methodology, involves two programmers working  	collaboratively to develop software. This study examined the efficacy  	of pair programming by comparing the effectiveness of collaborating  	pairs with those of programmers working individually. Student subjects  	participated in a controlled laboratory experiment. Two factors were  	manipulated in the experiment: programming task complexity (high  	vs. low) and programmers working individually vs. in pairs. The performance  	of programmer pairs was compared with those of the best performer  	and the second best performer from among nominal pairs. An important  	finding of the study is that programmer pairs outperform second best  	programmers in nominal groups, but perform at comparable levels as  	the best programmers in nominal groups. The best programmers among  	collaborating pairs also develop significantly better understanding  	of the problem domain, reflected in their task mental model, compared  	to the second-best individuals working individually in nominal pairs.  	Their mental models were however comparable to that of the best programmers  	in the nominal groups. These two relationships were found to be consistent  	across different levels of task complexity. In terms of perceptual  	outcomes, the best programmers among the collaborating pairs have  	comparable levels of overall satisfaction as the best and second-best  	individuals in the nominal groups, while second-best programmers  	among collaborating pairs have higher satisfaction than the best  	and second-best individuals in the nominal pairs. An additional finding  	was that best programmers among the collaborating pairs have higher  	confidence in their solution than best programmers in nominal pair  	when task complexity is low, but not when it is high.
+Task complexity and effectiveness of pair programming: An experimental
+study
+Extreme Programming, which is recently gaining popularity as an alternate
+software development methodology, involves two programmers working
+collaboratively to develop software. This study examined the efficacy
+of pair programming by comparing the effectiveness of collaborating
+pairs with those of programmers working individually. Student subjects
+participated in a controlled laboratory experiment. Two factors were
+manipulated in the experiment: programming task complexity (high
+vs. low) and programmers working individually vs. in pairs. The performance
+of programmer pairs was compared with those of the best performer
+and the second best performer from among nominal pairs. An important
+finding of the study is that programmer pairs outperform second best
+programmers in nominal groups, but perform at comparable levels as
+the best programmers in nominal groups. The best programmers among
+collaborating pairs also develop significantly better understanding
+of the problem domain, reflected in their task mental model, compared
+to the second-best individuals working individually in nominal pairs.
+Their mental models were however comparable to that of the best programmers
+in the nominal groups. These two relationships were found to be consistent
+across different levels of task complexity. In terms of perceptual
+outcomes, the best programmers among the collaborating pairs have
+comparable levels of overall satisfaction as the best and second-best
+individuals in the nominal groups, while second-best programmers
+among collaborating pairs have higher satisfaction than the best
+and second-best individuals in the nominal pairs. An additional finding
+was that best programmers among the collaborating pairs have higher
+confidence in their solution than best programmers in nominal pair
+when task complexity is low, but not when it is high.

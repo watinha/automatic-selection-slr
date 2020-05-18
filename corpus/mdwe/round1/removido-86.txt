@@ -1,2 +1,2 @@
-{SOMA-ME:
-The service-oriented modeling and architecture modeling environment {(SOMA-ME)
+{SOMA-ME:} a platform for the model-driven design of {SOA} solutions
+The service-oriented modeling and architecture modeling environment {(SOMA-ME)} is first a framework for the model-driven design of service-oriented architecture {(SOA)} solutions using the service-oriented modeling and architecture {(SOMA)} method. In {SOMA-ME,} Unified Modeling Language {(UML™)} profiles extend the {UML} 2.0 metamodel to domain-specific concepts. {SOMA-ME} is also a tool that extends the {IBM} Rational® Software Architect product to provide a development environment and automation features for designing {SOA} solutions in a systematic and model-driven fashion. Extensibility, traceability, variation-oriented design, and automatic generation of technical documentation and code artifacts are shown to be some of the properties of the {SOMA-ME} tool.

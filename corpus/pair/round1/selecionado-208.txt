@@ -1,2 +1,14 @@
 Empirical validation of test-driven pair programming in game development
-This paper investigates the effects of some extreme programming practices  	in game development by conducting a case study with 12 students who  	were assigned to implement a simple game application either as pairs  	or as individuals. The pairs used some XP practices, such as pair  	programming, test-driven and refactoring, while the individuals applied  	the traditional waterfall-like approach. The results of the case  	study showed that paired students completed their tasks faster and  	with higher quality than individuals. The programs written by pairs  	pass more test cases than those developed by individuals. Paired  	programmers also wrote cleaner code with higher cohesion by creating  	more reasonable number of methods. Therefore, some XP practices,  	such as pair programming, test-driven and refactoring could be used  	in game development.
+This paper investigates the effects of some extreme programming practices
+in game development by conducting a case study with 12 students who
+were assigned to implement a simple game application either as pairs
+or as individuals. The pairs used some XP practices, such as pair
+programming, test-driven and refactoring, while the individuals applied
+the traditional waterfall-like approach. The results of the case
+study showed that paired students completed their tasks faster and
+with higher quality than individuals. The programs written by pairs
+pass more test cases than those developed by individuals. Paired
+programmers also wrote cleaner code with higher cohesion by creating
+more reasonable number of methods. Therefore, some XP practices,
+such as pair programming, test-driven and refactoring could be used
+in game development.

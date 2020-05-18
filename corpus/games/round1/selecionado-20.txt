@@ -1,2 +1,5 @@
 Game Development: Harder Than You Think
-The hardest part of making a game has always been the engineering.  	In times past, game engineering was mainly about low-level optimization writing  	code that would run quickly on the target computer, leveraging clever  	little tricks whenever possible.
+The hardest part of making a game has always been the engineering.
+In times past, game engineering was mainly about low-level optimization writing
+code that would run quickly on the target computer, leveraging clever
+little tricks whenever possible.

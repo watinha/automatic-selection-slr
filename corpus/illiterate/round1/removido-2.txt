@@ -1,2 +1,16 @@
 Feminist Philosophy and Information Systems
-This paper offers a new approach to the philosophical foundations 	of information systems (IS) through feminist philosophy and, in particular, 	feminist epistemology. This can be used to expose the universalizing 	tendency of many information systems and to show the importance of 	using real-life complex examples rather than the simplified examples 	often favored by philosophers. Within traditional epistemology and 	its relation to IS, subjectivity, the propositional/skills distinction 	and epistemic hierarchies are subject to arguments from feminist 	epistemology. With respect to the emerging critical school of IS, 	feminist epistemology, and within that, feminist standpoint theory, 	are used to examine the complexities of the positivist/anti-positivist 	position and the related concept of emancipation. In addition, it 	is argued that the liberal version of emancipation encapsulated in 	such systems may have an effect opposite to that of emancipation 	These issues are illustrated in an existing expert systems project.
+This paper offers a new approach to the philosophical foundations
+of information systems (IS) through feminist philosophy and, in particular,
+feminist epistemology. This can be used to expose the universalizing
+tendency of many information systems and to show the importance of
+using real-life complex examples rather than the simplified examples
+often favored by philosophers. Within traditional epistemology and
+its relation to IS, subjectivity, the propositional/skills distinction
+and epistemic hierarchies are subject to arguments from feminist
+epistemology. With respect to the emerging critical school of IS,
+feminist epistemology, and within that, feminist standpoint theory,
+are used to examine the complexities of the positivist/anti-positivist
+position and the related concept of emancipation. In addition, it
+is argued that the liberal version of emancipation encapsulated in
+such systems may have an effect opposite to that of emancipation
+These issues are illustrated in an existing expert systems project.

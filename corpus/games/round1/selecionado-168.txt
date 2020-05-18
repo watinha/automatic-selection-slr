@@ -1,2 +1,12 @@
 Improving Game Processing in Multithreading and Multiprocessor Architecture
-This paper explores the idea that future game consoles and computers  	may no longer be single processor units, but instead symmetrical  	multiprocessor units. If this were to occur games would need to be  	programmed with concurrency in mind so that they could take advantage  	of the additional processing units. We explore past research and  	works in the field of parallel computing to find principles applicable  	to computer game programming. Concepts such as the Flynns classification,  	task, task-dependency graphs, dependency analysis, and Bernsteins  	conditions to concurrency are applied to computer game programming  	to develop a new model for computer games that is meant to replace  	the standard sequential game loop.
+This paper explores the idea that future game consoles and computers
+may no longer be single processor units, but instead symmetrical
+multiprocessor units. If this were to occur games would need to be
+programmed with concurrency in mind so that they could take advantage
+of the additional processing units. We explore past research and
+works in the field of parallel computing to find principles applicable
+to computer game programming. Concepts such as the Flynns classification,
+task, task-dependency graphs, dependency analysis, and Bernsteins
+conditions to concurrency are applied to computer game programming
+to develop a new model for computer games that is meant to replace
+the standard sequential game loop.

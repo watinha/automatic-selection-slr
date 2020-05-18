@@ -1,2 +1,30 @@
-The national accessibility portal: an accessible information sharing 	portal for the South African disability sector
-The National Accessibility Portal initiative is a large initiative 	aimed at improving the quality of life of people living with disabilities 	in South Africa. The initiative has several functional components, 	including the National Accessibility Portal, National Accessibility 	Portal Centers, research into developing localised client side assistive 	technologies and devices, advocacy as well as the development of 	a methodology allowing for replication in other developing countries 	with similar needs.   	The focus of this paper is on the research and development of the 	portal in the bigger National Accessibility Portal initiative.   	The portal's differentiating elements measured against other content 	portals is the ability to provide a configurable platform (based 	on the user's profile) for information sharing and communication 	in an accessible and usable fashion within the constraints of today's 	technologies, in the user's language of choice and in the most cost 	effective and sustainable fashion.   	In this paper we describe the process involved in developing version 	1.0 of the National Accessibility Portal; from gathering user requirements, 	addressing the issue of multilingualism, accessibility and usability 	challenges. We present initial user feedback comments and highlight 	ongoing challenges. In addition we present the technology stack and 	implemented functionality.
+The national accessibility portal: an accessible information sharing
+portal for the South African disability sector
+The National Accessibility Portal initiative is a large initiative
+aimed at improving the quality of life of people living with disabilities
+in South Africa. The initiative has several functional components,
+including the National Accessibility Portal, National Accessibility
+Portal Centers, research into developing localised client side assistive
+technologies and devices, advocacy as well as the development of
+a methodology allowing for replication in other developing countries
+with similar needs.
+
+
+The focus of this paper is on the research and development of the
+portal in the bigger National Accessibility Portal initiative.
+
+
+The portal's differentiating elements measured against other content
+portals is the ability to provide a configurable platform (based
+on the user's profile) for information sharing and communication
+in an accessible and usable fashion within the constraints of today's
+technologies, in the user's language of choice and in the most cost
+effective and sustainable fashion.
+
+
+In this paper we describe the process involved in developing version
+1.0 of the National Accessibility Portal; from gathering user requirements,
+addressing the issue of multilingualism, accessibility and usability
+challenges. We present initial user feedback comments and highlight
+ongoing challenges. In addition we present the technology stack and
+implemented functionality.

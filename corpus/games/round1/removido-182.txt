@@ -1,2 +1,16 @@
 Enhancing the Performance of Dynamic Scripting in Computer Games
-Unsupervised online learning in commercial computer games allows computer-controlled  	opponents to adapt to the way the game is being played. As such it  	provides a mechanism to deal with weaknesses in the game AI and to  	respond to changes in human player tactics. In prior work we designed  	a novel technique called ldquodynamic scriptingrdquo that is able  	to create successful adaptive opponents. However, experimental evaluations  	indicated that, occasionally, the time needed for dynamic scripting  	to generate effective opponents becomes unacceptably long. We investigated  	two different countermeasures against these long adaptation times  	(which we call ldquooutliersrdquo), namely a better balance between  	rewards and penalties, and a history-fallback mechanism. Experimental  	results indicate that a combination of these two countermeasures  	is able to reduce the number of outliers significantly. We therefore  	conclude that the performance of dynamic scripting is enhanced by  	these counter-measures.
+Unsupervised online learning in commercial computer games allows computer-controlled
+opponents to adapt to the way the game is being played. As such it
+provides a mechanism to deal with weaknesses in the game AI and to
+respond to changes in human player tactics. In prior work we designed
+a novel technique called ldquodynamic scriptingrdquo that is able
+to create successful adaptive opponents. However, experimental evaluations
+indicated that, occasionally, the time needed for dynamic scripting
+to generate effective opponents becomes unacceptably long. We investigated
+two different countermeasures against these long adaptation times
+(which we call ldquooutliersrdquo), namely a better balance between
+rewards and penalties, and a history-fallback mechanism. Experimental
+results indicate that a combination of these two countermeasures
+is able to reduce the number of outliers significantly. We therefore
+conclude that the performance of dynamic scripting is enhanced by
+these counter-measures.

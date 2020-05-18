@@ -1,2 +1,16 @@
 Survey of component-based software development
-Because of the extensive uses of components, the Component-Based Software  	Engineering (CBSE) process is quite different from that of the traditional  	waterfall approach. CBSE not only requires focus on system specification  	and development, but also requires additional consideration for overall  	system context, individual components properties and component acquisition  	and integration process. The term component-based software development  	(CBD) can be referred to as the process for building a system using  	components. CBD life cycle consists of a set of phases, namely, identifying  	and selecting components based on stakeholder requirements, integrating  	and assembling the selected components and updating the system as  	components evolve over time with newer versions. This work presents  	an indicative literature survey of techniques proposed for different  	phases of the CBD life cycle. The aim of this survey is to help provide  	a better understanding of different CBD techniques for each of these  	areas.
+Because of the extensive uses of components, the Component-Based Software
+Engineering (CBSE) process is quite different from that of the traditional
+waterfall approach. CBSE not only requires focus on system specification
+and development, but also requires additional consideration for overall
+system context, individual components properties and component acquisition
+and integration process. The term component-based software development
+(CBD) can be referred to as the process for building a system using
+components. CBD life cycle consists of a set of phases, namely, identifying
+and selecting components based on stakeholder requirements, integrating
+and assembling the selected components and updating the system as
+components evolve over time with newer versions. This work presents
+an indicative literature survey of techniques proposed for different
+phases of the CBD life cycle. The aim of this survey is to help provide
+a better understanding of different CBD techniques for each of these
+areas.

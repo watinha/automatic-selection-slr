@@ -1,2 +1,12 @@
 Behavior Assessment based Selection Method for Service Oriented Applications Integrability
-Abstract. Service-Oriented Computing promotes building applications by  consuming reusable services. However, facing the selection of adequate  services for a specific application still is a major challenge. Even with a reduced  set of candidate services, the assessment effort could be overwhelming. On  previous work we have presented an approach to assist developers on the  selection of services from a syntactic viewpoint of a matchmaking process for  interfaces compatibility. In this paper we extend the approach to assess the  behavior of services taking advantage of a black-box testing framework to  verify compatibility on the expected execution behavior of a candidate service.  This paper analyzes the selection method through a case study, to show its  potential on determining the best choice of a service among a set of candidates.
+Abstract. Service-Oriented Computing promotes building applications by
+consuming reusable services. However, facing the selection of adequate
+services for a specific application still is a major challenge. Even with a reduced
+set of candidate services, the assessment effort could be overwhelming. On
+previous work we have presented an approach to assist developers on the
+selection of services from a syntactic viewpoint of a matchmaking process for
+interfaces compatibility. In this paper we extend the approach to assess the
+behavior of services taking advantage of a black-box testing framework to
+verify compatibility on the expected execution behavior of a candidate service.
+This paper analyzes the selection method through a case study, to show its
+potential on determining the best choice of a service among a set of candidates.

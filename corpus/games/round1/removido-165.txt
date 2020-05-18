@@ -1,2 +1,5 @@
 Extended cooperative networks games
-We present here a pricing model which is an extension of the Cooperative  	Game concept and which includes a notion of Price-Dependent Demand.  	We present some existence results as well as some algorithms, and  	conclude by discussing a specific problem related to Network Pricing.
+We present here a pricing model which is an extension of the Cooperative
+Game concept and which includes a notion of Price-Dependent Demand.
+We present some existence results as well as some algorithms, and
+conclude by discussing a specific problem related to Network Pricing.

@@ -1,2 +1,14 @@
 Software effort estimation terminology: the tower of Babel
-It is well documented that the software industry suffers from frequent  	cost overruns. A contributing factor is, we believe, the imprecise  	estimation terminology in use. A lack of clarity and precision in  	the use of estimation terms reduces the interpretability of estimation  	accuracy results, makes the communication of estimates difficult,  	and lowers the learning possibilities. This paper reports on a structured  	review of typical software effort estimation terminology in software  	engineering textbooks and software estimation research papers. The  	review provides evidence that the term ‘effort estimate’ is frequently  	used without sufficient clarification of its meaning, and that estimation  	accuracy is often evaluated without ensuring that the estimated and  	the actual effort are comparable. Guidelines are suggested on how  	to reduce this lack of clarity and precision in terminology.
+It is well documented that the software industry suffers from frequent
+cost overruns. A contributing factor is, we believe, the imprecise
+estimation terminology in use. A lack of clarity and precision in
+the use of estimation terms reduces the interpretability of estimation
+accuracy results, makes the communication of estimates difficult,
+and lowers the learning possibilities. This paper reports on a structured
+review of typical software effort estimation terminology in software
+engineering textbooks and software estimation research papers. The
+review provides evidence that the term ‘effort estimate’ is frequently
+used without sufficient clarification of its meaning, and that estimation
+accuracy is often evaluated without ensuring that the estimated and
+the actual effort are comparable. Guidelines are suggested on how
+to reduce this lack of clarity and precision in terminology.

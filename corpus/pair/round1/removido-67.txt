@@ -1,2 +1,19 @@
-Empirical evaluation of collaborative support for distributed pair  	programming
-Pair programming is an Extreme Programming (XP) practice where two  	programmers work on a single computer to produce an artifact. Empirical  	evaluations have provided evidence that this technique results in  	higher quality code in half the time it would take an individual  	programmer. Distributed pair programming could facilitate opportunistic  	pair programming sessions with colleagues working in remote sites.  	In this paper, we present the preliminary results of the empirical  	evaluation of the COPPER collaborative editor, developed explicitly  	to support pair programming. The evaluation was performed on three  	different conditions: pairs working collocated on a single computer;  	distributed pairs working in application sharing mode; and distributed  	pairs using collaboration aware facilities. In all three cases the  	subjects used the COPPER collaborative editor. The results support  	our hypothesis that distributed pairs could find the same amount  	of errors as their collocated counterparts. However, no evidence  	was found that the pairs that used collaborative awareness services  	had better code comprehension, as we had also hypothesized.
+Empirical evaluation of collaborative support for distributed pair
+programming
+Pair programming is an Extreme Programming (XP) practice where two
+programmers work on a single computer to produce an artifact. Empirical
+evaluations have provided evidence that this technique results in
+higher quality code in half the time it would take an individual
+programmer. Distributed pair programming could facilitate opportunistic
+pair programming sessions with colleagues working in remote sites.
+In this paper, we present the preliminary results of the empirical
+evaluation of the COPPER collaborative editor, developed explicitly
+to support pair programming. The evaluation was performed on three
+different conditions: pairs working collocated on a single computer;
+distributed pairs working in application sharing mode; and distributed
+pairs using collaboration aware facilities. In all three cases the
+subjects used the COPPER collaborative editor. The results support
+our hypothesis that distributed pairs could find the same amount
+of errors as their collocated counterparts. However, no evidence
+was found that the pairs that used collaborative awareness services
+had better code comprehension, as we had also hypothesized.

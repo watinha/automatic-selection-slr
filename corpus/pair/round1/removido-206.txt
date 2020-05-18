@@ -1,2 +1,23 @@
 Investigating the extreme programming system - an empirical study
-In this paper we discuss our empirical study about the advantages  	and difficulties 15 Greek software companies experienced applying  	extreme programming (XP) as a holistic system in software development.  	Based on a generic XP system including feedback influences and using  	a cause-effect model including social-technical affecting factors,  	as our research tool, the study statistically evaluates the application  	of XP practices in the software companies being studied. Data were  	collected from 30 managers and developers, using the sample survey  	technique with questionnaires and interviews, in a time period of  	six months. Practices were analysed individually, using descriptive  	statistics (DS), and as a whole by building up different models using  	stepwise discriminant analysis (DA). The results have shown that  	companies, facing various problems with common code ownership, on-site  	customer, 40-hour week and metaphor, prefer to develop their own  	tailored XP method and way of working-practices that met their requirements.  	Pair programming and test-driven development were found to be the  	most significant success factors. Interactions and hidden dependencies  	for the majority of the practices as well as communication and synergy  	between skilled personnel were found to be other significant success  	factors. The contribution of this preliminary research work is to  	provide some evidence that may assist companies in evaluating whether  	the XP system as a holistic framework would suit their current situation.
+In this paper we discuss our empirical study about the advantages
+and difficulties 15 Greek software companies experienced applying
+extreme programming (XP) as a holistic system in software development.
+Based on a generic XP system including feedback influences and using
+a cause-effect model including social-technical affecting factors,
+as our research tool, the study statistically evaluates the application
+of XP practices in the software companies being studied. Data were
+collected from 30 managers and developers, using the sample survey
+technique with questionnaires and interviews, in a time period of
+six months. Practices were analysed individually, using descriptive
+statistics (DS), and as a whole by building up different models using
+stepwise discriminant analysis (DA). The results have shown that
+companies, facing various problems with common code ownership, on-site
+customer, 40-hour week and metaphor, prefer to develop their own
+tailored XP method and way of working-practices that met their requirements.
+Pair programming and test-driven development were found to be the
+most significant success factors. Interactions and hidden dependencies
+for the majority of the practices as well as communication and synergy
+between skilled personnel were found to be other significant success
+factors. The contribution of this preliminary research work is to
+provide some evidence that may assist companies in evaluating whether
+the XP system as a holistic framework would suit their current situation.

@@ -1,2 +1,6 @@
-Making ballot language understandable to voters
-The wording and placement of instructions can help or hinder voters 	from successfully voting for their choices. No research has been 	done specifically on the language of instructions to voters, but 	we can draw best practices from research in several related disciplines. 	A recent study by the authors shows that typical ballots in the United 	States violate many of the best practices drawn from research. In 	this paper, we discuss and offer examples of the gap between best 	practice in giving instructions and the instructions that many voters 	see as they try to vote. We discuss the research on which we draw 	for these best practices and the need to study the applicability 	of this research in the specific context of voting instructions.
+HCI for people with cognitive disabilities
+The self-advocacy movement (Dybwad & Bersani, 1996) grew out of resistance
+to oppressive practices of institutionalization (and worse) for people
+with cognitive disabilities. Moving beyond the worst abuses, people
+with cognitive disabilities seek as full participation in society
+as possible.

@@ -1,2 +1,25 @@
-A Systematic Review of Cross- vs. Within-Company Cost Estimation  	Studies
-The objective of this paper is to determine under what circumstances  	individual organisations would be able to rely on cross-company based  	estimation models. We performed a systematic review of studies that  	compared predictions from crosscompany models with predictions from  	within-company models based on analysis of project data. Ten papers  	compared cross-company and within-company estimation models, however,  	only seven of the papers presented independent results. Of those  	seven, three found that crosscompany models were as good as within-company  	models, four found cross-company models were significantly worse  	than within-company models. Experimental procedures used by the studies  	d iffered making it impossible to undertake formal meta-analysis  	of the results. The main trend distinguishing study results was that  	studies with small single company data sets (i.e. <20 projects) that  	used leaveone-out cross-validation all found that the within-company  	model was significantly more accurate than    	the cross-company model. The results of this review are inconclusive.  	It is clear that some organisations would be ill-served by cross-company  	models whereas others would benefit. Further studies are needed,  	but they must be independent (i.e. based on different data bases  	or at least different single comp any data sets). In addition, experimenters  	need to standardise their experimental procedures to enable formal  	meta-analysis.
+A Systematic Review of Cross- vs. Within-Company Cost Estimation
+Studies
+The objective of this paper is to determine under what circumstances
+individual organisations would be able to rely on cross-company based
+estimation models. We performed a systematic review of studies that
+compared predictions from crosscompany models with predictions from
+within-company models based on analysis of project data. Ten papers
+compared cross-company and within-company estimation models, however,
+only seven of the papers presented independent results. Of those
+seven, three found that crosscompany models were as good as within-company
+models, four found cross-company models were significantly worse
+than within-company models. Experimental procedures used by the studies
+d iffered making it impossible to undertake formal meta-analysis
+of the results. The main trend distinguishing study results was that
+studies with small single company data sets (i.e. <20 projects) that
+used leaveone-out cross-validation all found that the within-company
+model was significantly more accurate than
+
+the cross-company model. The results of this review are inconclusive.
+It is clear that some organisations would be ill-served by cross-company
+models whereas others would benefit. Further studies are needed,
+but they must be independent (i.e. based on different data bases
+or at least different single comp any data sets). In addition, experimenters
+need to standardise their experimental procedures to enable formal
+meta-analysis.

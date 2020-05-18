@@ -1,2 +1,15 @@
 Using heuristics to evaluate the playability of games
-Heuristics have become an accepted and widely used adjunct method  	of usability evaluation in Internet and software development. This  	report introduces Heuristic Evaluation for Playability (HEP), a comprehensive  	set of heuristics for playability, based on the literature on productivity  	and playtesting heuristics that were specifically tailored to evaluate  	video, computer, and board games. These heuristics were tested on  	an evolving game design to assess their face validity and evaluation  	effectiveness compared to more standard user testing methodologies.  	The results suggest that HEP identified qualitative similarities  	and differences with user testing and that HEP is best suited for  	evaluating general issues in the early development phases with a  	prototype or mock-up. Combined with user studies, HEP offers a new  	method for the HCI game community that can result in a more usable  	and playable game.
+Heuristics have become an accepted and widely used adjunct method
+of usability evaluation in Internet and software development. This
+report introduces Heuristic Evaluation for Playability (HEP), a comprehensive
+set of heuristics for playability, based on the literature on productivity
+and playtesting heuristics that were specifically tailored to evaluate
+video, computer, and board games. These heuristics were tested on
+an evolving game design to assess their face validity and evaluation
+effectiveness compared to more standard user testing methodologies.
+The results suggest that HEP identified qualitative similarities
+and differences with user testing and that HEP is best suited for
+evaluating general issues in the early development phases with a
+prototype or mock-up. Combined with user studies, HEP offers a new
+method for the HCI game community that can result in a more usable
+and playable game.

@@ -1,2 +1,2 @@
-{Model-Driven
-The {MDWE
+{Model-Driven} Web Engineering {(MDWE} 2008)
+The {MDWE} 2008 workshop offered a forum to exchange experiences and ideas related to model-driven languages and systems, applied to the Web Engineering field. Presentations and discussions focused on Model Driven Architecture {(MDA)} for the development of web systems; the use of metamodels, {UML} profiles, model-to-model and model-to-code transformations for generating web applications; and the use of tools and frameworks for supporting model-driven web development.

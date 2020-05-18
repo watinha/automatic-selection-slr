@@ -1,2 +1,22 @@
 Pair programming on the C3 project
-Chrysler's Comprehensive Compensation (C3) project was one of the  	first large-scale IT projects on which Extreme Programming (XP) precepts  	were attempted. As XP was being invented, we didn't really think  	of it as a theoretical or methodological breakthrough; it was simply  	an opportunity to get the job done. The "theory" came about later  	because of the practice's success. In my opinion, XP is not a theory,  	but a cogent descriptive body of successful praxis. Some people consider  	pair programming, an XP technique, to be difficult, unworkable, or  	downright weird. After all, what does the workstation represent,  	if not finally having your own computer? The idea of sharing your  	machine with someone seems like a lot of bother without much reward.  	How can you talk if you're trying to think? And how can you think  	if you first have to explain what you're thinking about? Having participated  	on the C3 project as a performance-tuning consultant beginning in  	1996, I can attest to the success of pair programming. At the same  	time, I can show instances where it did not work or was not emphasized  	in this early XP project. In a sense, this pragmatism is the strength  	of XP: Use a technique where it works, ignore it where it doesn't.  	XP has never been prescribed as a panacea. XP's pair programming  	helps programmers synthesize their individual expertise into an effective  	combination.
+Chrysler's Comprehensive Compensation (C3) project was one of the
+first large-scale IT projects on which Extreme Programming (XP) precepts
+were attempted. As XP was being invented, we didn't really think
+of it as a theoretical or methodological breakthrough; it was simply
+an opportunity to get the job done. The "theory" came about later
+because of the practice's success. In my opinion, XP is not a theory,
+but a cogent descriptive body of successful praxis. Some people consider
+pair programming, an XP technique, to be difficult, unworkable, or
+downright weird. After all, what does the workstation represent,
+if not finally having your own computer? The idea of sharing your
+machine with someone seems like a lot of bother without much reward.
+How can you talk if you're trying to think? And how can you think
+if you first have to explain what you're thinking about? Having participated
+on the C3 project as a performance-tuning consultant beginning in
+1996, I can attest to the success of pair programming. At the same
+time, I can show instances where it did not work or was not emphasized
+in this early XP project. In a sense, this pragmatism is the strength
+of XP: Use a technique where it works, ignore it where it doesn't.
+XP has never been prescribed as a panacea. XP's pair programming
+helps programmers synthesize their individual expertise into an effective
+combination.

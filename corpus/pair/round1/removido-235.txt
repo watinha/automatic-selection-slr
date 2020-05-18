@@ -1,2 +1,10 @@
 Extreme programming: Pair-programmers, team players or future leaders?
-This paper will establish that a productive working relationship can  	be enhanced in an Extreme Programming (XP) Pair-Programming Team  	if Team members here were to develop and improve their own individual  	Emotional Intelligence (EI) persona. A conceptual model (ARMES) was  	developed for personal traits identified for Pair-Programmers. The  	validity of this ARMES model for Pair-Programming was tested against  	two (previously published) XP Case Studies. Finally, implications  	of the conclusions were discussed along with suggested areas of future  	research.
+This paper will establish that a productive working relationship can
+be enhanced in an Extreme Programming (XP) Pair-Programming Team
+if Team members here were to develop and improve their own individual
+Emotional Intelligence (EI) persona. A conceptual model (ARMES) was
+developed for personal traits identified for Pair-Programmers. The
+validity of this ARMES model for Pair-Programming was tested against
+two (previously published) XP Case Studies. Finally, implications
+of the conclusions were discussed along with suggested areas of future
+research.

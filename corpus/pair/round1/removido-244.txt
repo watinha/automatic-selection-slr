@@ -1,2 +1,19 @@
 Integrating pair programming into a software development process
-Anecdotal and statistical evidence indicates that pair programmers  	- two programmers working side-by-side at one computer collaborating  	on the same design, algorithm, code or test - outperform individual  	programmers. One of the programmers (the driver) has control of the  	keyboard/mouse and actively implements the program. The other programmer  	(the observer) continuously observes the work of the driver to identify  	tactical (syntactic, spelling, etc.) defects, and also thinks strategically  	about the direction of the work. On demand, the two programmers can  	brainstorm any challenging problem. Because the two programmers periodically  	switch roles, they work together as equals to develop software. This  	practice of pair programming can be integrated into any software  	development process. As an example, this paper describes the changes  	that were made to the Personal Software Process (PSP) to leverage  	the power of two programmers working together, thereby formulating  	the Collaborative Software Process (CSP). The paper also discusses  	the expected results of incorporating pair programming into a software  	development process in which traditional, individual programming  	is currently used.
+Anecdotal and statistical evidence indicates that pair programmers
+- two programmers working side-by-side at one computer collaborating
+on the same design, algorithm, code or test - outperform individual
+programmers. One of the programmers (the driver) has control of the
+keyboard/mouse and actively implements the program. The other programmer
+(the observer) continuously observes the work of the driver to identify
+tactical (syntactic, spelling, etc.) defects, and also thinks strategically
+about the direction of the work. On demand, the two programmers can
+brainstorm any challenging problem. Because the two programmers periodically
+switch roles, they work together as equals to develop software. This
+practice of pair programming can be integrated into any software
+development process. As an example, this paper describes the changes
+that were made to the Personal Software Process (PSP) to leverage
+the power of two programmers working together, thereby formulating
+the Collaborative Software Process (CSP). The paper also discusses
+the expected results of incorporating pair programming into a software
+development process in which traditional, individual programming
+is currently used.

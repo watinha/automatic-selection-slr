@@ -1,2 +1,12 @@
-Should we bridge the gap by outsourcing part of faculty support
-Some faculty members seek to push the technology envelope further 	and faster than Computing Centers can respond to or support. Should 	we encourage some of our faculty to meet their needs outside of university 	resources at their own expense? Should we support this move with 	training, referrals, and backup support when necessary? Should we 	encourage a faculty member to register a domain name, create a website, 	and refer students and others to their own domain names and sub-domains 	for each class? With the right web-hosting service, they could create 	and manage their own discussion lists. This paper will discuss various 	web-hosting services, what they offer, and how faculty might use 	them.
+Making ballot language understandable to voters
+The wording and placement of instructions can help or hinder voters
+from successfully voting for their choices. No research has been
+done specifically on the language of instructions to voters, but
+we can draw best practices from research in several related disciplines.
+A recent study by the authors shows that typical ballots in the United
+States violate many of the best practices drawn from research. In
+this paper, we discuss and offer examples of the gap between best
+practice in giving instructions and the instructions that many voters
+see as they try to vote. We discuss the research on which we draw
+for these best practices and the need to study the applicability
+of this research in the specific context of voting instructions.

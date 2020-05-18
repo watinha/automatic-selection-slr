@@ -1,2 +1,2 @@
-{ServiceMosaic
-This paper provides an overview of {ServiceMosaic,
+{ServiceMosaic} project: modeling, analysis and management of web services interactions
+This paper provides an overview of {ServiceMosaic,} which is a platform for model-driven analysis and management of service interactions. In particular, in this paper, we focus on business protocols modelling and analysis by providing operators for compatibility and replaceability checking of business protocols, and model-driven adapter development for business protocols.

@@ -1,2 +1,18 @@
 Free and open source development practices in the game community
-The free and open source software (FOSS) approach lets community of  	like-minded participants develop software systems and related artifacts  	that are shared freely instead of offered as closed-source commercial  	products. Free (as in freedom) software and open source are closely  	related but slightly different approaches and licensing schemes for  	developing publicly shared software. FOSS development communities  	don't seem to adopt modern software engineering processes. FOSS communities  	develop software that's extremely valuable, generally reliable, globally  	distributed, made available for acquisition at little or no cost,  	and readily used in its community. Free and open source software  	development practices gives rise to new view of how complex software  	systems can be constructed, deployed, and evolved. They rely on lean  	electronic communication media, virtual project management, and version  	management mechanisms to coordinate globally dispersed development  	efforts. These FOSS processes offer new directions for developing  	complex software systems. We look at the FOSS computer game community  	to provide examples of common development processes and practices.
+The free and open source software (FOSS) approach lets community of
+like-minded participants develop software systems and related artifacts
+that are shared freely instead of offered as closed-source commercial
+products. Free (as in freedom) software and open source are closely
+related but slightly different approaches and licensing schemes for
+developing publicly shared software. FOSS development communities
+don't seem to adopt modern software engineering processes. FOSS communities
+develop software that's extremely valuable, generally reliable, globally
+distributed, made available for acquisition at little or no cost,
+and readily used in its community. Free and open source software
+development practices gives rise to new view of how complex software
+systems can be constructed, deployed, and evolved. They rely on lean
+electronic communication media, virtual project management, and version
+management mechanisms to coordinate globally dispersed development
+efforts. These FOSS processes offer new directions for developing
+complex software systems. We look at the FOSS computer game community
+to provide examples of common development processes and practices.

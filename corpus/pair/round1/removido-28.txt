@@ -1,2 +1,14 @@
 The collaborative nature of pair programming
-This paper considers the nature of pair programming. It focuses on  	using pair programmers' verbalizations as an indicator of collaboration.  	A review of the literature considers the benefits and costs of co-operative  	and collaborative verbalization. We then report on a set of four  	one-week studies of commercial pair programmers. From recordings  	of their conversations we analyze which generic sub-tasks were discussed  	and use the contribution of new information as a means of discerning  	the extent to which each pair collaborated. We also consider whether  	a particular role is more likely to contribute to a particular sub-task.  	We conclude that pair programming is highly collaborative in nature,  	however the level of collaboration varies according to task. We also  	find that tasks do not seem aligned to particular roles, rather the  	driver tends to contribute slightly more across almost all tasks.
+This paper considers the nature of pair programming. It focuses on
+using pair programmers' verbalizations as an indicator of collaboration.
+A review of the literature considers the benefits and costs of co-operative
+and collaborative verbalization. We then report on a set of four
+one-week studies of commercial pair programmers. From recordings
+of their conversations we analyze which generic sub-tasks were discussed
+and use the contribution of new information as a means of discerning
+the extent to which each pair collaborated. We also consider whether
+a particular role is more likely to contribute to a particular sub-task.
+We conclude that pair programming is highly collaborative in nature,
+however the level of collaboration varies according to task. We also
+find that tasks do not seem aligned to particular roles, rather the
+driver tends to contribute slightly more across almost all tasks.

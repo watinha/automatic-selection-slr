@@ -1,2 +1,17 @@
-Argumentation-Based Agent Interaction in an Ambient-Intelligence 	Context
-A multiagent system uses argumentation-based interaction in an ambient-intelligence 	context to provide services for people with different combinations 	of impairments. This paper focuses on ambient intelligence system 	of agents for knowledge-based and integrated services for mobility-impaired 	users integrated projectpsilas (ASK-ITIP) furthered the challenge 	by aiming to support users having different types and combinations 	of impairments. ASK-ITIP use of argumentation to model a distributed 	decision-making process for a coalition of assistant agents, each 	an expert on a different impairment. When a user suffers from a combination 	of impairments, these agents engage in an argumentation-based dialogue 	to agree on the user's needs. We found that applying argumentation 	was natural in this context because, generally speaking, we can abstractly 	define argumentation as the principled interaction of different, 	potentially conflicting arguments to obtain a consistent conclusion. 	Moreover, argumentation-based interaction is combined with a standardized 	interaction type based on the foundation for intelligent physical 	agents interaction protocol.
+The social relations of e-government diffusion in developing countries:
+the case of Rwanda
+Rwanda has undergone a rapid turnaround from one of the most technologically
+deficient countries only a decade ago to a country where legislative
+business is conducted online and wireless access to the Internet
+is available anywhere in the country. This is puzzling when viewed
+against the limited progress made in other comparable developing
+countries, especially those located in the same region, sub-Saharan
+Africa, where the structural and institutional constraints to e-government
+diffusion are similar. Based on an exploratory case study of the
+country's e-government system that draws on group and social theories,
+I argue that the convergence of four factors associated with the
+policy environment, political leadership, emigrants and refugee returnees,
+and epistemic communities account for Rwanda's achievements. The
+primacy of interest group politics in the unfolding story of e-government
+diffusion in developing countries is underscored and potential areas
+for further research highlighted.

@@ -1,2 +1,8 @@
 Multi-platform Online Game Design and Architecture
-Contemporary Multi-player online games (MOGs) support only a single  	game platform. Our research goal is to provide an MOG service to  	users from different platforms. This paper presents the architecture  	of the world-wide first multi-platform online game, which consists  	of 3D game engines and a multi-platform game server. The experimental  	results through the prototype implementation show the feasibility  	of simultaneously supporting multiple game platforms.
+Contemporary Multi-player online games (MOGs) support only a single
+game platform. Our research goal is to provide an MOG service to
+users from different platforms. This paper presents the architecture
+of the world-wide first multi-platform online game, which consists
+of 3D game engines and a multi-platform game server. The experimental
+results through the prototype implementation show the feasibility
+of simultaneously supporting multiple game platforms.

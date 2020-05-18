@@ -1,2 +1,6 @@
 Virtuaalinen tietokanta sovellusalustana
-Abstract:  This bachelors thesis is about virtual database solution called Collector. First section describes the needed theory about databases and SaaS. After theory part, Collector is being evaluated against different kind of database solutions. Both relational databases and NoSql-databases are covered.      Main focus of the research is to review Collector's performance and capacity. This is done by a script which writes data to database and executes search queries to determine how long does the searches take.
+Abstract:
+This bachelors thesis is about virtual database solution called Collector. First section describes the needed theory about databases and SaaS. After theory part, Collector is being evaluated against different kind of database solutions. Both relational databases and NoSql-databases are covered.
+
+
+Main focus of the research is to review Collector's performance and capacity. This is done by a script which writes data to database and executes search queries to determine how long does the searches take.

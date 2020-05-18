@@ -1,2 +1,15 @@
 Aspect-oriented procedural content engineering for game design
-Generally progressive procedural content in the context of 3D scene  	rendering is expressed as recursive functions where a finer level  	of detail gets computed on demand. Typical examples of content procedurally  	generated are fractal images and noise textures. Unfortunately, not  	always the content can be expressed in this way, developers and content  	creators need the data to have some peculiarity (like windows on  	a wall for a house 3D model) and a method to drive data simplification  	without losing relevant details. In this paper we discuss how aspect  	oriented (AO) techniques can be used to drive the content creation  	process by mapping each data peculiarity to the code to generate  	it. Using aspects will let us to partially evaluate the code of the  	procedure improving the performance without losing the flow of the  	generation logic. We will also discuss how the use of AO can provide  	techniques to build simplified version of the data through code transformations.
+Generally progressive procedural content in the context of 3D scene
+rendering is expressed as recursive functions where a finer level
+of detail gets computed on demand. Typical examples of content procedurally
+generated are fractal images and noise textures. Unfortunately, not
+always the content can be expressed in this way, developers and content
+creators need the data to have some peculiarity (like windows on
+a wall for a house 3D model) and a method to drive data simplification
+without losing relevant details. In this paper we discuss how aspect
+oriented (AO) techniques can be used to drive the content creation
+process by mapping each data peculiarity to the code to generate
+it. Using aspects will let us to partially evaluate the code of the
+procedure improving the performance without losing the flow of the
+generation logic. We will also discuss how the use of AO can provide
+techniques to build simplified version of the data through code transformations.

@@ -1,2 +1,18 @@
 Os Wikis como sistemas colaborativos na gestao do conhecimento
-Knowledge Management (KM) has assumed a strategic role in organizations, being extremely  important that knowledge persists within organizations despite high employee turnover rates. To  achieve this goal, many companies have adopted wikis as collaborative knowledge management  tools, facilitating knowledge creation, capture and sharing.  This research studies how an organizational wiki may be used as a KM tool. Based on the literature  review, two models were selected, the organizational knowledge creation (SECI) and the four  competencies of a learning organization model. From this review emerged a set of research  hypotheses tested through an empirical study. Statistic analyses were performed with data collected  through a survey.  Finding the most common types of employees contributions allowed the identification of their profiles  as wiki contributors. Results obtained in this research were compared with those found by previous  studies in different contexts.  Results also show that, in the studied organization, the wiki is supporting knowledge transfer activities  from senior to junior employees, in the conversion from tacit to explicit knowledge.  Employees report that using the wiki has a positive impact on their performance, and the statistical  analysis of the collected data allowed the identification of the processes of the SECI model that have  higher influence in the performance indicators.  
+Knowledge Management (KM) has assumed a strategic role in organizations, being extremely
+important that knowledge persists within organizations despite high employee turnover rates. To
+achieve this goal, many companies have adopted wikis as collaborative knowledge management
+tools, facilitating knowledge creation, capture and sharing.
+This research studies how an organizational wiki may be used as a KM tool. Based on the literature
+review, two models were selected, the organizational knowledge creation (SECI) and the four
+competencies of a learning organization model. From this review emerged a set of research
+hypotheses tested through an empirical study. Statistic analyses were performed with data collected
+through a survey.
+Finding the most common types of employees contributions allowed the identification of their profiles
+as wiki contributors. Results obtained in this research were compared with those found by previous
+studies in different contexts.
+Results also show that, in the studied organization, the wiki is supporting knowledge transfer activities
+from senior to junior employees, in the conversion from tacit to explicit knowledge.
+Employees report that using the wiki has a positive impact on their performance, and the statistical
+analysis of the collected data allowed the identification of the processes of the SECI model that have
+higher influence in the performance indicators.

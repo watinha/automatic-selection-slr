@@ -1,2 +1,10 @@
 Turning the knobs: a coaching pattern for XP through agile metrics
-I want to turn the knobs to 10, but my job position doesn't allow  	me to dictate that my team do so. Even if it did, forcing XP may  	serve only to cause resentment and backlash. Though I've been learning  	XP for over a year, it's still new to the rest of our team, and we're  	used to our old habits. By giving team members control of how extreme  	to be through a 'teaching survey', the team has started at a comfortable  	level of XP and has opened the door to future extremes. We've used  	the survey to define, coach, and track our XP process and have increased  	our use of XP by 10% in three months.
+I want to turn the knobs to 10, but my job position doesn't allow
+me to dictate that my team do so. Even if it did, forcing XP may
+serve only to cause resentment and backlash. Though I've been learning
+XP for over a year, it's still new to the rest of our team, and we're
+used to our old habits. By giving team members control of how extreme
+to be through a 'teaching survey', the team has started at a comfortable
+level of XP and has opened the door to future extremes. We've used
+the survey to define, coach, and track our XP process and have increased
+our use of XP by 10% in three months.

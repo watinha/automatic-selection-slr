@@ -1,2 +1,11 @@
 Which Processes Are Needed in Five Years? Strategic Process Portfolio Management at the Japan Aerospace Exploration Agency (JAXA)
-Abstract. During the course of a strategic cooperation, a method was developed that supports  an organization in adjusting its process scope. The approach systematically analyzes process  needs of products and projects, and then evaluates the organization's processes with respect to  the fulfillment of these needs. The result is a recommendation as to which processes to keep  and maintain, which ones to discard, and which process to apply in which situation. The  method was successfully applied during the development of software development standards  for the development of satellite software at the Japan Aerospace Exploration Agency (JAXA).  It could be shown that the method can significantly reduce the effort required for creating and  maintaining software process standards, while at the same time providing projects with exactly  the processes that are needed. 
+Abstract. During the course of a strategic cooperation, a method was developed that supports
+an organization in adjusting its process scope. The approach systematically analyzes process
+needs of products and projects, and then evaluates the organization's processes with respect to
+the fulfillment of these needs. The result is a recommendation as to which processes to keep
+and maintain, which ones to discard, and which process to apply in which situation. The
+method was successfully applied during the development of software development standards
+for the development of satellite software at the Japan Aerospace Exploration Agency (JAXA).
+It could be shown that the method can significantly reduce the effort required for creating and
+maintaining software process standards, while at the same time providing projects with exactly
+the processes that are needed. 

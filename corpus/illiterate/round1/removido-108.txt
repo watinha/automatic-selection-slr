@@ -1,0 +1,18 @@
+Adding User-Level SPACe: Security, Privacy, and Context to Intelligent
+Multimedia Information Architectures
+We provide a unified architecture, called SPACe, for Secure, Privacy-Aware,
+and Contextual multimedia systems in organizations. Many key and
+important architectural components already exist which contribute
+to a unified platform, including the classic data mining, security,
+and privacy-preserving components in conventional intelligent systems.
+After presenting an overview of our unified architecture, we focus
+on the state-of-the-art architectural components for user interaction
+in future systems - particularly multimedia voice interaction with
+intelligent systems. This paper shows how user-level conversational
+data mining (CDM) methods, coupled with biometric security, and enhanced
+with privacy- awareness, may be used with any Web information system
+architecture. Finally, we provide an example of our unified architecture
+through integrating a knowledge architecture for an e-finance application
+in the financial services domain. The resulting architectures benefit
+from added security, privacy-awareness, and contextual filtering
+at the user-level.

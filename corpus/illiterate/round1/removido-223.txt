@@ -1,2 +1,12 @@
-Information communication educational technologies in lifelong learning 	of underprivileged groups
-The paper describes conditions that influenced the implementation 	of new technologies in educational organizations for adult learners 	and presents a project of deployment of ICT assisted learning for 	underprivileged groups of adults. The aim was to foster quality of 	teaching and learning and raise digital literacy. Instructional design 	for adult learners with poor learning skills, collaboration skills 	and ICT knowledge was formed, and interoperability within different 	technological conditions, systems and delivery platforms was built. 	Information communication educational technologies were implemented 	in three forms: (1) multimedia learning material on a CD-ROM for 	personal computers without Internet connection, (2) computer supported 	learning environment for guided self-directed learning, and (3) computer 	supported collaborative learning environment.
+Technical innovations in communication: how to relate technology
+to business by a culturally reliable human interface
+The technology that makes the world into the global village envisioned
+by Marshall McLuhan move than 30 years ago now seems to be in place,
+thanks to the Internet and the World Wide Web. Technical innovations
+in communication technology have been quickly exploited by businesses
+to expand their reach into new markets. However, not much is yet
+known about the way this technology is inducing changes in long-standing
+cultural patterns that prescribe the preferred methods of negotiating
+business deals. In this paper, we survey the state of our unknowing
+under several headings, hoping to instigate discussion on how technology
+works as a human interface in different parts of the world

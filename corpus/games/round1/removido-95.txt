@@ -1,2 +1,15 @@
-A challenge for reusing multiplayer online games without modifying  	binaries
-In this paper, we advocate the problem of reusing Multiplayer Online  	Game (MOG) in Client-Server (C/S) architecture. The problem is that  	MOG services cannot continue to be provided because of high maintenance  	cost for operating game servers. Additionally, it is caused by the  	decreasing service users who getting tired of the game and game providers  	who have faced difficulties in collecting charge of the game service.  	It is important that every user can play MOGs at any time whether  	game servers of game providers run them or not.We describe a challenging  	method for solving the problem. Our solution provides a middleware  	which is inserted under the game applications to switch network architecture  	from C/S to Peer-to-Peer (P2P). By exploiting this method, the network  	architecture of MOGs can be easily changed from C/S to P2P under  	some restrictions without modifying binaries.
+A challenge for reusing multiplayer online games without modifying
+binaries
+In this paper, we advocate the problem of reusing Multiplayer Online
+Game (MOG) in Client-Server (C/S) architecture. The problem is that
+MOG services cannot continue to be provided because of high maintenance
+cost for operating game servers. Additionally, it is caused by the
+decreasing service users who getting tired of the game and game providers
+who have faced difficulties in collecting charge of the game service.
+It is important that every user can play MOGs at any time whether
+game servers of game providers run them or not.We describe a challenging
+method for solving the problem. Our solution provides a middleware
+which is inserted under the game applications to switch network architecture
+from C/S to Peer-to-Peer (P2P). By exploiting this method, the network
+architecture of MOGs can be easily changed from C/S to P2P under
+some restrictions without modifying binaries.

@@ -1,2 +1,28 @@
 Mapping the Mental Space of Game Genres
-The gaming community currently uses an informal classification of  	games into genres such as first-person shooters, real-time strategy  	games, etc. While this classification is generally accepted, producing  	a more formal taxonomy of game types directly from data has several  	scholarly and commercial advantages. These include providing a basis  	for analysis of age- and gender-related data, statistically meaningful  	grouping in critical literature, improved game recommendations on  	retail websites, and better evaluation of a game's market potential  	before production. Mapping the mental space of game genres is challenging,  	both because it involves subjective evaluations and because there  	are many axes on which games can vary. We collected pairwise similarity  	metrics of games from game players through an online survey to build  	a large similarity matrix that is the projection of a high-dimensional  	space representing the unknown and hypothetical true mental space  	of game genres. We then applied previous techniques in manifold learning  	and psychology to the problem of reconstructing the most significant  	dimensions into maps that can be meaningfully interpreted. We believe  	this is the first application of these techniques to games and one  	of the first to work with conceptual (instead of physical) data.  	The resulting maps arrange related games into spontaneously arising  	clusters that sometimes contradict current marketing genres. We analyze  	several of these clusters and propose both interpretations for these  	``true genres'' as well as axes that game players appear to use in  	discriminating between them. Our initial results indicate that game  	players tend to primarily distinguish games not by traditional genres  	but instead by aesthetic and mechanics, which is closely related  	to how developers construct games.
+The gaming community currently uses an informal classification of
+games into genres such as first-person shooters, real-time strategy
+games, etc. While this classification is generally accepted, producing
+a more formal taxonomy of game types directly from data has several
+scholarly and commercial advantages. These include providing a basis
+for analysis of age- and gender-related data, statistically meaningful
+grouping in critical literature, improved game recommendations on
+retail websites, and better evaluation of a game's market potential
+before production. Mapping the mental space of game genres is challenging,
+both because it involves subjective evaluations and because there
+are many axes on which games can vary. We collected pairwise similarity
+metrics of games from game players through an online survey to build
+a large similarity matrix that is the projection of a high-dimensional
+space representing the unknown and hypothetical true mental space
+of game genres. We then applied previous techniques in manifold learning
+and psychology to the problem of reconstructing the most significant
+dimensions into maps that can be meaningfully interpreted. We believe
+this is the first application of these techniques to games and one
+of the first to work with conceptual (instead of physical) data.
+The resulting maps arrange related games into spontaneously arising
+clusters that sometimes contradict current marketing genres. We analyze
+several of these clusters and propose both interpretations for these
+``true genres'' as well as axes that game players appear to use in
+discriminating between them. Our initial results indicate that game
+players tend to primarily distinguish games not by traditional genres
+but instead by aesthetic and mechanics, which is closely related
+to how developers construct games.

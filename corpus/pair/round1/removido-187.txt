@@ -1,2 +1,9 @@
 Model based testing in incremental system development
-The spiraling nature of evolutionary software development processes  	produces executable parts of the system at the end of each loop.  	It is argued that these parts should consist not only of programming  	language code, but of executable graphical system models. As a main  	benefit of the use of more abstract, yet formal, modeling languages,  	a method for model based test sequence generation for reactive systems  	on the grounds of Constraint Logic Programming as well as its implementation  	in the CASE tool AF is presented.
+The spiraling nature of evolutionary software development processes
+produces executable parts of the system at the end of each loop.
+It is argued that these parts should consist not only of programming
+language code, but of executable graphical system models. As a main
+benefit of the use of more abstract, yet formal, modeling languages,
+a method for model based test sequence generation for reactive systems
+on the grounds of Constraint Logic Programming as well as its implementation
+in the CASE tool AF is presented.

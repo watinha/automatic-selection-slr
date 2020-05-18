@@ -1,2 +1,14 @@
 Distribution Dimensions in Software Development Projects: A Taxonomy
-Distribution in software development projects is a complex phenomenon  	with many dimensions. In addition to the obvious physical dimension  	entailed by geographically dispersed project personnel and resources,  	projects must contend with organizational distribution among various  	company departments, for example, as well as temporal and stakeholder  	distributions. A review of the literature on globally distributed  	software development projects produced a preliminary taxonomy based  	on a dimensional analysis of distribution. Developers can use this  	taxonomy to identify and visualize their project's distribution dimensions  	and scopes. A real-world case study of the taxonomy's use illuminates  	its value, as well as common challenges and possible solutions to  	distribution problems.This article is part of a special issue on  	Global Software Development.
+Distribution in software development projects is a complex phenomenon
+with many dimensions. In addition to the obvious physical dimension
+entailed by geographically dispersed project personnel and resources,
+projects must contend with organizational distribution among various
+company departments, for example, as well as temporal and stakeholder
+distributions. A review of the literature on globally distributed
+software development projects produced a preliminary taxonomy based
+on a dimensional analysis of distribution. Developers can use this
+taxonomy to identify and visualize their project's distribution dimensions
+and scopes. A real-world case study of the taxonomy's use illuminates
+its value, as well as common challenges and possible solutions to
+distribution problems.This article is part of a special issue on
+Global Software Development.

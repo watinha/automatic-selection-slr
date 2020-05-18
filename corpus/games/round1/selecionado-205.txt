@@ -1,2 +1,15 @@
 Guidelines for designing augmented reality games
-The growing popularity of augmented reality (AR) games in both a research  	and more recently commercial context has led for a need to take a  	closer look at design related issues which impact on player experience.  	While issues relating to this area have been considered, to date  	most of the emphasis has been on the technology aspects. Furthermore  	it is almost always assumed that the augmented reality element in  	itself will provide a sufficient experience for the player. This  	has led to a need to evaluate what makes a successful augmented reality  	game. In this paper we present a set of design guidelines which are  	drawn from experiences of three mixed reality games. The guidelines  	provide specific guidance on relationships between real and virtual  	space, social interaction, use of AR technologies, maintaining consistent  	themes and implicitly address higher level aspects such as presence  	within a particular augmented reality place.
+The growing popularity of augmented reality (AR) games in both a research
+and more recently commercial context has led for a need to take a
+closer look at design related issues which impact on player experience.
+While issues relating to this area have been considered, to date
+most of the emphasis has been on the technology aspects. Furthermore
+it is almost always assumed that the augmented reality element in
+itself will provide a sufficient experience for the player. This
+has led to a need to evaluate what makes a successful augmented reality
+game. In this paper we present a set of design guidelines which are
+drawn from experiences of three mixed reality games. The guidelines
+provide specific guidance on relationships between real and virtual
+space, social interaction, use of AR technologies, maintaining consistent
+themes and implicitly address higher level aspects such as presence
+within a particular augmented reality place.

@@ -1,7 +1,7 @@
-import re, codecs, np, sys, csv
+import re, codecs, np, sys, csv, bibtexparser
 
-from keras.preprocessing.text import Tokenizer
-from keras.preprocessing.sequence import pad_sequences
+#from keras.preprocessing.text import Tokenizer
+#from keras.preprocessing.sequence import pad_sequences
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 class BibParser:
@@ -16,24 +16,14 @@ class BibParser:
         for file_index in range(len(files_list)):
             filename = files_list[file_index];
             with codecs.open(filename, 'r', encoding='utf-8') as bib_file:
-                bibfile = bib_file.read()
-                titles = re.findall('([^book][^short]title)\s*=\s\{([^\}]*)\}', bibfile)
-                abstracts = re.findall('(abstract)\s*=\s\{([^\}]*)\}', bibfile)
-                inserir = re.findall('(inserir)\s*=\s\{([^\}]*)\}', bibfile)
-                folder = filename.split('/')[2].split('-')[0]
-
-                if (len(titles) != len(abstracts) or len(titles) != len(inserir)):
-                    print('Different number of titles, abstracts and inserir values...')
-                    print('File: %s' % (filename))
-                    print('Titles: %d\nAbstracts: %d\nInserir: %d' %
-                            (len(titles), len(abstracts), len(inserir)))
-                    sys.exit(1)
-
-                for bib_index in range(len(titles)):
-                    insert = 'selecionado' if inserir[bib_index][1] == 'true' else 'removido'
-                    title = re.sub('[\n\r]', ' ', titles[bib_index][1])
-                    abstract = re.sub('[\n\r]', ' ', abstracts[bib_index][1])
+                db = bibtexparser.load(bib_file)
+                for bib_index, entry in enumerate(db.entries, start=0):
+                    insert = 'selecionado' if entry['inserir'] == 'true' else 'removido'
+                    title = entry['title']
+                    abstract = entry['abstract']
                     content = u'%s\n%s' % (title, abstract)
+                    folder = filename.split('/')[2].split('-')[0]
+
                     if self._write_files:
                         newfile = codecs.open('corpus/%s/%s/%s-%d.txt' %
                                 (self._project_folder, folder, insert,

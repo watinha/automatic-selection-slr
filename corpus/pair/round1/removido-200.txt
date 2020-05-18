@@ -1,2 +1,11 @@
 Student Perceptions of the suitability of Extreme and Pair Programming
-Senior students in a software engineering class were asked to write  	opinion papers regarding the use of Extreme Programming (XP) in a  	software engineering class, and the use of pair programming in an  	introductory programming course. The majority of the students were  	opposed to using XP in the software engineering class, but favored  	the use of pair programming in an introductory programming course.  	Early indications from a pilot study in pair programming are consistent  	with these opinions. The students’ comments are insightful, and should  	be considered before introducing either of these practices into the  	curriculum.
+Senior students in a software engineering class were asked to write
+opinion papers regarding the use of Extreme Programming (XP) in a
+software engineering class, and the use of pair programming in an
+introductory programming course. The majority of the students were
+opposed to using XP in the software engineering class, but favored
+the use of pair programming in an introductory programming course.
+Early indications from a pilot study in pair programming are consistent
+with these opinions. The students’ comments are insightful, and should
+be considered before introducing either of these practices into the
+curriculum.

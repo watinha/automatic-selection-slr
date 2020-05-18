@@ -1,2 +1,17 @@
-Expert review method in game evaluations: comparison of two playability  	heuristic sets
-The expert review method is not yet widely adopted in game evaluations,  	although it has been used successfully in productivity software evaluations  	for years. In order to use the method effectively, there need to  	be playability heuristics that take into account the characteristics  	of the videogames. There are a few playability heuristic sets available,  	but they have several differences, and they have not been compared  	to discover their strengths and weaknesses in game evaluations. In  	this paper, we report on a first study comparing two playability  	heuristic sets when evaluating the playability of a videogame. The  	results indicate that the heuristics can assist the evaluators in  	evaluating both the user interface and the gameplay aspects of the  	game. However, playability heuristics need to be developed further  	before they can be utilized by the practitioners. Especially, the  	clarity and comprehensibility of the heuristics need to be improved,  	and the optimal number of heuristics is still open.
+Expert review method in game evaluations: comparison of two playability
+heuristic sets
+The expert review method is not yet widely adopted in game evaluations,
+although it has been used successfully in productivity software evaluations
+for years. In order to use the method effectively, there need to
+be playability heuristics that take into account the characteristics
+of the videogames. There are a few playability heuristic sets available,
+but they have several differences, and they have not been compared
+to discover their strengths and weaknesses in game evaluations. In
+this paper, we report on a first study comparing two playability
+heuristic sets when evaluating the playability of a videogame. The
+results indicate that the heuristics can assist the evaluators in
+evaluating both the user interface and the gameplay aspects of the
+game. However, playability heuristics need to be developed further
+before they can be utilized by the practitioners. Especially, the
+clarity and comprehensibility of the heuristics need to be improved,
+and the optimal number of heuristics is still open.

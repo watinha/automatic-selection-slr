@@ -1,2 +1,14 @@
-Mobile-phone users’ attitudes towards’ mobile commerce \& services 	in the Gulf Cooperation Council countries: Case study
-As the number of mobile phone users is growing, purchasing products 	and services using mobile phones and other mobile devices are also 	increasing. The purpose of this study was to provide the status of 	mobile-commerce in the Gulf Cooperation Council (GCC) countries in 	term of consumerspsila attitudes towards mobile commerce and mobile 	services provided by mobile operators. Oman, one of the GCC countries 	is used as the case study. The theoretical background of the study 	was drawn from Technology Acceptance Model (TAM). This study showed 	that there is a promising future for m-commerce in Oman as above 	66 percents of respondents said that they are willing to buy products 	and services using their mobile phones. Security of mobile transactions 	and the cost of products and services are great concerns to the mobile 	phone users. This study provides a list of recommendations based 	on the result of the survey that would be of importance to the mobile 	industry stakeholders in Oman, GCC, and other countries with a similar 	economy, market and consumer characteristics. The outcome of the 	study would be of a particular interest to the private and public 	telecommunication organizations; especially those that intend to 	invest in m-commerce in the GCC area and other developing countries.
+From subject of change to agent of change: women and IT in Brazil
+Brazil has one of South America's largest information technology (IT)
+communities. One hundred million people voted electronically for
+President and congress in 2004, and 97 percent of all income tax
+declarations are submitted via the Internet. Over 20,000 students
+graduate every year in computer science alone, and two of the federal
+government's four industrial priorities are related to IT --- software
+and semiconductors. Though women represent 60 percent of the country's
+college graduates, less than 5 percent choose Computer Science as
+a major. Programs to foster gender equality have little intersection
+with the national digital inclusion program. This paper points out
+actions that may be considered to allow Brazilian women to become
+full citizens of the information society. These actions concern formal
+and informal means of education, and on visibility and advocacy.

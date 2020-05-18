@@ -1,2 +1,15 @@
-Vital physiological signs monitoring
-The aim of this project is to build a virtual image and the patients' 	data and signal transfer to a remote place. Patient information will 	be available to those who have the authority to access the information. 	LabVIEW (Laboratory Virtual Instrument Engineering Workbench) is 	used in displaying the signal in the computer. Virtual instruments 	are created in order to acquire the electrocardiograph (ECG) signal. 	LabVIEW gives the flexibility of a powerful programming language 	without the associated difficulty and complexity because its graphical 	programming methodology is inherently intuitive. Another signal, 	oxygen saturation (SpO2), is acquired through serial connection of 	the equipment to the computer. This project aspires to create links 	for the communication between healthcare practitioners in discussing 	the patients' data and situation.
+Using pen and paper to control networked appliances
+User interfaces to control networked household appliances are often
+inadequate. Either they are too simplistic or they are too complex
+and complicated relying on a PC-based interface. Therefore, a user
+interface that supports complex functionalities and is easy to use
+is required. In this article digital pen and paper are presented
+as a suitable interface. Digital pens are only marginally larger
+than their traditional counterparts, and digital paper is ordinary
+paper with an almost invisible unique pattern printed on it. Pen
+and paper are well known to users and thus an important barrier to
+the acceptance of networked appliances is removed. The approach is
+integrated with an open services gateway initiative (OSGi) gateway,
+thus allowing for flexibility with respect to the protocol used to
+communicate with the appliance. It is also shown how the approach
+can be applied to other appliances in and beyond the home

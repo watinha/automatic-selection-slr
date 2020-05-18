@@ -1,2 +1,4 @@
-Globetoddler: designing for remote interaction between preschoolers 	and their traveling parents
-In recent decades, families in the Western world have become more 	geographically distributed, making it more difficult for family members 	to achieve and maintain a feeling of connectedness. Different time 	zones and contexts and a limited awareness of the other family members' 	availability and mood are some of many factors that make "being together" 	more challenging when physically apart. Besides, when it comes to 	preschool children, existing communication technologies, such as 	phones and computers, may not even be an option. As a result, many 	families simply accept the fact that being apart leads to fragmented, 	or even non-existent, interaction. In this paper we describe initial 	work on a tangible system, Globetoddler, which aims to make remote 	interaction between preschool children and their traveling parents 	easy and enjoyable. The paper describes the process of defining design 	principles for this system, as well as the content and implications 	of these principles.
+Calling for programmed technology transfer and adoption strategies
+for sustainable LDC growth
+Developing nations need a technology jumpstart---via basic technologies
+geared toward education, farming, and health care.

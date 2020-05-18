@@ -1,2 +1,18 @@
 Evaluacion y seleccion de tecnicas de prueba de software
-Software testing is a vital activity and a determining factor for  success of a given project since testing allow stakeholders to know  if the product meets their expectations and requirements,  additionally, the cost of testing is very significant in relation to  development cost, therefore is important to select the most suitable  testing techniques and tools in a given project to find defects at  less cost possible; however in many projects, the practitioners  adopt the same testing technique/tool used in past projects or any  available without knowing the testing technique attributes. As a  theoretical basis for future research, in this article we present an art  state about the testing techniques evaluation and selection which  contain a set of characterization schemas and a comparison  between approaches for lead primary studies leading to build  knowledge bases or repositories and in other way we present the  existing methods and approaches about the informed selection of  testing techniques for a given project based on repositories  information.  
+Software testing is a vital activity and a determining factor for
+success of a given project since testing allow stakeholders to know
+if the product meets their expectations and requirements,
+additionally, the cost of testing is very significant in relation to
+development cost, therefore is important to select the most suitable
+testing techniques and tools in a given project to find defects at
+less cost possible; however in many projects, the practitioners
+adopt the same testing technique/tool used in past projects or any
+available without knowing the testing technique attributes. As a
+theoretical basis for future research, in this article we present an art
+state about the testing techniques evaluation and selection which
+contain a set of characterization schemas and a comparison
+between approaches for lead primary studies leading to build
+knowledge bases or repositories and in other way we present the
+existing methods and approaches about the informed selection of
+testing techniques for a given project based on repositories
+information.

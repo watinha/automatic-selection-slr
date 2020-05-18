@@ -1,2 +1,16 @@
 PROCEDIMENTO PARA APOIO A SELECAO DE CRITERIOS DE PARADA PARA TESTES DE SOFTWARE
-This work proposes a procedure to support the stopping criterion selection for  software testing regarding the matching of characteristcs presented by a software  project and the stopping criteria organized into a body of knowledge. Such body of  knowledge has been organized to contain relevant information acquired through a  quasi-systematic literature review concerned with 74 stopping criteria for software  testing. The stored information includes the attributes used for comparison between  software projects and stopping criteria. By considering such attributes, the stopping  criteria can be filtered according to the defined characteristics of the software project.  Next, for each filtered criterion, an adequacy degree suggesting the level of adequacy  (conceptual distance) between a stopping criterion and the software project is  calculated by comparing the equivalente attributes characterizing both the software  project and stopping criterion. Aiming to make easier its use, the proposed procedure  has been implemented and integrated into a test management and monitoring CASE  tool called Maraka. Its use has been exemplified by a proof of concept using different  projects contexts including one real application. 
+This work proposes a procedure to support the stopping criterion selection for
+software testing regarding the matching of characteristcs presented by a software
+project and the stopping criteria organized into a body of knowledge. Such body of
+knowledge has been organized to contain relevant information acquired through a
+quasi-systematic literature review concerned with 74 stopping criteria for software
+testing. The stored information includes the attributes used for comparison between
+software projects and stopping criteria. By considering such attributes, the stopping
+criteria can be filtered according to the defined characteristics of the software project.
+Next, for each filtered criterion, an adequacy degree suggesting the level of adequacy
+(conceptual distance) between a stopping criterion and the software project is
+calculated by comparing the equivalente attributes characterizing both the software
+project and stopping criterion. Aiming to make easier its use, the proposed procedure
+has been implemented and integrated into a test management and monitoring CASE
+tool called Maraka. Its use has been exemplified by a proof of concept using different
+projects contexts including one real application. 

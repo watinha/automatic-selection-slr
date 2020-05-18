@@ -1,2 +1,22 @@
-Reflections on 10 years of sponsored senior design projects: Students  	win-clients win!
-Undergraduate computer science degree programs often provide an opportunity  	for students to experience real software projects as a part of their  	programs of study. These experiences frequently reside in a course  	in which students form software development teams, are assigned to  	a project offered by a corporate sponsor and devote one or two semesters  	to the task of making progress on the project. In an ideal model,  	faculty mentor student teams who, in turn, behave as subcontractors  	or consultants to the sponsor. Students work for a grade, not directly  	for the sponsor as a true subcontractor would. In the ideal model,  	students demonstrate what they have learned about software engineering  	process, as well as their ability to implement programmed solutions.  	Student teams provide progress reports, both oral and written, and  	directly experience many of the challenges and successes of true  	software engineering professionals. This paper reports on one such  	program after 10 years of operation. The technologies and software  	development processes of student projects are summarized and presented  	as an informal survey. Student response is discussed in terms of  	software systems they produced and how they went about producing  	them. The maturation of these students as software engineering professionals  	is also discussed.
+Reflections on 10 years of sponsored senior design projects: Students
+win-clients win!
+Undergraduate computer science degree programs often provide an opportunity
+for students to experience real software projects as a part of their
+programs of study. These experiences frequently reside in a course
+in which students form software development teams, are assigned to
+a project offered by a corporate sponsor and devote one or two semesters
+to the task of making progress on the project. In an ideal model,
+faculty mentor student teams who, in turn, behave as subcontractors
+or consultants to the sponsor. Students work for a grade, not directly
+for the sponsor as a true subcontractor would. In the ideal model,
+students demonstrate what they have learned about software engineering
+process, as well as their ability to implement programmed solutions.
+Student teams provide progress reports, both oral and written, and
+directly experience many of the challenges and successes of true
+software engineering professionals. This paper reports on one such
+program after 10 years of operation. The technologies and software
+development processes of student projects are summarized and presented
+as an informal survey. Student response is discussed in terms of
+software systems they produced and how they went about producing
+them. The maturation of these students as software engineering professionals
+is also discussed.

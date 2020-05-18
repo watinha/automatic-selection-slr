@@ -1,2 +1,20 @@
 Pair Programming Strategies for Middle School Girls
-A large gender gap exists with who designs and produces new computer  	technology; men overwhelmingly dominate the field. Studies have shown  	that women are more likely to pursue and persist in computer science  	when they have the confidence to problem-solve and explore without  	fear of breaking the computer, see social aspects of computing, and  	see a value to computing consistent with their self identity. Pair  	programming, developed for use in software design as part of the  	extreme programming methodology, puts two people working together  	at all phases of software development. Pair programming is also a  	collaborative, instructional approach, shown to increase learning,  	investment, and interest in computer science among both male and  	female university students, in particular females. We are studying  	pair programming with middle school girls for the purpose of devising  	a controlled study of the benefits. This paper will describe how  	we have implemented pair programming in the middle school environment  	and what we have learned so far about how this approach may benefit  	girls. We describe our current strategies so that others may use  	this collaborative approach both for experimentation and for practical  	application.
+A large gender gap exists with who designs and produces new computer
+technology; men overwhelmingly dominate the field. Studies have shown
+that women are more likely to pursue and persist in computer science
+when they have the confidence to problem-solve and explore without
+fear of breaking the computer, see social aspects of computing, and
+see a value to computing consistent with their self identity. Pair
+programming, developed for use in software design as part of the
+extreme programming methodology, puts two people working together
+at all phases of software development. Pair programming is also a
+collaborative, instructional approach, shown to increase learning,
+investment, and interest in computer science among both male and
+female university students, in particular females. We are studying
+pair programming with middle school girls for the purpose of devising
+a controlled study of the benefits. This paper will describe how
+we have implemented pair programming in the middle school environment
+and what we have learned so far about how this approach may benefit
+girls. We describe our current strategies so that others may use
+this collaborative approach both for experimentation and for practical
+application.

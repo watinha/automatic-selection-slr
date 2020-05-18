@@ -1,2 +1,14 @@
-Using collaborative learning research to enhance pair programming  	pedagogy
-Programming is a pillar of IT education; teaching programming is a  	major challenge of IT education. A significant amount of recent research  	has demonstrated the success of pair programming pedagogy in meeting  	this challenge. Pair programming is a key component of the Extreme  	Programming software development methodology. When used as pedagogy,  	pair programming is an instance of collaborative learning, a well-established  	technique for teaching complex, conceptual tasks. Research has documented  	the success of collaborative learning and has identified the critical  	attributes of successful collaborative learning approaches. This  	article uses a review of the research as a basis for recommended  	enhancements to ensure that pair programming pedagogy possesses the  	critical attributes of successful collaborative learning approaches.
+Using collaborative learning research to enhance pair programming
+pedagogy
+Programming is a pillar of IT education; teaching programming is a
+major challenge of IT education. A significant amount of recent research
+has demonstrated the success of pair programming pedagogy in meeting
+this challenge. Pair programming is a key component of the Extreme
+Programming software development methodology. When used as pedagogy,
+pair programming is an instance of collaborative learning, a well-established
+technique for teaching complex, conceptual tasks. Research has documented
+the success of collaborative learning and has identified the critical
+attributes of successful collaborative learning approaches. This
+article uses a review of the research as a basis for recommended
+enhancements to ensure that pair programming pedagogy possesses the
+critical attributes of successful collaborative learning approaches.

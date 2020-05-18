@@ -1,2 +1,10 @@
-Architecture for a massively multiplayer online role playing game  	engine
-Faster networks, faster processors and 3D accelerator cards have contributed  	to the push for a new genre of online games, the Massively Multiplayer  	Online Role Playing Game, MMORPG. This paper presents a high-level  	software architecture for building a MMORPG engine. Six goals for  	the architecture are set, the architecture is presented and then  	examined to determine how well the goals have been met. The architecture  	blends in a unique way several classical software architecture patterns,  	using the strength of each to achieve the goals for the system.
+Architecture for a massively multiplayer online role playing game
+engine
+Faster networks, faster processors and 3D accelerator cards have contributed
+to the push for a new genre of online games, the Massively Multiplayer
+Online Role Playing Game, MMORPG. This paper presents a high-level
+software architecture for building a MMORPG engine. Six goals for
+the architecture are set, the architecture is presented and then
+examined to determine how well the goals have been met. The architecture
+blends in a unique way several classical software architecture patterns,
+using the strength of each to achieve the goals for the system.

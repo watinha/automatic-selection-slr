@@ -1,2 +1,14 @@
-Working in pairs as a means for design knowledge building: An Empirical  	Study
-Pair programming is increasingly attracting researchers' and practitioners'  	attention. One of the claimed benefits of pair programming consists  	of easing socialization among programmers, with the effect of transferring  	tacit knowledge. Designing software systems requires a strong employment  	of tacit knowledge, such as individual experience and skills. In  	this paper, the authors, explore the hypothesis that working in pairs  	can speed up and enforce the knowledge building process among designers.  	We name "pair designing" the application of pair programming concepts  	to the design stage. An experiment has been performed to test the  	effect of pair designing on knowledge building. This paper discusses  	preliminary results, which confirm the hypothesis of a positive effect  	of working in pairs on the process of knowledge building.
+Working in pairs as a means for design knowledge building: An Empirical
+Study
+Pair programming is increasingly attracting researchers' and practitioners'
+attention. One of the claimed benefits of pair programming consists
+of easing socialization among programmers, with the effect of transferring
+tacit knowledge. Designing software systems requires a strong employment
+of tacit knowledge, such as individual experience and skills. In
+this paper, the authors, explore the hypothesis that working in pairs
+can speed up and enforce the knowledge building process among designers.
+We name "pair designing" the application of pair programming concepts
+to the design stage. An experiment has been performed to test the
+effect of pair designing on knowledge building. This paper discusses
+preliminary results, which confirm the hypothesis of a positive effect
+of working in pairs on the process of knowledge building.

@@ -1,2 +1,18 @@
-Evaluation of American Sign Language Generation by Native ASL Signers
-There are many important factors in the design of evaluation studies 	for systems that generate animations of American Sign Language (ASL) 	sentences, and techniques for evaluating natural language generation 	of written texts are not easily adapted to ASL. When conducting user-based 	evaluations, several cultural and linguistic characteristics of members 	of the American Deaf community must be taken into account so as to 	ensure the accuracy of evaluations involving these users. This article 	describes an implementation and user-based evaluation (by native 	ASL signers) of a prototype ASL natural language generation system 	that produces sentences containing classifier predicates, which are 	frequent and complex spatial phenomena that previous ASL generators 	have not produced. Native signers preferred the system's output to 	Signed English animations -- scoring it higher in grammaticality, 	understandability, and naturalness of movement. They were also more 	successful at a comprehension task after viewing the system's classifier 	predicate animations.
+Digital literacy: Problems faced by telecenter users in Mexico
+This article explores the problems that Internet users of marginalized
+populations face at telecenters (Internet public access sites). Using
+an exploratory case study method and gathering data from users and
+telecenter operators, we have explored users' limitations when using
+the Internet. To interpret the results, this article uses the digital
+literacy framework developed by Eshet-Alkai (2004). Findings reveal
+telecenter users are digitally illiterate in three skills: “branching
+ability” (ability to navigate through a nonlinear environment to
+find the desired information); “reproduction ability” (ability to
+analyze and synthesize the information retrieved); and “information
+ability” (ability to assess the quality of information). Additionally,
+there are technical barriers, such as Internet access speed, which
+influence user's behaviors when searching for information. Finally,
+the lack of knowledge of the English language, which is the predominant
+languages in the Internet, is a barrier that widens the digital divide.
+Based on these findings, this research suggests possible solutions
+to overcome user's problems.

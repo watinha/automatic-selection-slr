@@ -1,2 +1,24 @@
 Adaptive server selection for large scale interactive online games
-Large scale interactive online games aim to support a very large number  	of game players simultaneously. To support hundreds of thousands  	of concurrent players, game providers have so far focused on developing  	highly scalable game server architectures and extensible network  	infrastructures. Recently, distributed online games are beginning  	to incorporate more interactive features and action sequences; thus,  	it becomes increasingly important to provision server resources in  	an efficient manner to support real-time interaction between the  	users. In this paper, we present a novel distributed algorithm to  	select game servers for a group of clients participating in a large  	scale interactive online game session. The goal of server selection  	is to minimize the server resource usage while satisfying a real-time  	delay constraint. We develop a synchronization delay model for interactive  	games and formulate the server selection problem, and prove that  	the considered problem is NP-hard. The proposed algorithm, called  	zoom-in zoom-out, is adaptive to session dynamics (e.g., clients  	join) and lets the clients select appropriate servers in a distributed  	manner such that the server resource is efficiently utilized. Using  	simulation, we study the performance of the proposed algorithm and  	show that it is simple, yet effective in achieving its design goal.  	In particular, we show that the performance of our algorithm is comparable  	to, or sometimes even better than, that of centralized greedy algorithms,  	which require global information and extensive computations.
+Large scale interactive online games aim to support a very large number
+of game players simultaneously. To support hundreds of thousands
+of concurrent players, game providers have so far focused on developing
+highly scalable game server architectures and extensible network
+infrastructures. Recently, distributed online games are beginning
+to incorporate more interactive features and action sequences; thus,
+it becomes increasingly important to provision server resources in
+an efficient manner to support real-time interaction between the
+users. In this paper, we present a novel distributed algorithm to
+select game servers for a group of clients participating in a large
+scale interactive online game session. The goal of server selection
+is to minimize the server resource usage while satisfying a real-time
+delay constraint. We develop a synchronization delay model for interactive
+games and formulate the server selection problem, and prove that
+the considered problem is NP-hard. The proposed algorithm, called
+zoom-in zoom-out, is adaptive to session dynamics (e.g., clients
+join) and lets the clients select appropriate servers in a distributed
+manner such that the server resource is efficiently utilized. Using
+simulation, we study the performance of the proposed algorithm and
+show that it is simple, yet effective in achieving its design goal.
+In particular, we show that the performance of our algorithm is comparable
+to, or sometimes even better than, that of centralized greedy algorithms,
+which require global information and extensive computations.

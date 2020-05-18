@@ -1,2 +1,30 @@
 Adaptive Experience Engine for Serious Games
-Designing games that support knowledge and skill acquisition has become  	a promising frontier of education techniques, since games are able  	to capture the user concentration for long periods and can present  	users with realistic and compelling challenges. In this scenario,  	there is a need for scientific and engineering methods to build games  	not only as more realistic simulations of the physical world but  	as means to provide effective learning experiences. Abstracting state  	of the art serious games' (SGs) features, we propose a new design  	methodology for the sand box serious games (SBSGs) class, decoupling  	content from the delivery strategy during the gameplay. This methodology  	aims at making design more efficient and standardized in order to  	meet the growing demand for interactive learning. The methodology  	consists in modeling an SBSG as a hierarchy of tasks (e.g., missions)  	and specifies the requirements for a runtime scheduling policy that  	maximizes learning objectives in a full entertainment context. The  	policy is learned by an experience engine (EE) based on computational  	intelligence. In this approach, the domain-expert author focuses  	on the creation and semantic annotation of tasks. Tasks are put in  	a repository and can then be exploited by game designers who define  	the expected learning curve and other requirements about education  	and entertainment for the game. The task sequencing that aims at  	matching such specifications with the real user profile is then presented  	to the EE. The EE can operate also in absence of the specification  	of the learning curve, continuously adapting the game flow without  	aiming at the achievement of target knowledge levels predefined by  	the author. We have implemented an EE module based on genetic computation  	and reinforcement learning (RL) atop of a state-of-the-art game engine.  	Test results show that the EE is able to define in real-time missions  	that meet the requirements expressed by the author.
+Designing games that support knowledge and skill acquisition has become
+a promising frontier of education techniques, since games are able
+to capture the user concentration for long periods and can present
+users with realistic and compelling challenges. In this scenario,
+there is a need for scientific and engineering methods to build games
+not only as more realistic simulations of the physical world but
+as means to provide effective learning experiences. Abstracting state
+of the art serious games' (SGs) features, we propose a new design
+methodology for the sand box serious games (SBSGs) class, decoupling
+content from the delivery strategy during the gameplay. This methodology
+aims at making design more efficient and standardized in order to
+meet the growing demand for interactive learning. The methodology
+consists in modeling an SBSG as a hierarchy of tasks (e.g., missions)
+and specifies the requirements for a runtime scheduling policy that
+maximizes learning objectives in a full entertainment context. The
+policy is learned by an experience engine (EE) based on computational
+intelligence. In this approach, the domain-expert author focuses
+on the creation and semantic annotation of tasks. Tasks are put in
+a repository and can then be exploited by game designers who define
+the expected learning curve and other requirements about education
+and entertainment for the game. The task sequencing that aims at
+matching such specifications with the real user profile is then presented
+to the EE. The EE can operate also in absence of the specification
+of the learning curve, continuously adapting the game flow without
+aiming at the achievement of target knowledge levels predefined by
+the author. We have implemented an EE module based on genetic computation
+and reinforcement learning (RL) atop of a state-of-the-art game engine.
+Test results show that the EE is able to define in real-time missions
+that meet the requirements expressed by the author.

@@ -1,2 +1,10 @@
 Hidden skills that support phased and agile requirements engineering
-Phased development does requirements engineering in one or a small  	number of extended phases occurring early in a project. Agile development  	also does requirements engineering, but in thousands of small conversations  	spread throughout the development life cycle. Each depends on subtly  	different skills and expertise to perform its practices - agile development  	depending heavily on ability to change working code, phased development  	depending heavily on foresight. We survey the special skills that  	each style of requirements engineering depends on in order to promise  	and deliver.
+Phased development does requirements engineering in one or a small
+number of extended phases occurring early in a project. Agile development
+also does requirements engineering, but in thousands of small conversations
+spread throughout the development life cycle. Each depends on subtly
+different skills and expertise to perform its practices - agile development
+depending heavily on ability to change working code, phased development
+depending heavily on foresight. We survey the special skills that
+each style of requirements engineering depends on in order to promise
+and deliver.

@@ -1,2 +1,11 @@
-Coping with somatic illnesses in online support groups: Do the feared 	disadvantages actually occur?
-People in stressful circumstances, such as serious health conditions, 	often turn to support groups. With the increase in the availability 	and popularity of the Internet, the possibility has arisen to join 	support groups online. Various authors have raised potential disadvantages 	of these groups, such as the lack of control of the quality of the 	information that is exchanged and the concern that the exchange within 	the group might include socially inappropriate remarks. In this study 	we explored to what extent these potential disadvantages actually 	occur. In addition, we explored who uses Dutch online support groups 	and what is exchanged by the participants. By means of ''content 	analysis'' we analyzed a random sample of 1500 messages from publicly 	available online support groups for patients with breast cancer, 	arthritis and fibromyalgia. It appeared that the online support groups 	under study were mainly used by female patients. A major part of 	the postings contained ''off topic'' remarks. Popular health related 	topics were ''restrictions in daily life'' and ''regular medication''. 	Only in a minor proportion of the postings, potential disadvantages 	were present. Therefore this study suggests that online support groups 	are a viable option for support.
+Extracting key semantic terms from Chinese speech query for web searches
+This paper discusses the challenges and proposes a solution to performing
+information retrieval on the Web using Chinese natural language speech
+query. The main contribution of this research is in devising a divide-and-conquer
+strategy to alleviate the speech recognition errors. It uses the
+query model to facilitate the extraction of main core semantic string
+(CSS) from the Chinese natural language speech query. It then breaks
+the CSS into basic components corresponding to phrases, and uses
+a multi-tier strategy to map the basic components to known phrases
+in order to further eliminate the errors. The resulting system has
+been found to be effective.

@@ -1,2 +1,18 @@
-Exstatic: a generic static checker applied to documentation systems
-Exstatic is a generic static checker developed by the author to address 	many of the practical problems in program development. Static checking 	provides a valuable means for automating time consuming checks not 	only concerned with program correctness (writing the right program), 	but also to do with style (writing the program right). Previous static 	checkers have been closely coupled with compilation systems, and 	therefore tend to be applicable to the code itself and not to all 	of the textual information (such as makefiles, comments, documentation 	sources) surrounding the code. The generic nature of Exstatic allows 	it to overcome these boundaries, and indeed it can be applied to 	any medium for which there is a formally definable syntax and (to 	an extent) semantics. Exstatic can therefore be used to increase 	the productivity and quality of documentation of programs, checking 	for such things as adherence to house style, consistency with the 	program being documented and self consistency. This paper describes 	the design and use of Exstatic, with particular reference to its 	use in documentation systems.
+SiMPE: third workshop on speech in mobile and pervasive environments
+In the past, voice-based applications have been accessed using unintelligent
+telephone devices through Voice Browsers that reside on the server.
+The proliferation of pervasive devices and the increase in their
+processing capabilities, clientside speech processing has been emerging
+as a viable alternative. In SiMPE 2008, the third in the series,
+we will continue to explore the various possibilities and issues
+that arise while enabling speech processing on resource-constrained,
+possibly mobile devices.
+
+
+In SiMPE 2007 [2], the focus was on developing regions. Given the
+importance of speech in developing regions, SiMPE 2008 will include
+"SiMPE for developing regions" as a topic of interest. As a result
+of discussions in SiMPE 2007, we plan to invite and encourage Speech
+UI designers to participate in SiMPE 2008. We will also review the
+progress made over the last two years, in the areas and key problems
+identified in SiMPE 2006 [3].

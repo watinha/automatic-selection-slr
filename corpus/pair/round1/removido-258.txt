@@ -1,2 +1,10 @@
-Pair Programming in an Introductory Computer Science Course: Initial  	Results and Recommendations
-Prior research indicates that pair programming, whereby two programmers  	work collaboratively on the same design, algorithm, code, or test,  	produces higher quality code in essentially half the time taken by  	solo programmers. An experiment was run at North Carolina to assess  	the efficacy of pair programming in the introductory CS1 course.  	Results indicate that relative to students who program individually,  	pair programmers are more self-sufficient, perform better on projects,  	and are more likely to complete the class with a C or better.
+Pair Programming in an Introductory Computer Science Course: Initial
+Results and Recommendations
+Prior research indicates that pair programming, whereby two programmers
+work collaboratively on the same design, algorithm, code, or test,
+produces higher quality code in essentially half the time taken by
+solo programmers. An experiment was run at North Carolina to assess
+the efficacy of pair programming in the introductory CS1 course.
+Results indicate that relative to students who program individually,
+pair programmers are more self-sufficient, perform better on projects,
+and are more likely to complete the class with a C or better.

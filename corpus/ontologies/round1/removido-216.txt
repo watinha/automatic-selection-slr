@@ -1,2 +1,25 @@
 An Automatic Test Framework for BPEL-based Web Services
-Recent years have seen a rapid growth in the development of web services technology.  BPEL (Business Process Execution Language) as a de-facto standard for web service  orchestration has drawn particularly attention from researchers and industries. BPEL is  a semi-formal flow language with complex features, so it is essential to apply automated  validation tools in finding the interaction inconsistencies of BPEL processes. In addition  to validating the model properties by verification, it is desirable to test the correctness  with respect to the functional requirements. To test a model thoroughly, we need to  cover different execution scenarios. As is well known, it is tedious, time-consuming, and  error prone to design test cases manually, especially for complex modelling languages.  Hence, it is desirable to apply existing model-based-testing techniques in the domain  of web services.  This thesis proposes a web service automaton as the operational semantics for  BPEL, and presents an automatic test framework to verify and test BPEL processes.  From the testing point of view, we show the suitability of using web service automaton  formalism for BPEL by modelling various BPEL features. Based on the web service  automata, we provide a model checking based test framework to verify the general  properties and generate test cases for BPEL processes. The framework supports both  control-flow and data-flow testing of BPEL. Two levels of test cases can be generated to  check the behavioural and interface conformance for web services. To our knowledge,  none of the prior research studies the verificatioll and testing for BPEL control and  data flows in a unified approach.  The formal work in this thesis underpins the development of an automated test case  generation and execution tool that has been integrated into the DBE Studio that was  developed under the EU funded Digital Business Ecosystems Integrated Programme. 
+Recent years have seen a rapid growth in the development of web services technology.
+BPEL (Business Process Execution Language) as a de-facto standard for web service
+orchestration has drawn particularly attention from researchers and industries. BPEL is
+a semi-formal flow language with complex features, so it is essential to apply automated
+validation tools in finding the interaction inconsistencies of BPEL processes. In addition
+to validating the model properties by verification, it is desirable to test the correctness
+with respect to the functional requirements. To test a model thoroughly, we need to
+cover different execution scenarios. As is well known, it is tedious, time-consuming, and
+error prone to design test cases manually, especially for complex modelling languages.
+Hence, it is desirable to apply existing model-based-testing techniques in the domain
+of web services.
+This thesis proposes a web service automaton as the operational semantics for
+BPEL, and presents an automatic test framework to verify and test BPEL processes.
+From the testing point of view, we show the suitability of using web service automaton
+formalism for BPEL by modelling various BPEL features. Based on the web service
+automata, we provide a model checking based test framework to verify the general
+properties and generate test cases for BPEL processes. The framework supports both
+control-flow and data-flow testing of BPEL. Two levels of test cases can be generated to
+check the behavioural and interface conformance for web services. To our knowledge,
+none of the prior research studies the verificatioll and testing for BPEL control and
+data flows in a unified approach.
+The formal work in this thesis underpins the development of an automated test case
+generation and execution tool that has been integrated into the DBE Studio that was
+developed under the EU funded Digital Business Ecosystems Integrated Programme. 

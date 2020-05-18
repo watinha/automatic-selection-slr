@@ -1,2 +1,16 @@
 Effects of pair programming at the development team level: an experiment
-We studied the effects of pair programming in a team context on productivity,  	defects, design quality, knowledge transfer and enjoyment of work.  	Randomly formed three pair programming and two solo programming teams  	performed the same 400-hour fixed-effort project. Pair programming  	increased the development effort of the first tasks considerably  	compared to solo programming, but later the differences were small.  	Due to this learning time the pair programming teams had worse overall  	project productivity. Task complexity did not affect the effort differences  	between solo and pair programming. The pair programming teams wrote  	code with fewer defects, but were less careful in system testing,  	and therefore delivered systems with more defects. They may have  	relied too much on the peer review taking place during programming.  	Knowledge transfer seemed to be higher within the pair programming  	teams. Finally, we also found weak support for higher enjoyment of  	work in the pair programming teams.
+We studied the effects of pair programming in a team context on productivity,
+defects, design quality, knowledge transfer and enjoyment of work.
+Randomly formed three pair programming and two solo programming teams
+performed the same 400-hour fixed-effort project. Pair programming
+increased the development effort of the first tasks considerably
+compared to solo programming, but later the differences were small.
+Due to this learning time the pair programming teams had worse overall
+project productivity. Task complexity did not affect the effort differences
+between solo and pair programming. The pair programming teams wrote
+code with fewer defects, but were less careful in system testing,
+and therefore delivered systems with more defects. They may have
+relied too much on the peer review taking place during programming.
+Knowledge transfer seemed to be higher within the pair programming
+teams. Finally, we also found weak support for higher enjoyment of
+work in the pair programming teams.

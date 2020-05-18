@@ -1,2 +1,9 @@
-Constructing of the risk classification model of cervical cancer 	by artificial neural network
-It is significant to build up the risk classification model of cervical 	cancer for the evaluation of high-risk population. Data were divided 	into two sub-data, one is model building sub-data, the other is model 	testing sub-data. By using of artificial neural network (ANN) analysis 	method (Back Propagation, BP), the risk classification model had 	been setup. The parameters were listed as following: the data had 	been treated as normalization, and the level of network was 3, and 	the number of neural in hidden level was 5, and the transmitting 	function between input level and hidden level was logsig, and the 	transmitting function between hidden level and output level was purelin, 	and the studying method was Levenberg-Marquardt optimizing, and the 	error parameter eg=0.09, maximum epochs me=8000. The model quality 	was good (sensitivity=98%, specificity=97%), and the back calculation 	fitting result was excellent. The predictive value of 10 unknown 	data was also good, during which the correct rate of control group 	was 100%, and that of case group was 80%. Because ANN is with the 	character of self-organizing, self-learning and self-adapting, the 	ANN risk classification model is fit for the screening of high-risk 	population of local cervical cancer, risk evaluation of cervical 	cancer and the effect evaluation of the prevention method after training 	the model by new data of some area.
+Active capture and folk computing [multimedia computing]
+The domains of folk computing applications touch on areas of interest
+to people around the world but are of pressing need to those in the
+developing world who often lack access to basic services and rights:
+especially health care, education, nutrition, and protection of human
+rights. In this paper, we describe how a new paradigm for media capture,
+called active capture, and toolkit support for creating applications
+of this type, work toward supporting the development of multimedia
+applications and interfaces for folk computing

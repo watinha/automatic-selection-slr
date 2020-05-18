@@ -1,2 +1,20 @@
 Visual generative behavior patterns to facilitate game development
-The worldwide videogame and interactive entertainment industry revenue  	is expected to reach over $50 billion in 2009 [2]. The majority of  	the effort in game development revolves around content creation and  	many resources are spent on it. Game companies construct or buy a  	set of content creation tools to aid the designers in their work.  	However, these tools only focus on the artwork, interfaces, game  	levels, and so on but none of them really focus on the content which  	is related to the gameplay or the game story, that is, the dynamic  	aspect of the game. Creating this story-related content, namely the  	scripts for the behavioral aspect in computer games, and translating  	this into appropriate program code is a very difficult task. For  	complex scripting, the developer has to resort to manually write  	code using scripting languages (i.e. Lua or Python). Furthermore,  	these languages are not tailored for games which also do not make  	them easier. Over the years, game developers have come up with many  	predefined (parts of) solutions to improve the development process  	[1][3]. In addition, in practice, people are also trying to avoid  	writing long scripts by using existing scripts and customizing them  	to fit their needs.
+The worldwide videogame and interactive entertainment industry revenue
+is expected to reach over $50 billion in 2009 [2]. The majority of
+the effort in game development revolves around content creation and
+many resources are spent on it. Game companies construct or buy a
+set of content creation tools to aid the designers in their work.
+However, these tools only focus on the artwork, interfaces, game
+levels, and so on but none of them really focus on the content which
+is related to the gameplay or the game story, that is, the dynamic
+aspect of the game. Creating this story-related content, namely the
+scripts for the behavioral aspect in computer games, and translating
+this into appropriate program code is a very difficult task. For
+complex scripting, the developer has to resort to manually write
+code using scripting languages (i.e. Lua or Python). Furthermore,
+these languages are not tailored for games which also do not make
+them easier. Over the years, game developers have come up with many
+predefined (parts of) solutions to improve the development process
+[1][3]. In addition, in practice, people are also trying to avoid
+writing long scripts by using existing scripts and customizing them
+to fit their needs.

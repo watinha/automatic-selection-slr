@@ -1,0 +1,12 @@
+Creating a realistic context for team projects in HCI
+Team projects are nowadays common practice in HCI education. This
+paper focuses on the role of clients and users in team projects in
+introductory HCI courses. In order to provide projects with a realistic
+context we invite people from industry to serve as clients for the
+student teams. Some of them have a professional interest in participating
+in our course and define a project themselves. Another way we make
+projects realistic is to have teams evaluate their designs with real
+users.We describe how we incorporate the role of clients and users
+in our courses and describe our experiences. One of the results of
+our evaluations is that most students find it very interesting and
+stimulating to work with a client on a 'real' project from industry.

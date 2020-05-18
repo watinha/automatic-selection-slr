@@ -1,2 +1,21 @@
 Software Testing Techniques
-Abstract  The aim is to compare different testing techniques and what efforts it takes to find genuine  failures on particular level of test. These levels are e.g. unit/component level, i.e.  code/designer level testing, as well as on other test levels, such as integrated and system test  level. Test cases are often complementary to each other, and explore different aspects of the  program being tested. Writing efficient test cases is a necessity, since testing all aspects of a  complex system is not feasible. For large complex systems, the share amount of code, and the  probability of typical failures at different level implies that there are typical test case  approaches that should be more efficient than others. Yet, there is not much research  comparing testing techniques other than comparing two particular techniques, and often the  evaluation is done on very small code samples. The purpose of this research is first to  understand, classify and explore test techniques and their efficiency to find failures, which  includes doing a thorough literature study among what has been evaluated and how at earlier  stages. Secondly, the analysis of this will result in an exploration of the existing  classifications, and its benefits and downfalls. Thirdly the work will focus on trying to select  some testing technique, and understand and explore how to actually evaluate the testing  technique in a proper way by doing experiments, and finally to expand this experiment to  more testing techniques and a larger scale of code, which will include experiments on  efficiency. This efficiency exploration will lead the research into areas to explore where  automated techniques is interesting result of study.
+Abstract
+The aim is to compare different testing techniques and what efforts it takes to find genuine
+failures on particular level of test. These levels are e.g. unit/component level, i.e.
+code/designer level testing, as well as on other test levels, such as integrated and system test
+level. Test cases are often complementary to each other, and explore different aspects of the
+program being tested. Writing efficient test cases is a necessity, since testing all aspects of a
+complex system is not feasible. For large complex systems, the share amount of code, and the
+probability of typical failures at different level implies that there are typical test case
+approaches that should be more efficient than others. Yet, there is not much research
+comparing testing techniques other than comparing two particular techniques, and often the
+evaluation is done on very small code samples. The purpose of this research is first to
+understand, classify and explore test techniques and their efficiency to find failures, which
+includes doing a thorough literature study among what has been evaluated and how at earlier
+stages. Secondly, the analysis of this will result in an exploration of the existing
+classifications, and its benefits and downfalls. Thirdly the work will focus on trying to select
+some testing technique, and understand and explore how to actually evaluate the testing
+technique in a proper way by doing experiments, and finally to expand this experiment to
+more testing techniques and a larger scale of code, which will include experiments on
+efficiency. This efficiency exploration will lead the research into areas to explore where
+automated techniques is interesting result of study.

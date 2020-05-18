@@ -1,2 +1,12 @@
 AN EVALUATION OF DISPERSION RELATION OF PROPAGATION OF ELECTROMAGNETIC WAVE WITH TM MODES IN CARBON NANOTUBE WITH AND WITHOUT ELECTRON ENERGY-BAND EFFECTS
-Abstract: - Using the theoretical formalism of Li Wei et al (Phys. LettA 333 (2004)) and Afshin Moradi (J.  Electromagnetic Analysis & Applications (2010), we have studied the dispersion relation of TM-mode with and without  electron energy band effects. Without including electron energy band effects, the dispersion relation can be studied with  linearized hydrodynamic theory with Maxwell equations. This indicates that the TM-mode is very different from TE-mode.  Here, the dispersion relation does not approach to well-known dispersion relation of 2D electron-gas. Besides, it also  indicates that internal interaction forces play an important role on the dispersion relation of TM-mode. The dispersion  relation of TM-mode including electron energy band effects can be studied by means of the semi classical kinectic theory of  the electron dynamics. The effect of energy band structure is taken into account for surface plasmon oscillations in the zigzag  and armchair nanotube of metallic character. Our theoretical results also indicate that plasmon waves are not sensitive  to the types of metallic nanotube with same radius. Our theoretically evaluated results are in good agreement with those of  the other theoretical workers.
+Abstract: - Using the theoretical formalism of Li Wei et al (Phys. LettA 333 (2004)) and Afshin Moradi (J.
+Electromagnetic Analysis & Applications (2010), we have studied the dispersion relation of TM-mode with and without
+electron energy band effects. Without including electron energy band effects, the dispersion relation can be studied with
+linearized hydrodynamic theory with Maxwell equations. This indicates that the TM-mode is very different from TE-mode.
+Here, the dispersion relation does not approach to well-known dispersion relation of 2D electron-gas. Besides, it also
+indicates that internal interaction forces play an important role on the dispersion relation of TM-mode. The dispersion
+relation of TM-mode including electron energy band effects can be studied by means of the semi classical kinectic theory of
+the electron dynamics. The effect of energy band structure is taken into account for surface plasmon oscillations in the zigzag
+and armchair nanotube of metallic character. Our theoretical results also indicate that plasmon waves are not sensitive
+to the types of metallic nanotube with same radius. Our theoretically evaluated results are in good agreement with those of
+the other theoretical workers.

@@ -1,2 +1,12 @@
-Active capture and folk computing [multimedia computing]
-The domains of folk computing applications touch on areas of interest 	to people around the world but are of pressing need to those in the 	developing world who often lack access to basic services and rights: 	especially health care, education, nutrition, and protection of human 	rights. In this paper, we describe how a new paradigm for media capture, 	called active capture, and toolkit support for creating applications 	of this type, work toward supporting the development of multimedia 	applications and interfaces for folk computing
+Teachers` computer anxiety: implications for professionaldevelopment
+Changes in society‘s expectations mean that school teachers need to
+be able to use computers in education with minimal anxiety. Some
+350 primary and secondary school teachers completed a questionnaire
+that identified sources of computer anxiety and provided teachers
+with the opportunity to suggest solutions. The teachers were very
+supportive of the use of computers in education, but reported moderately
+low levels of computer competence. A number of suggestions for the
+reduction of computer anxiety are made, based on teachers‘ first-hand
+accounts, and an analysis of trends in the quantitative data. The
+implications of these suggestions for teachers‘ professional development
+are explored

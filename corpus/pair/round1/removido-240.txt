@@ -1,2 +1,24 @@
 Pair Programming in Introductory Programming Labs
-This project looks at the practice of pair programming as a vehicle  	for improving the learning environment in introductory computer science  	labs, a nearly universal course for all engineering students. Pair  	programming is a practice in which two programmers work collaboratively  	at one computer, on the same design, algorithm, or code. Prior research  	indicates that pair programmers produce higher quality code in essentially  	half the time taken by solo programmers. A multiyear project is currently  	underway at North Carolina State University, looking at the efficacy  	of pair programming in an introductory Computer Science (CS1) course.  	Results indicate that student pair programmers are more self-sufficient  	in lab and are more likely to complete the class with a grade of  	C or better. The effect of pair programming on specific graded exams  	and projects are less clear. Demographic data, prior achievement  	scores, and current course scores were brought together with interview  	data, attitude surveys, and in-lab observations to guide the evaluation.  	As part of the in-lab data collection, novel techniques are being  	developed to better understand pair dynamics and student/instructor  	interactions. Collectively, these evaluative methods have guided  	the iterative implementation of paired programming instructional  	methods. Current challenges being addressed include lab instructor  	training, student/instructor concerns over equity in effort on assignments,  	pair dynamics in lab, and collaborative logistics of pair programming  	outside of lab.
+This project looks at the practice of pair programming as a vehicle
+for improving the learning environment in introductory computer science
+labs, a nearly universal course for all engineering students. Pair
+programming is a practice in which two programmers work collaboratively
+at one computer, on the same design, algorithm, or code. Prior research
+indicates that pair programmers produce higher quality code in essentially
+half the time taken by solo programmers. A multiyear project is currently
+underway at North Carolina State University, looking at the efficacy
+of pair programming in an introductory Computer Science (CS1) course.
+Results indicate that student pair programmers are more self-sufficient
+in lab and are more likely to complete the class with a grade of
+C or better. The effect of pair programming on specific graded exams
+and projects are less clear. Demographic data, prior achievement
+scores, and current course scores were brought together with interview
+data, attitude surveys, and in-lab observations to guide the evaluation.
+As part of the in-lab data collection, novel techniques are being
+developed to better understand pair dynamics and student/instructor
+interactions. Collectively, these evaluative methods have guided
+the iterative implementation of paired programming instructional
+methods. Current challenges being addressed include lab instructor
+training, student/instructor concerns over equity in effort on assignments,
+pair dynamics in lab, and collaborative logistics of pair programming
+outside of lab.

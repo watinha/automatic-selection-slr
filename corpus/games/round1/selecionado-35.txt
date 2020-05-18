@@ -1,2 +1,18 @@
 Evolution of 3D mobile games development
-3D computer graphics have been an important feature in games development  	since it was first introduced in the early 80s and there is no doubt  	that 3D based content is often viewed as more attractive in games  	than the more abstract 2D graphics. Many games publishers are keen  	to leverage their success in the console market into the mobile phone  	platform. However, the resource constraints of mobile phones and  	the fragmented nature of the environment present considerable challenges  	for games developers. In this paper we consider some of the current  	constraints together with current and, probable, future developments  	both in the software and hardware of mobile phones. As part of this  	process we benchmark some of the latest and most prevalent software  	and hardware devices to ascertain both the quality of the graphics  	produced and the effects upon battery life. Whilst our test results  	highlight that the current market does indeed present challenges,  	our research into the future developments highlights the fact we  	are approaching greater standardization, which will be an important  	factor for the successful development of 3D mobile games.
+3D computer graphics have been an important feature in games development
+since it was first introduced in the early 80s and there is no doubt
+that 3D based content is often viewed as more attractive in games
+than the more abstract 2D graphics. Many games publishers are keen
+to leverage their success in the console market into the mobile phone
+platform. However, the resource constraints of mobile phones and
+the fragmented nature of the environment present considerable challenges
+for games developers. In this paper we consider some of the current
+constraints together with current and, probable, future developments
+both in the software and hardware of mobile phones. As part of this
+process we benchmark some of the latest and most prevalent software
+and hardware devices to ascertain both the quality of the graphics
+produced and the effects upon battery life. Whilst our test results
+highlight that the current market does indeed present challenges,
+our research into the future developments highlights the fact we
+are approaching greater standardization, which will be an important
+factor for the successful development of 3D mobile games.

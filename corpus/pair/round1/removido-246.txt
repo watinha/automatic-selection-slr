@@ -1,2 +1,11 @@
 Pair Programming: Experience the Difference
-Pair programming is emerging as an important technique for developing  	higher quality code, faster. With pair programming, two software  	developers work on one computer, collaborating on the same design,  	algorithm, code, or test. This tutorial examines pair programming  	research results and anecdotal experiences of programmers who have  	transitioned to pair programming. It will discuss what works and  	what doesn’t and will also explain techniques for fostering support  	in making a transition to pair programming – support from management  	and support from peers. Hands-on activities will be used to demonstrate  	pair programming benefits.
+Pair programming is emerging as an important technique for developing
+higher quality code, faster. With pair programming, two software
+developers work on one computer, collaborating on the same design,
+algorithm, code, or test. This tutorial examines pair programming
+research results and anecdotal experiences of programmers who have
+transitioned to pair programming. It will discuss what works and
+what doesn’t and will also explain techniques for fostering support
+in making a transition to pair programming – support from management
+and support from peers. Hands-on activities will be used to demonstrate
+pair programming benefits.

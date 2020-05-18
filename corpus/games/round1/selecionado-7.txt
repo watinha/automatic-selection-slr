@@ -1,2 +1,21 @@
-Extending the Reference Method for Game Production: A Situational  	Approach
-In this research, we describe the development of a situational game  	production method. In earlier research, the reference method for  	game production was proposed, which gives a complete overview of  	all possible activities and deliverables in a game production process.  	However, this method is a generic method that is not suitable for  	every game development project. The need exists for a method that  	can be tuned to different situations. In respect to this research,  	a situation corresponds to a game genre or other factors that influence  	the development steps. We conducted case studies at nine Dutch game  	companies, in order to a) validate the activities and deliverables  	in the existing reference method, and b) analyze the companiespsila  	existing methods in order to identify new situational routes which  	can be used to extend the reference method. We use method engineering  	principles and a meta-modeling technique to document, compare and  	analyze the nine methods. Based on the analysis, we propose four  	new routes, where each route represents a specific production case.  	The four routes are: serious games, online games, prototype and localization.  	Finally, we integrate the new routes with the existing method by  	developing a route map.
+Extending the Reference Method for Game Production: A Situational
+Approach
+In this research, we describe the development of a situational game
+production method. In earlier research, the reference method for
+game production was proposed, which gives a complete overview of
+all possible activities and deliverables in a game production process.
+However, this method is a generic method that is not suitable for
+every game development project. The need exists for a method that
+can be tuned to different situations. In respect to this research,
+a situation corresponds to a game genre or other factors that influence
+the development steps. We conducted case studies at nine Dutch game
+companies, in order to a) validate the activities and deliverables
+in the existing reference method, and b) analyze the companiespsila
+existing methods in order to identify new situational routes which
+can be used to extend the reference method. We use method engineering
+principles and a meta-modeling technique to document, compare and
+analyze the nine methods. Based on the analysis, we propose four
+new routes, where each route represents a specific production case.
+The four routes are: serious games, online games, prototype and localization.
+Finally, we integrate the new routes with the existing method by
+developing a route map.

@@ -1,2 +1,15 @@
 eXtreme Teaching: A framework for continuous improvement
-Many universities have experienced an increase in the intake of students  	and at the same time cuts in the budgets for teaching. Many teachers  	have discovered, for a number of reasons, that they have to adjust  	their teaching or even a course with short notice. These facts pose  	a challenge to the teachers’ agility in adapting to changes—and in  	doing it in a cost-efficient way. We propose eXtreme Teaching as  	a framework that allows teachers to focus on experimenting with and  	improving their teaching techniques without compromising quality.  	The framework and the associated practices provide quick, accurate  	feedback that teachers can act on. eXtreme Teaching will allow better  	student learning, stronger relationships with the students, increased  	interaction and development of the staff involved, less risk—and  	probably happier staff members. In this paper, we will describe the  	eXtreme Teaching framework and discuss and motivate its background.
+Many universities have experienced an increase in the intake of students
+and at the same time cuts in the budgets for teaching. Many teachers
+have discovered, for a number of reasons, that they have to adjust
+their teaching or even a course with short notice. These facts pose
+a challenge to the teachers’ agility in adapting to changes—and in
+doing it in a cost-efficient way. We propose eXtreme Teaching as
+a framework that allows teachers to focus on experimenting with and
+improving their teaching techniques without compromising quality.
+The framework and the associated practices provide quick, accurate
+feedback that teachers can act on. eXtreme Teaching will allow better
+student learning, stronger relationships with the students, increased
+interaction and development of the staff involved, less risk—and
+probably happier staff members. In this paper, we will describe the
+eXtreme Teaching framework and discuss and motivate its background.

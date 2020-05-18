@@ -1,2 +1,11 @@
 Towards an AJAX-based game engine
-In recent years, browser games have considerably improved so that  	regarding the number of players they nowadays can compete with MMOGs.  	At the same time, they have abandoned their own principles by increasingly  	relying on proprietary technology. In this paper, we propose the  	concept of a 2D single player game engine that is based on new Web  	2.0 standards (especially AJAX) which promise to alleviate some of  	the problems that caused the mentioned technological shift. No additional  	platform besides a standard browser will be needed to run instantiated  	games, since the engine will be based on JavaScript. Game content  	will be loaded on-demand using an AJAX-compliant update mechanism.
+In recent years, browser games have considerably improved so that
+regarding the number of players they nowadays can compete with MMOGs.
+At the same time, they have abandoned their own principles by increasingly
+relying on proprietary technology. In this paper, we propose the
+concept of a 2D single player game engine that is based on new Web
+2.0 standards (especially AJAX) which promise to alleviate some of
+the problems that caused the mentioned technological shift. No additional
+platform besides a standard browser will be needed to run instantiated
+games, since the engine will be based on JavaScript. Game content
+will be loaded on-demand using an AJAX-compliant update mechanism.

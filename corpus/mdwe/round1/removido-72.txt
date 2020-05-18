@@ -1,2 +1,2 @@
-Designing and architecting process-aware Web applications with {EPML
+Designing and architecting process-aware Web applications with {EPML}
 An emerging class of Web applications is driving the evolution of the Web toward a Business System. These applications allow the participation of several actors to complex enterprise-wide (or even multi-enterprise) business processes and pose new challenges to the software designer and to the software architect. In this paper we show how, promoting an effective separation of concerns, a process modeling language and its enactment engine can be used in the modeling and in the implementation of process-aware Web applications.

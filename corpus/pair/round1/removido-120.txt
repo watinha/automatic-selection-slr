@@ -1,2 +1,16 @@
 Programming in pairs in high schools
-Extreme programming (XP) is a new style of software development focusing  	on excellent applications of programming techniques, clear communication,  	and team work, which gives unimaginable results. A major practice  	of extreme programming is pair programming. There are two programmers  	working side by side at the same computer, collaborating on the same  	analysis, the same design, implementation and test. Proponents of  	pair programming argue that programs produced by pairs are of higher  	quality, with less errors, better design than those produced by one  	programmer. And they are made in the shortest time possible as well.  	We think that pair programming model has also been found to be beneficial  	for students. Initial quantitative and qualitative results demonstrate  	that the use of pair programming in the computer science classroom  	enhances student learning and satisfaction. We explore the nature  	of pair programming, then examine the ways such a practise may enhance  	teaching and learning in computer science education.
+Extreme programming (XP) is a new style of software development focusing
+on excellent applications of programming techniques, clear communication,
+and team work, which gives unimaginable results. A major practice
+of extreme programming is pair programming. There are two programmers
+working side by side at the same computer, collaborating on the same
+analysis, the same design, implementation and test. Proponents of
+pair programming argue that programs produced by pairs are of higher
+quality, with less errors, better design than those produced by one
+programmer. And they are made in the shortest time possible as well.
+We think that pair programming model has also been found to be beneficial
+for students. Initial quantitative and qualitative results demonstrate
+that the use of pair programming in the computer science classroom
+enhances student learning and satisfaction. We explore the nature
+of pair programming, then examine the ways such a practise may enhance
+teaching and learning in computer science education.

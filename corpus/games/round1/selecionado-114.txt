@@ -1,2 +1,9 @@
 Games: Once More, with Feeling
-Achieving increased player engagement involves adding deep emotional  	experiences to videogames. Games and simulations are already capable  	of gripping a player's emotions. From the earliest days of flight  	simulators, for example, professional pilots have frequently reported  	feeling stressed during simulated emergencies in a training simulator.  	Similarly, gamers say that they feel tension during intense moments  	in a first-person shooter. Games also seem effective at creating  	feelings of triumph and at startling or exciting players.
+Achieving increased player engagement involves adding deep emotional
+experiences to videogames. Games and simulations are already capable
+of gripping a player's emotions. From the earliest days of flight
+simulators, for example, professional pilots have frequently reported
+feeling stressed during simulated emergencies in a training simulator.
+Similarly, gamers say that they feel tension during intense moments
+in a first-person shooter. Games also seem effective at creating
+feelings of triumph and at startling or exciting players.

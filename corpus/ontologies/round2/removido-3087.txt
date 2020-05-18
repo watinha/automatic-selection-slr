@@ -1,2 +1,31 @@
 Automated synthesis of domain-specific model interpreters
-Software architecture models are specifications of the principal design decisions about a  software system that primarily govern its structure, behavior, and quality. Architecture  models provide a blueprint for how the system is implemented, serve as a basis for experimentation  with and rationalization of design decisions, and enable the automation  of software engineering tasks. Domain-specific languages (DSLs) are modeling languages  that are defined and customized for a particular family of problems or systems (the domain).  DSLs are able to concisely and intuitively express software architecture models  because they natively include the design abstractions that are most useful and natural  for the system under development.  However, because DSLs have non-standard semantics that cannot be known a priori,  leveraging architecture models specified in a DSL for automated quality analysis, code  generation, and other activities requires the implementation of specialized tools, called  model interpreters, that perform these functions. Implementation and maintenance of  domain-specific model interpreters are widely recognized as difficult and complex tasks  that incur a significant burden on software engineers and reduce the appeal of the DSL  approach.  In this dissertation, I describe XTEAM, an integrated set of processes, notations,  tools, and designs that enable the automated synthesis of model interpreters for DSLs.  The key elements of XTEAM are (1) semantics embedded in the DSL specification (called  a metamodel), (2) a metamodel interpreter that automatically synthesizes transformation  rules derived from those semantics, and (3) a reusable model interpreter framework that  applies those transformation rules in an efficient and structured way to domain-specific  models. The impact of XTEAM is that software engineers can use a DSL and perform  automated model analysis, code generation, and other types of model transformation  and manipulation without having to develop custom tools, greatly reducing the time,  effort, expense, and risk associated with domain-specific modeling. XTEAM has been  and continues to be used successfully on a number of software engineering projects, and  experimental evaluation of XTEAM indicates that, even when pessimistic assumptions  are made, XTEAM automates what would otherwise require multiple person-months of  effort.
+Software architecture models are specifications of the principal design decisions about a
+software system that primarily govern its structure, behavior, and quality. Architecture
+models provide a blueprint for how the system is implemented, serve as a basis for experimentation
+with and rationalization of design decisions, and enable the automation
+of software engineering tasks. Domain-specific languages (DSLs) are modeling languages
+that are defined and customized for a particular family of problems or systems (the domain).
+DSLs are able to concisely and intuitively express software architecture models
+because they natively include the design abstractions that are most useful and natural
+for the system under development.
+However, because DSLs have non-standard semantics that cannot be known a priori,
+leveraging architecture models specified in a DSL for automated quality analysis, code
+generation, and other activities requires the implementation of specialized tools, called
+model interpreters, that perform these functions. Implementation and maintenance of
+domain-specific model interpreters are widely recognized as difficult and complex tasks
+that incur a significant burden on software engineers and reduce the appeal of the DSL
+approach.
+In this dissertation, I describe XTEAM, an integrated set of processes, notations,
+tools, and designs that enable the automated synthesis of model interpreters for DSLs.
+The key elements of XTEAM are (1) semantics embedded in the DSL specification (called
+a metamodel), (2) a metamodel interpreter that automatically synthesizes transformation
+rules derived from those semantics, and (3) a reusable model interpreter framework that
+applies those transformation rules in an efficient and structured way to domain-specific
+models. The impact of XTEAM is that software engineers can use a DSL and perform
+automated model analysis, code generation, and other types of model transformation
+and manipulation without having to develop custom tools, greatly reducing the time,
+effort, expense, and risk associated with domain-specific modeling. XTEAM has been
+and continues to be used successfully on a number of software engineering projects, and
+experimental evaluation of XTEAM indicates that, even when pessimistic assumptions
+are made, XTEAM automates what would otherwise require multiple person-months of
+effort.

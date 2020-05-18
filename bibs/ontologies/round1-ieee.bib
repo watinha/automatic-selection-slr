@@ -1,338 +1,295 @@
-@Article{
-id = {1737},
+@Article{1737,
 title = {Testing-Based Process for Service-Oriented Applications},
 abstract = {Abstract:
 Service-Oriented Computing allows building applications by reusing web-accessible services. However, current approaches still involve a large effort both at discovery of services and their successful integration. This paper presents a novel approach to assist developers at discovery, selection and integration of services. In particular, the paper focuses on the selection method that involves two main evaluations on candidate services to achieve a concrete decision upon the most appropriate service. Initially, a syntactic Interface Compatibiliy assessment characterizes the list of candidate services according to a calculated syntactic distance to then proceed with a Behavior Compatibility evaluation that is based on a blackbox testing framework. The usefulness of the selection method is highlighted through a series of case studies.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1738},
+@Article{1738,
 title = {SDA-CLOUD: A Multi-VM Architecture for Adaptive Dynamic Data Race Detection},
 abstract = {Abstract:
 A concrete service consists of a number of program components, each of which is integrated to the service at either design time or runtime. In testing a concrete service, testers should validate the correctness of each of its components under diverse service consumption scenarios. Analyzing the program executions of these components under different configurations allows developers to compare and pinpoint issues therein. There is surprisingly little work in bridging this gap. In this paper, to the best of our knowledge, we propose the first work in designing dynamic analysis-as-a-service using a multi-virtual machine (multi-VM) approach to dynamic data race detection. Almost all existing work on dynamic data race detection focuses on improving detection precision, efficiency, or coverage of thread interleaving scenarios on the same but single compiled concurrent program component. Our model continually selects VM instances, each hosting a different compiled version of the same program component and running a state-of-the-art detector to detect data races. As such, our model innovatively takes existing race detectors as building blocks and operates at a higher level of abstraction. We have evaluated our proposal through an experiment. The experiment reveals that the multi-VM approach is feasible in monitoring multiple compiled versions and can detect different races both in amount and in detection probability. Under a limited execution budget constraint, the multi-VM approach is also significantly more effective in detecting races than approaches that use single compiled versions only. Some races hidden deeply in one compiled version have been found to be significantly more detectable in some other compiled versions of the same service component.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1739},
+@Article{1739,
 title = {8th International Workshop on Automation of Software Test (AST 2013)},
 abstract = {Abstract:
 This paper is a report on The 8th IEEE/ACM International Workshop on Automation of Software Test (AST 2013) at the 35th International Conference on Software Engineering (ICSE 2013). It sets a special theme on testing-as-a-service (TaaS). Keynote speech and charette discussions are organized around this special theme. Eighteen full research papers and six short papers will be presented in the two-day workshop. The report will give the background of the workshop and the selection of the special theme, and report on the organization of the workshop. The provisional program will be presented with a list of the sessions and papers to be presented at the workshop.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1741},
+@Article{1741,
 title = {X-Check: A Novel Cross-Browser Testing Service Based on Record/Replay},
 abstract = {Abstract:
 With the advent of Web 2.0 application, and the increasing number of browsers and platforms on which the applications can be executed, cross-browser incompatibilities (XBIs) are becoming a serious problem for organizations to develop web-based software. Although some techniques and tools have been proposed to identify XBIs, they cannot assure the same execution when the application runs across different browsers as only explicit user activity is considered, and thus prone to generating both false positives and false negatives. To address this limitation, this paper describes X-Check, a platform that enables cross-browser testing as a service by leveraging record/replay technique. Comparing to existing techniques and tools, X-Check supports to detect cross-browser issues with high accuracy. It also provides useful support to developers for diagnosis and (eventually) elimination of XBIs. Our empirical evaluation shows that X-Check is effective, improves the state of the art.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1742},
+@Article{1742,
 title = {Big SaaS: The Next Step beyond Big Data},
 abstract = {Abstract:
 Software-as-a-Service (SaaS) is a model of cloud computing in which software functions are delivered to the users as services. The past few years have witnessed its global flourishing. In the foreseeable future, SaaS applications will integrate with the Internet of Things, Mobile Computing, Big Data, Wireless Sensor Networks, and many other computing and communication technologies to deliver customizable intelligent services to a vast population. This will give rise to an era of what we call Big SaaS systems of unprecedented complexity and scale. They will have huge numbers of tenants/users interrelated in complex ways. The code will be complex too and require Big Data but provide great value to the customer. With these benefits come great societal risks, however, and there are other drawbacks and challenges. For example, it is difficult to ensure the quality of data and metadata obtained from crowd sourcing and to maintain the integrity of conceptual model. Big SaaS applications will also need to evolve continuously. This paper will discuss how to address these challenges at all stages of the software lifecycle.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1744},
+@Article{1744,
 title = {Whitening SOA Testing via Event Exposure},
 abstract = {Abstract:
 Whitening the testing of service-oriented applications can provide service consumers confidence on how well an application has been tested. However, to protect business interests of service providers and to prevent information leakage, the implementation details of services are usually invisible to service consumers. This makes it challenging to determine the test coverage of a service composition as a whole and design test cases effectively. To address this problem, we propose an approach to whiten the testing of service compositions based on events exposed by services. By deriving event interfaces to explore only necessary test coverage information from service implementations, our approach allows service consumers to determine test coverage based on selected events exposed by services at runtime without releasing the service implementation details. We also develop an approach to design test cases effectively based on event interfaces concerning both effectiveness and information leakage. The experimental results show that our approach outperforms existing testing approaches for service compositions with up to 49 percent more test coverage and an up to 24 percent higher fault-detection rate. Moreover, our solution can trade off effectiveness, efficiency, and information leakage for test case generation.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1745},
+@Article{1745,
 title = {An Intelligent Broker Approach to Semantics-Based Service Composition},
 abstract = {Abstract:
 This paper proposes an intelligent broker approach to service composition and collaboration. The broker employs a planner to generate service composition plans according to service usage and workflow knowledge, dynamically searches for services according to the plan, then invokes and coordinates the executions of the selected services at runtime. A prototype called I-Broker has been implemented to support the approach, which can be instantiated by populating the knowledge-base with domain specific knowledge to form domain specific brokers. This paper also reports experiments that evaluate the scalability of the approach},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1746},
+@Article{1746,
 title = {Architecturing Dynamic Data Race Detection as a Cloud-Based Service},
 abstract = {Abstract:
 A web-based service consists of layers of programs (components) in the technology stack. Analyzing program executions of these components separately allows service vendors to acquire insights into specific program behaviors or problems in these components, thereby pinpointing areas of improvement in their offering services. Many existing approaches for testing as a service take an orchestration approach that splits components under test and the analysis services into a set of distributed modules communicating through message-based approaches. In this paper, we present the first work in providing dynamic analysis as a service using a virtual machine (VM)-based approach on dynamic data race detection. Such a detection needs to track a huge number of events performed by each thread of a program execution of a service component, making such an analysis unsuitable to use message passing to transit huge numbers of events individually. In our model, we instruct VMs to perform holistic dynamic race detections on service components and only transfer the detection results to our service selection component. With such result data as the guidance, the service selection component accordingly selects VM instances to fulfill subsequent analysis requests. The experimental results show that our model is feasible.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1748},
+@Article{1748,
 title = {Preemptive Regression Test Scheduling Strategies: A New Testing Approach to Thriving on the Volatile Service Environments},
 abstract = {Abstract:
 A workflow-based web service may use ultra-late binding to invoke external web services to concretize its implementation at run time. Nonetheless, such external services or the availability of recently used external services may evolve without prior notification, dynamically triggering the workflow-based service to bind to new replacement external services to continue the current execution. Any integration mismatch may cause a failure. In this paper, we propose Preemptive Regression Testing (PRT), a novel testing approach that addresses this adaptive issue. Whenever such a late-change on the service under regression test is detected, PRT preempts the currently executed regression test suite, searches for additional test cases as fixes, runs these fixes, and then resumes the execution of the regression test suite from the preemption point.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1749},
+@Article{1749,
 title = {Preemptive Regression Testingof Workflow-Based Web Services},
 abstract = {Abstract:
 An external web service may evolve without prior notification. In the course of the regression testing of a workflow-based web service, existing test case prioritization techniques may only verify the latest service composition using the not-yet-executed test cases, overlooking high-priority test cases that have already been applied to the service composition before the evolution. In this paper, we propose Preemptive Regression Testing (PRT), an adaptive testing approach to addressing this challenge. Whenever a change in the coverage of any service artifact is detected, PRT recursively preempts the current session of regression test and creates a sub-session of the current test session to assure such lately identified changes in coverage by adjusting the execution priority of the test cases in the test suite. Then, the sub-session will resume the execution from the suspended position. PRT terminates only when each test case in the test suite has been executed at least once without any preemption activated in between any test case executions. The experimental result confirms that testing workflow-based web service in the face of such changes is very challenging; and one of the PRT-enriched techniques shows its potential to overcome the challenge},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1752},
+@Article{1752,
 title = {Monic Testing of Web Services Based on Algebraic Specifications},
 abstract = {Abstract:
 Web services are designed to be discovered and composed dynamically, which implies that testing must also be done dynamically. This involves both the generation of test cases and the checking of test results. This paper presents algorithms for both of these using the technique of algebraic specification. It focuses in particular on the problem that web services, when they are third-party, have poor controllability and observability, and introduces a solution known as monic floating checkable test cases. A prototype tool has implemented the proposed testing technique and it is applied to a case study with a real industry application GoGrid, demonstrating that the technique is both applicable and feasible.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1753},
+@Article{1753,
 title = {A test framework for large-scale message broker system for consumer devices},
 abstract = {Abstract:
 This paper presents a test framework for a large-scale message broker system for consumer devices, where communication is between devices and goes through a message broker. In testing such a system, administering tests is a burdensome task, because a tester has to design and operate a test application managing multiple connections and to validate complicated traffic patterns between clients via a broker. In addition, a tester has to validate service availability when numerous devices use the system and some message brokers have gone down or the system is scaled-out/in. In such an eventuality, a message broker in operation is removed from the system or a new message broker is added to the system. In our framework, a tester can write a test scenario to validate message transfers between devices and service availability in the case of changes in the system structure on the fly. In a case study, we implement a prototype framework on Apache JMeter for remote control system for home appliances. We evaluate the target system with our framework in several test scenarios and confirm service availability when one million devices use the system and when scale-out/in occurs.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1755},
+@Article{1755,
 title = {Generating effective test cases based on satisfiability modulo theory solvers for service-oriented workflow applications},
 abstract = {Web Service Business Process Execution Language (WS-BPEL) is one of the most popular service-oriented workflow applications. The unique features (e.g. dead path elimination semantics and correlation mechanism) of WS-BPEL applications have raised enormous problems to its test case generation, especially in unit testing. Existing studies mainly assume that each path in the control flow graphs that correspond to WS-BPEL applications is feasible, which always yields imprecise test cases or complicates testing results. The current study tackles this problem based on satisfiability modulo theory solvers. First, a new coverage criterion is proposed to measure the quality of test sets for testing WS-BPEL applications. Second, decomposition algorithms are presented to obtain test paths that meet the proposed coverage criterion. Finally, this paper symbolically encodes each test path with several constraints by capturing the unique features of WS-BPEL. These constraints are solved and the test cases (test paths and test data) are obtained with the help of satisfiability modulo theory solvers to test WS-BPEL applications effectively. Experiments are conducted using our approach and other typical approaches (e.g. message-sequence generation-based approach and concurrent path analysis approach) with 10 WS-BPEL applications. Experimental results demonstrate that the test cases generated by our approach can avoid instantiating idle instance and expose more faults. },
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1756},
+@Article{1756,
 title = {Optimal control based regression test selection for service-oriented workflow applications},
 abstract = {Abstract
 Regression test selection, which is well known as an effective technology to ensure the quality of modified BPEL applications, is regarded as an optimal control issue. The BPEL applications under test serves as a controlled object and the regression test selection strategy functions as the corresponding controller. The performance index is to select fewest test cases to test modified BPEL applications. In addition, a promising controller (regression test selection approach) should be safe, which means that it can select all test cases in which faults might be exposed in modified versions under controlled regression testing from the original test suite. However, existing safe controllers may rerun some test cases without exposing fault. In addition, the unique features (e.g., dead path elimination semantics, communication mechanism, multi-assignment etc.) of BPEL applications also raise enormous problems in regression test selection. To address these issues, we present in this paper a safe optimal controller for BPEL applications. Firstly, to handle the unique features mentioned above, we transform BPEL applications and their modified versions into universal BPEL forms. Secondly, For our optimal controller, BPEL program dependence graphs corresponding to the two universal BPEL forms are established. Finally, guided by behavioral differences between the two versions, we construct an optimal controller and select test cases to be rerun. By contrast with the previous approaches, our approach can eliminate some unnecessary test cases to be selected. We conducted experiments with 8 BPEL applications to compare our approach with other typical approaches. Experimental results show that the test cases selected using our approach are fewer than other approaches.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1758},
+@Article{1758,
 title = {A Quality Assurance Approach and Case Study in BSS},
 abstract = {Abstract:
 The BSS (Business Support Systems) has played a critical role in strictly competition telecom market. They constantly face stringent challenges such as quality assurance as well as time to market and budget. The test case design is an important step and a higher cost in system quality assurance phase. However by knowledge few test data correlation based approach has some drawbacks such as the coverage limitations and effectives of test case selection. We believe if there is a suitable testing case reusability approaches would have good and enough coverage and lower cost. Therefore, in this paper, we present a quality assurance framework and reusability based approach to design and select test case effectively. On the other hand the study introduces a real world BSS quality assurance works as case study to practice and examine the proposed approach. This article is a continuous work of the BSS transformation project.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1761},
+@Article{1761,
 title = {An Ontology-Based Knowledge Framework for Software Testing},
 abstract = {Abstract
 Software development is conceptually a complex, knowledge intensive and a collaborative activity, which mainly depends on knowledge and experience of the software developers. Effective software development relies on the knowledge collaboration where each and every software engineer shares his or her knowledge or acquires knowledge from others. Software testing which is a sub area of software engineering is related to various activities such as test planning, test case design, test implementation, test execution and test result analysis and they are all essential. Given great importance to knowledge for software testing, and the potential benefits of managing software testing knowledge, an ontological approach to represent the necessary software testing knowledge within the software testers context was developed. Using this approach, software testing ontology to include information needs identified for the software testing activities was designed. Competency questions (contextualized information) were used to determine the scope of the ontology and used to identify the contents of the ontology because contextualized information fulfills the expressiveness and reasoning requirements of the software testing ontology. SPARQL query was used to query the competency questions. A web based KM Portal was developed using semantic web technologies for knowledge representation. Software testers can annotate their testing knowledge with the support of ISTQB and IEEE 829-2008 terms. Both ontology experts and non-experts evaluated the developed ontology. We believe our software testing ontology can support other software organizations to improve the sharing of knowledge and learning practices.},
 duplicado = {false},
 inserir = {true}
 }
-@Article{
-id = {1763},
+@Article{1763,
 title = {Contributions and Perspectives in Architectures of Software Testing Environments},
 abstract = {Abstract:
 Producing high quality software systems has been one of the most important software development concerns. In this perspective, Software Architecture and Software Testing are two important research areas that have contributed in that direction. The attention given to the software architecture has played a significant role in determining the success of software systems. Otherwise, software testing has been recognized as a fundamental activity for assuring the software quality; however, it is an expensive, error-prone, and time consuming activity. For this reason, a diversity of testing tools and environments has been developed; however, they have been almost always designed without an adequate attention to their evolution, maintenance, reuse, and mainly to their architectures. Thus, this paper presents our main contributions to systematize the development of testing tools and environments, aiming at improving their quality, reuse, and productivity. In particular, we have addressed architectures for software testing tools and environments and have also developed and made available testing tools. We also state perspectives of research in this area, including open research issues that must be treated, considering the unquestionable relevance of testing automation to the testing activity.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1765},
+@Article{1765,
 title = {Consolidating a Process for the Design, Representation, and Evaluation of Reference Architectures},
 abstract = {Abstract:
 Reference architectures have emerged as a special type of software architecture that achieves well-recognized understanding of specific domains, promoting reuse of design expertise and facilitating the development, standardization, and evolution of software systems. Because of their advantages, several reference architectures have been proposed and have been also successfully used, including in the industry. However, the most of these architectures are still built using an ad-hoc approach, lacking of a systematization to their construction. If existing, these approaches could motivate and promote the building of new architectures and also support evolution of existing ones. In this scenario, the main contribution of this paper is to present the evolution of ProSA-RA, a process that systematizes the design, representation, and evaluation of reference architectures. ProSA-RA has been already applied in the establishment of reference architectures for different domains and this experience was used to evolve our process. In this paper, we illustrate an application of ProSA-RA in the robotics domain. Results achieved through the use of ProSA-RA have showed us that it is a viable, efficient process and, as a consequence, it could contribute to the reuse of knowledge in several applications domains, by promoting the establishment of new reference architectures.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1766},
+@Article{1766,
 title = {A Process Framework for Designing Software Reference Architectures for Providing Tools as a Service},
 abstract = {Abstract
 Software Reference Architecture (SRA), which is a generic architecture solution for a specific type of software systems, provides foundation for the design of concrete architectures in terms of architecture design guidelines and architecture elements. The complexity and size of certain types of software systems need customized and systematic SRA design and evaluation methods. In this paper, we present a software Reference Architecture Design process Framework (RADeF) that can be used for analysis, design and evaluation of the SRA for provisioning of Tools as a Service as part of a cloud-enabled workSPACE (TSPACE). The framework is based on the state of the art results from literature and our experiences with designing software architectures for cloud-based systems. We have applied RADeF SRA design two types of TSPACE: software architecting TSPACE and software implementation TSPACE. The presented framework emphasizes on keeping the conceptual meta-model of the domain under investigation at the core of SRA design strategy and use it as a guiding tool for design, evaluation, implementation and evolution of the SRA. The framework also emphasizes to consider the nature of the tools to be provisioned and underlying cloud platforms to be used while designing SRA. The framework recommends adoption of the multi-faceted approach for evaluation of SRA and quantifiable measurement scheme to evaluate quality of the SRA. We foresee that RADeF can facilitate software architects and researchers during design, application and evaluation of a SRA and its instantiations into concrete software systems.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1768},
+@Article{1768,
 title = {Metamorphic Testing for Web Services: Framework and a Case Study},
 abstract = {Abstract:
 Service Oriented Architecture (SOA) has become a major application development paradigm. As a basic unit of SOA applications, Web services significantly affect the quality of the applications constructed from them. Since the development and consumption of Web services are completely separated under SOA environment, the consumers are normally provided with limited knowledge of the services and thus have little information about test oracles. The lack of source code and the restricted control of Web services limit the testability of Web services. To address the prominent oracle problem when testing Web services, we propose a metamorphic testing framework for Web services taking into account the unique features of SOA. We conduct a case study where the new metamorphic testing framework is employed to test a Web service that implements the electronic payment. The results of case study show the feasibility of the framework for web services, and also the efficiency of metamorphic testing. The work presented in the paper alleviates the test oracle problem when testing Web services under SOA.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1769},
+@Article{1769,
 title = {Specifications for Web Services Testing: A Systematic Review},
 abstract = {Abstract:
 In today's ever increasing demand on loosely coupled systems, software providers need to produce solutions that are flexible enough to be configured at runtime, yet maintaining high quality. One way to address the quality of such systems is through testing. Software testing provides software providers and their clients with techniques to characterize the internal and external quality of their systems, by specifying test cases to check how systems react under different circumstances. In the context of web services the situation changes, software providers become service providers. In other words, they do not provide a physical software to their clients, instead they allow them to invoke remote code from their system. This change affects the way we look at testing itself. In the web service paradigm clients do not own services, instead they invoke them. Different approaches for testing web services have been reported in the literature, with different techniques and using different input information to generate test cases. Considering the topic of web services testing, as a subject for this systematic review is a challenging undertaking, mainly due to the extensive amount of literature in the subject. To narrow it, we have focused on one single particularity that affects dramatically the testing process. That is the specifications used to generate test cases. To this end, in this paper we present a systematic review of the specifications used for testing web services. The outcome of this study answers key questions involved in the advantages and disadvantages of the existing specifications as well as the potential improvements that could lead to more robust web services testing process.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1770},
+@Article{1770,
 title = {Automatically generating realistic test input from web services},
 abstract = {Abstract:
 Generating realistic test data is a major problem for software testers. Realistic test data generation for certain input types is hard to automate and therefore laborious. We propose a novel automated solution to test data generation that exploits existing web services as sources of realistic test data. Our approach is capable of generating realistic test data and also generating data based on tester-specified constraints. In experimental analysis, our prototype tool achieved between 93% and 100% success rates in generating realistic data using service compositions while random test data generation achieved only between 2% and 34%.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1771},
+@Article{1771,
 title = {A Comprehensive Ontology for Knowledge Representation in the Internet of Things},
 abstract = {Abstract:
 Semantic modeling for the Internet of Things has become fundamental to resolve the problem of interoperability given the distributed and heterogeneous nature of the "Things". Most of the current research has primarily focused on devices and resources modeling while paid less attention on access and utilisation of the information generated by the things. The idea that things are able to expose standard service interfaces coincides with the service oriented computing and more importantly, represents a scalable means for business services and applications that need context awareness and intelligence to access and consume the physical world information. We present the design of a comprehensive description ontology for knowledge representation in the domain of Internet of Things and discuss how it can be used to support tasks such as service discovery, testing and dynamic composition.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1772},
+@Article{1772,
 title = {Usage-Based Online Testing for Proactive Adaptation of Service-Based Applications},
 abstract = {Abstract:
 Increasingly, service-based applications (SBAs) are composed of third-party services available over the Internet. Even if third-party services have shown to work during design-time, they might fail during the operation of the SBA due to changes in their implementation, provisioning, or the communication infrastructure. As a consequence, SBAs need to dynamically adapt to such failures during run-time to ensure that they maintain their expected functionality and quality. Ideally the need for an adaptation is proactively identified, i.e., failures are predicted before they can lead to consequences such as costly compensation and roll-back activities. Currently, approaches to predict failures are based on monitoring. Due to its passive nature, however, monitoring might not cover all relevant service executions, which can diminish the ability to correctly predict failures. In this paper we demonstrate how online testing, as an active approach, can improve failure prediction by considering a broader range of service executions. Specifically, we introduce a framework and prototypical implementation that exploits synergies between monitoring, online testing and quality prediction. For online test selection and assessment we adapt usage-based testing strategies. We experimentally evaluate the strengths of our approach in predicting the need for an adaptation of an SBA.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1773},
+@Article{1773,
 title = {Towards Dynamic Random Testing for Web Services},
 abstract = {Abstract:
 In recent years, Service Oriented Architecture (SOA) has been increasingly adopted to develop applications in the context of Internet. To develop reliable SOA-based applications, an important issue is how to ensure the quality of Web services. In this paper, we propose a dynamic random testing (DRT) technique for Web services which is an improvement of the widely practiced random testing. We examine key issues when adapting DRT to the context of SOA and develop a prototype for such an adaptation. Empirical studies are reported where DRT is used to test two real-life Web services and mutation analysis is employed to measure the effectiveness. The experimental results show that DRT can save up to 24% test cases in terms of detecting the first seeded fault, and up to 21% test cases in terms of detecting all seeded faults, both with the cases of uniformed mutation analysis and distribution-aware mutation analysis, which refer to faults being seeded in an even or clustered way, respectively. The proposed DRT and the prototype provide an effective approach to testing Web Services.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1774},
+@Article{1774,
 title = {Interface-Based Automated Testing for Open Software Architecture},
 abstract = {Abstract:
 Open Software Architecture (OSA) has been a prevalent design principle for integrating large, complex software systems from components. In OSA, interface specifications provide standard representations of the exposed software functionalities and constraints. Using an industry OSA system, the paper investigates the potential to extract domain model from standard interface specifications and to automate testing following the model driven approach. It focuses on modeling of service external behavior from the syntax and semantics defined by OSA interface standards. The domain model can be translated into test cases, either encoded in XML or specific programming languages, by predefined mapping mechanisms. The generated test scripts can be further compiled with target interfaces and executed under control. In this way, the domain models and test cases can be reused throughout system integration and regression testing, and for testing diversified component implementations following the same interface standards.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1775},
+@Article{1775,
 title = {Testing as a Service over Cloud},
 abstract = {Abstract:
 Testing-as-a-service (TaaS) is a new model to provide testing capabilities to end users. Users save the cost of complicated maintenance and upgrade effort, and service providers can upgrade their services without impact on the end-users. Due to uneven volumes of concurrent requests, it is important to address the elasticity of TaaS platform in a cloud environment. Scheduling and dispatching algorithms are developed to improve the utilization of computing resources. We develop a prototype of TaaS over cloud, and evaluate the scalability of the platform by increasing the test task load, analyze the distribution of computing time on test task scheduling and test task processing over the cloud, and examine the performance of proposed algorithms by comparing others},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1776},
+@Article{1776,
 title = {WS-TaaS: A Testing as a Service Platform for Web Service Load Testing},
 abstract = {Abstract:
 Web services are widely known as the building blocks of typical service oriented applications. The performance of such an application system is mainly dependent on that of component web services. Thus the effective load testing of web services is of great importance to understand and improve the performance of a service oriented system. However, existing Web Service load testing tools ignore the real characteristics of the practical running environment of a web service, which leads to inaccurate test results. In this work, we present WS-TaaS, a load testing platform for web services, which enables load testing process to be as close as possible to the real running scenarios. In this way, we aim at providing testers with more accurate performance testing results than existing tools. WS-TaaS is developed on the basis of our existing Cloud PaaS platform: Service4All. First, we briefly introduce the functionalities and main components of Service4All. Second, we provide detailed analysis of the requirements of Web Service load testing and present the conceptual architecture and design of key components. Third, we present the implementation details of WS-TaaS on the basis of Service4All. Finally, we perform a set of experiments based on the testing of real web services, and the experiments illustrate that WS-TaaS can efficiently facilitate the whole process of Web Service load testing. Especially, comparing with existing testing tools, WS-TaaS can obtain more effective and accurate test results.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1777},
+@Article{1777,
 title = {Prioritizing Structurally Complex Test Pairs for Validating WS-BPEL Evolutions},
 abstract = {Abstract:
 Many web services represent their artifacts in the semi-structural format. Such artifacts may or may not be structurally complex. Many existing test case prioritization techniques however treat test cases of different complexity generically. In this paper, we exploit the insights on the structural similarity of XML-based artifacts between test cases, and propose a family of test case prioritization techniques that iteratively selects test case pairs without replacement. The validation experiment shows that these techniques can be more cost-effective than the studied existing techniques in exposing faults.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1778},
+@Article{1778,
 title = {Distribution-Aware Mutation Analysis},
 abstract = {Abstract:
 Mutation analysis is widely employed to evaluate the effectiveness of various software testing techniques. In most situations, mutation operators are uniformly applied to the original programs, while the faults tend to be clustered in practice. This may result in the inappropriate simulation of faults, and thus cannot deliver the reliable evaluation results. To overcome this, we propose a distribution-aware mutation analysis technique and conducted empirical studies to investigate the impact of the mutation distribution on the effectiveness evaluation of testing techniques. As an illustration, we select the commonly practiced random testing technique and two versions of dynamic random testing techniques and apply them to testing Web services. Results of empirical studies suggest that the mutation distribution significantly affects the evaluation results. This observation further indicates that the effectiveness of testing techniques previously evaluated with the uniform mutation analysis needs further realignments.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1780},
+@Article{1780,
 title = {Correctness evaluation model for composite web service},
 abstract = {Abstract:
 Web service playing the vital role in today's business environment. Business work flows are implemented as composite web service. Web services are growing day by day. Identifying the reliable web service is a tedious task. One of the reliability metric is correctness of the service. In this paper functional correctness model is designed for composite web service using black box testing technique.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1782},
+@Article{1782,
 title = {A Framework for Automated and Composable Testing of Component-Based Services},
 abstract = {Abstract:
 The vision of service-oriented computing has been largely developed on the fundamental principle of building systems by composing and orchestrating services in their control flow. Nowadays, software development is notably influenced by service-oriented architectures (SOAs), in which the quality of software systems is determined by the quality of the involved services and their actual composition. Despite the efforts on improving their individual quality, adding or replacing services in an evolving system can introduce failures, thus compromising the satisfaction of the system's functional and extra-functional requirements. These failures erode the trust in the SOA vision. Thus, a key issue for the industrial adoption of SOA is providing service providers, integrators, and consumers the means to build confidence that services behave according to the contracted quality conditions. In this paper we present a first version of PA SCA NI, a framework for specifying and executing test specifications for service-oriented systems. From a test specification, PA SCA NI generates a configuration of testing services compliant with the Service Component Architecture (SCA) specification, which can be composed to integrate different testing strategies, being these tests traceable in an automated way. Our evaluation results show the applicability of the framework and a substantial gain in the tester's effort for developing tests.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1784},
+@Article{1784,
 title = {Employing Privacy-Preserving Techniques to Protect Control-Flow Graphs in a Decentralized, End-to-End Regression Test Selection Framework for Web Services},
 abstract = {Abstract:
 In an end-to-end, regression testing framework employing a safe regression test selection (RTS) technique that uses control-flow graphs (CFGs) to model Web service interactions, service providers must share their CFGs to participate. However, CFGs are sensitive implementation details and service providers are unwilling to expose them especially across autonomous systems. In order to encourage participation in the proposed framework, several privacy-preserving techniques are employed designed to protect the sensitive information contained within CFGs while still maintaining the overall effectiveness of the approach. The privacy-preserving techniques protect the information contained within CFGs by sanitizing individual nodes and altering the shape of the CFG. A case study will be presented to help illuminate the framework and provide a measure of the overall effectiveness of the approach.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1785},
+@Article{1785,
 title = {A Subsumption Hierarchy of Test Case Prioritization for Composite Services},
 abstract = {Abstract:
 Many composite workflow services utilize non-imperative XML technologies such as WSDL, XPath, XML schema, and XML messages. Regression testing should assure the services against regression faults that appear in both the workflows and these artifacts. In this paper, we propose a refinement-oriented level-exploration strategy and a multilevel coverage model that captures progressively the coverage of different types of artifacts by the test cases. We show that by using them, the test case prioritization techniques initialized on top of existing greedy-based test case prioritization strategy form a subsumption hierarchy such that a technique can produce more test suite permutations than a technique that subsumes it. Our experimental study of a model instance shows that a technique generally achieves a higher fault detection rate than a subsumed technique, which validates that the proposed hierarchy and model have the potential to improve the cost-effectiveness of test case prioritization techniques.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1787},
+@Article{1787,
 title = {A test case reduction method for semantic based web services},
 abstract = {Abstract:
 Web Services are the basic building blocks for every e-business applications now-a-days. They provide efficient reusability mechanism, thereby reducing the development time and cost. Mostly the source code of web services is unavailable to other developers who use these services. The manual effort spent by them in testing these web services is very large in order to increase the interoperability. Thus automated testing needs to be developed for testing these Web Services, which is possible by adding semantics to Web Service Description Language (WSDL). Also the test case reduction technique is very much required for regression testing. This paper generates test cases for Web Services using reduction techniques Pair-Wise Testing (PWT) and Orthogonal Array Testing (OAT) and compares the two techniques. The structure of Web Services is specified using UML diagrams. The pre and post conditions for the service rule are specified using Object Constraint Language (OCL). The framework developed by this paper transforms this into WSDL-S specifications. These specifications are parsed and transformed into structured DOM tree. Test data with different factors, levels and strengths are generated for PWT and OAT techniques. Test data set generated by this framework would satisfy the constraints of the WSDL. The test cases are then developed based on the data generated, documented in XML based test files called Web Service Test Specifications (WSTS) and executed. The number of test cases required by general testing, PWT, OAT are compared and the better testing technique for testing Web Services is determined.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1789},
+@Article{1789,
 title = {Testing and verification in service-oriented architecture: a survey},
 abstract = {Service-oriented architecture (SOA) is gaining momentum as an emerging distributed system architecture for business-to-business collaborations. This momentum can be observed in both industry and academic research. SOA presents new challenges and opportunities for testing and verification, leading to an upsurge in research. This paper surveys the previous work undertaken on testing and verification of service-centric systems, which in total are 177 papers, showing the strengths and weaknesses of current strategies and testing tools and identifying issues for future work.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1790},
+@Article{1790,
 title = {Ontology patterns for service-oriented software development},
 abstract = {Modern software often uses ontologies as its key component to store data and their relationships. This is different from using an ontology as a stand-alone tool for knowledge sharing and representation. The ontology component needs to work with other software components and needs to evolve as the software evolves. Ontology design has been a research topic for years; however, most of these studies focus on using ontologies as stand-alone applications. This paper studies ontology patterns that can be applied to design ontologies as an integral part of a service-oriented application. The paper first briefly reviews various ontology design issues including a brief survey of existing ontology design patterns. The paper then outlines general principles for using ontologies in software applications, including the needs to incorporate ontology design process as a part of software development processes, design ontologies as a component of an overall software architecture, and use ontologies to enhance software evolution and the role that ontologies can play in software validation. The paper then proposes some common ontology patterns that can be used to design ontologies in service-oriented applications. This is followed by examining two international projects, SENSEI and FCINT, where ontologies are used in service-oriented applications and several ontology design patterns are used. },
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1791},
+@Article{1791,
 title = {Test Pair Selection for Test Case Prioritization in Regression Testing for WS-BPEL Programs},
 abstract = {Abstract
 Many web services not only communicate through XML-based messages, but also may dynamically modify their behaviors by applying different interpretations on XML messages through updating the associated XML Schemas or XML-based interface specifications. Such artifacts are usually complex, allowing XML-based messages conforming to these specifications structurally complex. Testing should cost-effectively cover all scenarios. Test case prioritization is a dimension of regression testing that assures a program from unintended modifications by reordering the test cases within a test suite. However, many existing test case prioritization techniques for regression testing treat test cases of different complexity generically. In this paper, the authors exploit the insights on the structural similarity of XML-based artifacts between test cases in both static and dynamic dimensions, and propose a family of test case prioritization techniques that selects pairs of test case without replacement in turn. To the best of their knowledge, it is the first test case prioritization proposal that selects test case pairs for prioritization. The authors validate their techniques by a suite of benchmarks. The empirical results show that when incorporating all dimensions, some members of our technique family can be more effective than conventional coverage-based techniques.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1793},
+@Article{1793,
 title = {Introducing fault-based combinatorial testing to web services},
 abstract = {Abstract:
 Combinatorial testing is considered effective for finding software faults. It is also efficient, since it keeps the number of tests relatively small. However, there seems to be very little research that considers combinatorial testing as a testing approach for web services. They are commonly tested by injecting fault-causing data perturbations into the network. It may be worthwhile to see if combinatorial testing can complement existing perturbations with the benefits of combinatorial testing. The approach proposed in this paper is called combinatorial fault-based testing. This type of testing combines existing fault-based testing techniques, such as fault injection, with combinatorial testing to attempt to find faults of varying strength within a web service. Combinatorial fault-based testing uses fault injection and helps reduce the problem with combinatorial explosion by focusing solely on fault-based combinations. This raises the following research question: Is there a way to take advantage of the benefits of combinatorial testing for web services assuming that source code will not be available, while minimizing the possibility of a combinatorial explosion? Combinatorial fault-based testing looks very promising for answering this question. As a side effect, it could potentially offer a way to determine the maximum strength of interactions to test for web services.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1801},
+@Article{1801,
 title = {Barriers to Implement Test Process in Small-Sized Companies},
 abstract = {Abstract
 Producing high-quality software has been one of the greatest challenges of the development market in the last few years. The software testing is the essence of the quality assurance, but the implementation of this activity is still difficult due to may factors. This paper presents some factors that influence on the adoption of a testing process. Some of these factors were outlined in the literature, and others were selected empirically based on the work experience obtained in a large company. We present the results obtained in the experiments that compare the software testing performance when implemented considering a formal testing process and when carried out in an ad-hoc way.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1803},
+@Article{1803,
 title = {Using the Findings of a Mapping Study to Conduct a Research Project: A Case in Knowledge Management in Software Testing},
 abstract = {Abstract:
 A mapping study provides a broad overview of a research area in order to determine whether there is research evidence on a particular topic. Results of a systematic mapping may identify suitable areas for performing future research. In this paper, we discuss our experience in using the findings of a mapping study on Knowledge Management (KM) in Software Testing for performing a real research project, which also applied other empirical approaches. The main goals of this paper are: (i) to reinforce the importance of a systematic mapping in the conduction of a research project by discussing a real case of such application, and (ii) to present the results of our survey on the most important aspects of KM when applied to software testing.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1804},
+@Article{1804,
 title = {Trustworthiness framework of reusable test case},
 abstract = {Abstract:
 To solve the trustworthiness of reusable test cases, a trustworthiness framework of reusable test cases is proposed in this paper, including the analysis of trustworthiness attributes and trustworthiness evidence. Furthermore, the trustworthiness assurance processes related are presented to support management activities of reusable test case.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1808},
+@Article{1808,
 title = {Knowledge management initiatives in software testing: A mapping study},
 abstract = {Abstract
 Context
@@ -357,56 +314,49 @@ Although only a few studies were found that addressed KM initiatives in software
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1810},
+@Article{1810,
 title = {Software Testing as a Service: An Academic Research Perspective},
 abstract = {Abstract:
 Software testing is becoming an increasingly expensive and time-consuming endeavor. With advances in cloud computing, new methods of testing in cloud environments are allowing testers to take advantage of the vast resources of the cloud while demanding less upfront costs. Testing as a service (TaaS) is a model of software testing that offers accessible services that handle testing activities for consumers on a pay-for-use basis. The goal of this paper is to describe the state of academic research within TaaS, including a basic architecture, example services, recent studies, benefits, challenges, needs, and a road ahead.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1812},
+@Article{1812,
 title = {The Verification and Validation of a Large-Scale System: Equipment TaaS as an Example},
 abstract = {Abstract:
 This study proposed testing/inspecting as a service (TaaS) for computing equipment and aimed to test objects in the context of combining software and hardware. We developed a dynamic feedback framework to enhance both the efficiency and the quality of the testing service. The framework consists of inner and outer feedback mechanisms, in which the updated industrial standards and client requirements are incorporated allowing the testing to be modified accordingly. A detailed description of the testing procedures and industrial metrology are provided in the study. The improvement gained from TaaS are demonstrated and discussed. The results show that by using infrastructure as a service (IaaS), the physical hardware improves in quality due to the fact that the quality was verified by Automated Optical Inspection (AOI) TaaS or cloud container data center (CDC) TaaS etc. Moreover, the OS in platform as a service (PaaS) can be ensured because the resources of the physical/virtual data in the IaaS were tested by the OS TaaS. As for the application (APP) TaaS, the stability and performance of the OS system can be maintained since the applications of the software on the PaaS have been tested.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1813},
+@Article{1813,
 title = {An Architecture for Cloud Service Testing and Real Time Management},
 abstract = {Abstract:
 Cloud service testing ensures that services run properly and meet the Service Level Agreement (SLA) requirements. However, performance problems of a cloud service, such as the availability and reliability, are difficult to diagnose because these issues might be caused from different system components. To solve these problems, this study proposes an architecture for testing environment configuration and quality estimation for both of fault diagnosis and bottleneck detection. The proposed system has two components: offline testing and online management. In offline testing, target service are tested by using the proposed testing module and corresponding metrics are collected for further analysis. The analyzed results which are separated between fault diagnosis and bottleneck detection will be stored in knowledge databases. Finally, online management module will automatically suggest how to do when facing this kind of problem according to knowledge based diagnosis.},
 duplicado = {false},
 inserir = {alsef}
 }
-@Article{
-id = {1815},
+@Article{1815,
 title = {A configurable cloud-based testing infrastructure for interoperable distributed automation systems},
 abstract = {Abstract:
 The interoperability between various automation systems is considered as one of the major character of future automation systems. Service-oriented Architecture is a possible interoperability enabler between legacy and future automation systems. In order to prove the interoperability between those systems, a verification framework is essential. This paper proposes a configurable cloud-based validation environment for interoperability tests between various distributed automation systems. The testing framework is implemented in a multi-layer structure which provides automated closed-loop testing from the protocol level to the system level. The testing infrastructure is also capable for simulating automation systems as well as wireless sensor networks in the cloud. Test cases could be automatically generated and executed by the framework.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1816},
+@Article{1816,
 title = {Dynamic Scheduling Strategy for Testing Task in Cloud Computing},
 abstract = {Abstract:
 In the testing Cloud platform, there exist too many testing tasks waiting for scheduling at the same time. How to design scheduling strategy is really a challenging problem. In this paper, we firstly analyze the relationship between the testing tasks and establish the task relationship model. Based on these analyses, we propose a dynamic task scheduling strategy using genetic algorithm, which not only ensures to get the least execution time but also guarantee load balance. The dynamic strategy based on genetic algorithm is being compared with traditional static genetic algorithm on cloudsim. The experimental result shows the high the effectiveness of the proposed strategy.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1817},
+@Article{1817,
 title = {No PAIN, No Gain? The Utility of PArallel Fault INjections},
 abstract = {Abstract:
 Software Fault Injection (SFI) is an established technique for assessing the robustness of a software under test by exposing it to faults in its operational environment. Depending on the complexity of this operational environment, the complexity of the software under test, and the number and type of faults, a thorough SFI assessment can entail (a) numerous experiments and (b) long experiment run times, which both contribute to a considerable execution time for the tests. In order to counteract this increase when dealing with complex systems, recent works propose to exploit parallel hardware to execute multiple experiments at the same time. While Parallel fault Injections (PAIN) yield higher experiment throughput, they are based on an implicit assumption of non-interference among the simultaneously executing experiments. In this paper we investigate the validity of this assumption and determine the trade-off between increased throughput and the accuracy of experimental results obtained from PAIN experiments.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1818},
+@Article{1818,
 title = {Hard Problems in Software Testing: Solutions Using Testing as a Service (TaaS)},
 abstract = {This book summarizes the current hard problems in software testing as voiced by leading practitioners in the field. The problems were identified through a series of workshops, interviews, and surveys. Some of the problems are timeless, such as education and training, while others such as system security have recently emerged as increasingly important.
 
@@ -416,24 +366,21 @@ The book includes a case study of a representative web application and three com
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1819},
+@Article{1819,
 title = {Using Test Clouds to Enable Continuous Integration Testing of Distributed Real-Time and Embedded System Applications},
 abstract = {Abstract
 It is critical to evaluate the quality-of-service (QoS) properties of enterprise distributed real-time and embedded (DRE) system early in their lifecycle instead of waiting until system integration to minimize the impact of rework needed to remedy QoS defects. Unfortunately, enterprise DRE system developers and testers often lack the necessary resources to support such testing efforts. This chapter discusses how test clouds (i.e., cloud-computing environments employed for testing) can provide the necessary testing resources. When combined with system execution modeling (SEM) tools, test clouds can provide the necessary toolsets to perform QoS testing earlier in the lifecycle. A case study of design and implementing resource management infrastructure from the domain of shipboard computing environments is used to show how SEM tools and test clouds can help identify defects in system QoS specifications and enforcement mechanisms before they become prohibitively expensive to fix.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1821},
+@Article{1821,
 title = {Automated Web Service Composition Testing as a Service},
 abstract = {Abstract
 Cloud computing brings new business opportunities and services on infrastructure, platform and software level. It provides a new way for testing software applications known as Testing-as-a-Service (TaaS). TaaS eliminates the need of installing and maintaining testing environments on customer's side and reduces the testing cost on pay-per-use basis. Availability of on-demand testing services allows testers to provide raw cloud resources at run time, when and where needed. This paper addresses TaaS benefits by proposing a TaaS-enabled framework offering cloud-based testing services. The framework, called Testing as a Service Software Architecture (TASSA), supports testing of web service compositions described with Business Process Execution Language for Web Services (WS-BPEL). It consists of two main components: (1) TaaS functionality for fault injection and dependencies isolation of the application under test and (2) Graphical User Interface (GUI) for test case design and execution. TASSA framework could be installed on a local computer or used for building a cloud test lab on a virtual machine. Its feasibility is proved through a case study on a sample business process from wine industry.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1826},
+@Article{1826,
 title = {Can My Test Case Run on Your Test Plant? A Logic-Based Compliance Check and Its Evaluation on Real Data},
 abstract = {Abstract
 Test automation is adopted by the majority of software and hardware producers since it speeds up the testing phase and allows to design and perform a large bunch of tests that would be hardly manageable in a manual way. When dealing with the testing of hardware instruments, different physical environments have to be created so that the instruments under test can be analyzed in different scenarios, involving disparate components and software configurations.
@@ -444,47 +391,41 @@ In this paper we present our approach for checking the compliance of a test case
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1830},
+@Article{1830,
 title = {Generating Open API Usage Rule from Error Descriptions},
 abstract = {Abstract:
 Open API platform is a trend for many leading social networks and e-business internet enterprises to publish services. The third-party developers can build their own applications interacting with Open platform via the Open API. The APIs have rules on the acceptable value of parameters. However, these rules are often not documented formally or explicitly. Developers may not realize these rules until error is exposed in the runtime. The application will experience robustness problem due to these unhandled errors. Developers using Open API can only handle these errors in a trial-and-error manner when API invocation returning error messages. In this paper, we present an approach to generate Open API usage rules from the error description. It can generate useful API usage rules related to the parameters if the Open API platforms have detailed error descriptions in their documentations. These rules help developers to be aware of the potential error-leading API usage in the development stage of the Open API based applications.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1831},
+@Article{1831,
 title = {3D Virtual Client Center and its Service Oriented Modeling},
 abstract = {Abstract:
 Client centers have considerable influence to the success of a business. Companies encourage people to visit their client centers, in the hope of engaging potential clients. However, this could give rise to large financial costs. With the recent advances in the technology of computer graphics and virtual reality, this paper presents an approach to construct 3D virtual client centers. To visit a virtual client center, the client no longer needs to travel from place to place, but just takes a virtual tour while staying before an internet-enabled computer. The contributions of this paper are as following: 1) we present an approach to construct a 3D virtual client center in a relatively convenient way, 2) we model the virtual client center as a collection of services, to further facilitate the development work.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1833},
+@Article{1833,
 title = {An Agent-Based Framework  f or Automated Testing of Web-Based Systems},
 abstract = {ABSTRACT  Parallel to the considerable growth in applications of web-based systems, there are increasing demands for methods and tools to assure their quality. Testing these systems, due to their inherent co mplex ities a nd  spec ial ch arac teristics, is complex, time-consuming and challenging. In this paper a novel multi-agent framework for automated testing of web- based systems is presented. The main design goals have been to develop an effective and flexible framework that sup-ports differen t types of te sts and  utilize differen t sources of  informa tion ab out the system  unde r test to auto mate the test process. A prototype of the proposed framework has been implemented and is used to perform some experiments. The results are promising and prove the overall design of the framework},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1834},
+@Article{1834,
 title = {The Distribution of Testing Activities in Web Services and SOA Environment},
 abstract = {Abstract
 Testing in Web services and SOA environment can be far more distributed in comparison with testing stand-alone or traditional applications. This is because such systems are composed of several hybrid components. These include Web servers and their related components, server side applications, communication services, and client side Web services. In this chapter, the authors focus on challenges and opportunities for software testing in SOA environment. They divide testing activities based on three classifications: testing activities that are going to be similar to those in traditional software development environments, testing activities that will be less usable or popular in SOA, and testing activities that will evolve significantly to adapt to the new environment. The authors believe that most generic testing activities are going to stay in any new software development environment. However, their importance, significance, challenges, and difficulties are going to be dependent on the subject environment. Some tasks will be easier to implement and test and others will either be un-applicable or difficult to test and implement in comparison with testing in traditional software development environments.},
 duplicado = {false},
 inserir = {}
 }
-@Article{
-id = {1835},
+@Article{1835,
 title = {Supporting the internet-based evaluation of research software with cloud infrastructure},
 abstract = {Abstract
 Due to license restrictions and installation issues, it is often not feasible to experiment with software without making substantial investments. Especially in the case of legacy tools, it turns out that even free software is often too costly (i.e., time-consuming) to be installed for evaluating the quality of a research contribution. After organizing a series of events related to software modeling, we have constructed (and started to use) SHARE, a system for sharing practically any type of software artifact to reviewers and to other participants who have very limited time available. The system relies on cloud-computing technologies to provide online access to interactive environments containing all the tools, documentation, input and output models to reproduce alleged research results. The system also enables one to clone such an environment and add additional models or tools in order to extend a contribution or pinpoint a problem. In retrospect, we observe that the approach is not limited to software modeling and SHARE is in fact gaining acceptance in other fields already.},
 duplicado = {false},
 inserir = {false}
 }
-@Article{
-id = {1837},
+@Article{1837,
 title = {Open Problems in Software Test Coverage},
 abstract = {Abstract Software testing is concerned with the production and maintenance of high quality systems. Test coverage is one major component in software testing. It gives a meaningful description of how much testing is required. The level of test coverage is an indicator of testing thoroughness, which in turn helps testers decide when to stop testing. Several studies addressed coverage criteria effectiveness and adequacy. However, there are several interesting open problems. We identify nine open problems in test coverage and discuss what issues need to be addressed. The objective of this paper is to direct the attention of researchers and testers toward the areas that need to be investigated.},
 duplicado = {false},

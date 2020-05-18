@@ -1,2 +1,2 @@
-Characterizing navigation maps for web applications with the {NMM
-This paper presents the Navigation Maps Modeling approach {(NMM),
+Characterizing navigation maps for web applications with the {NMM} approach
+This paper presents the Navigation Maps Modeling approach {(NMM),} which provides platform independent models for characterizing navigation maps of web applications. The {NMM} approach is conceived to obtain a trade off between high and low-level design notations. As high-level design notations, {NMM} models permit architectural details that may hinder the overall understanding of the web application to be left out. As low-level design notations, {NMM} models can easily be transformed into detailed architectural designs, which are very valuable at coding and maintenance stages.

@@ -1,2 +1,14 @@
-Dynamic Taxonomies: A Model for Large Information Bases
-Abstract¿A new taxonomic model for structuring and accessing large 	heterogeneous information bases is presented. The model is designed 	to simplify both classification and access by computer-illiterate 	people. It defines simple and intuitive operations to access large 	information bases at the conceptual level and at different levels 	of abstraction, in a totally assisted way, through a simple, yet 	effective visual interface. The model can also be used to summarize 	result sets computed by other query methods, such as information 	retrieval, shape retrieval, etc., and to provide user maps for complex 	hypermedia networks. The experience gained by applying this model 	to commercial applications is reported.
+Community knowledge sharing: an Internet application to support communications
+across literacy levels
+This paper presents Community Knowledge Sharing (CKS), an asynchronous
+discussion system designed for use in the developing world. CKS supports
+community development by allowing communities to interact, share
+and learn from each other. Recognizing that large segments of the
+population in rural communities have low levels of literacy, CKS
+implements a multi-literate design in which the system can be customized
+based on the abilities and preferences of the user. An evaluation
+of CKS, conducted in a rural agricultural community in the Dominican
+Republic, found that low literate users prefer fully iconic interfaces.
+Future systems designed for use by people with a range of literacy
+skills must ensure that iconic interfaces provide users with the
+audio and visual cues they need to work effectively

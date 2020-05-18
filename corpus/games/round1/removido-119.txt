@@ -1,2 +1,35 @@
 Game design through self-play experiments
-The application of self-play experiments to computer games was pioneered  	by Thompson in 1982 with his chess machine BELLE. Since then the  	technique has been widely used in a variety of games to train artificial  	players employing a range of artificial neural network architectures.  	Of particular note is the TD-learning Backgammon program of Tesauro  	developed in 1995. When developing artificial game players that learn  	by experience, it is generally possible to accelerate the training  	process through self-play. Compared with training by humans, this  	confers the advantages of greater speed and a precise control of  	playing strength through parameter variation. In spite of these potential  	advantages, the use of self-play experiments is considered by many  	to be a treacherous road fraught with problems. The value of such  	experiments is unclear and the threshold of learning that can be  	achieved through self-play alone is unknown. There is the common-sense  	perception that only limited playing skill can be achieved through  	machine self-play, a notion that is challenged here. A new application  	that is immune from the problems associated with machine learning  	is the use of self-play experiments to test the integrity and fairness  	of games and modify the rules accordingly. We will show how the rules  	of a particular game, Perudo, can be analysed for fairness and how  	the excessive positive feedback that arises when forces become unbalanced  	can be curbed. We use the notion of fair in the same sense as in  	a soccer game - if a team loses a goal, neglecting psychological  	effects, the chance of losing a second goal is not significantly  	changed. It is recognised that the cumulative growth in advantage  	is part of many games and that it is inappropriate to alter the rules  	in these cases. However the rate at which advantages grow can be  	moderated by rule alterations. We will also consider the application  	of the technique to a range of traditional games. In chess, for example,  	White is considered to have an advantage over Black. The imbalance  	can be determined for different playing strengths and extrapolated.  	We will show that the principles can be extended to the more complex  	situations of computer games and propose that the development of  	unintelligent agents to explore game play is advantageous.
+The application of self-play experiments to computer games was pioneered
+by Thompson in 1982 with his chess machine BELLE. Since then the
+technique has been widely used in a variety of games to train artificial
+players employing a range of artificial neural network architectures.
+Of particular note is the TD-learning Backgammon program of Tesauro
+developed in 1995. When developing artificial game players that learn
+by experience, it is generally possible to accelerate the training
+process through self-play. Compared with training by humans, this
+confers the advantages of greater speed and a precise control of
+playing strength through parameter variation. In spite of these potential
+advantages, the use of self-play experiments is considered by many
+to be a treacherous road fraught with problems. The value of such
+experiments is unclear and the threshold of learning that can be
+achieved through self-play alone is unknown. There is the common-sense
+perception that only limited playing skill can be achieved through
+machine self-play, a notion that is challenged here. A new application
+that is immune from the problems associated with machine learning
+is the use of self-play experiments to test the integrity and fairness
+of games and modify the rules accordingly. We will show how the rules
+of a particular game, Perudo, can be analysed for fairness and how
+the excessive positive feedback that arises when forces become unbalanced
+can be curbed. We use the notion of fair in the same sense as in
+a soccer game - if a team loses a goal, neglecting psychological
+effects, the chance of losing a second goal is not significantly
+changed. It is recognised that the cumulative growth in advantage
+is part of many games and that it is inappropriate to alter the rules
+in these cases. However the rate at which advantages grow can be
+moderated by rule alterations. We will also consider the application
+of the technique to a range of traditional games. In chess, for example,
+White is considered to have an advantage over Black. The imbalance
+can be determined for different playing strengths and extrapolated.
+We will show that the principles can be extended to the more complex
+situations of computer games and propose that the development of
+unintelligent agents to explore game play is advantageous.

@@ -1,2 +1,18 @@
-A multiple case study on the impact of pair programming on product  	quality
-Pair programming is a programming technique in which two programmers  	use one computer to work together on the same task. There is an ongoing  	debate over the value of pair programming in software development.  	The current body of knowledge in this area is scattered and unorganized.  	Review shows that most of the results have been obtained from experimental  	studies in university settings. Few, if any, empirical studies exist,  	where pair programming has been systematically under scrutiny in  	real software development projects. Thus, its proposed benefits remain  	currently without solid empirical evidence. This paper reports results  	from four software development projects where the impact of pair  	programming on software product quality was studied. Our empirical  	findings appear to offer contrasting results regarding some of the  	claimed benefits of pair programming. They indicate that pair programming  	may not necessarily provide as extensive quality benefits as suggested  	in literature, and on the other hand, does not result in consistently  	superior productivity when compared to solo programming.
+A multiple case study on the impact of pair programming on product
+quality
+Pair programming is a programming technique in which two programmers
+use one computer to work together on the same task. There is an ongoing
+debate over the value of pair programming in software development.
+The current body of knowledge in this area is scattered and unorganized.
+Review shows that most of the results have been obtained from experimental
+studies in university settings. Few, if any, empirical studies exist,
+where pair programming has been systematically under scrutiny in
+real software development projects. Thus, its proposed benefits remain
+currently without solid empirical evidence. This paper reports results
+from four software development projects where the impact of pair
+programming on software product quality was studied. Our empirical
+findings appear to offer contrasting results regarding some of the
+claimed benefits of pair programming. They indicate that pair programming
+may not necessarily provide as extensive quality benefits as suggested
+in literature, and on the other hand, does not result in consistently
+superior productivity when compared to solo programming.

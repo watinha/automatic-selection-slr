@@ -1,2 +1,16 @@
 A systematic review of software development cost estimation studies
-This paper aims to provide a basis for the improvement of software  	estimation research through a systematic review of previous work.  	The review identifies 304 software cost estimation papers in 76 journals  	and classifies the papers according to research topic, estimation  	approach, research approach, study context and data set. A Web-based  	library of these cost estimation papers is provided to ease the identification  	of relevant estimation research results. The review results combined  	with other knowledge provide support for recommendations for future  	software cost estimation research, including 1) increase the breadth  	of the search for relevant studies, 2) search manually for relevant  	papers within a carefully selected set of journals when completeness  	is essential, 3) conduct more studies on estimation methods commonly  	used by the software industry, and 4) increase the awareness of how  	properties of the data sets impact the results when evaluating estimation  	methods.
+This paper aims to provide a basis for the improvement of software
+estimation research through a systematic review of previous work.
+The review identifies 304 software cost estimation papers in 76 journals
+and classifies the papers according to research topic, estimation
+approach, research approach, study context and data set. A Web-based
+library of these cost estimation papers is provided to ease the identification
+of relevant estimation research results. The review results combined
+with other knowledge provide support for recommendations for future
+software cost estimation research, including 1) increase the breadth
+of the search for relevant studies, 2) search manually for relevant
+papers within a carefully selected set of journals when completeness
+is essential, 3) conduct more studies on estimation methods commonly
+used by the software industry, and 4) increase the awareness of how
+properties of the data sets impact the results when evaluating estimation
+methods.

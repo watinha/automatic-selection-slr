@@ -1,2 +1,16 @@
 Experimental Evaluation of Pair Programming
-Pair programming is a kind of collaborative programming where two  	people are working simultaneously on the same programming task. It  	is one of the key practices of eXtreme Programming. In the paper  	we    	compare it with two variants of individual programming: one of them  	is based on Personal Software Process that has been proposed by W.  	Humphrey, and the other is a variant of eXtreme Programming tailored    	to individuals. Four experiments are described that has been performed  	at the Poznan University of Technology. During those experiments  	21 students wrote 4 C/C++ programs ranging from 150 to    	400 LOC. The obtained results are compared with the results of similar  	experiments described by J.T. Nosek and L. Williams et al.
+Pair programming is a kind of collaborative programming where two
+people are working simultaneously on the same programming task. It
+is one of the key practices of eXtreme Programming. In the paper
+we
+
+compare it with two variants of individual programming: one of them
+is based on Personal Software Process that has been proposed by W.
+Humphrey, and the other is a variant of eXtreme Programming tailored
+
+to individuals. Four experiments are described that has been performed
+at the Poznan University of Technology. During those experiments
+21 students wrote 4 C/C++ programs ranging from 150 to
+
+400 LOC. The obtained results are compared with the results of similar
+experiments described by J.T. Nosek and L. Williams et al.

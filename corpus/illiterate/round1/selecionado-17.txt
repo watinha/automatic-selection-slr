@@ -1,2 +1,12 @@
-Wizard-of-Oz test of ARTUR: a computer-based speech training system 	with articulation correction
-This study has been performed in order to test the human-machine interface 	of a computer-based speech training aid named ARTUR with the main 	feature that it can give suggestions on how to improve articulation. 	Two user groups were involved: three children aged 9-14 with extensive 	experience of speech training, and three children aged 6. All children 	had general language disorders.The study indicates that the present 	interface is usable without prior training or instructions, even 	for the younger children, although it needs some improvement to fit 	illiterate children. The granularity of the mesh that classifies 	mispronunciations was satisfactory, but can be developed further.
+Wizard-of-Oz test of ARTUR: a computer-based speech training system
+with articulation correction
+This study has been performed in order to test the human-machine interface
+of a computer-based speech training aid named ARTUR with the main
+feature that it can give suggestions on how to improve articulation.
+Two user groups were involved: three children aged 9-14 with extensive
+experience of speech training, and three children aged 6. All children
+had general language disorders.The study indicates that the present
+interface is usable without prior training or instructions, even
+for the younger children, although it needs some improvement to fit
+illiterate children. The granularity of the mesh that classifies
+mispronunciations was satisfactory, but can be developed further.

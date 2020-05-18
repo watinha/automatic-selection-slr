@@ -1,2 +1,16 @@
-When conventions collide: the tensions of instant messaging attributed
-We discuss findings from observation, interviews, and textual analysis 	of instant messaging use in a university research lab setting. We 	propose a method for characterizing the tensions that permeate instant 	messaging texts and that expose the collision between conventions 	of verbal and written communication. Given this method, we suggest 	a design space for exploring potential design choices in instant 	messaging clients. Finally, we recommend an analysis of communicative 	conventions as a fruitful lens through which designers might anticipate 	or circumvent design tensions in emergent computer-mediated communication 	technologies
+Smashing images---a review
+"In the eighth century, a sect arose from within the ranks of its
+highly literate clergy that so despised images that its members declared
+an all-out war against statues and paintings&hellip;. At first, they
+sought out only religious images to smash. Church mosaics, painted
+icons, and stained-glass artistry fell to their savage assaults.
+Later their targets also included painters, sculptors and craftsmen.
+They even murdered those whose crime it was to love art. Monks who
+resisted were blinded and had their tongues torn out. The iconoclasts
+beheaded the Patriach of the Eastern Chruch in 767 for refusing to
+support their cause."The iconoclast movement never spread to illiterate
+Western Europe; its madness consumed only the segment of Christendom
+that boasted the highest literacy rate. Artists fled for their lives
+from Byzantium, heading for the western court of Charlemagne whose
+largely illiterate courtiers welcomed them with open arms" (pp. 275-276)
+[1].

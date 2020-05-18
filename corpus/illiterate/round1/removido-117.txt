@@ -1,2 +1,29 @@
-Ode or code?: programmers be used!
-Is your code literate or literary?
+Controlling appliances with pen and paper
+Networked appliances are consumer or household devices with a network
+interface which allows them to he connected to a (home) network.
+Networked appliances offer major benefits compared to their conventional
+equivalent. Software services can operate upon an array of these
+appliances to offer value added functionality. In this case the user
+interface to control the appliances will be inadequate. Commonly
+networked appliances may either he controlled using the traditional
+user interface, such as switches and buttons on the device, or alternatively
+using a PC based interface. Traditional user interfaces often cannot
+support the full functionality offered by the appliance. The PC based
+interfaces tend to be too complicated for the average user and enables
+the PC based interface to be suitable and available in many situations.
+Therefore a user interface which supports the new functionalities
+and is easy to use is required. In this paper, Anoto functionality
+enabled pen and paper are suggested as a suitable interface. Pen
+and paper are well known to all users and suitable paper forms make
+it straightforward to fully control and program networked appliances
+without a PC interface. Thus an important barrier to the acceptance
+of networked appliances is broken. Furthermore, the presented approach
+can be used to integrate the control of multiple appliances and services.
+A major challenge to this work has been the integration of different
+network protocols used in the home. The use of an OSGi gateway has
+proven a great help to integrate them. This paper discusses an approach
+to the integration of pen and paper with networked appliances using
+an OSGi gateway. Because of the use of an OSGi gateway, the approach
+is not restricted to controlling devices which use a specific single
+network protocol. Rather, the approach can be used with appliances
+which communicate using a wide variety of protocols.

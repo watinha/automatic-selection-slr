@@ -1,2 +1,15 @@
 Pair programming in software evolution
-This paper presents an experiment on pair programming in software  	evolution. Six graduate students are involved in the experiment,  	in which four of them form two pairs and the rest two are required  	to work individually. The experiment enables a study that compares  	pair programming with traditional individual programming. The result  	of experiment on six incremental change tasks shows that programmer  	pairs not only work more efficiently than individual programmers,  	they also write higher quality and clearer code. The result also  	shows the discrepancy in change propagation, when programming pairs  	miss only one and the individual programmers miss four out of eighteen.  	Meanwhile, there is a significant decrease in the programming pairs'  	use of time for last two change requests. Based on the experiment,  	it may be concluded that programming pairs are a better solution  	for urgent maintenance tasks than individual programmers.
+This paper presents an experiment on pair programming in software
+evolution. Six graduate students are involved in the experiment,
+in which four of them form two pairs and the rest two are required
+to work individually. The experiment enables a study that compares
+pair programming with traditional individual programming. The result
+of experiment on six incremental change tasks shows that programmer
+pairs not only work more efficiently than individual programmers,
+they also write higher quality and clearer code. The result also
+shows the discrepancy in change propagation, when programming pairs
+miss only one and the individual programmers miss four out of eighteen.
+Meanwhile, there is a significant decrease in the programming pairs'
+use of time for last two change requests. Based on the experiment,
+it may be concluded that programming pairs are a better solution
+for urgent maintenance tasks than individual programmers.

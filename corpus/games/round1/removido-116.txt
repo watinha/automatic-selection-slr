@@ -1,2 +1,24 @@
 Games engines in scientific research
-Six-figure workstations and custom software are not producing the  	best graphics or virtual reality simulations anymore. Today, the  	only way to have the fastest, most realistic simulations and sophisticated  	graphics is to trade down from the expensive gear to standard PCs  	running game software. Virtual reality (VR), augmented reality (AR),  	and high-fidelity physical simulation have long posed too high a  	barrier to entry for any but the most generously funded researchers.  	Significant advances in computer graphics in these areas have traditionally  	depended on expensive, specialized graphics hardware running on scientific  	workstations. Highfidelity simulation/graphics software has also  	remained an expensive niche market largely the province of the military  	and high-end VR labs seeking to drive costly peripherals such as  	Caves, datagloves, and head-mounted displays (HMDs). In the past  	two years, however, the situation has changed remarkably. Now the  	mass market for    	computer games, grown even larger than the movie industry, has expropriated  	the best in computer hardware and software for itself. The most sophisticated  	rendering pipelines are now found not on specialized scientific machines  	but on PC video cards costing less than $500. The most sophisticated,  	responsive interactive simulations are now found in the engines built  	to power games. Despite the stigma of violence and gore associated  	...
+Six-figure workstations and custom software are not producing the
+best graphics or virtual reality simulations anymore. Today, the
+only way to have the fastest, most realistic simulations and sophisticated
+graphics is to trade down from the expensive gear to standard PCs
+running game software. Virtual reality (VR), augmented reality (AR),
+and high-fidelity physical simulation have long posed too high a
+barrier to entry for any but the most generously funded researchers.
+Significant advances in computer graphics in these areas have traditionally
+depended on expensive, specialized graphics hardware running on scientific
+workstations. Highfidelity simulation/graphics software has also
+remained an expensive niche market largely the province of the military
+and high-end VR labs seeking to drive costly peripherals such as
+Caves, datagloves, and head-mounted displays (HMDs). In the past
+two years, however, the situation has changed remarkably. Now the
+mass market for
+
+computer games, grown even larger than the movie industry, has expropriated
+the best in computer hardware and software for itself. The most sophisticated
+rendering pipelines are now found not on specialized scientific machines
+but on PC video cards costing less than $500. The most sophisticated,
+responsive interactive simulations are now found in the engines built
+to power games. Despite the stigma of violence and gore associated
+...

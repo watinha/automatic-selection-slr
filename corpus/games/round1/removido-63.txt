@@ -1,2 +1,3 @@
 Build your own games
-Software is allowing children to develop their own animations and  	games by building blocks of code.
+Software is allowing children to develop their own animations and
+games by building blocks of code.

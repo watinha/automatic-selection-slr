@@ -1,2 +1,18 @@
 A survey of controlled experiments in software engineering
-The classical method for identifying cause-effect relationships is  	to conduct controlled experiments. This paper reports upon the present  	state of how controlled experiments in software engineering are conducted  	and the extent to which relevant information is reported. Among the  	5,453 scientific articles published in 12 leading software engineering  	journals and conferences in the decade from 1993 to 2002, 103 articles  	(1.9 percent) reported controlled experiments in which individuals  	or teams performed one or more software engineering tasks. This survey  	quantitatively characterizes the topics of the experiments and their  	subjects (number of subjects, students versus professionals, recruitment,  	and rewards for participation), tasks (type of task, duration, and  	type and size of application) and environments (location, development  	tools). Furthermore, the survey reports on how internal and external  	validity is addressed and the extent to which experiments are replicated.  	The gathered data reflects the relevance of software engineering  	experiments to industrial practice and the scientific maturity of  	software engineering research.
+The classical method for identifying cause-effect relationships is
+to conduct controlled experiments. This paper reports upon the present
+state of how controlled experiments in software engineering are conducted
+and the extent to which relevant information is reported. Among the
+5,453 scientific articles published in 12 leading software engineering
+journals and conferences in the decade from 1993 to 2002, 103 articles
+(1.9 percent) reported controlled experiments in which individuals
+or teams performed one or more software engineering tasks. This survey
+quantitatively characterizes the topics of the experiments and their
+subjects (number of subjects, students versus professionals, recruitment,
+and rewards for participation), tasks (type of task, duration, and
+type and size of application) and environments (location, development
+tools). Furthermore, the survey reports on how internal and external
+validity is addressed and the extent to which experiments are replicated.
+The gathered data reflects the relevance of software engineering
+experiments to industrial practice and the scientific maturity of
+software engineering research.

@@ -4,12 +4,12 @@ from sklearn import tree, naive_bayes, ensemble, linear_model
 from sklearn.svm import LinearSVC, SVC
 
 from pipeline import BibParser, GenerateDataset, GenerateSequences
-from pipeline.classifiers import DecisionTreeClassifier, LinearSVMClassifier, SVMClassifier, NaiveBayesClassifier, RandomForestClassifier, MLPClassifier, LogisticRegressionClassifier, MLPKerasClassifier
-from pipeline.classifiers.embedding import MLPGloveEmbeddings, MLPSEEmbeddings
+from pipeline.classifiers import DecisionTreeClassifier, LinearSVMClassifier, SVMClassifier, NaiveBayesClassifier, RandomForestClassifier, MLPClassifier, LogisticRegressionClassifier
+#from pipeline.classifiers.embedding import MLPGloveEmbeddings, MLPSEEmbeddings
 from pipeline.preprocessing import LemmatizerFilter, StopWordsFilter, PorterStemmerFilter, TextFilterComposite
 from pipeline.transformation import LSATransformation
 from pipeline.feature_selection import RFECVFeatureSelection, VarianceThresholdFeatureSelection, USESFeatureSelection, SelectKBestSelection
-from pipeline.feature_selection.embedding import EmbeddingsFeatureSelection, GloveEmbeddingLoader, GensimEmbeddingLoader
+#from pipeline.feature_selection.embedding import EmbeddingsFeatureSelection, GloveEmbeddingLoader, GensimEmbeddingLoader
 from pipeline.reporter import CSVReporter
 from sklearn.feature_extraction.text import TfidfVectorizer
 
@@ -106,22 +106,22 @@ for input in inputs:
     argument = input['argument']
     elimination_classifier = input['elimination_classifier']
     actions = [
-        BibParser(write_files=False, project_folder=project_folder),
-        TextFilterComposite([ LemmatizerFilter(), StopWordsFilter() ]),
+        BibParser(write_files=True, project_folder=project_folder),
+        #TextFilterComposite([ LemmatizerFilter(), StopWordsFilter() ]),
         #EmbeddingsFeatureSelection(
         #    GloveEmbeddingLoader(glove_file='glove.6B.200d.txt', embedding_dim=200), k=300, random_state=42),
         #EmbeddingsFeatureSelection(
         #    GensimEmbeddingLoader(gensim_file='SO_vectors_200.bin', embedding_dim=200), k=300, random_state=42),
-        GenerateDataset(TfidfVectorizer(ngram_range=(1,3), use_idf=True)),
+        #GenerateDataset(TfidfVectorizer(ngram_range=(1,3), use_idf=True)),
         #LSATransformation(n_components=100, random_state=42),
-        SelectKBestSelection(k=3000),
+        #SelectKBestSelection(k=3000),
         #VarianceThresholdFeatureSelection(threshold=0.0001),
         #RFECVFeatureSelection(elimination_classifier),
         #USESFeatureSelection(k=50),
-        DecisionTreeClassifier(seed=42, criterion='gini'),
+        #DecisionTreeClassifier(seed=42, criterion='gini'),
         #MLPKerasClassifier(seed=42, activation='relu'),
         #RandomForestClassifier(seed=42, criterion='gini'),
-        SVMClassifier(42),
+        #SVMClassifier(42),
         #LogisticRegressionClassifier(42),
         #MLPClassifier(42),
         #LinearSVMClassifier(42),
@@ -131,11 +131,11 @@ for input in inputs:
         #                   maxlen=500, glove_file='glove.6B.50d.txt'),
         #MLPSEEmbeddings(seed=42, activation='relu', embedding_dim=200,
         #                maxlen=500, gensim_file='SO_vectors_200.bin'),
-        reporter
+        #reporter
     ]
 
     for action in actions:
         argument = action.execute(argument)
 
-reporter.report()
+#reporter.report()
 sys.exit(0)

@@ -1,2 +1,11 @@
-The implementation of a pre-paid electricity system in a third world 	environment
-The future of electricity billing to the small power and commercial 	user lies in pre-payment metering. The system consists of three major 	items. The dispenser is placed inside the consumer's home, it allows 	the consumer to use electricity as long as they are in credit, it 	also indicates how much electricity is being used. The validation 	or credit dispensing unit, generates tokens or encrypted numbers 	to the value of money paid. The validator should be placed at convenient 	sites such as shops or workplaces. The master station is a computer 	that provides the management and financial control of a project area
+The implementation of a pre-paid electricity system in a third world
+environment
+The future of electricity billing to the small power and commercial
+user lies in pre-payment metering. The system consists of three major
+items. The dispenser is placed inside the consumer's home, it allows
+the consumer to use electricity as long as they are in credit, it
+also indicates how much electricity is being used. The validation
+or credit dispensing unit, generates tokens or encrypted numbers
+to the value of money paid. The validator should be placed at convenient
+sites such as shops or workplaces. The master station is a computer
+that provides the management and financial control of a project area

@@ -1,2 +1,8 @@
-Security broker for multimedia wireless LANs: design, implementation 	and testbed
-To secure interactive multimedia applications in wireless LANs (WLANs) 	it is pertinent to implement a number of security services such as 	authentication, key exchange and real-time encryption/decryption. 	WLANs, though, present a complex and challenging environment for 	implementing such security services since these services may deplete 	the limited network resources and increase the burden of supporting 	quality of service for multimedia applications. Consequently, a broker 	is needed to mediate proper security considering inputs such as user 	security requirements, user security literacy, available network 	resources, and security routines performance. In this paper we introduce 	a security broker that we have designed to fulfil these complex mediation 	needs. This broker is implemented in software and tested in a wireless 	LAN testbed. The reported security broker design and implementation 	considers the wireless LAN environment as well as the multimedia 	applications' quality of service requirements such as delay and throughput. 	We also introduce an inline encryption/decryption software that encrypts/decrypts 	traffic on the fly. Our experiments show that in cases where relatively 	modern computers are used with properly chosen standard encryptors, 	then such computers can sustain the throughput and security requirements 	of interactive multimedia applications for WLANs such as telephone-quality 	audio, video conferencing, and MPEG video
+Locus Solum: From the rules of logic to the logic of rules
+Go back to An-fang, the Peace Square at An-Fang, the Beginning Place
+at An-Fang, where all things start (…) An-Fang was near a city, the
+only living city with a pre-atomic name (…) The headquarters of the
+People Programmer was at An-Fang, and there the mistake happened:
+A ruby trembled. Two tourmaline nets failed to rectify the laser
+beam. A diamond noted the error. Both the error and the correction
+went into the general computer.

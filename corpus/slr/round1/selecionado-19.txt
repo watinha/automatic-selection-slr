@@ -1,2 +1,27 @@
-A review of studies on expert estimation of software development  	effort
-This paper provides an extensive review of studies related to expert  	estimation of software development effort. The main goal and contribution  	of the review is to support the research on expert estimation, e.g.,  	to ease other researcher's search for relevant expert estimation  	studies. In addition, we provide software practitioners with useful  	estimation guidelines, based on the research-based knowledge of expert  	estimation processes. The review results suggest that expert estimation  	is the most frequently applied estimation strategy for software projects,  	that there is no substantial evidence in favour of use of estimation  	models, and that there are situations where we can expect expert  	estimates to be more accurate than formal estimation models. The  	following 12 expert estimation "best practice" guidelines are evaluated  	through the review: (1) evaluate estimation accuracy, but avoid high  	evaluation pressure; (2) avoid conflicting estimation goals; (3)  	ask the estimators to justify and criticize their estimates; (4)  	avoid irrelevant and unreliable estimation information; (5) use documented  	data from previous development tasks; (6) find estimation experts  	with relevant domain background and good estimation records; (7)  	Estimate top-down and bottom-up, independently of each other; (8)  	use estimation checklists; (9) combine estimates from different experts  	and estimation strategies; (10) assess the uncertainty of the estimate;  	(11) provide feedback on estimation accuracy and development task  	relations; and, (12) provide estimation training opportunities. We  	found supporting evidence for all 12 estimation principles, and provide  	suggestions on how to implement them in software organizations.
+A review of studies on expert estimation of software development
+effort
+This paper provides an extensive review of studies related to expert
+estimation of software development effort. The main goal and contribution
+of the review is to support the research on expert estimation, e.g.,
+to ease other researcher's search for relevant expert estimation
+studies. In addition, we provide software practitioners with useful
+estimation guidelines, based on the research-based knowledge of expert
+estimation processes. The review results suggest that expert estimation
+is the most frequently applied estimation strategy for software projects,
+that there is no substantial evidence in favour of use of estimation
+models, and that there are situations where we can expect expert
+estimates to be more accurate than formal estimation models. The
+following 12 expert estimation "best practice" guidelines are evaluated
+through the review: (1) evaluate estimation accuracy, but avoid high
+evaluation pressure; (2) avoid conflicting estimation goals; (3)
+ask the estimators to justify and criticize their estimates; (4)
+avoid irrelevant and unreliable estimation information; (5) use documented
+data from previous development tasks; (6) find estimation experts
+with relevant domain background and good estimation records; (7)
+Estimate top-down and bottom-up, independently of each other; (8)
+use estimation checklists; (9) combine estimates from different experts
+and estimation strategies; (10) assess the uncertainty of the estimate;
+(11) provide feedback on estimation accuracy and development task
+relations; and, (12) provide estimation training opportunities. We
+found supporting evidence for all 12 estimation principles, and provide
+suggestions on how to implement them in software organizations.

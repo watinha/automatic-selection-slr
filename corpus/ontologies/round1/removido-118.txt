@@ -1,2 +1,16 @@
 The Role of Semantics in Testing Semantic Web Services
-Abstract Semantic Web Services are Web Services that are  semantically annotated in order to make the services machine  understandable, thus allowing service discovery, selection,  composition, and invocation to be done automatically or with  minimum human intervention. The Semantic Web services  research community has been focusing on how these  semantics can facilitate service discovery, selection,  composition, and invocation. As of late, there have been some  growing research interests in the area of Semantic Web  services testing. However, it is not stated how the semantic  annotations in the Web services description can help improve  testing and how different it is from testing normal Web  services. This paper discusses current ongoing research on  testing Semantic Web services and classifies how testing uses  the semantics of the Semantic Web services description. 
+Abstract Semantic Web Services are Web Services that are
+semantically annotated in order to make the services machine
+understandable, thus allowing service discovery, selection,
+composition, and invocation to be done automatically or with
+minimum human intervention. The Semantic Web services
+research community has been focusing on how these
+semantics can facilitate service discovery, selection,
+composition, and invocation. As of late, there have been some
+growing research interests in the area of Semantic Web
+services testing. However, it is not stated how the semantic
+annotations in the Web services description can help improve
+testing and how different it is from testing normal Web
+services. This paper discusses current ongoing research on
+testing Semantic Web services and classifies how testing uses
+the semantics of the Semantic Web services description. 

@@ -1,2 +1,10 @@
 Beneficial Dependencies: Design Principles for Narrative Games
-This paper presents the leitmotifs of current research on psychologically  	colored interactive narration. Virtual Characters, their stories  	and adventures are in focus, and not the story of the user. The concept  	of a Capricious Non-Player Character (C-NPC) is introduced as a new  	kind of agent appropriate for such stories. A C-NPC expects consideration  	and support, even towards its technological limitations. A narrative  	educational game is presented that functions as a testbed for the  	creation of C-NPCs. An overview of the technology employed for dialogue  	management is provided.
+This paper presents the leitmotifs of current research on psychologically
+colored interactive narration. Virtual Characters, their stories
+and adventures are in focus, and not the story of the user. The concept
+of a Capricious Non-Player Character (C-NPC) is introduced as a new
+kind of agent appropriate for such stories. A C-NPC expects consideration
+and support, even towards its technological limitations. A narrative
+educational game is presented that functions as a testbed for the
+creation of C-NPCs. An overview of the technology employed for dialogue
+management is provided.

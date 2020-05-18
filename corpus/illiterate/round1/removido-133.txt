@@ -1,2 +1,12 @@
-A Social History of the Mobile Telephone with a View of its Future
-The social history of the mobile telephone involves both the history 	of technological development and an account of changing social and 	political frameworks into which the new technological developments 	become integrated. The technological innovations of mobile telephony 	were established from the 1940s, but it was not until the 1990s that 	adoption took off. It has been claimed that the mobile telephone 	revolution can be explained by changes in the way communication happens 	through social networks, away from old hierarchical forms. Several 	unique communicative and behavioural patterns have emerged in countries 	with mass use of the mobile telephone, including texting (SMS) and 	the development of new social norms. Nevertheless there is still 	huge global variation in use and development, and more research needs 	to be conducted which responds to very local patterns of use and 	reuse.
+An overview of pen computing
+Pen computing broadly refers to an interdisciplinary matter and attracts
+many researchers recent years. In this paper we review four aspects
+of pen computing, say, pen-computing devices, pen interfaces, online
+handwriting recognition systems and pen computer applications. On
+the one hand we present a contour of pen computing, on the other
+hand, by virtual of reviewing the state of the art of pen computing,
+we also find many dissatisfaction in pen computing and hence consider
+that to further promote the development of pen computing, firstly
+researchers need to improve the hardware performance of pen computers
+and secondly to develop pen-base operating systems and more friendly
+pen interfaces and lastly to propose more better recognition algorithms.

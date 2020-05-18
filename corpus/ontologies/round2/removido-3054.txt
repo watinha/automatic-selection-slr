@@ -1,2 +1,16 @@
 A Systematic Mapping Study on the Multi-tenant Architecture of SaaS Systems
-Abstract Background: SaaS (Software as a Service) is a services  delivery model in Cloud Computing whose applications are remotely  hosted by the service provider and available to customers  on demand over the Internet. Multi-tenant Architecture (MTA) is  an organizational pattern for SaaS that enables a single instance  of an application to be hosted on the same hardware and accessed  by multiple customers, so-called tenants, with the aim of lowering  costs. Tenants are able to configure the system according to their  particular needs. Objective: This research aims at the obtaining  an overview of the challenges and research opportunities in MTA  context for SaaS through a Systematic Mapping Study. Results:  Eighty nine primary studies were selected for discussions on  advances and opportunities for further investigations. The results  showed the relevancy of MTA and pointed out the main research  trends for next years in this topic.  
+Abstract Background: SaaS (Software as a Service) is a services
+delivery model in Cloud Computing whose applications are remotely
+hosted by the service provider and available to customers
+on demand over the Internet. Multi-tenant Architecture (MTA) is
+an organizational pattern for SaaS that enables a single instance
+of an application to be hosted on the same hardware and accessed
+by multiple customers, so-called tenants, with the aim of lowering
+costs. Tenants are able to configure the system according to their
+particular needs. Objective: This research aims at the obtaining
+an overview of the challenges and research opportunities in MTA
+context for SaaS through a Systematic Mapping Study. Results:
+Eighty nine primary studies were selected for discussions on
+advances and opportunities for further investigations. The results
+showed the relevancy of MTA and pointed out the main research
+trends for next years in this topic.

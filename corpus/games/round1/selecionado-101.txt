@@ -1,2 +1,13 @@
 Playability heuristics for mobile multi-player games
-Multi-player games are engaging because of social interaction and  	competing with real players. Currently, many digital games are multi-player  	or have multi-player features. When evaluating the playability of  	multi-player games, we need to consider player-to-player interaction.  	In this paper, we introduce and describe playability heuristics for  	mobile multi-player games that complement the playability heuristic  	model that we have presented earlier. Multi-player heuristics have  	been developed by identifying playability problems in game evaluations  	and comparing these findings to game design guidelines and other  	studies found in the literature. The results indicate that the presented  	multi-player heuristics correspond to issues that are addressed to  	be important in multi-player games.
+Multi-player games are engaging because of social interaction and
+competing with real players. Currently, many digital games are multi-player
+or have multi-player features. When evaluating the playability of
+multi-player games, we need to consider player-to-player interaction.
+In this paper, we introduce and describe playability heuristics for
+mobile multi-player games that complement the playability heuristic
+model that we have presented earlier. Multi-player heuristics have
+been developed by identifying playability problems in game evaluations
+and comparing these findings to game design guidelines and other
+studies found in the literature. The results indicate that the presented
+multi-player heuristics correspond to issues that are addressed to
+be important in multi-player games.

@@ -1,2 +1,17 @@
 Model-based Testing and Verification of Dependable Systems
-Abstract   Testing of dependable event-based systems is very  important to ensure that all requirements (including nonfunctional  requirements such as reliability, availability,  safety and security) are met, and the relevant standards are  observed. In this paper we provide an overview of the state  of the practice in testing dependable event-based systems  and identify the challenges that have to be addressed in the  future. We illustrate our findings by a case study for a  transportation system. The most important topics for  research and improvement are: (1) formal modeling  techniques for domain experts, (2) smart monkey testing  techniques for reliability testing (3) mutation analysis to  reveal the defect-detection potential of test suites, and a (4)  recommending tool for the selection of test-case design  methods. 
+Abstract
+Testing of dependable event-based systems is very
+important to ensure that all requirements (including nonfunctional
+requirements such as reliability, availability,
+safety and security) are met, and the relevant standards are
+observed. In this paper we provide an overview of the state
+of the practice in testing dependable event-based systems
+and identify the challenges that have to be addressed in the
+future. We illustrate our findings by a case study for a
+transportation system. The most important topics for
+research and improvement are: (1) formal modeling
+techniques for domain experts, (2) smart monkey testing
+techniques for reliability testing (3) mutation analysis to
+reveal the defect-detection potential of test suites, and a (4)
+recommending tool for the selection of test-case design
+methods. 

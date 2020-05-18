@@ -1,2 +1,16 @@
 Prime III: a user centered voting system
-Mr. Wilson never votes. He doesn't vote because he is not confident 	in his reading capabilities; however, he decided that he will vote 	this year because he heard that blind people will be able to privately 	cast their vote. He said, "If blind people can vote, then so can 	I" At the voting precinct, he shows his identification and receives 	a blank, numbered ballot sheet. He enters a voting booth, placing 	the ballot into the printer. Using a headset with a microphone, he 	is able to make his selections by speaking numbers, which gives him 	confidence that his vote is private. Before printing his ballot, 	he listens to a summary of his selections. He leaves the voting booth 	and places his printed ballot into a secure box. Like Mr. Wilson, 	there are millions of people that don't participate in our electoral 	process due to disabilities and lack of confidence in the equipment. 	Through usable security, Prime III aims to broaden voter participation 	and confidence.
+Mr. Wilson never votes. He doesn't vote because he is not confident
+in his reading capabilities; however, he decided that he will vote
+this year because he heard that blind people will be able to privately
+cast their vote. He said, "If blind people can vote, then so can
+I" At the voting precinct, he shows his identification and receives
+a blank, numbered ballot sheet. He enters a voting booth, placing
+the ballot into the printer. Using a headset with a microphone, he
+is able to make his selections by speaking numbers, which gives him
+confidence that his vote is private. Before printing his ballot,
+he listens to a summary of his selections. He leaves the voting booth
+and places his printed ballot into a secure box. Like Mr. Wilson,
+there are millions of people that don't participate in our electoral
+process due to disabilities and lack of confidence in the equipment.
+Through usable security, Prime III aims to broaden voter participation
+and confidence.

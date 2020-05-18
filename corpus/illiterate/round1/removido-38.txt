@@ -1,2 +1,12 @@
 REALITY in Home Telecare: A Systemic Approach to Evaluation
-This paper describes the REALITY telecare system, designed to enable 	a range of commonly occurring chronic diseases to be managed in the 	home setting. This uses hand-held computers linked to the internet 	for collecting and transmitting clinical and quality of life data 	and providing remote clinical advice. Key to the success of such 	telecare is a proper scheme of evaluation. An overall framework for 	such evaluation is proposed. Within this schema formative evaluation 	results are presented, focusing particularly on technical issues 	being addressed, patient recruitment and retention, and data collection. 	User acceptability is then considered as a first ingredient of summative 	evaluation
+This paper describes the REALITY telecare system, designed to enable
+a range of commonly occurring chronic diseases to be managed in the
+home setting. This uses hand-held computers linked to the internet
+for collecting and transmitting clinical and quality of life data
+and providing remote clinical advice. Key to the success of such
+telecare is a proper scheme of evaluation. An overall framework for
+such evaluation is proposed. Within this schema formative evaluation
+results are presented, focusing particularly on technical issues
+being addressed, patient recruitment and retention, and data collection.
+User acceptability is then considered as a first ingredient of summative
+evaluation

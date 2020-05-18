@@ -1,2 +1,15 @@
 Quantitative assessment of extreme programming practices
-Some anecdotal evidence demonstrates success of the extreme programming  	practice in a portion of the software industry. It has also been  	argued that pair programming, as as a part of the extreme programming  	process, yields higher quality software products in less time. On  	the other hand, these principles are sometimes questioned with respect  	to resource allocation and management issues. Although precise information  	about benefits and costs of the extreme programming practice represents  	a critical guideline for improvement of software quality, there has  	been little work on the subject beyond subjective reports and a study  	in an academic environment. We propose an experimental framework  	to quantify benefits and costs of the pair programming practice and  	compare design aspects of the resulting software products and their  	defect behavior. For this purpose, we use a set of object-oriented  	metrics and software reliability growth models based on service requests.
+Some anecdotal evidence demonstrates success of the extreme programming
+practice in a portion of the software industry. It has also been
+argued that pair programming, as as a part of the extreme programming
+process, yields higher quality software products in less time. On
+the other hand, these principles are sometimes questioned with respect
+to resource allocation and management issues. Although precise information
+about benefits and costs of the extreme programming practice represents
+a critical guideline for improvement of software quality, there has
+been little work on the subject beyond subjective reports and a study
+in an academic environment. We propose an experimental framework
+to quantify benefits and costs of the pair programming practice and
+compare design aspects of the resulting software products and their
+defect behavior. For this purpose, we use a set of object-oriented
+metrics and software reliability growth models based on service requests.

@@ -1,2 +1,33 @@
 Test Data Generation Based on GUI: A Systematic Mapping
-Abstract For the general case, the complete automation  of test data generation is an undecidable problem,  and many researches employ meta-heuristics trying  to find a reasonable partial solution. System testing  performed via graphical user interface (GUI) imposes  extra challenge for automation due to hundreds and  often thousands of possibilities of events that can be  generated. Objective: This work presents a study based  on systematic mapping aiming at identifying the state of  the art and the state of the practice on the automation  of system testing carried out via GUI. Method: We employed  the traditional protocol of mapping study to support  the data collection. Results: The work was carried  out from 6th February 2012 to 1st May 2013 resulting in  the selection of 39 out of 598 primary studies obtained  with the application of the search strings. Some of  these works used, besides functional testing criteria,  structural testing criteria to guide meta-heuristics. In  relation to meta-heuristics, the distribution of work  was more uniform, with a slight majority using Genetic  Algorithms for test data generation. Conclusion: There  are few research groups working on this subject. One  particular author is responsible for authoring more  than 30% of the selected primary studies and can be  considered a reference in the generation of test data  from GUI. Some research problems identified are 1) the  difficult to represent all the possible GUI interactions  without cause state explosion; 2) the need to evaluate  the techniques on large software products; and 3) the  complexity to automate the representation of the GUI  interactions by reducing the number of infeasible sequences  of actions.  
+Abstract For the general case, the complete automation
+of test data generation is an undecidable problem,
+and many researches employ meta-heuristics trying
+to find a reasonable partial solution. System testing
+performed via graphical user interface (GUI) imposes
+extra challenge for automation due to hundreds and
+often thousands of possibilities of events that can be
+generated. Objective: This work presents a study based
+on systematic mapping aiming at identifying the state of
+the art and the state of the practice on the automation
+of system testing carried out via GUI. Method: We employed
+the traditional protocol of mapping study to support
+the data collection. Results: The work was carried
+out from 6th February 2012 to 1st May 2013 resulting in
+the selection of 39 out of 598 primary studies obtained
+with the application of the search strings. Some of
+these works used, besides functional testing criteria,
+structural testing criteria to guide meta-heuristics. In
+relation to meta-heuristics, the distribution of work
+was more uniform, with a slight majority using Genetic
+Algorithms for test data generation. Conclusion: There
+are few research groups working on this subject. One
+particular author is responsible for authoring more
+than 30% of the selected primary studies and can be
+considered a reference in the generation of test data
+from GUI. Some research problems identified are 1) the
+difficult to represent all the possible GUI interactions
+without cause state explosion; 2) the need to evaluate
+the techniques on large software products; and 3) the
+complexity to automate the representation of the GUI
+interactions by reducing the number of infeasible sequences
+of actions.

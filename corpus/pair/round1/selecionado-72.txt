@@ -1,2 +1,10 @@
-Pair programming: More learning and less anxiety in a first programming  	course
-The impact of pair programming in education design to enhance the  	student's learning experience through team is discussed. It involves  	the students undertaking and completing some aspect of their programming  	work as a team of two. The objective of this course is to teach first-year  	engineering student logic and problem solving skill through algorithm  	programming. The objective analysis taking into consideration the  	students grades and timesheet support, at a prima facie level, the  	students' accounts of their experiences.
+Pair programming: More learning and less anxiety in a first programming
+course
+The impact of pair programming in education design to enhance the
+student's learning experience through team is discussed. It involves
+the students undertaking and completing some aspect of their programming
+work as a team of two. The objective of this course is to teach first-year
+engineering student logic and problem solving skill through algorithm
+programming. The objective analysis taking into consideration the
+students grades and timesheet support, at a prima facie level, the
+students' accounts of their experiences.

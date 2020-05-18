@@ -1,2 +1,23 @@
 Mobile Game Development: Object-Orientation or Not
-Mobile games are one of the primary entertainment applications at  	present. Limited by scarce resources, such as memory, CPU, input  	and output, etc, mobile game development is more difficult than desktop  	application development, with performance as one of the top critical  	requirements. As object-oriented technology is the prevalent programming  	paradigm, most of the current mobile games are developed with object-orientation  	(OO) technologies. Intuitively OO is not a perfect paradigm for embedded  	software. Questions remain such as how OO and to what degree OO will  	affect the performance, executable file size, and how optimization  	strategies can improve the qualities of mobile game software. These  	questions are investigated in this paper within the mobile Role-Playing-Game  	(RPG) domain using five industrial mobile games developed with OO.  	We analyzed them and found excessive usage of OO features used for  	the development of mobile device applications (but normal for usual  	desktop applications). We then apply some optimization strategies  	along the way of structural programming. The experiment shows that  	the total jar file size of these five optimized games decreases 71  	% the lines of codes decreases 59%, and the loading time of each  	optimized game decreases 22.73%, 34.62% 25.79% 24.65% and 16.70%  	respectively. Therefore, we conclude from our experiments that 00  	should be used with great care in the development of mobile games,  	and that structural programming can be a very competitive alternative.
+Mobile games are one of the primary entertainment applications at
+present. Limited by scarce resources, such as memory, CPU, input
+and output, etc, mobile game development is more difficult than desktop
+application development, with performance as one of the top critical
+requirements. As object-oriented technology is the prevalent programming
+paradigm, most of the current mobile games are developed with object-orientation
+(OO) technologies. Intuitively OO is not a perfect paradigm for embedded
+software. Questions remain such as how OO and to what degree OO will
+affect the performance, executable file size, and how optimization
+strategies can improve the qualities of mobile game software. These
+questions are investigated in this paper within the mobile Role-Playing-Game
+(RPG) domain using five industrial mobile games developed with OO.
+We analyzed them and found excessive usage of OO features used for
+the development of mobile device applications (but normal for usual
+desktop applications). We then apply some optimization strategies
+along the way of structural programming. The experiment shows that
+the total jar file size of these five optimized games decreases 71
+% the lines of codes decreases 59%, and the loading time of each
+optimized game decreases 22.73%, 34.62% 25.79% 24.65% and 16.70%
+respectively. Therefore, we conclude from our experiments that 00
+should be used with great care in the development of mobile games,
+and that structural programming can be a very competitive alternative.

@@ -1,2 +1,8 @@
 Parametrized Unit Testing Tool for. Net Framework
-ABSTRACT: Unit testing has been widely recognized as an important and valuable means of improving software reliability,  as it exposes bugs early in the software development life cycle. However, manual unit testing is often tedious and insufficient.  Testing tools can be used to enable economical use of resources by reducing manual effort. Recently the use of parameters in  unit testing has emerged as a very promising and effective methodology to allow the separation of two testing concerns or  tasks: the specification of external, black-box behavior (i.e., assertions or specifications) by developers and the generation  and selection of internal, white-box test inputs (i.e., high-code-covering test inputs) by tools. The Unit Testing Tool produced  in this research is based on a parameterized test method that takes parameters, calls the code under test, and states assertions.
+ABSTRACT: Unit testing has been widely recognized as an important and valuable means of improving software reliability,
+as it exposes bugs early in the software development life cycle. However, manual unit testing is often tedious and insufficient.
+Testing tools can be used to enable economical use of resources by reducing manual effort. Recently the use of parameters in
+unit testing has emerged as a very promising and effective methodology to allow the separation of two testing concerns or
+tasks: the specification of external, black-box behavior (i.e., assertions or specifications) by developers and the generation
+and selection of internal, white-box test inputs (i.e., high-code-covering test inputs) by tools. The Unit Testing Tool produced
+in this research is based on a parameterized test method that takes parameters, calls the code under test, and states assertions.

@@ -1,0 +1,18 @@
+Exstatic: a generic static checker applied to documentation systems
+Exstatic is a generic static checker developed by the author to address
+many of the practical problems in program development. Static checking
+provides a valuable means for automating time consuming checks not
+only concerned with program correctness (writing the right program),
+but also to do with style (writing the program right). Previous static
+checkers have been closely coupled with compilation systems, and
+therefore tend to be applicable to the code itself and not to all
+of the textual information (such as makefiles, comments, documentation
+sources) surrounding the code. The generic nature of Exstatic allows
+it to overcome these boundaries, and indeed it can be applied to
+any medium for which there is a formally definable syntax and (to
+an extent) semantics. Exstatic can therefore be used to increase
+the productivity and quality of documentation of programs, checking
+for such things as adherence to house style, consistency with the
+program being documented and self consistency. This paper describes
+the design and use of Exstatic, with particular reference to its
+use in documentation systems.

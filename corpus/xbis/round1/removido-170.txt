@@ -1,2 +1,14 @@
 Automatic Test Case Generation for Modern Web Applications Using Population-Based Automatic Fuzzy Neural Network
-Abstract Automatic test case generation is an approach to decrease cost and time in software testing. Although there  have been lots of proposed methods for automatic test case generation of web applications, there still exists some  challenges which needs more researches. The most important problem in this area is the lack of a complete descriptive  model which indicates the whole behaviors of web application as guidance for the generation of test cases with high  software coverage. In this paper, test cases are generated automatically to test web applications using a machine  learning method. The proposed method called RTCGW (Rule-based Test Case Generator for Web Applications)  generates test cases based on a set of fuzzy rules that try to indicate the whole software behaviors to reach to a high  level of software coverage. For this purpose a novel machine learning approach based on fuzzy neural networks is  proposed to extract fuzzy rules from a set of data and then used to generate a set of fuzzy rules representing software  behaviors. The fuzzy rule set is then used to generate software test cases and the generated test cases are optimized  using an optimization algorithm based on combination of genetic and simulated annealing algorithms. Two  benchmark problems are tested using the optimized test cases. The results show a high level of coverage and  performance for the proposed method in comparison with other methods. 
+Abstract Automatic test case generation is an approach to decrease cost and time in software testing. Although there
+have been lots of proposed methods for automatic test case generation of web applications, there still exists some
+challenges which needs more researches. The most important problem in this area is the lack of a complete descriptive
+model which indicates the whole behaviors of web application as guidance for the generation of test cases with high
+software coverage. In this paper, test cases are generated automatically to test web applications using a machine
+learning method. The proposed method called RTCGW (Rule-based Test Case Generator for Web Applications)
+generates test cases based on a set of fuzzy rules that try to indicate the whole software behaviors to reach to a high
+level of software coverage. For this purpose a novel machine learning approach based on fuzzy neural networks is
+proposed to extract fuzzy rules from a set of data and then used to generate a set of fuzzy rules representing software
+behaviors. The fuzzy rule set is then used to generate software test cases and the generated test cases are optimized
+using an optimization algorithm based on combination of genetic and simulated annealing algorithms. Two
+benchmark problems are tested using the optimized test cases. The results show a high level of coverage and
+performance for the proposed method in comparison with other methods. 

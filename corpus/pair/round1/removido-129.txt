@@ -1,2 +1,26 @@
 Teaching Software Engineering Practices with Extreme Programming
-Extreme Programming (XP), one of many models for software development,  	has challenged some traditional software engineering practices while  	taking others to the extreme. The controversial practices raise questions  	about the role of XP in teaching undergraduate software engineering  	courses, especially capstone project courses. Can an XP model for  	software development be successfully used in teaching software engineering  	practices? Specific educational goals for the course are that 1)  	students recognize the strengths and weaknesses of XP as a model  	for software development and 2) that students evaluate XP practices  	in the larger context of other software engineering practices. Students  	should also complete a software development project while following  	a defined set of processes and practices. Students in a 4 credit,  	one-semester software engineering practices course used XP for their  	project. A survey of fifteen practices representing both XP and more  	traditional software engineering practices was given to students  	upon completion of the course to determine the students’ perceptions  	and experiences. Overall, students were successful in using XP for  	their projects. Students liked pair programming, automated testing,  	and test-first and believed it contributed to their success. The  	XP practices of simple design and refactoring did not work well.  	XP’s practices for embracing change accommodates changing requirements,  	design, and code but do not manage change well for the overall goals  	of the product. Survey results and anecdotal evidence suggests that  	108 students were aware of the strengths and weaknesses of XP and  	its relationship to more traditional software engineering practices.
+Extreme Programming (XP), one of many models for software development,
+has challenged some traditional software engineering practices while
+taking others to the extreme. The controversial practices raise questions
+about the role of XP in teaching undergraduate software engineering
+courses, especially capstone project courses. Can an XP model for
+software development be successfully used in teaching software engineering
+practices? Specific educational goals for the course are that 1)
+students recognize the strengths and weaknesses of XP as a model
+for software development and 2) that students evaluate XP practices
+in the larger context of other software engineering practices. Students
+should also complete a software development project while following
+a defined set of processes and practices. Students in a 4 credit,
+one-semester software engineering practices course used XP for their
+project. A survey of fifteen practices representing both XP and more
+traditional software engineering practices was given to students
+upon completion of the course to determine the students’ perceptions
+and experiences. Overall, students were successful in using XP for
+their projects. Students liked pair programming, automated testing,
+and test-first and believed it contributed to their success. The
+XP practices of simple design and refactoring did not work well.
+XP’s practices for embracing change accommodates changing requirements,
+design, and code but do not manage change well for the overall goals
+of the product. Survey results and anecdotal evidence suggests that
+108 students were aware of the strengths and weaknesses of XP and
+its relationship to more traditional software engineering practices.

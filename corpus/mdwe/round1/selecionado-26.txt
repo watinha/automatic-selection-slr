@@ -1,2 +1,2 @@
-Model-driven development of web applications with {UWA,
-This paper presents a model-driven approach to the development of web applications based on the Ubiquitous Web Application {(UWA)
+Model-driven development of web applications with {UWA,} {MVC} and {JavaServer} faces
+This paper presents a model-driven approach to the development of web applications based on the Ubiquitous Web Application {(UWA)} design framework, the {Model-View-Controller} {(MVC)} architectural pattern and the {JavaServer} Faces technology. The approach combines a complete and robust methodology for the user-centered conceptual design of web applications with the {MVC} metaphor, which improves separation of business logic and data presentation. The proposed approach, by carrying the advantages of {Model-Driven} Development {(MDD)} and user-centered design, produces Web applications which are of high quality from the user's point of view and easier to maintain and evolve.

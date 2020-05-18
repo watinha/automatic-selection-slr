@@ -1,2 +1,17 @@
-An ontology-based, multi-modal platform for the inclusion of marginalized 	rural communities into the knowledge society
-With the information revolution that promises to shape the 21st century, 	knowledge has become the prime commodity, very much like land, means 	of production and capital have been at different times in the past. 	Access to information, made instantly available by the growth of 	the Internet, determines access to economic resources, social participation 	and better quality of life. For this reason, the knowledge stored 	on the Web and the advantages offered by the spread of Information 	and Communication Technology (ICT) are equally important for rich 	societies to prosper and for poor ones to develop. The only difference 	is that marginalised communities do not have access to the tools 	and have little control over the content found in the domain of ICTs. 	In this paper we describe an intervention to develop the potential 	of a typical rural community in South Africa through ICTs. This involves 	providing Internet connectivity and deploying a platform to support 	e-commerce, e-learning, e-government and e-health. The core of the 	platform is an ontology-based model designed to integrate and respond 	to Indigenous Knowledge Systems. This has been achieved by combining 	a deep understanding of local knowledge and social networks with 	the use of authoring, communication and ontology-management tools. 	The primary goal of this new approach is to find a way to make ICT 	solutions more sensitive to the local context, and therefore more 	effective. Secondly, we hope to foster a sense of ownership of the 	project among the community, by capitalising on local knowledge and 	resources.
+Supporting reflective web searching in elementary schools
+In this contribution, two design experiments are presented in which
+reflective web searching is implemented in six elementary classrooms.
+Reflective web searching is viewed to comprise three steps: (1) develop
+ownership over search questions, (2) interpret and personalize web
+content, and (3) adapt web content into personally meaningful answers.
+A portal and a worksheet supported reflective web searching. A wide
+range of qualitative data, including observations, interviews and
+group products, was collected to gain insight in the emerging practices.
+The findings show that the portal and worksheet successfully contributed
+to the development of ownership, and the interpretation and personalization
+of retrieved information. Enabling children to search the web collaboratively
+further enhanced interpretation and personalization. The prototypes
+of both portal and worksheet were improved across the design experiments,
+and their success rates increased. Despite the improvements, the
+process of adaptation was not sufficiently supported by the portal
+and worksheet.

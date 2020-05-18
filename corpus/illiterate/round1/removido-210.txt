@@ -1,2 +1,12 @@
-Connecting the "bottom of the pyramid": an exploratory case study 	of india's rural communication environment
-This paper is based on our exploratory study of a South Indian village 	in Chamrajanagar district of Karnataka. The study was to understand 	the rural communication environment and villagers. communication 	preferences. We examined people's lifestyle, working conditions and 	their communication eco-system. Our study revealed that villagers, 	unlike urban inhabitants, interacted with people outside the village 	only for specific, rather than casual purposes. Another interesting 	aspect of rural communication was the marginal use of the postal 	system and the ubiquitous use of pay phone, apart from word of mouth 	and face-to-face interactions. In fact, personal (face-to-face) interaction 	was usually preferred among villages in this region, over other kinds 	of communication, despite infrastructural constraints like poor transport 	services.   	We also observed that communication frequency increased when status 	quo changed to one that required immediate attention. During the 	analysis we identified certain social, economic and cultural communication 	gaps (or problems). However, these problems were clear opportunities 	to connect the unconnected rural users, by deploying new communication 	systems and features. Here, we have highlighted some of our findings 	and possible design avenues based on these findings.
+Enhancing learning and teaching quality: Intranet hierarchy optimisation
+and application of stereochemical molecular representations
+This article deals with the ongoing use and development of Intranet-based
+technologies within the School of Pharmacy and Biomolecular Sciences,
+University of Brighton. The course used as a test model is the M.Pharm.
+degree, a 4-year course with approximately 120 students per level.
+The student subjects of this study are the then Level 2 students.
+In this article we examine the continued optimisation of a School
+Intranet learning resource with regard to optimisation of the hierarchical
+structure. In response to a requirement previously identified, this
+work then focuses on the use of manipulatable molecular representations
+to enhance the learning and teaching of stereochemistry.

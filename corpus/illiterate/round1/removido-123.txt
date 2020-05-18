@@ -1,2 +1,14 @@
-A pervasive wiki application based on VoiceXML
-In this paper, we describe the design and implementation of an audio 	wiki application accessible via the Public Switched Telephone Network 	(PSTN) and the Internet for educational purposes. The application 	exploits mature World Wide Web Consortium standards such as VoiceXML, 	Speech Synthesis Markup Language (SSML) and Speech Recognition Grammar 	Specification (SRGS). The purpose of such an application is to assist 	visually impaired, technologically uneducated, and underprivileged 	people in accessing information originally intended to be accessed 	visually via a Personal Computer. Users may access wiki content via 	wired or mobile phones, or via a Personal Computer using a Web Browser 	or a Voice over IP service. This feature promotes pervasiveness to 	educational material to an extremely large population, i.e. those 	who simply own a telephone line.
+Iconic communication system by XML language: (SCILX)
+Traditional iconic systems establish direct iconic communication between
+a user and his environment by translating iconic sentences in sentences
+of a natural language, or by translating them into SQL (Structured
+Query Language) queries for relational data bases. This approach
+is limited because it is not suitable for communicating through the
+Internet which allows users of diverse background and culture to
+communicate all over the world. This paper presents SCILX, a XML-based
+iconic communication system which in addition to the functionalities
+of existing iconic systems enables communication through the Internet
+using the World Wide Web and the XML technologies. The approach has
+a formal foundation based on formal grammars of icons. A case study
+of an iconic interface for a multi-media database in traditional
+medicine (MEDITRA) is presented.

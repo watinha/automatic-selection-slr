@@ -1,2 +1,16 @@
-Is external code quality correlated with programming experience or  	feelgood factor?
-This paper is inspired by an article by Muller and Padberg who study  	the feelgood factor and programming experience, as candidate drivers  	for the pair programming performance. We not only reveal a possible  	threat to validity of empirical results presented by Muller and Padberg  	but also perform an independent research. Our objective is to provide  	empirical evidence whether external code quality is correlated with  	the feelgood factor, or with programming experience. Our empirical  	study is based on a controlled experiment with MSc students. It appeared  	that the external code quality is correlated with the feelgood factor,  	and programming experience, in the case of pairs using a classic  	(test-last) testing approach. The generalization of the results is  	limited due to the fact that MSc students participated in the study.  	The research revealed that both the feelgood factor and programming  	experience may be the external code quality drivers.
+Is external code quality correlated with programming experience or
+feelgood factor?
+This paper is inspired by an article by Muller and Padberg who study
+the feelgood factor and programming experience, as candidate drivers
+for the pair programming performance. We not only reveal a possible
+threat to validity of empirical results presented by Muller and Padberg
+but also perform an independent research. Our objective is to provide
+empirical evidence whether external code quality is correlated with
+the feelgood factor, or with programming experience. Our empirical
+study is based on a controlled experiment with MSc students. It appeared
+that the external code quality is correlated with the feelgood factor,
+and programming experience, in the case of pairs using a classic
+(test-last) testing approach. The generalization of the results is
+limited due to the fact that MSc students participated in the study.
+The research revealed that both the feelgood factor and programming
+experience may be the external code quality drivers.

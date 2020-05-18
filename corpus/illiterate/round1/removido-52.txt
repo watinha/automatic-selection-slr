@@ -1,2 +1,25 @@
 Prospects of e-government implementation in Nigeria
-E-governance is a democratic practice that is gradually gaining universal 	acceptance and applicability. It refers to a governmental type aimed 	at achieving effective service delivery from government to citizens, 	moving governance from traditionalist bureaucratization to modernist 	participatory administration. This paper is situated within the global 	experience, where many countries have advanced in their practice 	of e-governance and Nigeria, as a nation cannot relish in the disadvantages 	of being left behind in a globalizing world. We strongly propose 	that there is a significant relationship between a country's technological, 	political and bureaucratic advancement and a successful e-governance 	practice. This paper argues that with the present poor state of social 	infrastructure (especially power supply and road network) in Nigeria, 	the practice of e-governance is most likely to be negatively impacted 	upon. On this note, our paper recommends a re-assessment of the country's 	state of e-governance preparedness. It recommends the application 	of proactive steps aimed at ensuring the adequate supply of electricity 	and the development of human resource capabilities of the populace 	with the aim of achieving high-level computer literacy. The interval 	convocation of stakeholders at Abuja for talk-shops is not enough. 	Rather, Internet facilities and services must of necessity be made 	easily accessible at the lowest cost, to all Nigerians, irrespective 	of how remote their locations in the country may be. The world is 	on the move and Nigeria is an integral part of it, hence, should 	not lag behind.
+E-governance is a democratic practice that is gradually gaining universal
+acceptance and applicability. It refers to a governmental type aimed
+at achieving effective service delivery from government to citizens,
+moving governance from traditionalist bureaucratization to modernist
+participatory administration. This paper is situated within the global
+experience, where many countries have advanced in their practice
+of e-governance and Nigeria, as a nation cannot relish in the disadvantages
+of being left behind in a globalizing world. We strongly propose
+that there is a significant relationship between a country's technological,
+political and bureaucratic advancement and a successful e-governance
+practice. This paper argues that with the present poor state of social
+infrastructure (especially power supply and road network) in Nigeria,
+the practice of e-governance is most likely to be negatively impacted
+upon. On this note, our paper recommends a re-assessment of the country's
+state of e-governance preparedness. It recommends the application
+of proactive steps aimed at ensuring the adequate supply of electricity
+and the development of human resource capabilities of the populace
+with the aim of achieving high-level computer literacy. The interval
+convocation of stakeholders at Abuja for talk-shops is not enough.
+Rather, Internet facilities and services must of necessity be made
+easily accessible at the lowest cost, to all Nigerians, irrespective
+of how remote their locations in the country may be. The world is
+on the move and Nigeria is an integral part of it, hence, should
+not lag behind.

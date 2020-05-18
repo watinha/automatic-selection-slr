@@ -1,2 +1,33 @@
 Toolkits for Open Innovation The Case of Mobile Phone Games
-User toolkits enable consumers to develop customized product applications  	without having dedicated technical knowledge. Applied in the field  	of handheld computing, toolkits are a very powerful instrument to  	meet the growing demand for customized mobile applications. In this  	paper, the theoretical principles and functionalities of user interaction  	toolkits are translated into a technical software concept for mobile  	phone games. The presented toolkit is a new Internet based application  	allowing users to create a customized game on their desktop computer  	and to transfer it to handheld devices. In contrast to well known  	open source software development projects, no programming expertise  	is required. Thus, participation of innovative users is comparatively  	easy. In line with the open source concept, but as an extending feature  	to the toolkit approach, the presented solution is embedded in an  	online community. Thus, contributions by innovative users can be  	stored in a library leading to a continuously growing information  	pool of available components. Games and components can be passed  	on easily between customers, facilitating the adoption of other users'  	contributions as well as collaborative development between users.  	The community feature of the toolkit does not only provide the common  	toolset of online communities allowing for user-to-user communication,  	e.g. chats and bulletin boards, or text based contributions, e.g.  	recommendations, product evaluations and voting tools, but it also  	enables users to exchange and jointly develop actual product prototypes.  	In this regard, the presented 'toolkit for open innovation' is the  	foundation of a 'value web' in a unique manner: a value web in between  	consumers and users. The paper further derives economic benefits  	of the developed toolkit for mobile phone game creation theoretically  	and integrates them into a diversified business model. The toolkit  	as a distinct performance feature has the potential to establish  	a social environment for its most enthusiastic users and thereby  	to strengthen user relationships with the provider and increase overall  	business success.
+User toolkits enable consumers to develop customized product applications
+without having dedicated technical knowledge. Applied in the field
+of handheld computing, toolkits are a very powerful instrument to
+meet the growing demand for customized mobile applications. In this
+paper, the theoretical principles and functionalities of user interaction
+toolkits are translated into a technical software concept for mobile
+phone games. The presented toolkit is a new Internet based application
+allowing users to create a customized game on their desktop computer
+and to transfer it to handheld devices. In contrast to well known
+open source software development projects, no programming expertise
+is required. Thus, participation of innovative users is comparatively
+easy. In line with the open source concept, but as an extending feature
+to the toolkit approach, the presented solution is embedded in an
+online community. Thus, contributions by innovative users can be
+stored in a library leading to a continuously growing information
+pool of available components. Games and components can be passed
+on easily between customers, facilitating the adoption of other users'
+contributions as well as collaborative development between users.
+The community feature of the toolkit does not only provide the common
+toolset of online communities allowing for user-to-user communication,
+e.g. chats and bulletin boards, or text based contributions, e.g.
+recommendations, product evaluations and voting tools, but it also
+enables users to exchange and jointly develop actual product prototypes.
+In this regard, the presented 'toolkit for open innovation' is the
+foundation of a 'value web' in a unique manner: a value web in between
+consumers and users. The paper further derives economic benefits
+of the developed toolkit for mobile phone game creation theoretically
+and integrates them into a diversified business model. The toolkit
+as a distinct performance feature has the potential to establish
+a social environment for its most enthusiastic users and thereby
+to strengthen user relationships with the provider and increase overall
+business success.

@@ -1,2 +1,28 @@
 Re-using digital narrative content in interactive games
-This paper presents a model, called Scene-Driver, for the re-use of  	film and television material. We begin by exploring general issues  	surrounding the ways in which content can be sub-divided into meaningful  	units for re-use and how criteria might then be applied to the selection  	and ordering of these units. We also identify and discuss the different  	means by which a user might interact with the content to create novel  	and engaging experiences. The Scene-Driver model has been instantiated  	using content from an animated children's television series called  	Tiny Planets, which is aimed at children of 5 7-year old. This type  	of material, being story-based itself, lends itself particularly  	well to the application of narrative constraints to scene reordering,  	to provide coherence to the experience of interacting with the content.  	We propose an interactive narrative-driven game architecture, in  	which a user generates novel narratives from existing content by  	placing domino like tiles. These tiles act as glue between scenes  	and each tile choice dictates certain properties of the next scene  	to be shown within a game. There are three different game-types,  	based on three different ways in which tiles can be matched to scenes.  	We introduce algorithms for generating legal tile-sets for each of  	these three game-types, which can be extended to include narrative  	constraints. This ensures that all novel orderings adhere to a minimum  	narrative plan, which has been identified based on analysis of the  	Tiny Planets series and on narrative theories. We also suggest ways  	in which basic narratives can be enhanced by the inclusion of directorial  	techniques and by the use of more complex plot structures. In our  	evaluation studies with children in the target age-range, our game  	compared favourably with other games that the children enjoyed playing.
+This paper presents a model, called Scene-Driver, for the re-use of
+film and television material. We begin by exploring general issues
+surrounding the ways in which content can be sub-divided into meaningful
+units for re-use and how criteria might then be applied to the selection
+and ordering of these units. We also identify and discuss the different
+means by which a user might interact with the content to create novel
+and engaging experiences. The Scene-Driver model has been instantiated
+using content from an animated children's television series called
+Tiny Planets, which is aimed at children of 5 7-year old. This type
+of material, being story-based itself, lends itself particularly
+well to the application of narrative constraints to scene reordering,
+to provide coherence to the experience of interacting with the content.
+We propose an interactive narrative-driven game architecture, in
+which a user generates novel narratives from existing content by
+placing domino like tiles. These tiles act as glue between scenes
+and each tile choice dictates certain properties of the next scene
+to be shown within a game. There are three different game-types,
+based on three different ways in which tiles can be matched to scenes.
+We introduce algorithms for generating legal tile-sets for each of
+these three game-types, which can be extended to include narrative
+constraints. This ensures that all novel orderings adhere to a minimum
+narrative plan, which has been identified based on analysis of the
+Tiny Planets series and on narrative theories. We also suggest ways
+in which basic narratives can be enhanced by the inclusion of directorial
+techniques and by the use of more complex plot structures. In our
+evaluation studies with children in the target age-range, our game
+compared favourably with other games that the children enjoyed playing.

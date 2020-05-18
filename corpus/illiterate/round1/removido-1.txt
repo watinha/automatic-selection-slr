@@ -1,2 +1,15 @@
-Deleting the Subject: A Feminist Reading of Epistemology in Artificial 	Intelligence
-This paper argues that AI follows classical versions of epistemology 	in assuming that the identity of the knowing subject is not important. 	In other words this serves to `delete the subject'. This disguises 	an implicit hierarchy of knowers involved in the representation of 	knowledge in AI which privileges the perspective of those who design 	and build the systems over alternative perspectives. The privileged 	position reflects Western, professional masculinity. Alternative 	perspectives, denied a voice, belong to less powerful groups including 	women. Feminist epistemology can be used to approach this from new 	directions, in particular, to show how women's knowledge may be left 	out of consideration by AI's focus on masculine subjects. The paper 	uncovers the tacitly assumed Western professional male subjects in 	two flagship AI systems, Cyc and Soar.
+Deleting the Subject: A Feminist Reading of Epistemology in Artificial
+Intelligence
+This paper argues that AI follows classical versions of epistemology
+in assuming that the identity of the knowing subject is not important.
+In other words this serves to `delete the subject'. This disguises
+an implicit hierarchy of knowers involved in the representation of
+knowledge in AI which privileges the perspective of those who design
+and build the systems over alternative perspectives. The privileged
+position reflects Western, professional masculinity. Alternative
+perspectives, denied a voice, belong to less powerful groups including
+women. Feminist epistemology can be used to approach this from new
+directions, in particular, to show how women's knowledge may be left
+out of consideration by AI's focus on masculine subjects. The paper
+uncovers the tacitly assumed Western professional male subjects in
+two flagship AI systems, Cyc and Soar.

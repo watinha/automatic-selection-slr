@@ -1,2 +1,12 @@
-Iconic communication system by XML language: (SCILX)
-Traditional iconic systems establish direct iconic communication between 	a user and his environment by translating iconic sentences in sentences 	of a natural language, or by translating them into SQL (Structured 	Query Language) queries for relational data bases. This approach 	is limited because it is not suitable for communicating through the 	Internet which allows users of diverse background and culture to 	communicate all over the world. This paper presents SCILX, a XML-based 	iconic communication system which in addition to the functionalities 	of existing iconic systems enables communication through the Internet 	using the World Wide Web and the XML technologies. The approach has 	a formal foundation based on formal grammars of icons. A case study 	of an iconic interface for a multi-media database in traditional 	medicine (MEDITRA) is presented.
+Should we bridge the gap by outsourcing part of faculty support
+Some faculty members seek to push the technology envelope further
+and faster than Computing Centers can respond to or support. Should
+we encourage some of our faculty to meet their needs outside of university
+resources at their own expense? Should we support this move with
+training, referrals, and backup support when necessary? Should we
+encourage a faculty member to register a domain name, create a website,
+and refer students and others to their own domain names and sub-domains
+for each class? With the right web-hosting service, they could create
+and manage their own discussion lists. This paper will discuss various
+web-hosting services, what they offer, and how faculty might use
+them.

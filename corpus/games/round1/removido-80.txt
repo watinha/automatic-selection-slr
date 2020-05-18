@@ -1,2 +1,23 @@
-Exploring success factors of video game communities in hierarchical  	linear modeling: The perspectives of members and leaders
-Video games are enjoying fast-growing popularity, becoming a major  	component of young people s social lives and leisure activities.  	Many players share information and conduct social interactions in  	virtual communities (VC). The current study sought to examine the  	relationships between members and leaders in such video game communities  	using a number of variables to describe the member (i.e., knowledge  	sharing, usefulness, enjoyability, off-site interaction, satisfaction,  	loyalty, and intention to use) and the leader (i.e., leader involvement).  	Based on a sample of 2227 members and 41 leaders in 30 video game  	communities, the research demonstrated the use of a two-level hierarchical  	linear modeling (HLM) to examine the relationships of VC leaders  	and members, appropriately adjusted for a nested structure. The results  	indicated that leaders who engage in higher levels of involvement  	in VC are more likely to have members who agree with and respond  	to the community. Furthermore, member- and leader-level factors were  	significantly associated with member satisfaction: knowledge sharing,  	usefulness, and enjoyability explained within-VC variance while leader  	involvement explained between-VC variance. Finally, member satisfaction  	demonstrated positive effects on both member loyalty and intention  	to use. The study further discussed the implications of these findings,  	offering direction for future research.
+Exploring success factors of video game communities in hierarchical
+linear modeling: The perspectives of members and leaders
+Video games are enjoying fast-growing popularity, becoming a major
+component of young people s social lives and leisure activities.
+Many players share information and conduct social interactions in
+virtual communities (VC). The current study sought to examine the
+relationships between members and leaders in such video game communities
+using a number of variables to describe the member (i.e., knowledge
+sharing, usefulness, enjoyability, off-site interaction, satisfaction,
+loyalty, and intention to use) and the leader (i.e., leader involvement).
+Based on a sample of 2227 members and 41 leaders in 30 video game
+communities, the research demonstrated the use of a two-level hierarchical
+linear modeling (HLM) to examine the relationships of VC leaders
+and members, appropriately adjusted for a nested structure. The results
+indicated that leaders who engage in higher levels of involvement
+in VC are more likely to have members who agree with and respond
+to the community. Furthermore, member- and leader-level factors were
+significantly associated with member satisfaction: knowledge sharing,
+usefulness, and enjoyability explained within-VC variance while leader
+involvement explained between-VC variance. Finally, member satisfaction
+demonstrated positive effects on both member loyalty and intention
+to use. The study further discussed the implications of these findings,
+offering direction for future research.

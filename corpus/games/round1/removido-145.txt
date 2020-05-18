@@ -1,2 +1,15 @@
 Learning object-oriented design by creating games
-Playing computer games is a popular recreational activity for young  	people. Creating a state-of-the-art commercial computer game is an  	incredibly difficult task. Writing a game like Pac-Man from scratch  	in a modern programming language is still difficult. Fortunately,  	several currently available tools make game creation easier. These  	tools can be used to create more complex games, but they offer only  	limited programming possibilities. Many similar packages exist. One  	such program is Game Maker, which is a rapid-application development  	tool. The Game Maker interface uses an object-oriented, event-driven  	approach. With Game Maker's drag-and-drop techniques, users can create  	games without writing a single line of code. But the program also  	includes an interpreted programming language. The program produces  	stand-alone games that can be distributed freely: a version of Game  	Maker, itself, is available for free as well.
+Playing computer games is a popular recreational activity for young
+people. Creating a state-of-the-art commercial computer game is an
+incredibly difficult task. Writing a game like Pac-Man from scratch
+in a modern programming language is still difficult. Fortunately,
+several currently available tools make game creation easier. These
+tools can be used to create more complex games, but they offer only
+limited programming possibilities. Many similar packages exist. One
+such program is Game Maker, which is a rapid-application development
+tool. The Game Maker interface uses an object-oriented, event-driven
+approach. With Game Maker's drag-and-drop techniques, users can create
+games without writing a single line of code. But the program also
+includes an interpreted programming language. The program produces
+stand-alone games that can be distributed freely: a version of Game
+Maker, itself, is available for free as well.

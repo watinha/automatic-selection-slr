@@ -1,2 +1,17 @@
-Using a handheld PC to collect and analyze observational data
-Observational research has become an increasingly important tool in 	the technical communicator's toolkit as a way of analyzing audiences, 	discovering problems with current documentation systems, and envisioning 	alternate ways to design information. Whether it is used informally, 	in structured design methods, or in academic workplace studies, observational 	research is useful for technical communication. Yet collecting, managing, 	and analyzing data can be laborious, time-consuming, and hard to 	share among team members. Thus technical communicators sometimes 	avoid observational research in favor of interviews, focus groups, 	and usability testing -- methods that have their own strengths, but 	that are no substitute for observational research.In this presentation, 	I describe two projects in which I dealt with some of these barriers 	by using handheld PCs (a Handspring Visor and a Sharp Zaurus) as 	data collection, management, and analysis tools. Consolidating various 	techniques to a handheld PC -particularly on the data collection 	side -- leads to a number of benefits, including a reduction in laborious 	manual transcription; the easy transfer from raw data to research 	databases; the elimination of work in digitizing audio and photo 	data for archiving in a database; on-the-fly analysis of data anywhere, 	without the need for file cabinets, folders, or other bulky types 	of data storage; and easy sharing of data among team members. At 	the presentation's conclusion, I will describe how I plan to further 	develop this fruitful line of inquiry by developing a crossplatform 	qualitative research tool.
+A human-centered semantic navigation system for indoor environments
+In this paper we discuss the very important issue of indoor location
+services. Location services have been in use, and studied, for a
+long time in mobile networks. With the proliferation of wireless
+networking technologies, users are mostly interested in advanced
+services that render the surrounding environment (i.e., the building)
+highly intelligent and significantly facilitate user activities (pervasive
+computing paradigm). Our focus is on navigation, one of the most
+important location services. Existing approaches for indoor navigation
+are driven by geometric information and neglect important aspects
+like the semantics of points/areas and user preferences. The derived
+applications are not intelligent enough to catalytically contribute
+to the pervasive computing vision. In this paper, a novel navigation
+mechanism is introduced. Such navigation scheme is enriched with
+user profiles and the adoption of an ontological framework. These
+enhancements introduce a series of technical challenges that are
+extensively discussed throughout the paper.

@@ -1,2 +1,32 @@
 Analysis and Identification of Cross Browser Inconsistency Issues in Web Application using Automation Testing
-Abstract Web technologies of inconsistency and Web  standards it to be consistent with different web technology  evolution, Web application developers has been broadly rang  of face on the different certain problem . Web applications  become difficult part for them to keep track problem of their  web correctly rendered across broad range of browsers and  platforms. It kind of cross-browser inconsistency (XBI),  developers are keep checking that document and platform  produced by the web application is appropriate pass the across  every useful browser-platform so many combinations. It take the  requires more than execution time and error results in web  application. This web cross-browser inconsistency existing  testing tools for speed up the process of automating and the  rendering of a document in cross browsers and different  platforms, and using either image analysis, and Document  Object Model (DOM) analysis to the feature of cross-browser  inconsistency. This dissertation are comparisons of the problem  of cross-browser inconsistency testing with the modern web  applications and their functionality check the accuracy of web  applications behavior with different different web browsers  and their present a solution. In the reasons of cross-browser  inconsistency issues and their so many solutions to them are been  presented feature different cross-browser inconsistency.  Proposed solution has been used the concept of Automation  Testing using Behavioral methodology of the web application on  different browsers such as Firefox, Internet Explorer and Google  Chrome. For the test bed selenium and TestNG variation has  been integrated onto the eclipse java environment. Obtained  results has proven that the proposed XBI validation method  outperform and provides the cost effective solution instead of  paying high cost to other testing service provider lie Browserstack.  
+Abstract Web technologies of inconsistency and Web
+standards it to be consistent with different web technology
+evolution, Web application developers has been broadly rang
+of face on the different certain problem . Web applications
+become difficult part for them to keep track problem of their
+web correctly rendered across broad range of browsers and
+platforms. It kind of cross-browser inconsistency (XBI),
+developers are keep checking that document and platform
+produced by the web application is appropriate pass the across
+every useful browser-platform so many combinations. It take the
+requires more than execution time and error results in web
+application. This web cross-browser inconsistency existing
+testing tools for speed up the process of automating and the
+rendering of a document in cross browsers and different
+platforms, and using either image analysis, and Document
+Object Model (DOM) analysis to the feature of cross-browser
+inconsistency. This dissertation are comparisons of the problem
+of cross-browser inconsistency testing with the modern web
+applications and their functionality check the accuracy of web
+applications behavior with different different web browsers
+and their present a solution. In the reasons of cross-browser
+inconsistency issues and their so many solutions to them are been
+presented feature different cross-browser inconsistency.
+Proposed solution has been used the concept of Automation
+Testing using Behavioral methodology of the web application on
+different browsers such as Firefox, Internet Explorer and Google
+Chrome. For the test bed selenium and TestNG variation has
+been integrated onto the eclipse java environment. Obtained
+results has proven that the proposed XBI validation method
+outperform and provides the cost effective solution instead of
+paying high cost to other testing service provider lie Browserstack.

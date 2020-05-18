@@ -1,2 +1,14 @@
-Using mobile phones for secure, distributed document processing in 	the developing world
-Paper plays an essential role in many information ecologies in the 	developing world, but it can be inefficient and inflexible. We've 	developed an information services architecture that uses a smart 	phone equipped with a built-in digital camera to process augmented 	paper documents. The CAM document-processing framework exploits smart 	mobile phones' utility, usability, and growing ubiquity to link paper 	with modern information tools. CAM, so called because the phone's 	camera plays a key role in the user interface, is a three-tiered, 	document-based architecture for providing remote rural information 	services. The CAM framework comprises four components: CamForms, 	CamShell, CamBrowser, and CamServer.
+Integrating computing science undergraduate education
+With over 50 years of computer science in existence, a great effort
+has been spent on designing the best curricular for educating computer
+scientists, educating computing professionals, as well as educating
+users of computers. In spite of this, there has not been in evidence
+an approach to creating a flexible university environment, which
+supports a flow between those three basic and different types of
+computing education. This paper presents a model of integrated computing
+education which allows for: obtaining different level of computing
+knowledge and proficiency, fast and flexible upgradability of computing
+skills, adding computing knowledge and skills to knowledge already
+possessed in another discipline. Finally the model recognizes the
+value of Prior Learning Professional Experience (PLPE) as a factor
+in computing education

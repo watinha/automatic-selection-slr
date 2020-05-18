@@ -1,2 +1,15 @@
-The challenges of utilizing intelligent human-computer interface 	technology in South Africa and other African developing countries
-Labor mismatch problems frequently occur in developing countries, 	like South Africa, that acquire advanced technology from developed 	countries. Some of these problems also occur globally. Many are, 	however, a result of the unique socio-cultural background of the 	labor force. Special attention must be paid to human factors in the 	local context to fully exploit the potential of advanced technology. 	In many cases intelligent interfaces appear to present the most viable 	solution. However, it is not a panacea. In certain instances a technological 	solution is not feasible and training may be the only alternative. 	Three key challenges in ensuring the effective exploitation of intelligent 	interface technology in South Africa and other African developing 	countries are described. The complexity, and consequently the risk, 	in the development of intelligent interface technology can be controlled 	in several ways, which are discussed
+A web accessibility service: update and findings
+We report here on our progress on a project first described at the
+ASSETS 2002 conference. At that time, we had developed a prototype
+system in which a proxy server intermediary was used to adapt Web
+pages to meet the needs of older adults. Since that report, we field
+tested the prototype and learned of problems with the proxy approach.
+We report on the lessons learned from that work and on our new approach
+towards meeting the Web needs of older adults and users with disabilities.
+This new software makes adaptations on the client machine, with greater
+accuracy and speed than was possible with the proxy server approach.
+It transforms Web pages "on the fly", without requiring that all
+Web content be re-written. The new software has been in use for a
+year and we report here on our findings from the usage. We discuss
+this approach in the context of Web accessibility standards and Web
+usability.

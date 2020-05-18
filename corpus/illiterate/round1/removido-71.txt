@@ -1,0 +1,19 @@
+Development of a localized e-commerce for music using indigenous
+knowledge - a South African experience
+This paper presents a project currently underway in the Eastern Cape
+province of South Africa. The project is aimed at providing solutions
+for underprivileged and disadvantaged communities, to help solve
+some of their needs by creating localized computer-based solutions
+based on indigenous knowledge. This would help bridge the digital
+divide, as these computer solutions are closer to the local users.
+The project entails studying the community in question and understanding
+their way of life and then develop software solutions that use features
+that they are familiar with and use their language. The project asks
+the community to partake in the development of the solution and then
+reap benefits from whatever revenue stream the project would enable.
+An added benefit is that we should be able to preserve the cultural
+aspects of the community while bringing forth best class modernity.
+Key areas that the project affects are: education, music, artworks,
+written or documented history etc. Younger as well as future generations
+have a chance to be inventive, innovative and hopefully become the
+future developers and develop their own software solutions.

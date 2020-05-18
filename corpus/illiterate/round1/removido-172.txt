@@ -1,2 +1,18 @@
-Understanding and designing for intermediated information tasks in 	India
-It's important to consider both primary and secondary users when designing 	for intermediated interaction scenarios in India and elsewhere in 	the developing world. However, most of this research has focused 	on supporting users in the developed world who are voluntarily collaborating 	on a computing task. Many users in India, especially those from disadvantaged 	classes, have only partial or no physical access to computing devices. 	We refer to these users as secondary users to distinguish them from 	the primary users that the interface design process traditionally 	considers. Secondary users must interact with information resources 	via a proxy primary user who has the required access rights and skills. 	The proxy's filtering and funneling decisions limit the secondary 	users' information-seeking behavior; the secondary user might also 	have an unequal power relationship with the proxy. Therefore, secondary 	users might never know the full scope of actions and knowledge available 	to them. If we are to realize the egalitarian potential of computing, 	we must consider secondary users in the design process. We must develop 	technologies that recognize the needs and aspirations of all classes 	of users, including those without direct access to the user interface. 	In fact, by designing user interfaces explicitly supporting intermediated 	tasks, both primary and secondary users can benefit.
+iShakti--Crossing the Digital Divide in Rural India
+This paper describes iShakti, a real-world, Intelligent, Interactive
+and Adaptive Web application. At present, iShakti is deployed across
+1000 rural kiosks in India, covering 5000 villages and reaching 1
+million people. Further scale up is underway, expected to cover tens
+of thousands of villages within the next 2 years. iShakti is a "virtual
+information and marketing channel', deploying leading-edge technology
+in a developing-world environment. It allows rich interactions with
+people in previously "mediadark' regions, with easy access to high-value
+community development services coupled with engaging and scalable
+market and brand development activities. The impact is already being
+felt -- iShakti is giving some of the most deprived and disempowered
+people more choice and control over their lives, and providing significant
+independent revenue for the iShakti entrepreneurs. Computational
+Intelligence is both in the design as well as the personalisation
+and synchronisation algorithms. The project was nominated as a finalist
+of the Stockholm Challenge (Economic Development category), an international
+award for ICT projects in "underserved' regions of the world [1].

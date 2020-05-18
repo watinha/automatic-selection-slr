@@ -1,2 +1,17 @@
-Evaluating American Sign Language generation through the participation 	of native ASL signers
-We discuss important factors in the design of evaluation studies for 	systems that generate animations of American Sign Language (ASL) 	sentences. In particular, we outline how some cultural and linguistic 	characteristics of members of the American Deaf community must be 	taken into account so as to ensure the accuracy of evaluations involving 	these users. Finally, we describe our implementation and user-based 	evaluation (by native ASL signers) of a prototype ASL generator to 	produce sentences containing classifier predicates, frequent and 	complex spatial phenomena that previous ASL generators have not produced.
+Metaphorical analysis of social factors during information systems
+development
+Metaphors have been used widely by researchers for sense making in
+organisations. In this paper, we present the findings of research
+which employs Morgan's metaphors in order to chart the distribution
+of assumptions and social behaviour among Information Systems (IS)
+developers, during IS development and implementation, in a UK National
+Health Service (NHS) organisation. We present the findings of a longitudinal
+interpretive case study. There are a limited number of interpretive
+case studies that look at organisational factors associated with
+systems development, which we regard as an oversight given the extent
+of system failure reported in the IS literature. Our findings highlight
+the predominance of certain metaphors that influence the behaviour
+of key stakeholders involved in IS development. We conclude that
+the use of metaphors for analysis in IS development provides important
+insights into the attitudes and behaviours of key organisational
+stakeholders and reveals the impact of these on the IS development.

@@ -1,2 +1,27 @@
-Interactive gaming tools, to acquire mouse control for illiterate 	and people with disability
-India is home to one-third the world's non-literate. First step to 	introduce them with computer, user interface etc, is very necessary 	that they should have skill to relate the mouse movement with the 	work of the button and click or double click.   	To teach them the computer, interactive kiosk or any other issue is 	very tough for the instructed as well for the learner for the first 	time. Main problem we encounter is mouse control, synchronization 	of the mouse on physical level and correspondence to the cursory 	moment of the virtual world say per example screen.   	There is a dire need of the software an interactive technique, which 	can help to solve the problem at hand, make the illiterate and person 	with disability to grasp the skills necessary to learn first mouse 	control before going ahead. Also the Game or interface should be 	simple, effective and enjoyable experience for the users, unlike, 	complicated, boring and hard to understand the mouse moments, click 	etc.   	At our lab, we have begun using a interactive game or method for mouse 	control, we have found it very easy to teach the mass the first step 	towards the digital generation.
+Interactive gaming tools, to acquire mouse control for illiterate
+and people with disability
+India is home to one-third the world's non-literate. First step to
+introduce them with computer, user interface etc, is very necessary
+that they should have skill to relate the mouse movement with the
+work of the button and click or double click.
+
+
+To teach them the computer, interactive kiosk or any other issue is
+very tough for the instructed as well for the learner for the first
+time. Main problem we encounter is mouse control, synchronization
+of the mouse on physical level and correspondence to the cursory
+moment of the virtual world say per example screen.
+
+
+There is a dire need of the software an interactive technique, which
+can help to solve the problem at hand, make the illiterate and person
+with disability to grasp the skills necessary to learn first mouse
+control before going ahead. Also the Game or interface should be
+simple, effective and enjoyable experience for the users, unlike,
+complicated, boring and hard to understand the mouse moments, click
+etc.
+
+
+At our lab, we have begun using a interactive game or method for mouse
+control, we have found it very easy to teach the mass the first step
+towards the digital generation.

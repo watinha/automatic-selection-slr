@@ -1,2 +1,9 @@
-Design considerations for a financial management system for rural, 	semi-literate users
-In this paper, we describe the design process, results, and general 	observations obtained in designing a user interface for managing 	community-based micro-finance institutions in rural India. The primary 	users studied were semi-literate village women. We discuss our contextual 	study observations and conclude by presenting a grounded design approach 	that best leverages the existing learning patterns of the users.
+A bridging design prototype for investigating concept mapping in
+the preschool community
+This paper reports on studies where teachers from two different preschools
+incorporated a Bridging Design Prototype (BDP) for concept mapping
+into classroom activities. Designed under inclusive, participatory,
+and user-centered principles, the BDP was used to perform observations
+for assessing an interaction problem and refining the user community
+profile. The observation findings will inform next stage of product
+development.

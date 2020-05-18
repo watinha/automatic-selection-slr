@@ -1,2 +1,26 @@
 Token-based peer-to-peer interaction coordination
-The rapid emergence of Electronic Commerce has caused a so-called 	“digital divide” to form between those with access to the Internet 	and those without. While governments have tried to lessen this divide 	through the introduction of public access points and infrastructure 	subsidies, little is being done to address the barriers to entry 	for functionally illiterate and cognitively impaired populations. 	Our research attempts to address this issue by individualizing end-user 	interactions with computerized systems on a domain-specific basis. 	We take the view that each end-user's system should act as a peer 	in the computing environment, allowing end-users to own and control 	their information. Shifting from the current client-server computing 	environment to the peer-to-peer paradigm of computing should facilitate 	the customization of interactions that these populations require 	while maintaining their privacy. Existing applications programming 	environments are geared towards the client-server model of computing. 	Research into peer-to-peer application development has indicated 	that the process-oriented programming environment facilitates some 	aspects of peer-to-peer application development, but introduces challenges 	with respect to distributed data management. Existing blocking distributed 	transaction coordination mechanisms rely on global state to facilitate 	centralized control of distributed resources, but there is no concept 	of global state in the process-oriented model. This thesis introduces 	a new model of token-based peer-to-peer interaction coordination 	(the TPIC model). This new model maintains consistency in a peer-to-peer 	environment without relying on global state.
+The rapid emergence of Electronic Commerce has caused a so-called
+“digital divide” to form between those with access to the Internet
+and those without. While governments have tried to lessen this divide
+through the introduction of public access points and infrastructure
+subsidies, little is being done to address the barriers to entry
+for functionally illiterate and cognitively impaired populations.
+Our research attempts to address this issue by individualizing end-user
+interactions with computerized systems on a domain-specific basis.
+We take the view that each end-user's system should act as a peer
+in the computing environment, allowing end-users to own and control
+their information. Shifting from the current client-server computing
+environment to the peer-to-peer paradigm of computing should facilitate
+the customization of interactions that these populations require
+while maintaining their privacy. Existing applications programming
+environments are geared towards the client-server model of computing.
+Research into peer-to-peer application development has indicated
+that the process-oriented programming environment facilitates some
+aspects of peer-to-peer application development, but introduces challenges
+with respect to distributed data management. Existing blocking distributed
+transaction coordination mechanisms rely on global state to facilitate
+centralized control of distributed resources, but there is no concept
+of global state in the process-oriented model. This thesis introduces
+a new model of token-based peer-to-peer interaction coordination
+(the TPIC model). This new model maintains consistency in a peer-to-peer
+environment without relying on global state.

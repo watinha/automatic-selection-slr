@@ -1,2 +1,125 @@
 A Toolbox for Software Architecture Design 
-Software architecture has emerged as an important field of software  engineering for managing the realm of large-system development and  maintenance. The main intent of software architecture is to provide  intellectual control over a sophisticated system enormous complexity.  The key idea of this dissertation is that there is no silver bullet in  software engineering, each method has pros and cons; the goodness of a  method (tool, technique, etc.) varies based on the peculiarities of the  application context.  According to a famous idiom: i) a poor craftsman blames his tool,  ii) a really bad craftsman chooses the wrong tool for the job and then he  blames the tool, iii) a good craftsman chooses and uses the tool well.  While the software engineering community has been mainly focused on  providing new methods, which usage are aimed/supposed to provide  better results than older methods, there is a lack in helping the software  practitioners in selecting/adapting the available tools. Hence, in this  view, the contribution of the present dissertation, instead of being a new  method for architectural design, which would have been easily forgotten  in a bookcase, is a characterization of the existing methods. In other  words, this dissertation provides a toolbox for software architecture  design, from which software architects can select the best method to  apply, according to the application context.  In this dissertation, the available architectural methods have been  characterized by means of empirical studies. Unfortunately, the  application of empirical methods on software architecture includes some  troubles. A contribution of the present dissertation is a characterization  of the available empirical methods by exposing their levels of  challenges that researchers have to face when applying empiricism to  software architecture. Such a proposed characterization should help to  increase both the number and validity of software architecture empirical  studies by allowing researchers to select the most suitable empirical  method(s) to apply (i.e. the one with minor challenges), based on the  application contexts (e.g. available software applications, architects,  reviewers). However, in our view, in order to provide high levels of  conclusion and internal validity, empirical methods for software  6  architecture should be oriented to take advantage of both quantitative  and qualitative data. Moreover, based on the results from two  experiments, the challenges, in conducting evidence-based software  architecture investigations, might 1) highly influence the results of the  empirical studies, and 2) be faced by empiricists cleverness.  Architecting software system is a complex job and it encompasses  several activities; this dissertation focuses on the following families of  activities: software architecture design, resolving architectural tradeoffs,  documenting design decisions, and enacting empirical studies on  software architecture (as just described).  Regarding the resolution of architectural tradeoffs, based on our  review of already proposed decision making techniques, we realized that  no one of the available decision-making technique can be considered in  general better than another; each technique has intrinsically its own  level of complexity and proneness to specific problems. Since we  cannot decide in advance what degree of complexity of modeling is  sufficient, instead of proceeding by trial and error, we offered guidelines  on which complexity to emphasize for avoiding specific problem(s).  Our key idea is to expose and organize in a useful way, namely by a  characterization schema, in what extent each decision-making technique  is prone to specific problems. In this way, the level of proneness of  specific technique to specific problems becomes a quality attribute of  the decision-making technique. Furthermore, we situated in the  proposed characterization schema eighteen different decision-making  techniques already proposed by the literature in the domains of  architecture design, COTS selection, and release planning. Such  localization validates the completeness of the proposed characterization  schema, and it provides a useful reference for analyzing the state of the  art  Regarding software architecture design, this dissertation tried to  answer to following question: Do actual software architecture design  methods meet architects needs? To do so, we provide a  characterization of the available methods by defining nine categories of  software architects needs, proposing an ordinal scale for evaluating the  degree to which a given software architecture design method meets the  needs, and then applying this to a set of software architecture design  methods. Based on results from the present study, we argue that there  7  are two opposite but valid answers to the aforementioned question: a)  Yes, they do. In fact, we showed that one or more software architecture  design methods are able to meet each individual architect needs that we  considered. b) No, they do not. In fact, we showed that there is no  software architecture design method that is able to meet any tuple of  seven or more needs, which means that there is still some work to do to  improve software architecture design methods to actually help  architects. In order to provide directions for software architecture design  method improvement, we presented couples of needs, and triplets of  needs that actual software architecture design methods are unable to  meet. Moreover, an architect can use such characterization to choose the  software architecture design method which better meets his needs.  Regarding design decision documentation, we conducted a  controlled experiment for analyzing the impact of documenting design  decisions rationale on effectiveness and efficiency of individual/team  decision-making in presence of requirement changes. Main results show  that, for both individual and team-based decision-making, effectiveness  significantly improves, while efficiency remains unaltered, when  decision-makers are allowed to use, rather not use, the proposed design  rationale documentation technique. Being sure that documenting designdecisions  rationale does help, we argued why it is not used in practice  and what we can do to facilitate its usage. Older design decisions  rationale documentation methods aimed at maximizing the consumer  (documentation reader) benefits by forcing the producer (documentation  writer) to document all the potential useful information; they eventually  ran into too many inhibitors to be used in practice. In this dissertation  we propose a value-based approach for documenting the reasons behind  design decision, which is based on a priori understanding of who will  benefit later on, from what set of information, and in which amount.  Such a value-based approach for documenting the reasons behind design  decision offers means to mitigate all the known inhibitors and it is based  on the hypothesis that the set of required information depends on the  purpose (use case) of the documentation. In order to validate such a  hypothesis we ran an experiment in a controlled environment,  employing fifty subjects, twenty-five decisions, and five different  purposes (documentation use case) of the documentation. Each subjects  practically used the documentation to enact all the five documentation  use case(s) by providing an answer and a level of utility for each  8  category of information in the provided documentation. Both descriptive  and statistical results confirm our expectancies that the level of utility,  related to the same category of information in the design decision  rationale documentation, significantly changes according to the purpose  of the documentation. Such result is novel and implies that the consumer  of the rationale documentation requires, or not, a specific category of  information according the specific purpose of the documentation.  Consequently, empirical results suggest that the producer can tailor the  design decision rationale documentation by including only the  information required for the expected purposes of the documentation.  This result demonstrates the feasibility of our proposed value-based  approach for documenting the reasons behind design decision. 
+Software architecture has emerged as an important field of software
+engineering for managing the realm of large-system development and
+maintenance. The main intent of software architecture is to provide
+intellectual control over a sophisticated system enormous complexity.
+The key idea of this dissertation is that there is no silver bullet in
+software engineering, each method has pros and cons; the goodness of a
+method (tool, technique, etc.) varies based on the peculiarities of the
+application context.
+According to a famous idiom: i) a poor craftsman blames his tool,
+ii) a really bad craftsman chooses the wrong tool for the job and then he
+blames the tool, iii) a good craftsman chooses and uses the tool well.
+While the software engineering community has been mainly focused on
+providing new methods, which usage are aimed/supposed to provide
+better results than older methods, there is a lack in helping the software
+practitioners in selecting/adapting the available tools. Hence, in this
+view, the contribution of the present dissertation, instead of being a new
+method for architectural design, which would have been easily forgotten
+in a bookcase, is a characterization of the existing methods. In other
+words, this dissertation provides a toolbox for software architecture
+design, from which software architects can select the best method to
+apply, according to the application context.
+In this dissertation, the available architectural methods have been
+characterized by means of empirical studies. Unfortunately, the
+application of empirical methods on software architecture includes some
+troubles. A contribution of the present dissertation is a characterization
+of the available empirical methods by exposing their levels of
+challenges that researchers have to face when applying empiricism to
+software architecture. Such a proposed characterization should help to
+increase both the number and validity of software architecture empirical
+studies by allowing researchers to select the most suitable empirical
+method(s) to apply (i.e. the one with minor challenges), based on the
+application contexts (e.g. available software applications, architects,
+reviewers). However, in our view, in order to provide high levels of
+conclusion and internal validity, empirical methods for software
+6
+architecture should be oriented to take advantage of both quantitative
+and qualitative data. Moreover, based on the results from two
+experiments, the challenges, in conducting evidence-based software
+architecture investigations, might 1) highly influence the results of the
+empirical studies, and 2) be faced by empiricists cleverness.
+Architecting software system is a complex job and it encompasses
+several activities; this dissertation focuses on the following families of
+activities: software architecture design, resolving architectural tradeoffs,
+documenting design decisions, and enacting empirical studies on
+software architecture (as just described).
+Regarding the resolution of architectural tradeoffs, based on our
+review of already proposed decision making techniques, we realized that
+no one of the available decision-making technique can be considered in
+general better than another; each technique has intrinsically its own
+level of complexity and proneness to specific problems. Since we
+cannot decide in advance what degree of complexity of modeling is
+sufficient, instead of proceeding by trial and error, we offered guidelines
+on which complexity to emphasize for avoiding specific problem(s).
+Our key idea is to expose and organize in a useful way, namely by a
+characterization schema, in what extent each decision-making technique
+is prone to specific problems. In this way, the level of proneness of
+specific technique to specific problems becomes a quality attribute of
+the decision-making technique. Furthermore, we situated in the
+proposed characterization schema eighteen different decision-making
+techniques already proposed by the literature in the domains of
+architecture design, COTS selection, and release planning. Such
+localization validates the completeness of the proposed characterization
+schema, and it provides a useful reference for analyzing the state of the
+art
+Regarding software architecture design, this dissertation tried to
+answer to following question: Do actual software architecture design
+methods meet architects needs? To do so, we provide a
+characterization of the available methods by defining nine categories of
+software architects needs, proposing an ordinal scale for evaluating the
+degree to which a given software architecture design method meets the
+needs, and then applying this to a set of software architecture design
+methods. Based on results from the present study, we argue that there
+7
+are two opposite but valid answers to the aforementioned question: a)
+Yes, they do. In fact, we showed that one or more software architecture
+design methods are able to meet each individual architect needs that we
+considered. b) No, they do not. In fact, we showed that there is no
+software architecture design method that is able to meet any tuple of
+seven or more needs, which means that there is still some work to do to
+improve software architecture design methods to actually help
+architects. In order to provide directions for software architecture design
+method improvement, we presented couples of needs, and triplets of
+needs that actual software architecture design methods are unable to
+meet. Moreover, an architect can use such characterization to choose the
+software architecture design method which better meets his needs.
+Regarding design decision documentation, we conducted a
+controlled experiment for analyzing the impact of documenting design
+decisions rationale on effectiveness and efficiency of individual/team
+decision-making in presence of requirement changes. Main results show
+that, for both individual and team-based decision-making, effectiveness
+significantly improves, while efficiency remains unaltered, when
+decision-makers are allowed to use, rather not use, the proposed design
+rationale documentation technique. Being sure that documenting designdecisions
+rationale does help, we argued why it is not used in practice
+and what we can do to facilitate its usage. Older design decisions
+rationale documentation methods aimed at maximizing the consumer
+(documentation reader) benefits by forcing the producer (documentation
+writer) to document all the potential useful information; they eventually
+ran into too many inhibitors to be used in practice. In this dissertation
+we propose a value-based approach for documenting the reasons behind
+design decision, which is based on a priori understanding of who will
+benefit later on, from what set of information, and in which amount.
+Such a value-based approach for documenting the reasons behind design
+decision offers means to mitigate all the known inhibitors and it is based
+on the hypothesis that the set of required information depends on the
+purpose (use case) of the documentation. In order to validate such a
+hypothesis we ran an experiment in a controlled environment,
+employing fifty subjects, twenty-five decisions, and five different
+purposes (documentation use case) of the documentation. Each subjects
+practically used the documentation to enact all the five documentation
+use case(s) by providing an answer and a level of utility for each
+8
+category of information in the provided documentation. Both descriptive
+and statistical results confirm our expectancies that the level of utility,
+related to the same category of information in the design decision
+rationale documentation, significantly changes according to the purpose
+of the documentation. Such result is novel and implies that the consumer
+of the rationale documentation requires, or not, a specific category of
+information according the specific purpose of the documentation.
+Consequently, empirical results suggest that the producer can tailor the
+design decision rationale documentation by including only the
+information required for the expected purposes of the documentation.
+This result demonstrates the feasibility of our proposed value-based
+approach for documenting the reasons behind design decision. 

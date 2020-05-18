@@ -1,2 +1,7 @@
 ????????? Web ????????
-Abstract: Testing is one of the primary methods for Web service quality control. Test automation is necessary to enhance test  productivity and quality while reducing test effort. Test data generation is a critical issue of automated testing. The paper proposes a  method called interface semantic contract (ISC) for modeling services exposed functionalities using ontology and rule language.  Algorithms are developed to generate input partitions and test data based on ISC. Case studies are exercised to illustrate the proposed  approach. The results show that compared with conventional random testing, the proposed approach can enhance test coverage by 50%  with the same number of test cases, and reduce test effort by 90% to reach the same test coverage
+Abstract: Testing is one of the primary methods for Web service quality control. Test automation is necessary to enhance test
+productivity and quality while reducing test effort. Test data generation is a critical issue of automated testing. The paper proposes a
+method called interface semantic contract (ISC) for modeling services exposed functionalities using ontology and rule language.
+Algorithms are developed to generate input partitions and test data based on ISC. Case studies are exercised to illustrate the proposed
+approach. The results show that compared with conventional random testing, the proposed approach can enhance test coverage by 50%
+with the same number of test cases, and reduce test effort by 90% to reach the same test coverage

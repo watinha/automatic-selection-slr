@@ -1,2 +1,20 @@
 Motivations and measurements in an agile case study
-With the recent emergence of agile software development technologies,  	the software community is awaiting sound, empirical investigation  	of the mpacts of agile practices in a live setting. One means of  	conducting such research is through industrial case studies. There  	are a number of influencing factors that contribute to the success  	of such a case study. In this paper, we describe a case study performed  	at Sabre Airline SolutionsTM evaluating the effects of adopting Extreme  	Programming (XP) practices with a team that had characteristically  	plan-driven risk factors. We compare the team's business-related  	results (productivity and quality) to two published sources of industry  	averages. Our case study found that the Sabre team yielded above-average  	post-release quality and average to above-average productivity. We  	discuss our experience in conducting this case study, including specifics  	of how data was collected, the rationale behind our process of data  	collection, and what obstacles were encountered during the case study.  	We identify four factors that potentially impact the outcome of industrial  	case studies: availability of data, tool support, cooperative personnel  	and project status. Recognizing and planning for these factors is  	essential to conducting industrial case studies.
+With the recent emergence of agile software development technologies,
+the software community is awaiting sound, empirical investigation
+of the mpacts of agile practices in a live setting. One means of
+conducting such research is through industrial case studies. There
+are a number of influencing factors that contribute to the success
+of such a case study. In this paper, we describe a case study performed
+at Sabre Airline SolutionsTM evaluating the effects of adopting Extreme
+Programming (XP) practices with a team that had characteristically
+plan-driven risk factors. We compare the team's business-related
+results (productivity and quality) to two published sources of industry
+averages. Our case study found that the Sabre team yielded above-average
+post-release quality and average to above-average productivity. We
+discuss our experience in conducting this case study, including specifics
+of how data was collected, the rationale behind our process of data
+collection, and what obstacles were encountered during the case study.
+We identify four factors that potentially impact the outcome of industrial
+case studies: availability of data, tool support, cooperative personnel
+and project status. Recognizing and planning for these factors is
+essential to conducting industrial case studies.

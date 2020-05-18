@@ -1,2 +1,16 @@
-You must be joking...: should the internet have an ON/OFF switch?
-If despite your better judgment you decide to read this article, keep 	in mind that it was written during the summer, and this has been 	the hottest summer ever. To avoid such articles in the future, respond 	to the call below:Request for Contributions: Do you have a news-item 	of interest? Social gossip? Do you have a pressing question that 	needs a serious answer? Don't procrastinate: send me an email with 	"CCR" in the subject.
+Designing for place-based social interaction of urban residents in
+M\'{e}xico, South Africa and Australia
+The design of technology to facilitate social interaction of urban
+residents is increasingly important for many countries around the
+world. México and South Africa are particularly prone to issues that
+stem from urban densification and a lack of adequate affordable housing.
+Governments look to ICT to take on a mediating and facilitating role.
+This paper reports on research-inprogress of a tri-continental study.
+The external factors and aims of this pilot project identifying local
+case studies to prepare for a larger and longer term international
+comparison of local community networking approaches are examined.
+It is argued that by careful attention to cultural and social assets
+in the community, innovations will be engendered which enhance economic
+and social development. Preliminary design implications for the support
+of neighbourhood interactions across different socio-cultural contexts
+are presented.

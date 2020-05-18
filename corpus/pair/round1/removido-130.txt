@@ -1,2 +1,15 @@
 Applyinq AspectJ to J2EE application development
-(AOP) programming is a technique that allows programmers to modularize  	crosscutting concerns (behavior that cuts across the typical divisions  	of responsibility, such as concurrency or security). Aspect-oriented  	programming and the AspectJ language can reduce code size and defects  	while increasing understandability. Video Monitoring Services of  	America (VMS) began to investigate the adoption of AOP into the development  	of Adbase, the Java 2 Enterprise Edition-based application. Adbase  	supplies a Web-based search and e-commerce interface on VMS's library  	of advertising data. It uses a wide range of J2EE technologies, both  	commercial and open source. The Adbase team varied from four to seven  	full-time developers during the time frame covered by this article.  	We followed a modified version of extreme programming with a focus  	on emergent design and adherence to XP practices such as programmer  	testing-and pair programming.
+(AOP) programming is a technique that allows programmers to modularize
+crosscutting concerns (behavior that cuts across the typical divisions
+of responsibility, such as concurrency or security). Aspect-oriented
+programming and the AspectJ language can reduce code size and defects
+while increasing understandability. Video Monitoring Services of
+America (VMS) began to investigate the adoption of AOP into the development
+of Adbase, the Java 2 Enterprise Edition-based application. Adbase
+supplies a Web-based search and e-commerce interface on VMS's library
+of advertising data. It uses a wide range of J2EE technologies, both
+commercial and open source. The Adbase team varied from four to seven
+full-time developers during the time frame covered by this article.
+We followed a modified version of extreme programming with a focus
+on emergent design and adherence to XP practices such as programmer
+testing-and pair programming.

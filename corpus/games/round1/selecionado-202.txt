@@ -1,2 +1,3 @@
 Scaling in games and virtual worlds
-Online games and virtual worlds have familiar scaling requirements,  	but don't be fooled: Everything you know is wrong.
+Online games and virtual worlds have familiar scaling requirements,
+but don't be fooled: Everything you know is wrong.

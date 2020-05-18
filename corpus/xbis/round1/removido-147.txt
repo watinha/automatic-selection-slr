@@ -1,2 +1,14 @@
 Visualization of automated test results obtained by the TESTAR tool
-Abstract. Bigger and more complex software systems demand quality  practices that are seldom carried out in real industry. A common  practice is to provide a post-release maintenance service of products to  correct defects reported by the end user. In previous work we presented  TESTAR, a technology-agnostic tool for automated testing of applications  from their GUI. Here we introduce state-transition graph models  derived from TESTAR test results as a tool for visualisation of what has  been tested, to which extent and which software defects were found. We  discuss how such models enable to perform quality assessment of software  products by inspecting and debugging the system behaviour from  the GUI perspective. This constitutes a step forward in aid of software  developers and testers, since the User Interface is commonly the means  end-users encounter potential software defects.  
+Abstract. Bigger and more complex software systems demand quality
+practices that are seldom carried out in real industry. A common
+practice is to provide a post-release maintenance service of products to
+correct defects reported by the end user. In previous work we presented
+TESTAR, a technology-agnostic tool for automated testing of applications
+from their GUI. Here we introduce state-transition graph models
+derived from TESTAR test results as a tool for visualisation of what has
+been tested, to which extent and which software defects were found. We
+discuss how such models enable to perform quality assessment of software
+products by inspecting and debugging the system behaviour from
+the GUI perspective. This constitutes a step forward in aid of software
+developers and testers, since the User Interface is commonly the means
+end-users encounter potential software defects.

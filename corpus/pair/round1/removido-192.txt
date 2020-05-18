@@ -1,2 +1,12 @@
 How to get the most out of extreme programming/agile methods
-This paper reports the results of an analysis of thirty-one extreme  	programming (XP)/agile methods early adopter projects completed by  	fourteen firms who have embraced the techniques in the form of lessons  	learned. The survey results show that early adopters have cut costs,  	improved productivity and reduced time to market through the use  	of these methods. To get the most from these methods, fifteen lessons  	learned have been developed that build on the experiences of others.  	Several of these lessons run counter to the teachings of the methodology  	developers. The paper next provides a scorecard that rates XP's performance  	in eight application domains. The paper concludes by summarizing  	four critical success factors for early adopters.
+This paper reports the results of an analysis of thirty-one extreme
+programming (XP)/agile methods early adopter projects completed by
+fourteen firms who have embraced the techniques in the form of lessons
+learned. The survey results show that early adopters have cut costs,
+improved productivity and reduced time to market through the use
+of these methods. To get the most from these methods, fifteen lessons
+learned have been developed that build on the experiences of others.
+Several of these lessons run counter to the teachings of the methodology
+developers. The paper next provides a scorecard that rates XP's performance
+in eight application domains. The paper concludes by summarizing
+four critical success factors for early adopters.

@@ -1,2 +1,20 @@
 Regression Testing of Web Services Using Parsing and Test case Prioritization Approach
-Abstract- Web services are the basic building blocks for  every e-business applications now s- a-day. They provide  efficient reusability mechanism, thereby reducing the  development time and cost. Mostly the source code of web  services is unavailable to other developers who use these  services. Thus automated testing needs to be developed for  testing these web services, which is possible by adding  semantics to web services description language (WSDL).  Also the test case reduction technique is very much  required for regression testing. Previous work generates  test cases for web services using case pri8oritization is  need to done in reducing the test effort for web services  using reducing techniques pair wise testing (PWT) and  orthogonal array testing (OAT).in this work test case  prioritization is need to done in reducing the testing effort  for regression testing. To implement priority base testing  than find test specification for web based data. After that  perform orthogonal testing, pair wise testing and compare  with strength generation.  
+Abstract- Web services are the basic building blocks for
+every e-business applications now s- a-day. They provide
+efficient reusability mechanism, thereby reducing the
+development time and cost. Mostly the source code of web
+services is unavailable to other developers who use these
+services. Thus automated testing needs to be developed for
+testing these web services, which is possible by adding
+semantics to web services description language (WSDL).
+Also the test case reduction technique is very much
+required for regression testing. Previous work generates
+test cases for web services using case pri8oritization is
+need to done in reducing the test effort for web services
+using reducing techniques pair wise testing (PWT) and
+orthogonal array testing (OAT).in this work test case
+prioritization is need to done in reducing the testing effort
+for regression testing. To implement priority base testing
+than find test specification for web based data. After that
+perform orthogonal testing, pair wise testing and compare
+with strength generation.

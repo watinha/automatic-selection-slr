@@ -1,2 +1,17 @@
-Giving meaning to measurement
-Measurement provides the transformation that represents the relationship 	between one domain and another. Measurement in isolation is meaningless. 	It must fit into the understanding of a system, which has relational, 	interacting components. Measurement always has a reference from which 	it establishes a relationship between domains. We have a colloquial 	expression in America, “Don't miss the forest for the trees.” It 	means that by focusing on the details, we tend to overlook the big 	picture. Sometimes scientists and engineers can see the details but 	miss the overall perspective. This does not have to be. We can overcome 	this failing and thereby build more useful instruments. We need to 	understand who uses measurement, why we measure, and how we measure. 	Upon this basis we can use basic principles of human interactions 	to construct better, more useful instruments. You might call these 	basic principles ergonomics, user interface, human factors; I would 	call it common sense
+Computer graphics, interactive technologies and collaborative learning
+synergy supporting individuals' skills development
+In this paper, we describe work carried out using the synergy of interactive
+technologies, computer graphics and collaborative learning to improve
+educators and students' knowledge of basic education by supporting
+interdisciplinary work.Through direct manipulating accessible Web
+standard languages such as Hyper Text Markup Language - HTML and
+Virtual Reality Modeling Language - VRML and their templates, we
+used interactive graphics techniques and tools, including learning
+theories and methodologies such as experiential learning as support
+for enhancing children's interest on studying and authoring content
+related to subjects such as Mathematics, Geography, Geometry, Languages
+and Arts.As a consequence of these human and technical interactions,
+including knowledge acquisition, we achieved an increase in individuals'
+traditional and digital literacy skills, social inclusion, and community
+collaborative work engagement inside and outside school environment.
+Further we found an improvement in curriculum development.

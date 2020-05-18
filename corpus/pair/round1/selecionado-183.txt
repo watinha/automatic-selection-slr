@@ -1,2 +1,20 @@
-An Empirical Comparison Between Pair Development and Software Inspection  	in Thailand
-Although pair programming and software inspection have the common  	aim of minimizing the defects of the software product, each practice  	has its strengths and weaknesses. We need to understand their costs  	and benefits under given conditions to be able to select a practice  	to execute in a development project. The objective of this study  	is to compare the commonalities and differences between pair development  	and software inspection as verification techniques in Thailand. One  	classroom experiment and one industry experiment were conducted.  	The development effort and effect of quality were investigated with  	some additional    	calendar time comparisons. The classroom results showed that average  	development effort of the pair development group was 24% less than  	inspection group with the improved product quality. The industry  	experiment showed pair development to have about 4% more effort but  	about 40% fewer major defects. In addition, the impacts of cultural  	differences to the adoption of pair programming or software inspection  	in Thailand are discussed.
+An Empirical Comparison Between Pair Development and Software Inspection
+in Thailand
+Although pair programming and software inspection have the common
+aim of minimizing the defects of the software product, each practice
+has its strengths and weaknesses. We need to understand their costs
+and benefits under given conditions to be able to select a practice
+to execute in a development project. The objective of this study
+is to compare the commonalities and differences between pair development
+and software inspection as verification techniques in Thailand. One
+classroom experiment and one industry experiment were conducted.
+The development effort and effect of quality were investigated with
+some additional
+
+calendar time comparisons. The classroom results showed that average
+development effort of the pair development group was 24% less than
+inspection group with the improved product quality. The industry
+experiment showed pair development to have about 4% more effort but
+about 40% fewer major defects. In addition, the impacts of cultural
+differences to the adoption of pair programming or software inspection
+in Thailand are discussed.

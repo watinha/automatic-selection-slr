@@ -1,2 +1,13 @@
 A Technique for Testing Composed Web Services including Footprint
-Abstract - Testing a service based application with more  suitable approach is introduced in this paper. Paper has an  architecture that responds to changes of service operation ,  service composition changes and allow all Footprints by Tree.  Our test system is able to identify changes that occur in service  operations and operational arguments in a service description  of a test candidate. Automated reconfiguration is used to  support the continuous operation of the testing systems during  a test candidate change. Our proof-of-concept test system  performs runtime testing on our model atomic and composite  web services using a random testing technique with previous  footprints records
+Abstract - Testing a service based application with more
+suitable approach is introduced in this paper. Paper has an
+architecture that responds to changes of service operation ,
+service composition changes and allow all Footprints by Tree.
+Our test system is able to identify changes that occur in service
+operations and operational arguments in a service description
+of a test candidate. Automated reconfiguration is used to
+support the continuous operation of the testing systems during
+a test candidate change. Our proof-of-concept test system
+performs runtime testing on our model atomic and composite
+web services using a random testing technique with previous
+footprints records

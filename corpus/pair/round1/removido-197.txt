@@ -1,2 +1,15 @@
 Future fixes [software development management]
-With a little common sense and dependable metrics, software developers  	can banish the bug-bucket and keep dreaded rework under control by  	creating a reasonable prediction of a project completion. These measures  	include: historical information, estimation quality factor and fault  	feedback ratio. In addition, critical-chain buffer management can  	help to schedule the project to allow for rework during each task  	or in the planning stage. Agile techniques also offer immediate feedback,  	helping to create fewer defects and less rework. Incorporating such  	techniques as test-first development, automated unit testing and  	pair programming - or at least have another pair of eyes review the  	code. In handling a large project with several agile teams and it  	is unsure if there is enough time to catch all the defects in each  	iteration, plan on a defect search-fix mission on one iteration before  	releasing it to the client.
+With a little common sense and dependable metrics, software developers
+can banish the bug-bucket and keep dreaded rework under control by
+creating a reasonable prediction of a project completion. These measures
+include: historical information, estimation quality factor and fault
+feedback ratio. In addition, critical-chain buffer management can
+help to schedule the project to allow for rework during each task
+or in the planning stage. Agile techniques also offer immediate feedback,
+helping to create fewer defects and less rework. Incorporating such
+techniques as test-first development, automated unit testing and
+pair programming - or at least have another pair of eyes review the
+code. In handling a large project with several agile teams and it
+is unsure if there is enough time to catch all the defects in each
+iteration, plan on a defect search-fix mission on one iteration before
+releasing it to the client.

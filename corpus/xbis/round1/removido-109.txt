@@ -1,2 +1,23 @@
 Model Inference and Automatic Testing of Mobile Applications
-Abstract We consider, in this paper, the problem of automatically  testing Mobile applications while inferring formal  models expressing their functional behaviours. We propose a  framework called MCrawlT, which performs automatic testing  through application interfaces and collects interface changes to  incrementally infer models expressing the navigational paths  and states of the applications under test. These models could  be later used for comprehension aid or to carry out some  tasks automatically, e.g., the test case generation. The main  contributions of this paper can be summarised as follows: we  introduce a flexible Mobile application model that allows the  definition of state abstraction with regard to the application  content. This definition also helps define state equivalence  classes that segment the state space domain. Our approach  supports different exploration strategies by applying the Ant  Colony Optimisation technique. This feature offers the advantage  to change the exploration strategy by another one  as desired. The performances of MCrawlT in terms of code  coverage, execution time, and bug detection are evaluated on 30  Android applications and compared to other tools found in the  literature. The results show that MCrawlT achieves significantly  better code coverage in a given time budget.
+Abstract We consider, in this paper, the problem of automatically
+testing Mobile applications while inferring formal
+models expressing their functional behaviours. We propose a
+framework called MCrawlT, which performs automatic testing
+through application interfaces and collects interface changes to
+incrementally infer models expressing the navigational paths
+and states of the applications under test. These models could
+be later used for comprehension aid or to carry out some
+tasks automatically, e.g., the test case generation. The main
+contributions of this paper can be summarised as follows: we
+introduce a flexible Mobile application model that allows the
+definition of state abstraction with regard to the application
+content. This definition also helps define state equivalence
+classes that segment the state space domain. Our approach
+supports different exploration strategies by applying the Ant
+Colony Optimisation technique. This feature offers the advantage
+to change the exploration strategy by another one
+as desired. The performances of MCrawlT in terms of code
+coverage, execution time, and bug detection are evaluated on 30
+Android applications and compared to other tools found in the
+literature. The results show that MCrawlT achieves significantly
+better code coverage in a given time budget.

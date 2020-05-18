@@ -1,2 +1,6 @@
-Freeing the slave with two masters: an embedded programming team's  	transition to XP
-The article looks at one team's experience with extreme programming  	(XP) which began halfway through a three-year development effort.  	The authors then convinced the other team members and management  	to try using XP's planning game and pair programming practices.
+Freeing the slave with two masters: an embedded programming team's
+transition to XP
+The article looks at one team's experience with extreme programming
+(XP) which began halfway through a three-year development effort.
+The authors then convinced the other team members and management
+to try using XP's planning game and pair programming practices.

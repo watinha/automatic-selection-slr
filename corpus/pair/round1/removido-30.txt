@@ -1,2 +1,17 @@
 Coordination for multi-person visual program development
-Typically, visual programming has been limited to only one person  	developing one program at a time. This article describes a technique  	for helping multiple people coordinate working together on the same  	diagram at the same time. This approach identifies transactions based  	on domain syntax. These transactions are used to notify people when  	someone else changes the diagram in a way that is likely to impact  	other people's work. In particular, the system assigns ownership  	of each syntactically incorrect element to the person who last acted  	upon that element. This ownership can be transferred between people.  	The potential problem of incomplete transactions when work extends  	beyond a single session is resolved by restarting transactions when  	work resumes. This syntax-based approach is particularly appropriate  	for visual languages. Various domain constraints are described as  	alternatives or supplements to the syntactic criteria. The technique  	was validated with data from 20 groups of three people using CoDiagram,  	a proof of concept system.
+Typically, visual programming has been limited to only one person
+developing one program at a time. This article describes a technique
+for helping multiple people coordinate working together on the same
+diagram at the same time. This approach identifies transactions based
+on domain syntax. These transactions are used to notify people when
+someone else changes the diagram in a way that is likely to impact
+other people's work. In particular, the system assigns ownership
+of each syntactically incorrect element to the person who last acted
+upon that element. This ownership can be transferred between people.
+The potential problem of incomplete transactions when work extends
+beyond a single session is resolved by restarting transactions when
+work resumes. This syntax-based approach is particularly appropriate
+for visual languages. Various domain constraints are described as
+alternatives or supplements to the syntactic criteria. The technique
+was validated with data from 20 groups of three people using CoDiagram,
+a proof of concept system.

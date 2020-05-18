@@ -1,2 +1,21 @@
-Calling for programmed technology transfer and adoption strategies 	for sustainable LDC growth
-Developing nations need a technology jumpstart---via basic technologies 	geared toward education, farming, and health care.
+The r\^{o}le of natural language processing in alternative and augmentative
+communication
+Alternative and Augmentative Communication (AAC) for people with speech
+and language disorders is an interesting and challenging application
+field for research in Natural Language Processing. Further advances
+in the development of AAC systems require robust language processing
+techniques and versatile linguistic knowledge bases. Also NLP research
+can benefit from studying the techniques used in this field and from
+the user-centred methodologies used to develop and evaluate AAC systems.
+Until recently, however, apart from some exceptions, there was little
+scientific exchange between the two research areas. This paper aims
+to make a contribution to closing this gap. We will argue that current
+interest in language use, which can be shown by the large amount
+of research on comprehensive dictionaries and on corpora processing,
+makes the results of NLP research more relevant to AAC. We will also
+show that the increasing interest of AAC researchers in NLP is having
+positive results. To situate research on communication aids, the
+first half of this paper gives an overview of the AAC research field.
+The second half is dedicated to an overview of research prototype
+systems and commercially available communication aids that specifically
+involve more advanced language processing techniques.

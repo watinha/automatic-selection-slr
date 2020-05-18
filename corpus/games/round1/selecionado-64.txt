@@ -1,2 +1,13 @@
-Component Based Game Development A Solution to Escalating Costs  	and Expanding Deadlines?
-Expanding deadlines and escalating costs have notoriously plagued  	the game industry. Although the majority of the game development  	costs are spent on art and animation, significant cost reductions  	and more importantly reductions in development time can be achieved  	when developers use off the shelf components rather than develop  	them from scratch. However, many game developers struggle with component  	integration and managing the complexity of their architectures. This  	paper gives an overview of developing games with components, presents  	a reference architecture that outlines the relevant areas of reuse  	and signifies some of the problems with developing components unique  	to the domain of games.
+Component Based Game Development A Solution to Escalating Costs
+and Expanding Deadlines?
+Expanding deadlines and escalating costs have notoriously plagued
+the game industry. Although the majority of the game development
+costs are spent on art and animation, significant cost reductions
+and more importantly reductions in development time can be achieved
+when developers use off the shelf components rather than develop
+them from scratch. However, many game developers struggle with component
+integration and managing the complexity of their architectures. This
+paper gives an overview of developing games with components, presents
+a reference architecture that outlines the relevant areas of reuse
+and signifies some of the problems with developing components unique
+to the domain of games.

@@ -1,2 +1,23 @@
 A survey of component based system quality assurance and assessment
-Component Based Software Development (CBSD) is focused on assembling  	existing components to build a software system, with a potential  	benefit of delivering quality systems by using quality components.  	It departs from the conventional software development process in  	that it is integration centric as opposed to development centric.  	The quality of a component based system using high quality components  	does not therefore necessarily guarantee a system of high quality,  	but depends on the quality of its components, and a framework and  	integration process used. Hence, techniques and methods for quality  	assurance and assessment of a component based system would be different  	from those of the traditional software engineering methodology. It  	is essential to quantify factors that contribute to the overall quality,  	for instances, the trade off between cost and quality of a component,  	analytical techniques and formal methods, and quality attribute definitions  	and measurements. This paper presents a literature survey of component  	based system quality assurance and assessment; the areas surveyed  	include formalism, cost estimation, and assessment and measurement  	techniques for the following quality attributes: performance, reliability,  	maintainability and testability. The aim of this survey is to help  	provide a better understanding of CBSD in these aspects in order  	to facilitate the realisation of its potential benefits of delivering  	quality systems.
+Component Based Software Development (CBSD) is focused on assembling
+existing components to build a software system, with a potential
+benefit of delivering quality systems by using quality components.
+It departs from the conventional software development process in
+that it is integration centric as opposed to development centric.
+The quality of a component based system using high quality components
+does not therefore necessarily guarantee a system of high quality,
+but depends on the quality of its components, and a framework and
+integration process used. Hence, techniques and methods for quality
+assurance and assessment of a component based system would be different
+from those of the traditional software engineering methodology. It
+is essential to quantify factors that contribute to the overall quality,
+for instances, the trade off between cost and quality of a component,
+analytical techniques and formal methods, and quality attribute definitions
+and measurements. This paper presents a literature survey of component
+based system quality assurance and assessment; the areas surveyed
+include formalism, cost estimation, and assessment and measurement
+techniques for the following quality attributes: performance, reliability,
+maintainability and testability. The aim of this survey is to help
+provide a better understanding of CBSD in these aspects in order
+to facilitate the realisation of its potential benefits of delivering
+quality systems.

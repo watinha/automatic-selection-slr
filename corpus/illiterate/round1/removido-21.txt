@@ -1,2 +1,9 @@
 Language technology solutions in Simputer: an overview
-Simputer is a low-cost multilingual, mass access handheld device that 	uses Indian language user interfaces to provide information technology 	based services to the multilingual population of India. We discuss 	the language technology components of Simputer that help realize 	this experience. The architecture and detailed working of multilingual 	text rendering and display as well as multilingual text-to-speech 	systems, in particular the IML browser and Dhvani ITS engine, deployed 	in the Simputer are outlined.
+Simputer is a low-cost multilingual, mass access handheld device that
+uses Indian language user interfaces to provide information technology
+based services to the multilingual population of India. We discuss
+the language technology components of Simputer that help realize
+this experience. The architecture and detailed working of multilingual
+text rendering and display as well as multilingual text-to-speech
+systems, in particular the IML browser and Dhvani ITS engine, deployed
+in the Simputer are outlined.

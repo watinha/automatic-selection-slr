@@ -1,2 +1,17 @@
 Use and Design of Ontology-based Multi-agent System for Multi-site Software Development Environment
-Large software development projects involve several participants who are distributed  geographically without face-to-face communication. To maintain collaborative work  through effective communication and coordination, it is necessary to have a common  understanding of terminology and methodology to clarify software engineering  concepts and enable knowledge exchange and reuse. We consider an ontology  designed for distributed software development can be a solution to improve  information and knowledge sharing in such scenarios. However, software team  members may not be familiar with the use of the ontology by themselves, an active  support is needed to proactively deliver knowledge and project information that is  semantically defined in the ontology based on appropriate context. In this paper, we  propose an ontology-based multi-agent system conceptual framework that can provide  intelligent assistance to access and recommend knowledge and project information  during multi-site software development. We use UML 2.1 to model interaction among  software agents. This framework is expected to improve the effectiveness of the  communication and coordination of software teams to reduce the unsuccessful rate of  the software development project.
+Large software development projects involve several participants who are distributed
+geographically without face-to-face communication. To maintain collaborative work
+through effective communication and coordination, it is necessary to have a common
+understanding of terminology and methodology to clarify software engineering
+concepts and enable knowledge exchange and reuse. We consider an ontology
+designed for distributed software development can be a solution to improve
+information and knowledge sharing in such scenarios. However, software team
+members may not be familiar with the use of the ontology by themselves, an active
+support is needed to proactively deliver knowledge and project information that is
+semantically defined in the ontology based on appropriate context. In this paper, we
+propose an ontology-based multi-agent system conceptual framework that can provide
+intelligent assistance to access and recommend knowledge and project information
+during multi-site software development. We use UML 2.1 to model interaction among
+software agents. This framework is expected to improve the effectiveness of the
+communication and coordination of software teams to reduce the unsuccessful rate of
+the software development project.

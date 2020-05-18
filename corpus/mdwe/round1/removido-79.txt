@@ -1,2 +1,2 @@
 Detecting Anomaly and Failure in Web Applications
-Improving Web application quality will require automated evaluation tools. Many such tools are already available either as commercial products or research prototypes. Here we use {ReWeb
+Improving Web application quality will require automated evaluation tools. Many such tools are already available either as commercial products or research prototypes. Here we use {ReWeb} and {TestWeb} to find some anomalies and failures in four case studies. We also discuss other available tools that provide a variety of features for Web analysis and testing.

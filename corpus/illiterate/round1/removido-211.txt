@@ -1,0 +1,8 @@
+From usability tasks to usable user interfaces
+In this paper we describe how the identification of usability tasks
+in the task model as an early consideration of usability in the process
+can directly influence the design of usable User Interfaces (UI).
+We intend to make system analysts and UI designers work and communicate
+better by sharing artifacts, thus providing a process that aims at
+the integration of professionals working with a productive process
+in order to develop UIs with usability.

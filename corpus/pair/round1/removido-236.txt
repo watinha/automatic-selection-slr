@@ -1,2 +1,24 @@
 Managing a project course using Extreme Programming
-Shippensburg University offers an upper division project course in  	which the students use a variant of Extreme Programming (XP) including:  	the Planning Game, the Iteration Planning Game, test driven development,  	stand-up meetings and pair programming. We start the course with  	two weeks of controlled lab exercises designed to teach the students  	about test driven development in JUnit/Eclipse and designing for  	testability (with the humble dialog box design pattern) while practicing  	pair programming. The rest of our semester is spent in three four-week  	iterations developing a product for a customer. Our teams are generally  	large (14-16 students) so that the projects can be large enough to  	motivate the use of configuration management and defect tracking  	tools. The requirement of pair programming limits the amount of project  	work the students can do outside of class, so class time is spent  	on the projects and teaching is on-demand individual mentoring with  	lectures/labs inserted as necessary. One significant challenge in  	managing this course is tracking individual responsibilities and  	activities to ensure that all of the students are fully engaged in  	the project. To accomplish this, we have modified the story and task  	cards from XP to provide feedback to the students and track individual  	performance against goals as part of the students' grades. The resulting  	course has been well received by the students. This paper will describe  	this course in more detail and assess its effect on students' software  	engineering background through students' feedback and code metrics.
+Shippensburg University offers an upper division project course in
+which the students use a variant of Extreme Programming (XP) including:
+the Planning Game, the Iteration Planning Game, test driven development,
+stand-up meetings and pair programming. We start the course with
+two weeks of controlled lab exercises designed to teach the students
+about test driven development in JUnit/Eclipse and designing for
+testability (with the humble dialog box design pattern) while practicing
+pair programming. The rest of our semester is spent in three four-week
+iterations developing a product for a customer. Our teams are generally
+large (14-16 students) so that the projects can be large enough to
+motivate the use of configuration management and defect tracking
+tools. The requirement of pair programming limits the amount of project
+work the students can do outside of class, so class time is spent
+on the projects and teaching is on-demand individual mentoring with
+lectures/labs inserted as necessary. One significant challenge in
+managing this course is tracking individual responsibilities and
+activities to ensure that all of the students are fully engaged in
+the project. To accomplish this, we have modified the story and task
+cards from XP to provide feedback to the students and track individual
+performance against goals as part of the students' grades. The resulting
+course has been well received by the students. This paper will describe
+this course in more detail and assess its effect on students' software
+engineering background through students' feedback and code metrics.

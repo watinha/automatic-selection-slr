@@ -1,0 +1,18 @@
+An Interface Design Methodology: Scenario Based Design Extended for
+Diverse Computer User Groups
+The purpose of this work is to begin development of a culturally valid
+interface design process. This process would benefit interface designers
+and design companies by providing a model that facilitates design
+for special user populations (e.g., the educationally underserved).
+Discussion in this paper centers on merging (1) an accepted interface
+design process in the HCI community, (2) various elicitation methods
+for determining user needs and (3) noted design considerations for
+marginalized groups such as the economically/educationally underserved
+in the United States. The acculturalization model discussed here
+is an extension of Rosson and Carroll's (2002) scenario based development
+(SBD) user-centered interface design approach. In SBD, scenarios
+are developed and analyzed to assist designers with requirements
+analysis, system functionality, information presentation, interactions
+methods, documentation, and the design of the prototypes and the
+usability evaluations. SBD employs three major phases: analysis,
+design, and prototype and evaluation

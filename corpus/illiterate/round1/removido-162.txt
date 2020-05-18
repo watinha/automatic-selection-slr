@@ -1,2 +1,24 @@
-SiMPE: third workshop on speech in mobile and pervasive environments
-In the past, voice-based applications have been accessed using unintelligent 	telephone devices through Voice Browsers that reside on the server. 	The proliferation of pervasive devices and the increase in their 	processing capabilities, clientside speech processing has been emerging 	as a viable alternative. In SiMPE 2008, the third in the series, 	we will continue to explore the various possibilities and issues 	that arise while enabling speech processing on resource-constrained, 	possibly mobile devices.   	In SiMPE 2007 [2], the focus was on developing regions. Given the 	importance of speech in developing regions, SiMPE 2008 will include 	"SiMPE for developing regions" as a topic of interest. As a result 	of discussions in SiMPE 2007, we plan to invite and encourage Speech 	UI designers to participate in SiMPE 2008. We will also review the 	progress made over the last two years, in the areas and key problems 	identified in SiMPE 2006 [3].
+A visualization design repository for mobile devices
+Mobile devices with multimedia and graphics capabilities have great
+potential in a wide variety of applications. In addition to location-based
+services, mobile-commerce and multimedia entertainment that are often
+viewed as promising applications of third generation mobile networks
+mobile devices also offer a potential solution to bridging the digital
+divide in developing countries. Mobile devices could be used to provide
+essential IT services like internet access, communication, information,
+education and banking in areas where no fully developed infrastructures
+like the electric grid and wire-based net connections are available.
+Highly usable interfaces will be a critical factor in the development
+of successful mobile devices and applications. This is especially
+true if such IT services should become accessible to illiterate or
+semi-literate users and users without any previous computer experience
+where the interface will have to rely largely on graphics and speech
+as interaction mechanisms. However, the design of multimedia-based
+interfaces for mobile devices is currently complicated by a lack
+of standardized visualization techniques and interaction mechanisms
+and the absence of related component libraries and style guides.
+As a first step towards the development of a standardized set of
+device-independent presentation and interaction techniques we are
+currently working on a repository of visualization design solutions
+for mobile UIs which will later be extended to include general interaction
+techniques.

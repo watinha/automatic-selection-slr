@@ -1,2 +1,9 @@
 Activity Patterns of Pair Programming
-This paper reports results from an exploratory study investigating  	the activity patterns of pair programming using a student project  	conducted over a period of nine weeks. We found that pair programming  	engaged in activities that lead to more deeper-level thinking which  	may enable people to formulate a more complete mental model of the  	task. We also compared the activity patterns between different pair  	combinations. We found that there are differences in the patterns  	among different pair combinations.
+This paper reports results from an exploratory study investigating
+the activity patterns of pair programming using a student project
+conducted over a period of nine weeks. We found that pair programming
+engaged in activities that lead to more deeper-level thinking which
+may enable people to formulate a more complete mental model of the
+task. We also compared the activity patterns between different pair
+combinations. We found that there are differences in the patterns
+among different pair combinations.

@@ -1,2 +1,26 @@
-Social dynamics of early stage co-design in developing regions
-Technology arguably has the potential to play a key role in improving 	the lives of people in developing regions. However, these communities 	are not well understood and designers must thoroughly investigate 	possibilities for technological innovations in these contexts. We 	describe findings from two field studies in India and one in Uganda 	where we explore technological solutions in the domains of communication, 	microfinance and education. Two common underlying themes emerge from 	these studies: (1) local stakeholders can contribute cultural information 	relevant to design such as needs and practices through interaction 	with technology artifacts and (2) unique social network structures 	embedded within communities are crucial to the acceptance and potential 	adoption of technology. We end with a synthesis of the three experiences 	that draws some practical lessons for ICT designers to elicit meaningful 	feedback and participation from local stakeholders in developing 	regions communities.
+WELL done and well liked: online information literacy skills and
+learner impressions of the web as a resource for foreign language
+learning
+One of the most common uses of the World Wide Web for foreign language
+learning is as a resource for students to find information when researching
+essay topics. When language instructors ask students to perform searches
+for information about a given issue it is assumed that students know
+how to perform those searches and appreciate the usefulness of the
+Web. However, we do not really know much about the relationship between
+learners and the Web: what processes are involved, how the students
+go about the search process and what their perceptions of the Web
+are. It is therefore essential that these assumptions are examined
+and researched. To find out more about these questions, a study was
+initiated with the aim of obtaining information on how foreign language
+higher education students interact with the Web in general and in
+the context of a search for content/reading tasks in particular.
+The goal was to produce a descriptive snapshot of student impressions
+and abilities at one given moment. For this purpose 198 students
+of Spanish at the University of Southampton were asked how they use
+the Web, what for, how they go about finding the information they
+need, what they perceive to be the advantages and disadvantages of
+using the Web as a research tool for language learning, to compare
+it to other resources and what their perceptions of it are. To measure
+their degree of online information literacy, a scale was created.
+In this paper the details of the project will be presented, and the
+findings of the study discussed.

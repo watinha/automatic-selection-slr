@@ -1,2 +1,26 @@
-Evaluating pair programming with respect to system complexity and  	programmer expertise
-A total of 295 junior, intermediate, and senior professional Java  	consultants (99 individuals and 98 pairs) from 29 international consultancy  	companies in Norway, Sweden, and the UK were hired for one day to  	participate in a controlled experiment on pair programming. The subjects  	used professional Java tools to perform several change tasks on two  	alternative Java systems with different degrees of complexity. The  	results of this experiment do not support the hypotheses that pair  	programming in general reduces the time required to solve the tasks  	correctly or increases the proportion of correct solutions. On the  	other hand, there is a significant 84 percent increase in effort  	to perform the tasks correctly. However, on the more complex system,  	the pair programmers had a 48 percent increase in the proportion  	of correct solutions but no significant differences in the time taken  	to solve the tasks correctly. For the simpler system, there was a  	20 percent decrease in time taken but no significant differences  	in correctness. However, the moderating effect of system complexity  	depends on the programmer expertise of the subjects. The observed  	benefits of pair programming in terms of correctness on the complex  	system apply mainly to juniors, whereas the reductions in duration  	to perform the tasks correctly on the simple system apply mainly  	to intermediates and seniors. It is possible that the benefits of  	pair programming will exceed the results obtained in this experiment  	for larger, more complex tasks and if the pair programmers have a  	chance to work together over a longer period of time.
+Evaluating pair programming with respect to system complexity and
+programmer expertise
+A total of 295 junior, intermediate, and senior professional Java
+consultants (99 individuals and 98 pairs) from 29 international consultancy
+companies in Norway, Sweden, and the UK were hired for one day to
+participate in a controlled experiment on pair programming. The subjects
+used professional Java tools to perform several change tasks on two
+alternative Java systems with different degrees of complexity. The
+results of this experiment do not support the hypotheses that pair
+programming in general reduces the time required to solve the tasks
+correctly or increases the proportion of correct solutions. On the
+other hand, there is a significant 84 percent increase in effort
+to perform the tasks correctly. However, on the more complex system,
+the pair programmers had a 48 percent increase in the proportion
+of correct solutions but no significant differences in the time taken
+to solve the tasks correctly. For the simpler system, there was a
+20 percent decrease in time taken but no significant differences
+in correctness. However, the moderating effect of system complexity
+depends on the programmer expertise of the subjects. The observed
+benefits of pair programming in terms of correctness on the complex
+system apply mainly to juniors, whereas the reductions in duration
+to perform the tasks correctly on the simple system apply mainly
+to intermediates and seniors. It is possible that the benefits of
+pair programming will exceed the results obtained in this experiment
+for larger, more complex tasks and if the pair programmers have a
+chance to work together over a longer period of time.

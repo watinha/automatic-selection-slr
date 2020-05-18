@@ -1,2 +1,24 @@
-Intestinal parasitic diseases in Riyadh, Saudi Arabia: prevalence, 	sociodemographic and environmental associates
-SummaryOur objectives were to assess the prevalence of intestinal 	parasitic infections in Riyadh and to determine associated sociodemographic 	and environmental factors. The study was conducted through a household 	survey. Three health centres were chosen from each of the five Riyadh 	urban regions and 15 from rural areas. Based on the average family 	size, a random sample of households were chosen. All household members 	were asked to participate in the study. Data were collected using 	a pre-designed questionnaire eliciting data on sociodemographic and 	environmental factors. A stool specimen of each individual was examined 	microscopically for the presence of trophozoites and cysts. Six thousand 	and twelve participants with a mean age of 23.3 ± 17.4 (median 19 	years, 48.6% males) were studied and 32.2% were infected. The infection 	rate was high in urban areas (33.3%), among children <12 years (34.4%), 	non-Saudis (42.2%), single persons (34.9%), illiterate individuals 	(33.8%), those who obtained drinking water from tankers (36.1%) and 	those who disposed of sewage in open channels (47.1%). Stratified 	analysis showed that for Saudis <12 years parasitic infections were 	significantly higher among tanker users (39.5%) and septic tank users 	(36.8%). For Saudis≥12 years low education, water storage and open 	sewage disposal were statistically associated with parasitic infections 	(P < 0.05). Among expatriates, infections were high among males (47.6%), 	urban residents (48.3%), single persons (46.9%), tanker users (39.5%) 	and septic tank users (78.6%). Multivariate logistic regression analysis 	showed that age <12 years, non-Saudi nationalities, educational level 	below secondary school, tanker as source of water and open sewage 	disposal were independently associated with high intestinal parasitic 	infection.
+Connecting the "bottom of the pyramid": an exploratory case study
+of india's rural communication environment
+This paper is based on our exploratory study of a South Indian village
+in Chamrajanagar district of Karnataka. The study was to understand
+the rural communication environment and villagers. communication
+preferences. We examined people's lifestyle, working conditions and
+their communication eco-system. Our study revealed that villagers,
+unlike urban inhabitants, interacted with people outside the village
+only for specific, rather than casual purposes. Another interesting
+aspect of rural communication was the marginal use of the postal
+system and the ubiquitous use of pay phone, apart from word of mouth
+and face-to-face interactions. In fact, personal (face-to-face) interaction
+was usually preferred among villages in this region, over other kinds
+of communication, despite infrastructural constraints like poor transport
+services.
+
+
+We also observed that communication frequency increased when status
+quo changed to one that required immediate attention. During the
+analysis we identified certain social, economic and cultural communication
+gaps (or problems). However, these problems were clear opportunities
+to connect the unconnected rural users, by deploying new communication
+systems and features. Here, we have highlighted some of our findings
+and possible design avenues based on these findings.

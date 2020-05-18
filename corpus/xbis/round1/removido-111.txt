@@ -1,2 +1,19 @@
 Reverse Engineering and Testing Dynamic Web Applications
-A new generation of complex interactive dynamic web applications has emerged with the introduction  of Web 2.0 technologies and development frameworks. The characteristics of dynamic web  applications such as runtime DOM structure and content updates introduced new challenges in the  understanding, maintenance and testing of this type of web applications. In this work we address  two important challenges in the field of web application maintenance. The first challenge is that of  modelling web application behaviour. To solve this task we develop an automatic method for reverse  engineering the features of dynamic web applications by applying a hierarchical clustering algorithm  based on a novel composite-tree-edits-aware distance metric between DOM tree instances of a web  application. The proposed distance metric recognizes simple and composite structural changes in  a DOM tree. We have evaluated our method on three real-world web applications. The evaluation  results demonstrated that the proposed distance metric produces a number of clusters that is close to  the actual number of features and, also, classifies DOM trees into feature clusters more accurately  than other traditional distance metrics. The second challenge is that of systematic acceptance (and  regression) testing at the user-interface level, which we address by developing a tool, CrawlScripter,  for performing automated acceptance testing of JavaScript web applications. CrawlScripter allows  to create easy-to-understand acceptance tests using the provided library of high-level instructions.  The ability of CrawlScripter to create automated acceptance tests for different test scenarios was  evaluated on both pedagogical and real-world dynamic web applications.
+A new generation of complex interactive dynamic web applications has emerged with the introduction
+of Web 2.0 technologies and development frameworks. The characteristics of dynamic web
+applications such as runtime DOM structure and content updates introduced new challenges in the
+understanding, maintenance and testing of this type of web applications. In this work we address
+two important challenges in the field of web application maintenance. The first challenge is that of
+modelling web application behaviour. To solve this task we develop an automatic method for reverse
+engineering the features of dynamic web applications by applying a hierarchical clustering algorithm
+based on a novel composite-tree-edits-aware distance metric between DOM tree instances of a web
+application. The proposed distance metric recognizes simple and composite structural changes in
+a DOM tree. We have evaluated our method on three real-world web applications. The evaluation
+results demonstrated that the proposed distance metric produces a number of clusters that is close to
+the actual number of features and, also, classifies DOM trees into feature clusters more accurately
+than other traditional distance metrics. The second challenge is that of systematic acceptance (and
+regression) testing at the user-interface level, which we address by developing a tool, CrawlScripter,
+for performing automated acceptance testing of JavaScript web applications. CrawlScripter allows
+to create easy-to-understand acceptance tests using the provided library of high-level instructions.
+The ability of CrawlScripter to create automated acceptance tests for different test scenarios was
+evaluated on both pedagogical and real-world dynamic web applications.

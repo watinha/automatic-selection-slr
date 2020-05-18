@@ -1,2 +1,2 @@
-{WebTE:
-Transformations are of crucial importance for the success of {Model-Driven
+{WebTE:} {MDA} transformation engine for web applications
+Transformations are of crucial importance for the success of {Model-Driven} Web Engineering {(MDWE)} approaches. Therefore, we need transformation engines to improve and obtain the results of the different approaches. However, very few model-driven Web approaches provide a transformation tool which would allow them to obtain an implementation from their models. In this paper, we present a tool called {WebTE} {(WebSA} Transformation Engine) which is able to introduce all the input artefacts of the {WebSA} approach and to establish a refining process based on model-to-model and model-to-text transformations which gives us the final implementation of a Web application.

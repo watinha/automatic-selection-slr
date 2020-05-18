@@ -1,2 +1,21 @@
 Detecting clones in game-playing software
-The number of competitions using software agents in the AI or entertainment  	computing fields has grown over the years from a few to many. For  	instance, tournaments exist to let programs to play chess, checker,  	go, bridge, poker, simulated soccer, etc. While most competitions  	are organized for research purposes, some have a commercial side,  	thus raising the stakes for the software authors. Hence, plagiarism  	is becoming a problematic issue in the field of game-playing software  	agents used in competitions and tournaments. As new ideas and technologies  	are successfully implemented in open source programs, they will be  	reused and revisited by later programs until they become standard  	practices, but on the other hand the same phenomenon can lead to  	accusations and claims of plagiarism, especially in competitive scenarios,  	such as computer chess tournaments. Establishing whether a program  	is a clone or derivative of another can be a difficult and subjective  	task, left to the judgment of the individual expert and often resulting  	in a shade of gray rather than black and white verdicts. Tournaments  	judges and directors have to decide how similar is too similar on  	a case-by-case basis. This paper presents an objective framework  	under which similarities between game programs can be judged, using  	chess as a test case.
+The number of competitions using software agents in the AI or entertainment
+computing fields has grown over the years from a few to many. For
+instance, tournaments exist to let programs to play chess, checker,
+go, bridge, poker, simulated soccer, etc. While most competitions
+are organized for research purposes, some have a commercial side,
+thus raising the stakes for the software authors. Hence, plagiarism
+is becoming a problematic issue in the field of game-playing software
+agents used in competitions and tournaments. As new ideas and technologies
+are successfully implemented in open source programs, they will be
+reused and revisited by later programs until they become standard
+practices, but on the other hand the same phenomenon can lead to
+accusations and claims of plagiarism, especially in competitive scenarios,
+such as computer chess tournaments. Establishing whether a program
+is a clone or derivative of another can be a difficult and subjective
+task, left to the judgment of the individual expert and often resulting
+in a shade of gray rather than black and white verdicts. Tournaments
+judges and directors have to decide how similar is too similar on
+a case-by-case basis. This paper presents an objective framework
+under which similarities between game programs can be judged, using
+chess as a test case.

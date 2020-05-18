@@ -1,2 +1,12 @@
-Technical innovations in communication: how to relate technology 	to business by a culturally reliable human interface
-The technology that makes the world into the global village envisioned 	by Marshall McLuhan move than 30 years ago now seems to be in place, 	thanks to the Internet and the World Wide Web. Technical innovations 	in communication technology have been quickly exploited by businesses 	to expand their reach into new markets. However, not much is yet 	known about the way this technology is inducing changes in long-standing 	cultural patterns that prescribe the preferred methods of negotiating 	business deals. In this paper, we survey the state of our unknowing 	under several headings, hoping to instigate discussion on how technology 	works as a human interface in different parts of the world
+User study on family communication in China
+Family is a core element of society. The development of economics
+and the transformation of cultures in mainland China bring new challenges
+to family communications. To understand current practices and the
+needs of family communication in mainland China, we studied 27 rural
+and urban families with ethnographic methods. We summarized the main
+family structures for rural and urban families and also found three
+main family communication problems: emotional communication, the
+education of children and elder support. These three problems exist
+in both rural and urban areas, but in different forms. Two concepts,
+an emotional poster in village and a learning community based on
+family/village clan, were designed and presented to address the problems.

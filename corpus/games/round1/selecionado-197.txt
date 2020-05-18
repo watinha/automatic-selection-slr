@@ -1,2 +1,14 @@
 Collaboration in serious game development: a case study
-This paper presents an ethnographic study of the development practices  	at a small but successful company that develops serious games for  	industry training. We concentrated on the day-to-day collaboration  	of the studio team responsible for the game content and software,  	and used qualitative research methods, including field observations,  	contextual interviews and conversation analysis. This paper reports  	our findings, emphasizing a holistic perspective encompassing social  	and technical factors influencing collaboration in serious game development.  	In particular, we report on how co-location and a positive social  	environment work together with the technical tools and infrastructure  	to provide an environment that facilitates full participation of  	professionals with differing disciplinary perspectives, and contributes  	to iterative development and refinement of the game.
+This paper presents an ethnographic study of the development practices
+at a small but successful company that develops serious games for
+industry training. We concentrated on the day-to-day collaboration
+of the studio team responsible for the game content and software,
+and used qualitative research methods, including field observations,
+contextual interviews and conversation analysis. This paper reports
+our findings, emphasizing a holistic perspective encompassing social
+and technical factors influencing collaboration in serious game development.
+In particular, we report on how co-location and a positive social
+environment work together with the technical tools and infrastructure
+to provide an environment that facilitates full participation of
+professionals with differing disciplinary perspectives, and contributes
+to iterative development and refinement of the game.

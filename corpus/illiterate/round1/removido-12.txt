@@ -1,2 +1,17 @@
 TinyPC: enabling low-cost internet access in developing regions
-Benefits of the Internet and communication technologies are limited 	to the world's "first-world" population. Cost factors, low literacy, 	and limited access to power and bandwidth in developing regions prohibit 	Internet access for potential developing-world users. Apart from 	limited communication infrastructure (telephone lines, ISPs, 802.11 	long-distance links, etc.) a fundamental road-block in providing 	Internet access to developing-world users is the lack of affordable 	end-user computing devices. Most previous attempts to develop inexpensive 	computing devices were commercial failures as they were unable to 	keep the retail costs low. In this paper we present the design of 	TinyPC - a low-cost computing device specifically aimed at providing 	basic Internet access (web browsing, email) to developing-world users. 	TinyPC is inspired by recent advances in embedded networked systems 	(like sensor networks) and we show that, even today, with TinyPC 	it is possible to connect a developing-world user to the Internet 	in price ranges well below $100.
+Benefits of the Internet and communication technologies are limited
+to the world's "first-world" population. Cost factors, low literacy,
+and limited access to power and bandwidth in developing regions prohibit
+Internet access for potential developing-world users. Apart from
+limited communication infrastructure (telephone lines, ISPs, 802.11
+long-distance links, etc.) a fundamental road-block in providing
+Internet access to developing-world users is the lack of affordable
+end-user computing devices. Most previous attempts to develop inexpensive
+computing devices were commercial failures as they were unable to
+keep the retail costs low. In this paper we present the design of
+TinyPC - a low-cost computing device specifically aimed at providing
+basic Internet access (web browsing, email) to developing-world users.
+TinyPC is inspired by recent advances in embedded networked systems
+(like sensor networks) and we show that, even today, with TinyPC
+it is possible to connect a developing-world user to the Internet
+in price ranges well below $100.

@@ -1,2 +1,14 @@
 Pair collaboration in end-user debugging
-The problem of dependability in end-user programming is an emerging  	area of interest. Pair collaboration in end-user software development  	may offer a way for end users to debug their programs more effectively.  	While pair programming studies - primarily of computer science students  	and professionals - report positive outcomes in terms of overall  	program quality, little is known about specific activities that pairs  	engage in that lead to those outcomes, or of how the previous results  	may pertain to end-user programmers. In this paper we analyze protocols  	of end-user pairs debugging spreadsheets. The results suggest that  	end-user pairs can achieve rich reasoning, effective planning, and  	systematic evaluation. Furthermore, end-user pairs provide specific  	types of mutual support that facilitate the accomplishment of their  	goals.
+The problem of dependability in end-user programming is an emerging
+area of interest. Pair collaboration in end-user software development
+may offer a way for end users to debug their programs more effectively.
+While pair programming studies - primarily of computer science students
+and professionals - report positive outcomes in terms of overall
+program quality, little is known about specific activities that pairs
+engage in that lead to those outcomes, or of how the previous results
+may pertain to end-user programmers. In this paper we analyze protocols
+of end-user pairs debugging spreadsheets. The results suggest that
+end-user pairs can achieve rich reasoning, effective planning, and
+systematic evaluation. Furthermore, end-user pairs provide specific
+types of mutual support that facilitate the accomplishment of their
+goals.

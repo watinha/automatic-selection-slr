@@ -1,2 +1,18 @@
-Theory and practice of e-governance in India: a gender perspective
-In India women's ability to participate in the country's rapid progress 	towards e-governance is impeded by the low status ascribed to women 	and girls in Indian society. This is reflected in the gender disparity 	in many sectors with women in a disadvantaged position in India. 	Extreme poverty and poor IT infrastructure in rural areas, where 	the majority of Indian women reside, further restrict women's access 	to education and information technology. Such an iniquitous position 	of women has contributed enormously to the slow pace of development 	in India. The issue of gender equity is not a supplement to development 	and e-governance but central to both. While the e-governance initiatives 	are theoretically comprehensive and aimed at inclusion of every citizen, 	the last digital node, unless the gender perspective is taken into 	account, a huge gap is bound to remain between the theory and practice 	of e-governance in India with attendant effects on development. Despite 	the many e-governance initiatives and massive investments in information 	communication technologies (ICTs) in India, a gender gap might exclude 	or restrict women to be equal partners and beneficiaries of the e- 	governance initiatives.
+Archeoguide: first results of an augmented reality, mobile computing
+system in cultural heritage sites
+This paper presents the ARCHEOGUIDE project (Augmented Reality-based
+Cultural Heritage On-site GUIDE). ARCHEOGUIDE is an IST project,
+funded by the EU, aiming at providing a personalized electronic guide
+and tour assistant to cultural site visitors. The system provides
+on-site help and Augmented Reality reconstructions of ancient ruins,
+based on user's position and orientation in the cultural site, and
+realtime image rendering. It incorporates a multimedia database of
+cultural material for on-line access to cultural data, virtual visits,
+and restoration information. It uses multi-modal user interfaces
+and personalizes the flow of information to its user's profile in
+order to cater for both professional and recreational users, and
+for applications ranging from archaeological research, to education,
+multimedia publishing, and cultural tourism. This paper presents
+the ARCHEOGUIDE system and the experiences gained from the evaluation
+of an initial prototype by representative user groups at the archeological
+site of Olympia, Greece.

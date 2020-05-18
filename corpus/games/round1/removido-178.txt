@@ -1,2 +1,15 @@
 Head Tracking in First-Person Games: Interaction Using a Web-Camera
-Recent advances in face-tracking technology have made it possible  	to recognize head movements using a commodity web-camera. This development  	has created exciting possibilities for enhancing player enjoyment  	during computer game play. In order to ascertain the real-world potential  	for head gestural input to First Person Shooter games, we have developed  	seven diverse interaction techniques and integrated these with a  	modern games engine. Evaluation of the techniques was carried out  	with four focus groups made up of expert games developers and experienced  	end-users. One of the techniques was further refined and subjected  	to a follow-up comparison test with promising results. A set of guidelines  	for the future development of head interaction techniques for computer  	games has been derived from the studies. All of the techniques have  	been built upon freely available software and open-sourced to encourage  	further research in this area.
+Recent advances in face-tracking technology have made it possible
+to recognize head movements using a commodity web-camera. This development
+has created exciting possibilities for enhancing player enjoyment
+during computer game play. In order to ascertain the real-world potential
+for head gestural input to First Person Shooter games, we have developed
+seven diverse interaction techniques and integrated these with a
+modern games engine. Evaluation of the techniques was carried out
+with four focus groups made up of expert games developers and experienced
+end-users. One of the techniques was further refined and subjected
+to a follow-up comparison test with promising results. A set of guidelines
+for the future development of head interaction techniques for computer
+games has been derived from the studies. All of the techniques have
+been built upon freely available software and open-sourced to encourage
+further research in this area.

@@ -1,2 +1,17 @@
-Modelling the Impact of a Learning Phase on the Business Value of  	a Pair Programming Project
-Pair programmers need a "warmup phase" before the pair can work at  	full speed. The length of the learning interval varies, depending  	on how experienced the developers are with pair programming and how  	familiar they are with each other. We study how large the impact  	of the lower pair productivity during warmup is on the business value  	of the pair programming project. To this end, we extend our net present  	value model for pair programming to explicitly include a learning  	interval for pairs. We then carry out a simulation study where we  	vary the shape of the learning curve, the length of the learning  	interval, the final productivity level of the pairs, the market pressure,  	and the size of the workforce. Our simulations show that the cost  	of the warmup phase is reasonably small compared to the project value,  	but nonetheless must be taken into account when estimating the project.  	Our results also suggest that the learning overhead is not an obstacle  	to introducing and using pair programming in a real environment.
+Modelling the Impact of a Learning Phase on the Business Value of
+a Pair Programming Project
+Pair programmers need a "warmup phase" before the pair can work at
+full speed. The length of the learning interval varies, depending
+on how experienced the developers are with pair programming and how
+familiar they are with each other. We study how large the impact
+of the lower pair productivity during warmup is on the business value
+of the pair programming project. To this end, we extend our net present
+value model for pair programming to explicitly include a learning
+interval for pairs. We then carry out a simulation study where we
+vary the shape of the learning curve, the length of the learning
+interval, the final productivity level of the pairs, the market pressure,
+and the size of the workforce. Our simulations show that the cost
+of the warmup phase is reasonably small compared to the project value,
+but nonetheless must be taken into account when estimating the project.
+Our results also suggest that the learning overhead is not an obstacle
+to introducing and using pair programming in a real environment.

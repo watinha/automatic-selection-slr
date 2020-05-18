@@ -1,2 +1,12 @@
-Modelling Video Games Landscapes by Means of Genetic Terrain Programming  	- A New Approach for Improving Users Experience
-Terrain generation algorithms can provide a realistic scenario for  	video game experience and can help keep users interested in playing  	by providing new landscapes each time they play. Nowadays there are  	a wide range of techniques for terrain generation, but all of them  	are focused on providing realistic terrains. This paper proposes  	a new technique, Genetic Terrain Programming, based on evolutionary  	design with GP to allow game designers to evolve terrains according  	to their aesthetic feelings or desired features. The developed application  	produces Terrains Programs that will always generate different terrains,  	but consistently with the same features (e.g. valleys, lakes).
+Modelling Video Games Landscapes by Means of Genetic Terrain Programming
+- A New Approach for Improving Users Experience
+Terrain generation algorithms can provide a realistic scenario for
+video game experience and can help keep users interested in playing
+by providing new landscapes each time they play. Nowadays there are
+a wide range of techniques for terrain generation, but all of them
+are focused on providing realistic terrains. This paper proposes
+a new technique, Genetic Terrain Programming, based on evolutionary
+design with GP to allow game designers to evolve terrains according
+to their aesthetic feelings or desired features. The developed application
+produces Terrains Programs that will always generate different terrains,
+but consistently with the same features (e.g. valleys, lakes).

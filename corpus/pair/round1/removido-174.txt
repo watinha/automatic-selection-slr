@@ -1,2 +1,12 @@
 The Case for Collaborative Programming
-Team programming usually means coordinating efforts of individual  	programmers who divide up the programming tasks for a large, complex  	system. Collaborative programming is used here to mean 2 programmers  	jointly working on the same algorithm and code. Previous research  	indicates that student programmers working collaboratively outperformed  	individual programmers. A follow-up field experiment was conducted  	using experienced programmers who worked on a challenging problem  	important to their organization, in their own environment. To the  	surprise of the managers and participants, all the teams outperformed  	the individual programmers, enjoyed the problem-solving process more,  	and had greater confidence in their solutions.
+Team programming usually means coordinating efforts of individual
+programmers who divide up the programming tasks for a large, complex
+system. Collaborative programming is used here to mean 2 programmers
+jointly working on the same algorithm and code. Previous research
+indicates that student programmers working collaboratively outperformed
+individual programmers. A follow-up field experiment was conducted
+using experienced programmers who worked on a challenging problem
+important to their organization, in their own environment. To the
+surprise of the managers and participants, all the teams outperformed
+the individual programmers, enjoyed the problem-solving process more,
+and had greater confidence in their solutions.

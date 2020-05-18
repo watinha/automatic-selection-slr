@@ -1,2 +1,7 @@
 Strengthening the case for pair programming
-Pair programming has been practiced in industry with great success  	for years. Yet, most who have nut tried and tested pair programming  	reject the idea immediately as a redundant, wasteful use of programming  	resources. This article demonstrates that incorporating pair programming  	into a software development process will help yield software products  	of better quality in less time with happier, more confident programmers.
+Pair programming has been practiced in industry with great success
+for years. Yet, most who have nut tried and tested pair programming
+reject the idea immediately as a redundant, wasteful use of programming
+resources. This article demonstrates that incorporating pair programming
+into a software development process will help yield software products
+of better quality in less time with happier, more confident programmers.

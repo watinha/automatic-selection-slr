@@ -1,2 +1,14 @@
 Using prototypes in early pervasive game development
-In this article we discuss various prototyping methods in early pervasive  	game development. The focus is on pervasive games that are played  	with mobile phones. Choosing the right prototyping method is crucial  	in achieving results that can be used for validating or developing  	further design ideas. In this article we give guidelines that help  	the selection process and give ideas on methods that can be used  	in different situations. We have play-tested pervasive game prototypes  	using agile software prototype development methods, forum prototypes,  	and guided paper prototyping methods. We give examples of five pervasive  	games where these kinds of prototyping methods are used. In concluding,  	we compare the results and discuss their benefits and disadvantages  	in the game development process, that is, when the methods should  	be used and what should be considered when using them.
+In this article we discuss various prototyping methods in early pervasive
+game development. The focus is on pervasive games that are played
+with mobile phones. Choosing the right prototyping method is crucial
+in achieving results that can be used for validating or developing
+further design ideas. In this article we give guidelines that help
+the selection process and give ideas on methods that can be used
+in different situations. We have play-tested pervasive game prototypes
+using agile software prototype development methods, forum prototypes,
+and guided paper prototyping methods. We give examples of five pervasive
+games where these kinds of prototyping methods are used. In concluding,
+we compare the results and discuss their benefits and disadvantages
+in the game development process, that is, when the methods should
+be used and what should be considered when using them.

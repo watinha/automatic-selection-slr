@@ -1,2 +1,11 @@
 Better scripts, better games Included
-Smarter, more powerful scripting languages will improve game performance  	while making gameplay development more efficient. The video game  	industry earned $8.85 billion in revenue in 2007, almost as much  	as movies made at the box office. Much of this revenue was generated  	by blockbuster titles created by large groups of people. Though large  	development teams are not unheard of in the software industry, game  	studios tend to have unique collections of developers. Software engineers  	make up a relatively small portion of the game development team,  	while the majority of the team consists of content creators such  	as artists, musicians, and designers.
+Smarter, more powerful scripting languages will improve game performance
+while making gameplay development more efficient. The video game
+industry earned $8.85 billion in revenue in 2007, almost as much
+as movies made at the box office. Much of this revenue was generated
+by blockbuster titles created by large groups of people. Though large
+development teams are not unheard of in the software industry, game
+studios tend to have unique collections of developers. Software engineers
+make up a relatively small portion of the game development team,
+while the majority of the team consists of content creators such
+as artists, musicians, and designers.

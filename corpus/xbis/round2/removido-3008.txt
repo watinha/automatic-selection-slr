@@ -1,2 +1,23 @@
 Testing Web Applications: A Survey
-Web applications are widely used. The massive use of web  applications imposes the need for testing them. Testing web  applications is a challenging process given that it needs to  account for the dynamic, asynchronous and interactive nature  of web applications. Various strategies exist for testing  web applications such as capture-replay and programmable  web testing. However, test suites created in this manner  are brittle and easily break when changes are applied to the  web application under test. Furthermore, web applications  continuously evolve and new versions of web applications are  constantly released in order to fix bugs, respond to changing  requirements, modify layouts, etc. The continuous evolution  of web applications might lead to test suite obsoleteness. In  this scenario, the test suite that was created for the first  version of the web application would become outdated and  would require repair. In this paper, we present a survey relative  to testing web applications. We selected eight papers  that discuss topics related to testing web applications. The  topics that are discussed in this paper are: Test repair, test  breakage prevention, test maintenance, capture-replay testing  versus programmable web testing and faults within web  applications.
+Web applications are widely used. The massive use of web
+applications imposes the need for testing them. Testing web
+applications is a challenging process given that it needs to
+account for the dynamic, asynchronous and interactive nature
+of web applications. Various strategies exist for testing
+web applications such as capture-replay and programmable
+web testing. However, test suites created in this manner
+are brittle and easily break when changes are applied to the
+web application under test. Furthermore, web applications
+continuously evolve and new versions of web applications are
+constantly released in order to fix bugs, respond to changing
+requirements, modify layouts, etc. The continuous evolution
+of web applications might lead to test suite obsoleteness. In
+this scenario, the test suite that was created for the first
+version of the web application would become outdated and
+would require repair. In this paper, we present a survey relative
+to testing web applications. We selected eight papers
+that discuss topics related to testing web applications. The
+topics that are discussed in this paper are: Test repair, test
+breakage prevention, test maintenance, capture-replay testing
+versus programmable web testing and faults within web
+applications.

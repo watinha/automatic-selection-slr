@@ -1,2 +1,22 @@
-Dynamic implicit solids with constraints for haptic sculpting
-We present a novel, interactive shape modeling technique: dynamic 	implicit solid modeling, which unifies volumetric implicit functions 	and powerful physics-based modeling. Although implicit functions 	are extremely powerful in graphics, geometric design, and shape modeling, 	the full potential of implicit functions is yet to be fully realized 	due to the lack of flexible and interactive design techniques. In 	order to broaden the accessibility of implicit functions in geometric 	modeling, we marry the implicit solids, which are semi-algebraic 	sets of volumetric implicit functions, with the principle of physics-based 	models and formulate dynamic implicit solids. By using "density springs" 	to connect the scalar values of implicit functions, we offer a viable 	solution to introduce the elasticity into implicit representations. 	As a result, our dynamic implicit solids respond to sculpting forces 	in a natural and predictive manner. The geometric and physical behaviors 	are tightly coupled in our modeling system. The flexibility of our 	modeling technique allows users to easily modify the geometry and 	topology of sculpted objects, while the inherent physical properties 	can provide a natural interface for direct, force-based free-form 	deformation. The additional constraints provide users more control 	on the dynamic implicit solids. We have developed a sculpting system 	equipped with a large variety of physics-based toolkits and an intuitive 	haptic interface to facilitate the direct, natural editing of implicit 	functions in real-time. Our experiments demonstrate many attractive 	advantages of our dynamic approach for implicit modeling such as 	intuitive control, direct manipulation, real-time haptic feedback, 	and capability to model complicated geometry and arbitrary topology
+How do varied populations interact with embodied conversational agents?
+Findings from inner-city adolescents and prisoners
+Two studies were conducted to identify individual characteristics
+that predict behavioral responses to violence prevention interventions.
+These studies used embodied conversational agents (ECAs) to create
+hypothetical social situations (called virtual vignettes) to assess
+interpersonal competency skills. One study was of male inner-city
+African-American adolescents, and the second was of male prisoners
+in a state correctional system. In pre- and post-intervention sessions,
+participants interacted with an ECA that tried to entice them into
+making risky decisions. The virtual vignette sessions tested participants'
+negotiation and conflict resolution skills. Results showed differing
+tendencies for participants to be engaged by the virtual vignettes.
+The vignettes were sufficiently realistic to elicit differences in
+behavior among the adolescents, but generally not for the prisoners.
+Prior acceptance, accessibility, and usability data suggest that
+most users readily accept ECAs as valid conversational partners.
+The evidence presented here suggests that the technology - or the
+setting in which the technology is used - is not by itself sufficient
+to actively engage users. The usefulness of virtual vignettes to
+adequately predict future behavior may be at least partially influenced
+by participant characteristics.

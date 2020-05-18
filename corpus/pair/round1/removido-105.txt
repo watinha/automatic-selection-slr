@@ -1,2 +1,16 @@
-Teaching Computer Science Courses Using Extreme Programming (XP)  	Methodology
-This paper describes the extreme programming (XP) methodology and  	its effectiveness in incorporating its practices in computer science  	curriculum. We explored several merits and demerits of this incorporation  	based on our experiences and observations which are supported by  	other researchers. In this study we considered those courses of computer  	science that involve the processes of software development and analysis.  	It has been found that XP in full practice is vulnerable against  	a single course of software engineering, so some of its practices  	should be incorporated in the first semester of computer science  	curriculum and rest should be incorporated in later years. We start  	our work from the introductory course in computer science where we  	first implement the concept of pair programming and then implement  	other practices. Some suggestions are included in this work that  	can be helpful in implementing this methodology.
+Teaching Computer Science Courses Using Extreme Programming (XP)
+Methodology
+This paper describes the extreme programming (XP) methodology and
+its effectiveness in incorporating its practices in computer science
+curriculum. We explored several merits and demerits of this incorporation
+based on our experiences and observations which are supported by
+other researchers. In this study we considered those courses of computer
+science that involve the processes of software development and analysis.
+It has been found that XP in full practice is vulnerable against
+a single course of software engineering, so some of its practices
+should be incorporated in the first semester of computer science
+curriculum and rest should be incorporated in later years. We start
+our work from the introductory course in computer science where we
+first implement the concept of pair programming and then implement
+other practices. Some suggestions are included in this work that
+can be helpful in implementing this methodology.

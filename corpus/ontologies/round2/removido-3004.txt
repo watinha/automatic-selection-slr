@@ -1,2 +1,13 @@
 Semantic Documentation in Requirements Engineering
-Abstract. Currently, most requirements documents are prepared using desktop  text editors. These documents are intended to be used by human readers. In this  paper, we discuss the use of semantic annotations in requirements documents,  in order to make information regarding links between requirements and other  software artifacts, such as other requirements, use cases, classes and test cases,  interpretable by computers. To do that, we extend a semantic document management  platform to the requirements domain, and explore the conceptualization  established by the Software Requirements Reference Ontology in order to  provide features to support some activities of the Requirement Engineering  Process, namely: prioritizing requirements, analyzing impacts from requirements  changes, tracing requirements through traceability matrices, and verifying  requirements using checklists.
+Abstract. Currently, most requirements documents are prepared using desktop
+text editors. These documents are intended to be used by human readers. In this
+paper, we discuss the use of semantic annotations in requirements documents,
+in order to make information regarding links between requirements and other
+software artifacts, such as other requirements, use cases, classes and test cases,
+interpretable by computers. To do that, we extend a semantic document management
+platform to the requirements domain, and explore the conceptualization
+established by the Software Requirements Reference Ontology in order to
+provide features to support some activities of the Requirement Engineering
+Process, namely: prioritizing requirements, analyzing impacts from requirements
+changes, tracing requirements through traceability matrices, and verifying
+requirements using checklists.

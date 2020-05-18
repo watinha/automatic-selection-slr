@@ -1,2 +1,18 @@
 XCompatibility Checker: a tool for detecting cross-browser incompatibilities
-Web browsers are built by different organizations and writing  software that runs smoothly on all existing browsers is  a challenging task. Due to the pace that browsers implement  or adopt certain web features, users experience may  be hindered by visual and functional incompatibilities due  to unsupported or non-standard features in a given browser.  In order to address the detection of cross-browser incompatibilities  in early stages of web development, we propose  XCompatibility-Checker a lightweight tool that automates  the identification of features that are not supported by different  browsers. The tools evaluation was twofold (i) it  was able to detect cross-browser incompatibilities in 38 open  source web applications; as well as (ii) a user study and qualitative  survey indicates that the tool improves developers  awareness and ability to detect cross-browser incompatibilities.  Therefore, our proposed tool helps web developers  improve the quality of their web applications.
+Web browsers are built by different organizations and writing
+software that runs smoothly on all existing browsers is
+a challenging task. Due to the pace that browsers implement
+or adopt certain web features, users experience may
+be hindered by visual and functional incompatibilities due
+to unsupported or non-standard features in a given browser.
+In order to address the detection of cross-browser incompatibilities
+in early stages of web development, we propose
+XCompatibility-Checker a lightweight tool that automates
+the identification of features that are not supported by different
+browsers. The tools evaluation was twofold (i) it
+was able to detect cross-browser incompatibilities in 38 open
+source web applications; as well as (ii) a user study and qualitative
+survey indicates that the tool improves developers
+awareness and ability to detect cross-browser incompatibilities.
+Therefore, our proposed tool helps web developers
+improve the quality of their web applications.

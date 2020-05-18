@@ -1,2 +1,20 @@
 Testing-based Behavioral Assessment for Service Selection
-Abstract  Building Service-oriented Applications implies the  selection of adequate services to fulfill required  functionality. Even a reduced set of candidate  services involves an overwhelming assessment  effort. In a previous work we have presented an  approach to assist developers in the selection of  Web Services. In this paper we detail its behavioral  assessment procedure, which is based on  compliance testing. This is done by a specific  Behavioral Test Suite for exposing required  messages interchange from/to a client application  and a Web Service. In addition, helpful information  takes shape to build the needed adaptation logic to  safely integrate the selected candidate into a  Service-oriented Application. A concise case study  shows the potential of this approach for both  selection and integration of a service among a set of  candidates. 
+Abstract
+Building Service-oriented Applications implies the
+selection of adequate services to fulfill required
+functionality. Even a reduced set of candidate
+services involves an overwhelming assessment
+effort. In a previous work we have presented an
+approach to assist developers in the selection of
+Web Services. In this paper we detail its behavioral
+assessment procedure, which is based on
+compliance testing. This is done by a specific
+Behavioral Test Suite for exposing required
+messages interchange from/to a client application
+and a Web Service. In addition, helpful information
+takes shape to build the needed adaptation logic to
+safely integrate the selected candidate into a
+Service-oriented Application. A concise case study
+shows the potential of this approach for both
+selection and integration of a service among a set of
+candidates. 

@@ -1,2 +1,17 @@
-Gust of me: reconnecting mother and son
-The Gust of Presence conceptual design lets parents and children who 	live apart reconnect in a more friendship-based relationship. With 	two Gustbowls, parents and children can communicate in a simple way 	that requires little effort and could subtly become a part of their 	daily routines. Gustbowl is designed to promote and support informal, 	unobtrusive interactions in families whose members live apart. The 	Gustbowl helps families keep in touch, rather than just exchange 	information, by letting members be a part of each other's daily routines. 	This lets them have the little encounters that are ordinary to members 	who live together yet are greatly missed by members who live apart. 	We describe how the Delft design team created the Gustbowl from user 	studies by developing the concept for and field-testing an experiential 	prototype.
+MultiCASI: Multilingual Computer Assisted Self Interview
+MultiCASI is a software tool for the computerized administration of
+standardized questionnaires. After tests and questionnaires have
+been digitally entered in the software, they can be given to patients/test
+subjects on the screen or read aloud by the computer. Questionnaires
+can be prepared quickly and flexibly. Applications include: psychological
+assessment in hospitals and psychotherapy clinics, international
+studies, multicenter studies, assessment of immigrants, illiterates,
+the elderly and children in clinical psychology as well as in market
+research, quality control studies, etc. The software consists of
+a content management system for preparing questionnaires and tests,
+user management system, user interface for answering the questionnaires,
+different output modes for clinicians and researchers, an extensive
+English user s manual, and demonstration questionnaires for patients
+and researchers. Exporting results to statistics programs such as
+Excel or SPSS is easy. The program is optimally tailored to fulfill
+clinical and research needs, and has been repeatedly tested for user-friendliness.

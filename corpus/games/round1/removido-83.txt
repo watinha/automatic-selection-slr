@@ -1,2 +1,15 @@
 A Reusable Eduventure Game Framework
-Adventure games for educational purpose, which is termed of eduventure,  	show many advantages. In this paper, a group of core concepts which  	is essential to eduventure game design is found. In order to prevent  	eduventure game designer from continually rediscovering of these  	core elements, we clarify the functionalities of these core concepts  	and form them into a collaborated conceptual framework. We also show  	how the Conceptual Eduventure Framework can be reused in eduventure  	game design and how it can serve as a tool which can adjust the balance  	between instruction and entertainment. Furthermore, we implement  	the Conceptual Eduventure Framework in TorqueScript so that it becomes  	a library of building blocks which can be reused in eduventure game  	development based on Torque Game Engine. As evaluation and application,  	an eduventure game project is built based on the TorqueScript Eduventure  	Framework which can be applied in freshman training.
+Adventure games for educational purpose, which is termed of eduventure,
+show many advantages. In this paper, a group of core concepts which
+is essential to eduventure game design is found. In order to prevent
+eduventure game designer from continually rediscovering of these
+core elements, we clarify the functionalities of these core concepts
+and form them into a collaborated conceptual framework. We also show
+how the Conceptual Eduventure Framework can be reused in eduventure
+game design and how it can serve as a tool which can adjust the balance
+between instruction and entertainment. Furthermore, we implement
+the Conceptual Eduventure Framework in TorqueScript so that it becomes
+a library of building blocks which can be reused in eduventure game
+development based on Torque Game Engine. As evaluation and application,
+an eduventure game project is built based on the TorqueScript Eduventure
+Framework which can be applied in freshman training.

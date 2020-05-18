@@ -1,2 +1,16 @@
-Glamour and Honor: Going Online and Reading in West African Culture
-In the fragile reading cultures of the developing world, will people 	abandon print as they embrace the Internet? Whether media compete 	or collaborate depends on place-specific factors. West Africans insert 	online practices into a local context of material circumstances, 	social roles, and cultural values. In Nigeria and Ghana these include 	(1) unreliable electricity and execrable telephone service; (2) overworked 	women, jobless young men, scammers, and ambitious teenagers; and 	(3) a reading culture of limited penetration but enormous prestige. 	Internet access via cybercafés has intensified personal communications, 	reinforced gender inequality, and enabled petty crooks to go global. 	It has not, however, encroached on reading's all-but-sacred status. 	Both netsavvy youth and the adult “reading class” protect reading 	practices through spatial and temporal separation, time management, 	and functional differentiation. These preserve the honored position 	of reading despite West Africans' enthusiasm for the glamour of going 	online.
+The challenges of utilizing intelligent human-computer interface
+technology in South Africa and other African developing countries
+Labor mismatch problems frequently occur in developing countries,
+like South Africa, that acquire advanced technology from developed
+countries. Some of these problems also occur globally. Many are,
+however, a result of the unique socio-cultural background of the
+labor force. Special attention must be paid to human factors in the
+local context to fully exploit the potential of advanced technology.
+In many cases intelligent interfaces appear to present the most viable
+solution. However, it is not a panacea. In certain instances a technological
+solution is not feasible and training may be the only alternative.
+Three key challenges in ensuring the effective exploitation of intelligent
+interface technology in South Africa and other African developing
+countries are described. The complexity, and consequently the risk,
+in the development of intelligent interface technology can be controlled
+in several ways, which are discussed

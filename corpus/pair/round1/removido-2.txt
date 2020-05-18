@@ -1,2 +1,12 @@
-Description of an empirical experiment to measure effects of pair  	work on the design phase
-This paper presents a description of an empirical experiment into  	the effects of pair work on the design phase of the software development  	lifecycle. The aims of the experiment are to compare the quality  	of the design products produced by pair designers and individual  	designers as well as compare the efficiency and cost effectiveness  	of the pair work and the individual work paradigms in the design  	process. In addition, the experiment studies the partners expectations  	and practices during the pair work experience. In this paper we make  	the case for conducting such an experiment, and detail the experimental  	hypotheses, design, inputs, outputs, and evaluation measures.
+Description of an empirical experiment to measure effects of pair
+work on the design phase
+This paper presents a description of an empirical experiment into
+the effects of pair work on the design phase of the software development
+lifecycle. The aims of the experiment are to compare the quality
+of the design products produced by pair designers and individual
+designers as well as compare the efficiency and cost effectiveness
+of the pair work and the individual work paradigms in the design
+process. In addition, the experiment studies the partners expectations
+and practices during the pair work experience. In this paper we make
+the case for conducting such an experiment, and detail the experimental
+hypotheses, design, inputs, outputs, and evaluation measures.

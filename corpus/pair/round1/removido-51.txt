@@ -1,2 +1,16 @@
 Collaboration Support for Novice Team Programming
-Learning computer programming in a modern university course is rarely  	an individual activity; however, IDEs used in introductory programming  	classes do not support collaboration at a level appropriate for novices.  	The goal of our research is to make it easier for first-year students  	to experience working in a team in their programming assignments.  	Based on our previous work developing and evaluating IDEs for novice  	programmers, we have identified two main areas of required functionality:  	1) features for code sharing and coordination; and 2) features to  	support communication. We have extended an existing teaching-oriented  	integrated development environment (called Gild) with features to  	support code sharing and coordination. We report on a preliminary  	study in which pairs of students used a prototype of our collaborative  	IDE to work on a programming assignment. The goals of this study  	were to evaluate the effectiveness and usability of the new features  	and to determine requirements for future communication support.
+Learning computer programming in a modern university course is rarely
+an individual activity; however, IDEs used in introductory programming
+classes do not support collaboration at a level appropriate for novices.
+The goal of our research is to make it easier for first-year students
+to experience working in a team in their programming assignments.
+Based on our previous work developing and evaluating IDEs for novice
+programmers, we have identified two main areas of required functionality:
+1) features for code sharing and coordination; and 2) features to
+support communication. We have extended an existing teaching-oriented
+integrated development environment (called Gild) with features to
+support code sharing and coordination. We report on a preliminary
+study in which pairs of students used a prototype of our collaborative
+IDE to work on a programming assignment. The goals of this study
+were to evaluate the effectiveness and usability of the new features
+and to determine requirements for future communication support.

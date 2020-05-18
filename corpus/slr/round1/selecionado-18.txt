@@ -1,2 +1,16 @@
-Estimation of software development work effort: evidence on expert  	judgement and formal models
-The review presented in this paper examines the evidence on the use  	of expert judgement, formal models, and a combination of these two  	approaches when estimating (forecasting) software development work  	effort. Sixteen relevant studies were identified and reviewed. The  	review found that the average accuracy of expert judgement-based  	effort estimates was higher than the average accuracy of the models  	in ten of the sixteen studies. Two indicators of higher accuracy  	of judgement-based effort estimates were estimation models not calibrated  	to the organization using the model, and important contextual information  	possessed by the experts not included in the formal estimation models.  	Four of the reviewed studies evaluated effort estimates based on  	a combination of expert judgement and models. The mean estimation  	accuracy of the combination-based methods was similar to the best  	of that of the other estimation methods.
+Estimation of software development work effort: evidence on expert
+judgement and formal models
+The review presented in this paper examines the evidence on the use
+of expert judgement, formal models, and a combination of these two
+approaches when estimating (forecasting) software development work
+effort. Sixteen relevant studies were identified and reviewed. The
+review found that the average accuracy of expert judgement-based
+effort estimates was higher than the average accuracy of the models
+in ten of the sixteen studies. Two indicators of higher accuracy
+of judgement-based effort estimates were estimation models not calibrated
+to the organization using the model, and important contextual information
+possessed by the experts not included in the formal estimation models.
+Four of the reviewed studies evaluated effort estimates based on
+a combination of expert judgement and models. The mean estimation
+accuracy of the combination-based methods was similar to the best
+of that of the other estimation methods.

@@ -1,2 +1,15 @@
 Ontologies to coordinate multiple views: exploring document collections
-Abstract Multiple views of data sets can provide assistance  on discovering unforeseen associations among elements contained  on these sets. Thus, users are able to explore data  in distinct perspectives. Ontologies are formal representations  which describe data relations explicitly. Representing the underlying  data into ontology, the exploratory visualization can  benefit from a semantic representation to create the mappings,  and might be helpful to establish relations on multiple views.  In this way, we propose the application of ontology to support  the mapping in the coordination process, defining how the data  elements are related. Also, we present two case studies applying  ontologies on exploring text collections. After these presentation,  the results are compared with traditional coordination  techniques.
+Abstract Multiple views of data sets can provide assistance
+on discovering unforeseen associations among elements contained
+on these sets. Thus, users are able to explore data
+in distinct perspectives. Ontologies are formal representations
+which describe data relations explicitly. Representing the underlying
+data into ontology, the exploratory visualization can
+benefit from a semantic representation to create the mappings,
+and might be helpful to establish relations on multiple views.
+In this way, we propose the application of ontology to support
+the mapping in the coordination process, defining how the data
+elements are related. Also, we present two case studies applying
+ontologies on exploring text collections. After these presentation,
+the results are compared with traditional coordination
+techniques.

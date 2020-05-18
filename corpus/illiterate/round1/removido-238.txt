@@ -1,0 +1,31 @@
+Exposure, knowledge or skill the computer literacy dilemma
+There was a time when computer knowledge was so esoteric that only
+specialists needed to be educated. Only large organizations had computers
+and skills were needed only by the professional staff. Now the scene
+has changed. Computers are being used in the smallest of firms. Today
+there are millions of computers in homes, and there are offices with
+more computers and/or terminals than employees. There is some possibility
+that in the future all financial transactions and much shopping will
+be done by computer. Thus it is obvious that computer literacy is
+needed by all people. The question is not whether but rather what
+kind of education is required. There are three levels of understanding
+that may be imparted in education. One can teach a subject to the
+level of a basic understanding or general knowledge. Or one can provide
+detailed knowledge. Finally, one can develop in the student the ability
+to make skillful use of the subject area. Music appreciation, counterpoint
+and private vocal lessons illustrate the differences in one field
+of study. In curriculum development in business we tend to solve
+the question of depth of knowledge this way. All students are required
+to have a general understanding of the business core and a detailed
+knowledge of a major field. In addition, we expect that skills be
+developed in communications and quantitative methods. We carried
+over this pattern into data processing. However, we didn't know whether
+DP was a quantitative area requiring skill development or not. Thus
+we have Introduction to Data Processing courses that develop a programming
+skill in some language and others that just talk about programming
+but don't do any of it. There is substantial disagreement among educators
+as to the correct course of action. This lack of agreement, as well
+as a belated entry into DP education, has resulted in a limited and
+uneven computer education in colleges of business. Our graduates
+vary from computer illiterate to very skillful user. What to do about
+this situation is the focus of this study.

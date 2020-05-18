@@ -1,2 +1,15 @@
-Playing online games against computer- vs. human-controlled opponents:  	Effects on presence, flow, and enjoyment
-The purpose of this study was to examine whether playing online games  	against other users leads to different experiences in comparison  	with playing against computer-controlled opponents. Thereby, a one-factorial  	multivariate design was used (computer-controlled vs. human-controlled  	opponent). Dependent variables were the participants feelings of  	presence and flow. Additionally, the amount of enjoyment was measured.  	The findings indicate that the type of opponent influences playing  	experiences: participants who played against a human-controlled opponent  	reported more experiences of presence, flow, and enjoyment, whereby  	the strongest effect refers to the experience of presence. Furthermore,  	strong relations between presence, flow, and enjoyment were observed.  	Further analyzes suggest that flow mediates the relationship between  	presence and enjoyment.
+Playing online games against computer- vs. human-controlled opponents:
+Effects on presence, flow, and enjoyment
+The purpose of this study was to examine whether playing online games
+against other users leads to different experiences in comparison
+with playing against computer-controlled opponents. Thereby, a one-factorial
+multivariate design was used (computer-controlled vs. human-controlled
+opponent). Dependent variables were the participants feelings of
+presence and flow. Additionally, the amount of enjoyment was measured.
+The findings indicate that the type of opponent influences playing
+experiences: participants who played against a human-controlled opponent
+reported more experiences of presence, flow, and enjoyment, whereby
+the strongest effect refers to the experience of presence. Furthermore,
+strong relations between presence, flow, and enjoyment were observed.
+Further analyzes suggest that flow mediates the relationship between
+presence and enjoyment.

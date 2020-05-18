@@ -1,2 +1,16 @@
-Undergraduate student perceptions of pair programming and agile software  	methodologies: verifying a model of social interaction
-One of the reasons that undergraduate students, particularly women  	and minorities, can become disenchanted with computer science education  	is because software development is wrongly characterized as a solitary  	activity. We conducted a collective case study in a software engineering  	course at North Carolina State University to ascertain the effects  	of a collaborative pedagogy intervention on student perceptions.  	The pedagogy intervention was based upon the practices of agile software  	development with a focus on pair programming. Six representative  	students in the course participated in the study. Their perspectives  	helped validate a social interaction model of student views. The  	findings suggest that pair programming and agile software methodologies  	contribute to more effective learning opportunities for computer  	science students and that students understand and appreciate these  	benefits.
+Undergraduate student perceptions of pair programming and agile software
+methodologies: verifying a model of social interaction
+One of the reasons that undergraduate students, particularly women
+and minorities, can become disenchanted with computer science education
+is because software development is wrongly characterized as a solitary
+activity. We conducted a collective case study in a software engineering
+course at North Carolina State University to ascertain the effects
+of a collaborative pedagogy intervention on student perceptions.
+The pedagogy intervention was based upon the practices of agile software
+development with a focus on pair programming. Six representative
+students in the course participated in the study. Their perspectives
+helped validate a social interaction model of student views. The
+findings suggest that pair programming and agile software methodologies
+contribute to more effective learning opportunities for computer
+science students and that students understand and appreciate these
+benefits.

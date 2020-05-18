@@ -1,2 +1,11 @@
-\, {N
-In this paper we present Ñuu Xaa, a tin collecting bank to support 	homeless people's self-subsistence in the city of Huajuapan de León. 	The main goal of this system is to improve homeless people's quality 	of life by providing them with the opportunity to have remunerative 	self-employment. We think that the implementation of Ñuu Xaa will 	bring homeless people social, economical and psychological benefits 	because they will be able to earn enough money in order to satisfy 	their elementary needs and the community will understand that homeless 	people aren't lazy but just people in need.
+Establishing relationships for designing rural information systems
+Designing for the developing world presents unique challenges. Establishing
+rapport with local partners is important to overcome contextual unfamiliarity
+and ensure the relevance of proposed solutions. In this paper, we
+discuss our experiences designing a CAM-based mobile data capture
+system for Asobagri, a rural coffee cooperative in Barillas, Guatemala.
+CAM is a camera-based mobile application framework designed based
+on fieldwork with rural microfinance groups in India. Our local partners
+in India are now using the CAM framework in a real application. We
+list some practices that have helped us establish and sustain both
+these design relationships.

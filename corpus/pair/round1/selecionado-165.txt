@@ -1,2 +1,12 @@
 Are reviews an alternative to pair programming?
-From the first presentation of extreme programming on, pair programming  	has attracted a wide range of programmers to work together in front  	of one display. The proposed advantages of pair programming are a  	faster development cycle and code with higher quality. However, the  	nearly doubled personnel cost when compared to single developers  	seems to outweigh these advantages. Instead of showing the superiority  	of pair programming, we seek an alternative. Can a single developer  	be assisted by an already known technique with which he produces  	the quality of pairs with only a fraction of the cost? The answer  	with some restrictions is: yes, he can. Reviews are a reasonable  	candidate with respect to code quality and cost.
+From the first presentation of extreme programming on, pair programming
+has attracted a wide range of programmers to work together in front
+of one display. The proposed advantages of pair programming are a
+faster development cycle and code with higher quality. However, the
+nearly doubled personnel cost when compared to single developers
+seems to outweigh these advantages. Instead of showing the superiority
+of pair programming, we seek an alternative. Can a single developer
+be assisted by an already known technique with which he produces
+the quality of pairs with only a fraction of the cost? The answer
+with some restrictions is: yes, he can. Reviews are a reasonable
+candidate with respect to code quality and cost.

@@ -1,2 +1,10 @@
 Estrategia para Apoiar a Selecao de Abordagens de Teste Baseado em Modelos para Projetos de Software
-Abstract. Software technologies, such as model-based testing approaches,  have specific characteristics and limitations that can affect their use in  software projects. It is very important to make available knowledge regarding  such technologies aiming at to support its applicability in software projects. In  particular, a choice of model-based testing approach can influence testing  success or failure. Therefore, this paper presents the knowledge acquired from  some secondary and primary studies regarding model-based testing  approaches and the proposal of a strategy towards supporting their selection  for software projects. 
+Abstract. Software technologies, such as model-based testing approaches,
+have specific characteristics and limitations that can affect their use in
+software projects. It is very important to make available knowledge regarding
+such technologies aiming at to support its applicability in software projects. In
+particular, a choice of model-based testing approach can influence testing
+success or failure. Therefore, this paper presents the knowledge acquired from
+some secondary and primary studies regarding model-based testing
+approaches and the proposal of a strategy towards supporting their selection
+for software projects. 

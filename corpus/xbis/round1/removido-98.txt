@@ -1,2 +1,13 @@
 POGen: A Test Code Generator Based on Template Variable Coverage in Gray-Box Integration Testing for Web Applications
-Abstract. Web applications are complex; they consist of many subsystems  and run on various browsers and platforms. This makes it difficult to  conduct adequate integration testing to detect faults in the connections  between subsystems or in the specific environments. Therefore, establishing  an efficient integration testing method with the proper test adequacy  criteria and tools is an important issue.  In this paper, we propose a new test coverage called template variable  coverage. We also propose a novel technique for generating skeleton test  code that includes accessor methods and improves the template variable  coverage criterion, using a tool that we developed called POGen. Our  experiments show that template variable coverage correlates highly with  the capability to detect faults, and that POGen can reduce testing costs
+Abstract. Web applications are complex; they consist of many subsystems
+and run on various browsers and platforms. This makes it difficult to
+conduct adequate integration testing to detect faults in the connections
+between subsystems or in the specific environments. Therefore, establishing
+an efficient integration testing method with the proper test adequacy
+criteria and tools is an important issue.
+In this paper, we propose a new test coverage called template variable
+coverage. We also propose a novel technique for generating skeleton test
+code that includes accessor methods and improves the template variable
+coverage criterion, using a tool that we developed called POGen. Our
+experiments show that template variable coverage correlates highly with
+the capability to detect faults, and that POGen can reduce testing costs

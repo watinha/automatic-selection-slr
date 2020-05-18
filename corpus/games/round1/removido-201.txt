@@ -1,2 +1,12 @@
 Evolutions in Gaming
-Game consoles are encroaching on PC territory, says Mark Claypool,  	associate professor in the computer science department at Wooster  	Polytechnic Institute. "Now they have hard drives, main memory, a  	programmable processor, a big graphics card, and networking." While  	game consoles aren't upgraded as often as PCs are-the last upgrades  	were four and five years ago-the most recent upgrades share the common  	denominator of "more": more power, better graphics, and more connections  	with other players. Last year's releases from the big three in gaming  	consoles-Microsoft's Xbox 360, Nintendo's Wii, and Sony's PlayStation  	3-represent an evolution in both technology and purpose, expanding  	game play and its applications.
+Game consoles are encroaching on PC territory, says Mark Claypool,
+associate professor in the computer science department at Wooster
+Polytechnic Institute. "Now they have hard drives, main memory, a
+programmable processor, a big graphics card, and networking." While
+game consoles aren't upgraded as often as PCs are-the last upgrades
+were four and five years ago-the most recent upgrades share the common
+denominator of "more": more power, better graphics, and more connections
+with other players. Last year's releases from the big three in gaming
+consoles-Microsoft's Xbox 360, Nintendo's Wii, and Sony's PlayStation
+3-represent an evolution in both technology and purpose, expanding
+game play and its applications.

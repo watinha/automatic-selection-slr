@@ -1,2 +1,21 @@
 MuTomVo: Mutation Testing framework for omnet-based simulated enVironments
-Abstract  Currently, testing is the most widely used technique to check the validity of complex  systems. Its application in software is a critical part in the development of systems. However,  there are several difficulties for applying these techniques, such as high economic  and computational cost. One of the main difficulties when applying testing techniques is  to obtain an appropriate test suite. This is especially difficult when the size of the system  under test is large, like HPC clusters or cloud systems.  The main goal of this project is to provide mechanisms that allow to evaluate the suitability  of test suites to check distributed systems, in an inexpensive and efficient way. In  this work, we propose MuTomVo, a framework that integrates mutation testing techniques  with simulation techniques. For modelling and simulating distributed systems, the SIMCAN  simulation platform has been used.  MuTomVo is built on a modular and flexible architecture, where new mutation testing  techniques can be easily included. Thus, it is intended to unify, in one framework, functionalities  of different tools, such as simulators, mutation frameworks and tools for generating  tests.  Moreover, this work presents some experiments for analysing the suitability of different  test suites over different distributed applications. Each one of these applications has been  modelled with SIMCAN, and therefore, these experiments have been carried out by applying  mutation testing techniques on these models.
+Abstract
+Currently, testing is the most widely used technique to check the validity of complex
+systems. Its application in software is a critical part in the development of systems. However,
+there are several difficulties for applying these techniques, such as high economic
+and computational cost. One of the main difficulties when applying testing techniques is
+to obtain an appropriate test suite. This is especially difficult when the size of the system
+under test is large, like HPC clusters or cloud systems.
+The main goal of this project is to provide mechanisms that allow to evaluate the suitability
+of test suites to check distributed systems, in an inexpensive and efficient way. In
+this work, we propose MuTomVo, a framework that integrates mutation testing techniques
+with simulation techniques. For modelling and simulating distributed systems, the SIMCAN
+simulation platform has been used.
+MuTomVo is built on a modular and flexible architecture, where new mutation testing
+techniques can be easily included. Thus, it is intended to unify, in one framework, functionalities
+of different tools, such as simulators, mutation frameworks and tools for generating
+tests.
+Moreover, this work presents some experiments for analysing the suitability of different
+test suites over different distributed applications. Each one of these applications has been
+modelled with SIMCAN, and therefore, these experiments have been carried out by applying
+mutation testing techniques on these models.

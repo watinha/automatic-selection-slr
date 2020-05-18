@@ -1,2 +1,12 @@
 Ethnographically-informed empirical studies of software practice
-Over the past decade we have performed a sustained series of qualitative  	studies of software development practice, focusing on social factors.  	Using an ethnographically-informed approach, we have addressed four  	areas of software practice: software quality management systems,  	the emergence of object technology, professional end user development  	and agile development. Several issues have arisen from this experience,  	including the nature of research questions that such studies can  	address, the advantages and challenges associated with being a member  	of the community under study, and how to maintain rigour in data  	collection. In this paper, we will draw on our studies to illustrate  	our approach and to discuss these and other issues.
+Over the past decade we have performed a sustained series of qualitative
+studies of software development practice, focusing on social factors.
+Using an ethnographically-informed approach, we have addressed four
+areas of software practice: software quality management systems,
+the emergence of object technology, professional end user development
+and agile development. Several issues have arisen from this experience,
+including the nature of research questions that such studies can
+address, the advantages and challenges associated with being a member
+of the community under study, and how to maintain rigour in data
+collection. In this paper, we will draw on our studies to illustrate
+our approach and to discuss these and other issues.

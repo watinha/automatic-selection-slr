@@ -1,2 +1,4 @@
 Amaze: A Multiplayer Computer Game
-Amaze relies solely on the V kernel for point-to-point communication.  	The game's techniques could work in a general class of distributed  	applications.
+Amaze relies solely on the V kernel for point-to-point communication.
+The game's techniques could work in a general class of distributed
+applications.

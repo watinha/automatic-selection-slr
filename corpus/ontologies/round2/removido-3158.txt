@@ -1,2 +1,29 @@
 Condensation of Reverse Engineered UML Diagrams by Using the Semantic Web Technologies
-Abstract - Up-to-date software design documentation is  valuable for maintenance engineers, testers and developers  joining a project at a later stage; however, UML Models, e.g.  class diagrams, are often poorly kept up-to-date during  development and maintenance. Reverse engineering,  therefore, has become a popular method to recover an up-todate  design from the underlying source code. However current  techniques yet produce a detailed representation of the  underlying source code that would reduce the  understandability. In order for the understandability to  enhance, condensation of the reverse engineered diagrams  has been proposed as a solution. However, current state-ofthe-art  approaches in this area still demand a need for  improving or alternative approaches. Consistently, in this  paper we are putting forward a bridging idea of using the  semantic web technologies for improving the condensation  process. Two contributions are proposed that support each  other. Firstly, the V-Ontmodel is suggested for updating  software documentation over the software evolution. Secondly,  a general architecture is proposed enabling us to reduce  sophisticated analysis tasks for the condensation process of  class diagrams to a few queries in SPARQL or its extensions  like SPARQL-ML. To discuss the feasibility of the approach  we focus on the condensation of reverse engineered class  diagrams in the whole paper. Finally, an illustration example  is presented in which helper classes are excluded from the  class diagrams in the condensation process regarding the  structural patterns extracted from the software metadata.
+Abstract - Up-to-date software design documentation is
+valuable for maintenance engineers, testers and developers
+joining a project at a later stage; however, UML Models, e.g.
+class diagrams, are often poorly kept up-to-date during
+development and maintenance. Reverse engineering,
+therefore, has become a popular method to recover an up-todate
+design from the underlying source code. However current
+techniques yet produce a detailed representation of the
+underlying source code that would reduce the
+understandability. In order for the understandability to
+enhance, condensation of the reverse engineered diagrams
+has been proposed as a solution. However, current state-ofthe-art
+approaches in this area still demand a need for
+improving or alternative approaches. Consistently, in this
+paper we are putting forward a bridging idea of using the
+semantic web technologies for improving the condensation
+process. Two contributions are proposed that support each
+other. Firstly, the V-Ontmodel is suggested for updating
+software documentation over the software evolution. Secondly,
+a general architecture is proposed enabling us to reduce
+sophisticated analysis tasks for the condensation process of
+class diagrams to a few queries in SPARQL or its extensions
+like SPARQL-ML. To discuss the feasibility of the approach
+we focus on the condensation of reverse engineered class
+diagrams in the whole paper. Finally, an illustration example
+is presented in which helper classes are excluded from the
+class diagrams in the condensation process regarding the
+structural patterns extracted from the software metadata.

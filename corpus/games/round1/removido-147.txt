@@ -1,2 +1,6 @@
-Games and animation: collaborations between the arts and computer  	science
-We explain the need for formal collaboration between students in the  	arts and computer science students, and argue that this should be  	encouraged at an early stage of their education. Specific courses  	that foster this sort of cooperation are described.
+Games and animation: collaborations between the arts and computer
+science
+We explain the need for formal collaboration between students in the
+arts and computer science students, and argue that this should be
+encouraged at an early stage of their education. Specific courses
+that foster this sort of cooperation are described.

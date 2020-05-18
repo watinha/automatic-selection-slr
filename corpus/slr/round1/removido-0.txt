@@ -1,2 +1,12 @@
 Achieving Quality in Open Source Software
-The open source software community has published a substantial body  	of research on OSS quality. Focusing on this peer-reviewed body of  	work lets us draw conclusions from empirical data rather than rely  	on the large volume of evangelical opinion that has historically  	dominated this field. This body of published research has become  	much more critical and objective in its efforts to understand OSS  	development, and a consensus has emerged on the key components of  	high-quality OSS delivery. This article reviews this body of research  	and draws out lessons learned, investigating how the approaches used  	to deliver high-quality OSS differ from, and can be incorporated  	into, closed-source software development.
+The open source software community has published a substantial body
+of research on OSS quality. Focusing on this peer-reviewed body of
+work lets us draw conclusions from empirical data rather than rely
+on the large volume of evangelical opinion that has historically
+dominated this field. This body of published research has become
+much more critical and objective in its efforts to understand OSS
+development, and a consensus has emerged on the key components of
+high-quality OSS delivery. This article reviews this body of research
+and draws out lessons learned, investigating how the approaches used
+to deliver high-quality OSS differ from, and can be incorporated
+into, closed-source software development.

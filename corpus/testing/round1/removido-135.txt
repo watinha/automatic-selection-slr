@@ -1,2 +1,17 @@
 CaracterIsticas de Tecnicas de Teste de Software para Uso em Projetos WEB
-Abstract. Small and large scale Web applications have been built along the  years influencing the conventional software engineering approaches and  demanding care with additional quality issues such as verification, validation  and testing. Regarding software testing, the results of a secondary study have  pointed out at least 71 different testing techniques specifically applicable to  Web software projects. Hence, the diversity of Web applications and  development methodologies combined with the great number of available  software testing techniques make hard the decision about which technique  should be used in the project. Therefore, the understanding of testing techniques  characteristics can support the decision making and represents an interesting  research challenge. Based on this, this paper presents a set of Web software  testing techniques characteristics synthesized from the results of a secondary  study and evaluated through a survey with specialists in the field. It represents  an initial result towards the organization of a Web application testing techniques  characterization schema, which intends to support the choosing of suitable  software testing techniques for a Web software project. 
+Abstract. Small and large scale Web applications have been built along the
+years influencing the conventional software engineering approaches and
+demanding care with additional quality issues such as verification, validation
+and testing. Regarding software testing, the results of a secondary study have
+pointed out at least 71 different testing techniques specifically applicable to
+Web software projects. Hence, the diversity of Web applications and
+development methodologies combined with the great number of available
+software testing techniques make hard the decision about which technique
+should be used in the project. Therefore, the understanding of testing techniques
+characteristics can support the decision making and represents an interesting
+research challenge. Based on this, this paper presents a set of Web software
+testing techniques characteristics synthesized from the results of a secondary
+study and evaluated through a survey with specialists in the field. It represents
+an initial result towards the organization of a Web application testing techniques
+characterization schema, which intends to support the choosing of suitable
+software testing techniques for a Web software project. 

@@ -1,2 +1,3 @@
 Toward a learned project-specific fault taxonomy: application of software analytics
-Abstract:  This position paper argues that fault classification provides vital information for software analytics, and that machine learning techniques such as clustering can be applied to learn a project- (or organization-) specific fault taxonomy. Anecdotal evidence of this position is presented as well as possible areas of research for moving toward the posited goal.
+Abstract:
+This position paper argues that fault classification provides vital information for software analytics, and that machine learning techniques such as clustering can be applied to learn a project- (or organization-) specific fault taxonomy. Anecdotal evidence of this position is presented as well as possible areas of research for moving toward the posited goal.

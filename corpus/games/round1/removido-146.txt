@@ -1,2 +1,31 @@
 Beyond usability in games
-Video games are an art form that combines traditional artistic endeavors  	such as the visual arts, story-telling, and music, with more modern  	technical and engineering achievements. At the center of this effort  	is the game designer who drives the creative vision and who decides  	what needs to be accomplished in the design and creation of the video  	game. At some level, we, as user researchers, can provide input at  	nearly every stage of the development process that is useful for  	design, but in the end, it is not up to us to design a game. Our  	role is to assist the designer in the facilitation of their game  	vision, then provide feedback to help shape that vision into something  	that users enjoy. Beyond previous statements made in the literature  	regarding the limitations of the traditional concept of usability  	for enjoyment or pleasure, there are certain concepts that we believe  	are important to address in the design of video games. These include,  	but are not limited to, fun, challenge, pace, learning curve, engagement,  	and so on [2, 3]. One of the biggest challenges for video games is  	taking these global concepts and deconstructing them into a real  	gameplay experience. However, this is where we make a clear delineation  	between the creation of the experience and the facilitation of the  	experience, by endorsing the view of Overbeek et al. that design  	should be left to designers, For too long psychologists have led  	designers to make overly cognitive designs. We repeat: Design should  	be left to designers! [1]. To further clarify, lets take an example  	of one of the concepts listed above pace. We ve defined pace in the  	past as the rate at which players experience new challenges and  	novel game details.[2]. This is a very high-level definition, but  	spans across most, if not all, game genres. The way that a game designer  	will address pace is going to vary widely depending on the genre,  	their vision, and the experience they want to create. Lets look  	at two examples...
+Video games are an art form that combines traditional artistic endeavors
+such as the visual arts, story-telling, and music, with more modern
+technical and engineering achievements. At the center of this effort
+is the game designer who drives the creative vision and who decides
+what needs to be accomplished in the design and creation of the video
+game. At some level, we, as user researchers, can provide input at
+nearly every stage of the development process that is useful for
+design, but in the end, it is not up to us to design a game. Our
+role is to assist the designer in the facilitation of their game
+vision, then provide feedback to help shape that vision into something
+that users enjoy. Beyond previous statements made in the literature
+regarding the limitations of the traditional concept of usability
+for enjoyment or pleasure, there are certain concepts that we believe
+are important to address in the design of video games. These include,
+but are not limited to, fun, challenge, pace, learning curve, engagement,
+and so on [2, 3]. One of the biggest challenges for video games is
+taking these global concepts and deconstructing them into a real
+gameplay experience. However, this is where we make a clear delineation
+between the creation of the experience and the facilitation of the
+experience, by endorsing the view of Overbeek et al. that design
+should be left to designers, For too long psychologists have led
+designers to make overly cognitive designs. We repeat: Design should
+be left to designers! [1]. To further clarify, lets take an example
+of one of the concepts listed above pace. We ve defined pace in the
+past as the rate at which players experience new challenges and
+novel game details.[2]. This is a very high-level definition, but
+spans across most, if not all, game genres. The way that a game designer
+will address pace is going to vary widely depending on the genre,
+their vision, and the experience they want to create. Lets look
+at two examples...

@@ -1,2 +1,17 @@
-Using Bayesian belief networks to model software project management  	antipatterns
-In spite of numerous traditional and agile software project management  	models proposed, process and project modeling still remains an open  	issue. This paper proposes a Bayesian network (BN) approach for modeling  	software project management antipatterns. This approach provides  	a framework for project managers, who would like to model the cause-effect  	relationships that underlie an antipattern, taking into account the  	inherent uncertainty of a software project. The approach is exemplified  	through a specific BN model of an antipattern. The antipattern is  	modeled using the empirical results of a controlled experiment on  	extreme programming (XP) that investigated the impact of developer  	personalities and temperaments on communication, collaboration-pair  	viability and effectiveness in pair programming. The resulting BN  	model provides the precise mathematical model of a project management  	antipattern and can be used to measure and handle uncertainty in  	mathematical terms.
+Using Bayesian belief networks to model software project management
+antipatterns
+In spite of numerous traditional and agile software project management
+models proposed, process and project modeling still remains an open
+issue. This paper proposes a Bayesian network (BN) approach for modeling
+software project management antipatterns. This approach provides
+a framework for project managers, who would like to model the cause-effect
+relationships that underlie an antipattern, taking into account the
+inherent uncertainty of a software project. The approach is exemplified
+through a specific BN model of an antipattern. The antipattern is
+modeled using the empirical results of a controlled experiment on
+extreme programming (XP) that investigated the impact of developer
+personalities and temperaments on communication, collaboration-pair
+viability and effectiveness in pair programming. The resulting BN
+model provides the precise mathematical model of a project management
+antipattern and can be used to measure and handle uncertainty in
+mathematical terms.

@@ -1,2 +1,34 @@
 Automated Testing at the User Interface level
-Graphical User Interfaces (GUIs) represent the main connection  point between a softwares components and its end  users and can be found in almost all modern applications.  This makes them attractive for testers, since testing at the GUI  level means testing from the users perspective and is thus  the ultimate way of verifying a programs correct behaviour.  Current GUIs can account for 45-60% of the entire source  code [1] and are often large and complex. To be effective, UI  testing should be automated.  A substantial part of the current state-of-the art for automating  UI testing is still based on the Capture and Replay  (CR) technique [2]. CR requires significant human intervention  to record interactions (i.e. clicks, keystrokes, drag/drop  operations) that are used as regression tests for new product  releases. A known concern of CR is that it creates a critical  maintenance problem because the test cases easily break when  the UI evolves, which happens often. A more advanced technique,  Visual testing [3], takes advantage of image processing  algorithms to simulate step by step human interactions. Though  visual approaches simplify the work of testers, they are slow,  imprecise (prone to false positives with wrong UI element  identification, and false negatives with missed UI elements),  and also rely on the GUI stability.  We present a completely different approach to automated  GUI testing called TESTAR1  (Test Automation at the user  inteRface level). TESTAR automatically and dynamically generates  test sequences based on a tree model (automatically  derived from the UI through the Accessibility API). No test  cases are recorded and the tree model is inferred for every  state, this implies that tests will run even when the GUI  changes. This reduces the maintenance problem that threatens  the techniques mentioned earlier.
+Graphical User Interfaces (GUIs) represent the main connection
+point between a softwares components and its end
+users and can be found in almost all modern applications.
+This makes them attractive for testers, since testing at the GUI
+level means testing from the users perspective and is thus
+the ultimate way of verifying a programs correct behaviour.
+Current GUIs can account for 45-60% of the entire source
+code [1] and are often large and complex. To be effective, UI
+testing should be automated.
+A substantial part of the current state-of-the art for automating
+UI testing is still based on the Capture and Replay
+(CR) technique [2]. CR requires significant human intervention
+to record interactions (i.e. clicks, keystrokes, drag/drop
+operations) that are used as regression tests for new product
+releases. A known concern of CR is that it creates a critical
+maintenance problem because the test cases easily break when
+the UI evolves, which happens often. A more advanced technique,
+Visual testing [3], takes advantage of image processing
+algorithms to simulate step by step human interactions. Though
+visual approaches simplify the work of testers, they are slow,
+imprecise (prone to false positives with wrong UI element
+identification, and false negatives with missed UI elements),
+and also rely on the GUI stability.
+We present a completely different approach to automated
+GUI testing called TESTAR1
+(Test Automation at the user
+inteRface level). TESTAR automatically and dynamically generates
+test sequences based on a tree model (automatically
+derived from the UI through the Accessibility API). No test
+cases are recorded and the tree model is inferred for every
+state, this implies that tests will run even when the GUI
+changes. This reduces the maintenance problem that threatens
+the techniques mentioned earlier.

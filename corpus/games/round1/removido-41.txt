@@ -1,2 +1,15 @@
 Using Data Mining for Dynamic Level Design in Games
-Fun is the most important determinant of whether a game will be  	successful. Fun can come from challenges and goals, such as victory  	in a scenario, the accumulation of money, or the right to move to  	the next level. A game that provides a satisfying level of challenge  	is said to be balanced. Some researchers use artificial intelligence  	(AI) on the dynamic game balancing. They use reinforcement learning  	and focuses on the non-player characters. However, this is not suitable  	for all game genres such as a game requiring dynamic terrains. We  	propose to adjust the difficulty of a game level by mining and applying  	data about the sequential patterns of past player behavior. We compare  	the performance of the proposed approach on a maze game against approaches  	using other types of game AI. Positive feedback and these comparisons  	show that the proposed approach makes the game both more interesting  	and more balanced.
+Fun is the most important determinant of whether a game will be
+successful. Fun can come from challenges and goals, such as victory
+in a scenario, the accumulation of money, or the right to move to
+the next level. A game that provides a satisfying level of challenge
+is said to be balanced. Some researchers use artificial intelligence
+(AI) on the dynamic game balancing. They use reinforcement learning
+and focuses on the non-player characters. However, this is not suitable
+for all game genres such as a game requiring dynamic terrains. We
+propose to adjust the difficulty of a game level by mining and applying
+data about the sequential patterns of past player behavior. We compare
+the performance of the proposed approach on a maze game against approaches
+using other types of game AI. Positive feedback and these comparisons
+show that the proposed approach makes the game both more interesting
+and more balanced.

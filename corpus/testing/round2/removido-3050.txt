@@ -1,2 +1,18 @@
 Improving Software Consistency by Evaluating Efficiency of Software Testing Techniques
-ABSTRACT  We have a great number of software testing  techniques at our disposal for testing a software product.  Although the utilization of these techniques is growing,  we do have a very inadequate knowledge about their  relative quantitative and qualitative statistics. The choice  of a software testing technique in software testing  influences both process and product quality. So it is  imperative for us to find a testing technique which is  effective as well as efficient. However it is not sufficient  if testing techniques are only compared on fault  detecting ability. They should also be evaluated to check  which among them enhances reliability most. To  establish a useful theory for testing, we need to evaluate  existing and novel testing techniques not only for  effectiveness and efficiency but also for their ability of  enhancing software reliability. 
+ABSTRACT
+We have a great number of software testing
+techniques at our disposal for testing a software product.
+Although the utilization of these techniques is growing,
+we do have a very inadequate knowledge about their
+relative quantitative and qualitative statistics. The choice
+of a software testing technique in software testing
+influences both process and product quality. So it is
+imperative for us to find a testing technique which is
+effective as well as efficient. However it is not sufficient
+if testing techniques are only compared on fault
+detecting ability. They should also be evaluated to check
+which among them enhances reliability most. To
+establish a useful theory for testing, we need to evaluate
+existing and novel testing techniques not only for
+effectiveness and efficiency but also for their ability of
+enhancing software reliability. 

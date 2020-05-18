@@ -1,2 +1,14 @@
-Preliminary analysis of the effects of pair programming and test-driven  	development on the external code quality
-Test-driven development (TDD) and pair programming (PP) are the key  	practices of eXtreme Programming methodology that have caught the  	attention of software engineers and researchers worldwide. On of  	the aims of the large experiments performed at Wroclaw University  	of Technology was to investigate the difference between test-driven  	development and the traditional, tets-last development as well as  	pair programming and solo programming with respect to the external  	code quality. It appeared that the external code quality was lower  	when test-driven development was used instead of the classic, test-last  	software development approach in case of solo programmers (p=0.013).  	There was no difference in the external code quality when pair programming  	was used instead of solo programming.
+Preliminary analysis of the effects of pair programming and test-driven
+development on the external code quality
+Test-driven development (TDD) and pair programming (PP) are the key
+practices of eXtreme Programming methodology that have caught the
+attention of software engineers and researchers worldwide. On of
+the aims of the large experiments performed at Wroclaw University
+of Technology was to investigate the difference between test-driven
+development and the traditional, tets-last development as well as
+pair programming and solo programming with respect to the external
+code quality. It appeared that the external code quality was lower
+when test-driven development was used instead of the classic, test-last
+software development approach in case of solo programmers (p=0.013).
+There was no difference in the external code quality when pair programming
+was used instead of solo programming.

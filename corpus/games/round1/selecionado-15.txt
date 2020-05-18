@@ -1,2 +1,7 @@
 Wireless Games - Review and Experiment
-This paper is an introduction to the domain of wireless games. It  	presents a brief history of mobile gaming, a number of important  	technologies and introduces classification and evaluation concepts  	and criteria. A multi-player, multi-platform card game developed  	in the University of Oulu, is used to present authors own experiences  	in this field.
+This paper is an introduction to the domain of wireless games. It
+presents a brief history of mobile gaming, a number of important
+technologies and introduces classification and evaluation concepts
+and criteria. A multi-player, multi-platform card game developed
+in the University of Oulu, is used to present authors own experiences
+in this field.

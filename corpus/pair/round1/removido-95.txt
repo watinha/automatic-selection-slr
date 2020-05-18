@@ -1,2 +1,15 @@
 Enhancing CS Programming Lab Courses Using Collaborative Editors
-This paper describes the pedagogical implications of the GREWPtool  	(the Groupware Research in Education and the Workforce Project),  	a same time different place groupware tool built to support synchronous,  	collaborative coding among small to medium sized groups. GREWPtool  	exploits the educational benefits of paired programming while extending  	the model to allow students synchronous control of the same code.  	This effectively drops the constraints of turn taking, and allows  	for a richer interaction. The result was a powerful tool that can  	be used to provide interactive lectures, structure classroom activity,  	and facilitate paired programming during labs. In this paper we present  	the design and use of GREWPtool with an emphasis on how it enhances  	the classroom experience. In particular, we give a qualitative analysis  	of how this tool has been used in six lab courses over the past two  	years.
+This paper describes the pedagogical implications of the GREWPtool
+(the Groupware Research in Education and the Workforce Project),
+a same time different place groupware tool built to support synchronous,
+collaborative coding among small to medium sized groups. GREWPtool
+exploits the educational benefits of paired programming while extending
+the model to allow students synchronous control of the same code.
+This effectively drops the constraints of turn taking, and allows
+for a richer interaction. The result was a powerful tool that can
+be used to provide interactive lectures, structure classroom activity,
+and facilitate paired programming during labs. In this paper we present
+the design and use of GREWPtool with an emphasis on how it enhances
+the classroom experience. In particular, we give a qualitative analysis
+of how this tool has been used in six lab courses over the past two
+years.

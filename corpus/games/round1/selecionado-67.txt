@@ -1,2 +1,17 @@
-An architecture to easily produce adventure and movie games for the  	mobile scenario
-Simple and easy-to-play casual games are flooding the mobile gaming  	market and are best-sellers on the mobile game charts of several  	cellphone network operators. Most of the titles are mobile versions  	of videogames developed in the '80s and '90s, which were also very  	simple and easy-to-play. In this article we focus on adventure and  	movie games, a genre simple, easy-to-play, and very popular in the  	past. We propose a software architecture to easily produce full-motion  	adventure games for the mobile scenario, and thus potentially transform  	any modern cellphone into an adventure game console. The games are  	portable and protected against un-authorized usage. The feasibility  	of our approach is shown through a prototype player and an evaluation  	that shows the suitability of the proposed approach for the mobile  	scenario. The simplicity of our approach along with the ubiquity  	of modern cell-phones may bring new life to adventure games, which  	can also become an exciting genre for the current mobile gaming scenario.
+An architecture to easily produce adventure and movie games for the
+mobile scenario
+Simple and easy-to-play casual games are flooding the mobile gaming
+market and are best-sellers on the mobile game charts of several
+cellphone network operators. Most of the titles are mobile versions
+of videogames developed in the '80s and '90s, which were also very
+simple and easy-to-play. In this article we focus on adventure and
+movie games, a genre simple, easy-to-play, and very popular in the
+past. We propose a software architecture to easily produce full-motion
+adventure games for the mobile scenario, and thus potentially transform
+any modern cellphone into an adventure game console. The games are
+portable and protected against un-authorized usage. The feasibility
+of our approach is shown through a prototype player and an evaluation
+that shows the suitability of the proposed approach for the mobile
+scenario. The simplicity of our approach along with the ubiquity
+of modern cell-phones may bring new life to adventure games, which
+can also become an exciting genre for the current mobile gaming scenario.

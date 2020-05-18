@@ -1,2 +1,29 @@
-Managing programmed instruction and collaborative peer tutoring in  	the classroom: Applications in teaching Java(TM)
-To fulfill part of the course requirements, 34 undergraduate students  	in two courses completed an online programmed instruction tutor as  	the first technical training exercise in a Java(TM) programming course  	designed for information systems majors. The tutor taught a simple  	JApplet program to display a text string within a browser window  	on the Web. Students in the first course next participated in a collaborative  	peer tutoring session, based on the JApplet program, followed by  	a lecture on the program and by successfully running the program  	on the Web. For the second course, the peer tutoring session was  	scheduled after the lecture and after successfully running the program.  	Students in both courses completed tests of far transfer ("meaningful  	learning") and software self-efficacy before using the tutor and  	on several subsequent occasions following that initial learning.  	Students in the second course also completed a 4-item scale to assess  	the development of classification and functionality knowledge regarding  	elements of the program. Students in both courses showed progressive  	improvement in all performance measures across the several assessment  	occasions. Students' positive ratings of the effectiveness of both  	the tutor and the collaborative peer tutoring supported the value  	of these learning experiences in a technical knowledge domain. The  	results of this study, based on student performance observed within  	the context of the classroom, show the importance of providing a  	range of synergistic learning experiences that culminate in a level  	of skill and confidence that prepares and motivates all students  	for advanced instruction in Java. They also show how to manage the  	instructional techniques in the classroom to accomplish that educational  	outcome.
+Managing programmed instruction and collaborative peer tutoring in
+the classroom: Applications in teaching Java(TM)
+To fulfill part of the course requirements, 34 undergraduate students
+in two courses completed an online programmed instruction tutor as
+the first technical training exercise in a Java(TM) programming course
+designed for information systems majors. The tutor taught a simple
+JApplet program to display a text string within a browser window
+on the Web. Students in the first course next participated in a collaborative
+peer tutoring session, based on the JApplet program, followed by
+a lecture on the program and by successfully running the program
+on the Web. For the second course, the peer tutoring session was
+scheduled after the lecture and after successfully running the program.
+Students in both courses completed tests of far transfer ("meaningful
+learning") and software self-efficacy before using the tutor and
+on several subsequent occasions following that initial learning.
+Students in the second course also completed a 4-item scale to assess
+the development of classification and functionality knowledge regarding
+elements of the program. Students in both courses showed progressive
+improvement in all performance measures across the several assessment
+occasions. Students' positive ratings of the effectiveness of both
+the tutor and the collaborative peer tutoring supported the value
+of these learning experiences in a technical knowledge domain. The
+results of this study, based on student performance observed within
+the context of the classroom, show the importance of providing a
+range of synergistic learning experiences that culminate in a level
+of skill and confidence that prepares and motivates all students
+for advanced instruction in Java. They also show how to manage the
+instructional techniques in the classroom to accomplish that educational
+outcome.

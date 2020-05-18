@@ -1,2 +1,29 @@
 An Anecdote to Automated Test Case Generation Techniques using GUI and Mutation Testing
-Abstract: Software testing has been defined by various eminent  scholars in the past. A definition by Abran and Moore (2004) defines  testing as an activity performed for evaluating product quality and  for improving it, by identifying defects and problems. Further,  automation in software testing involves use of special software to  control the execution of tests and the comparison of actual outcomes  with predicted outcomes. Test automation can automate some  repetitive but necessary tasks in a formalized testing process already  in place, or add additional testing that would be difficult to perform  manually. The broad areas of testing are code driven testing, GUI  testing and API driven testing.   Automated GUI became prominent because of issues raised with  Manual GUI testing. An Automated GUI Testing tool can playback  all the recorded set of tasks, compare the results of execution with the  expected behavior and report success or failure to the test engineers.  Once the GUI tests are created they can easily be repeated for  multiple numbers of times with different data sets and can be  extended to cover additional features at a later time. Automated GUI  Testing is a more accurate, efficient, reliable and cost effective  replacement to manual testing.  Mutation testing is another method of software testing in which  program or source code is deliberately manipulated, followed by  suite of testing against the mutated code. The mutations introduced to  source code are designed to imitate common programming errors. A  good unit test suite typically detects the program mutations and fails  automatically.This paper makes an attempt to review the extant  literature and explore test case generation techniques based on GUI  and mutation testing. 
+Abstract: Software testing has been defined by various eminent
+scholars in the past. A definition by Abran and Moore (2004) defines
+testing as an activity performed for evaluating product quality and
+for improving it, by identifying defects and problems. Further,
+automation in software testing involves use of special software to
+control the execution of tests and the comparison of actual outcomes
+with predicted outcomes. Test automation can automate some
+repetitive but necessary tasks in a formalized testing process already
+in place, or add additional testing that would be difficult to perform
+manually. The broad areas of testing are code driven testing, GUI
+testing and API driven testing.
+Automated GUI became prominent because of issues raised with
+Manual GUI testing. An Automated GUI Testing tool can playback
+all the recorded set of tasks, compare the results of execution with the
+expected behavior and report success or failure to the test engineers.
+Once the GUI tests are created they can easily be repeated for
+multiple numbers of times with different data sets and can be
+extended to cover additional features at a later time. Automated GUI
+Testing is a more accurate, efficient, reliable and cost effective
+replacement to manual testing.
+Mutation testing is another method of software testing in which
+program or source code is deliberately manipulated, followed by
+suite of testing against the mutated code. The mutations introduced to
+source code are designed to imitate common programming errors. A
+good unit test suite typically detects the program mutations and fails
+automatically.This paper makes an attempt to review the extant
+literature and explore test case generation techniques based on GUI
+and mutation testing. 

@@ -1,2 +1,21 @@
-An empirical study on design quality improvement from best-practice  	inspection and pair programming
-The quality of the software design often has a major impact on the  	quality of the final product and the effort for development and evolution.  	A number of quality assurance (QA) approaches for inspection of early-life-cycle  	documents have been empirically evaluated. An implicit assumption  	of these studies was: an investment into early defect detection and  	removal saves higher rework cost. The concept of pair programming  	combines software construction with implicit QA in the development  	team. For planning QA activities, an important research question  	is how effective inspectors can be expected to be at detecting defects  	in software (design and code) documents compared to programmers who  	find defects as by-product of their usual construction activities.  	In this paper we present an initial empirical study that compares  	the defect detection effectiveness of a best-practice inspection  	technique with defect detection as by-product of constructive software  	evolution tasks during pair programming. Surprisingly, in the study  	context pair programmers were more effective to find defects in design  	documents than inspectors. However, when building a larger team for  	defect detection, a mix of inspection and pair programming can be  	expected to work better than any single technique.
+An empirical study on design quality improvement from best-practice
+inspection and pair programming
+The quality of the software design often has a major impact on the
+quality of the final product and the effort for development and evolution.
+A number of quality assurance (QA) approaches for inspection of early-life-cycle
+documents have been empirically evaluated. An implicit assumption
+of these studies was: an investment into early defect detection and
+removal saves higher rework cost. The concept of pair programming
+combines software construction with implicit QA in the development
+team. For planning QA activities, an important research question
+is how effective inspectors can be expected to be at detecting defects
+in software (design and code) documents compared to programmers who
+find defects as by-product of their usual construction activities.
+In this paper we present an initial empirical study that compares
+the defect detection effectiveness of a best-practice inspection
+technique with defect detection as by-product of constructive software
+evolution tasks during pair programming. Surprisingly, in the study
+context pair programmers were more effective to find defects in design
+documents than inspectors. However, when building a larger team for
+defect detection, a mix of inspection and pair programming can be
+expected to work better than any single technique.

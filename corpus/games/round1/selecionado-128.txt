@@ -1,2 +1,17 @@
 A documental approach to adventure game development
-In this paper, we propose a documental approach to the development  	of graphical adventure videogames. This approach is oriented to the  	production and maintenance of adventure videogames using the game s  	storyboard as the key development element. The videogame storyboard  	is marked up with a suitable domain-specific descriptive markup language,  	from which the different art assets that are needed are referred  	to, and then the final executable videogame itself is automatically  	produced by processing the marked storyboard with a suitable processor  	for such a language. This document-oriented approach opens new authoring  	possibilities in videogame development and allows a rational collaboration  	between the different communities that participate in the development  	process: game writers, artists, and programmers. We have implemented  	the approach in the context of the <e-Game > project, by defining  	a suitable markup language for the storyboards (the <e-Game > language),  	and by building a suitable processor for this language (the <e-Game  	> engine).
+In this paper, we propose a documental approach to the development
+of graphical adventure videogames. This approach is oriented to the
+production and maintenance of adventure videogames using the game s
+storyboard as the key development element. The videogame storyboard
+is marked up with a suitable domain-specific descriptive markup language,
+from which the different art assets that are needed are referred
+to, and then the final executable videogame itself is automatically
+produced by processing the marked storyboard with a suitable processor
+for such a language. This document-oriented approach opens new authoring
+possibilities in videogame development and allows a rational collaboration
+between the different communities that participate in the development
+process: game writers, artists, and programmers. We have implemented
+the approach in the context of the <e-Game > project, by defining
+a suitable markup language for the storyboards (the <e-Game > language),
+and by building a suitable processor for this language (the <e-Game
+> engine).

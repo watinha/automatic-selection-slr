@@ -1,2 +1,19 @@
 A cognitive model for solo programming and pair programming
-As eXtreme programming (XP) has grown in popularity in both academia  	and industry, pair programming, two programmers collaborating on  	design, coding and testing, has become a controversial focus of interest.  	Many researchers and practitioners remain skeptical of claims for  	the productivity of pair programming. Three controlled experiments,  	by Nosek, William, and Nawrocki, all reported statistical productivity  	measurements, but the results were inconsistent and the differences  	among the results could not be explained because there exists no  	theoretical framework to articulate pair programming. This paper  	proposes a cognitive model that describes the programming mechanism  	and this in turn can be used to explain why and when a pair may outperform  	two individuals. The model helps explain discrepancies in the results  	of the above-mentioned experiments. To show how the proposed model  	can be applied, a psychological experiment was conducted in which  	twenty-two programmers who were informed only of the experiment and  	the results of Nosek, and of the descriptions of Williams and Nawrocki,  	were able to use our model to predict the possible outcomes of the  	experiments of Williams and Nawrocki .
+As eXtreme programming (XP) has grown in popularity in both academia
+and industry, pair programming, two programmers collaborating on
+design, coding and testing, has become a controversial focus of interest.
+Many researchers and practitioners remain skeptical of claims for
+the productivity of pair programming. Three controlled experiments,
+by Nosek, William, and Nawrocki, all reported statistical productivity
+measurements, but the results were inconsistent and the differences
+among the results could not be explained because there exists no
+theoretical framework to articulate pair programming. This paper
+proposes a cognitive model that describes the programming mechanism
+and this in turn can be used to explain why and when a pair may outperform
+two individuals. The model helps explain discrepancies in the results
+of the above-mentioned experiments. To show how the proposed model
+can be applied, a psychological experiment was conducted in which
+twenty-two programmers who were informed only of the experiment and
+the results of Nosek, and of the descriptions of Williams and Nawrocki,
+were able to use our model to predict the possible outcomes of the
+experiments of Williams and Nawrocki .

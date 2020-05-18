@@ -1,2 +1,3 @@
 Initial Investigations on the Influence of Requirement Smells on Test-Case Design
-Abstract:  Requirements-based testing has become a critical quality assurance technique designed to ensure a sufficiently high degree of product quality. However, the quality of the test cases depends on the quality of the requirements specification. In a preliminary experiment, we analyze potential links between the quality of the requirements and of the test cases.
+Abstract:
+Requirements-based testing has become a critical quality assurance technique designed to ensure a sufficiently high degree of product quality. However, the quality of the test cases depends on the quality of the requirements specification. In a preliminary experiment, we analyze potential links between the quality of the requirements and of the test cases.

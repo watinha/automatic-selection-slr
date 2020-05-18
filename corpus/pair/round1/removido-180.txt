@@ -1,2 +1,22 @@
 Extreme Programming from a CMM perspective
-Extreme Programming (XP) has been advocated recently as an appropriate  	programming method for the high-speed, volatile world of Internet  	and Web software development. This popular methodology is    	reviewed from the perspective of the Capability Maturity Model (CMM)  	for Software, a five-level model that prescribes process improvement  	priorities for software organizations. Overviews of both XP and CMM    	are provided, and XP is critiqued from a Software CMM perspective.  	The conclusion is that lightweight methodologies such as XP advocate  	many good engineering practices, although some practices may be    	controversial and counter-productive outside a narrow domain. For  	those interested in process improvement, the ideas in XP should be  	carefully considered for adoption where appropriate in an    	organization's business environment since XP can be used to address  	many of the CMM Level 2 and 3 practices. In turn, organizations using  	XP should carefully consider the management and infrastructure issues    	described in the CMM.
+Extreme Programming (XP) has been advocated recently as an appropriate
+programming method for the high-speed, volatile world of Internet
+and Web software development. This popular methodology is
+
+reviewed from the perspective of the Capability Maturity Model (CMM)
+for Software, a five-level model that prescribes process improvement
+priorities for software organizations. Overviews of both XP and CMM
+
+are provided, and XP is critiqued from a Software CMM perspective.
+The conclusion is that lightweight methodologies such as XP advocate
+many good engineering practices, although some practices may be
+
+controversial and counter-productive outside a narrow domain. For
+those interested in process improvement, the ideas in XP should be
+carefully considered for adoption where appropriate in an
+
+organization's business environment since XP can be used to address
+many of the CMM Level 2 and 3 practices. In turn, organizations using
+XP should carefully consider the management and infrastructure issues
+
+described in the CMM.

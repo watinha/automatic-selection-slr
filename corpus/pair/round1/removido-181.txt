@@ -1,2 +1,16 @@
 The drawing carousel: A Pair Programming experience
-The participants will experience how a pair programming team works.  	Working in a single pair is different from working on your own: You  	have to articulate what you want to do, the other person (probably)  	has some different insights, and the result will be different from  	what you would have done on your own. But.. this is only half of  	the story: working in a Pair Programming Team has many more advantages:  	knowledge is spread, the team creates an own style, parallel development  	becomes easy, truck factor (http://c2.con/cgi/wiki?TruckNumber) is  	reduced. The team creates the product (instead of individual programmers  	creating the parts), the product is a whole, not a mixture of individual  	results. You will learn about the necessity of agile tools like daily  	standup meetings, pair rotation, coding standards and collective  	code ownership, how they work, and what their effects are. You will  	experience improvements for the quality of you product, and for the  	productivity of the team.
+The participants will experience how a pair programming team works.
+Working in a single pair is different from working on your own: You
+have to articulate what you want to do, the other person (probably)
+has some different insights, and the result will be different from
+what you would have done on your own. But.. this is only half of
+the story: working in a Pair Programming Team has many more advantages:
+knowledge is spread, the team creates an own style, parallel development
+becomes easy, truck factor (http://c2.con/cgi/wiki?TruckNumber) is
+reduced. The team creates the product (instead of individual programmers
+creating the parts), the product is a whole, not a mixture of individual
+results. You will learn about the necessity of agile tools like daily
+standup meetings, pair rotation, coding standards and collective
+code ownership, how they work, and what their effects are. You will
+experience improvements for the quality of you product, and for the
+productivity of the team.

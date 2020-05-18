@@ -1,2 +1,14 @@
 User Experience in Interactive Computer Game Development
-This paper outlines PhD research into user experience in interactive  	computer game development. The study will investigate how usability  	methods and approaches can be adapted and extended to evaluate and  	improve the user experience of gaming systems. The research will  	focus on exploring ways to evaluate fun and engaging user experiences,  	and on identifying how to provide useful, valid, timely, cost-efficient  	feedback on user experience to game development teams. A range of  	research methods is proposed including case studies with industry  	stakeholders, contextual and lab-based user experience evaluations  	with gamers, and action research within a games company. Research  	findings will inform the development of a practical evaluation model  	and tools to support game experience design practices and product  	development.
+This paper outlines PhD research into user experience in interactive
+computer game development. The study will investigate how usability
+methods and approaches can be adapted and extended to evaluate and
+improve the user experience of gaming systems. The research will
+focus on exploring ways to evaluate fun and engaging user experiences,
+and on identifying how to provide useful, valid, timely, cost-efficient
+feedback on user experience to game development teams. A range of
+research methods is proposed including case studies with industry
+stakeholders, contextual and lab-based user experience evaluations
+with gamers, and action research within a games company. Research
+findings will inform the development of a practical evaluation model
+and tools to support game experience design practices and product
+development.

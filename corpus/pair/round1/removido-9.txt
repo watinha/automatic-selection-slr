@@ -1,2 +1,17 @@
 Balancing depth and breadth in the data structure course
-The data structures (CS 103) course in a computer science curriculum  	is the bridge between the CS 101/CS 102 sequence, which introduces  	the fundamentals of programming, and the algorithms course, which  	emphasizes rigorous analysis. The challenge for CS 103 instructors  	is to balance the breadth and depth of coverage of data structures  	material: pacing the assignment of projects with lectures so that  	all of the fundamental data structure topics are covered, and assigning  	large-scale projects to students without overwhelming them with time  	and complexity requirements. To address this challenge, this paper  	proposes an approach that combines pair programming, weekly assigned  	large-scale student-centered projects, web-based portfolios, a multiple-intelligence  	focus for material presentation [3], and process log (journal) entries  	submitted in conjunction with assignments. The approach is evaluated  	with an analysis of student questionnaires and an evaluation of written  	responses from students' process-logs. This paper documents the research  	and suggests directions for further study.
+The data structures (CS 103) course in a computer science curriculum
+is the bridge between the CS 101/CS 102 sequence, which introduces
+the fundamentals of programming, and the algorithms course, which
+emphasizes rigorous analysis. The challenge for CS 103 instructors
+is to balance the breadth and depth of coverage of data structures
+material: pacing the assignment of projects with lectures so that
+all of the fundamental data structure topics are covered, and assigning
+large-scale projects to students without overwhelming them with time
+and complexity requirements. To address this challenge, this paper
+proposes an approach that combines pair programming, weekly assigned
+large-scale student-centered projects, web-based portfolios, a multiple-intelligence
+focus for material presentation [3], and process log (journal) entries
+submitted in conjunction with assignments. The approach is evaluated
+with an analysis of student questionnaires and an evaluation of written
+responses from students' process-logs. This paper documents the research
+and suggests directions for further study.

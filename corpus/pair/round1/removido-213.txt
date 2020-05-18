@@ -1,2 +1,30 @@
 Pair programming and the factors affecting Brooks' law
-Frederick Brooks states in his book The Mythical Man-Month , "Adding  	manpower to a late software project makes it later." Brooks explains  	that often software development managers react to schedule problems  	by adding more manpower to the project. However, the new team members  	take some time initially to be trained and assimilated into the project.  	Assimilation time is the time the new team member takes to understand  	project specific details. Also, if the subprojects assigned to each  	engineer are interrelated, intercommunication requirements rise since  	each part of the task must be separately coordinated with each other  	part. Thus, Brooks contends that when manpower is added to a late  	project the overall productivity goes down, delaying the project  	even further. This research investigates the effects of pair programming  	on the training, assimilation and intercommunication, as mentioned  	in Brooks' Law. Pair programming is a practice in which two programmers  	work together at one computer, continuously collaborating on the  	same design, algorithm, code, or test. Most software development  	teams that practice pair programming also practice pair rotation.  	With pair rotation, engineers periodically change their pairing partner.  	Pair programming and pair rotation have previously been shown to  	aid teams in improving code and design quality and to improve teamwork.  	In this research, we investigated additional benefits of the pair  	programming and pair rotation practices. Through surveys and mathematically  	modeling, we found the following: (1) Pair programming reduces intercommunication  	time within a team. (2) Pair programming reduces mentoring time when  	new members are added to a team. (3) Pair programming reduces assimilation  	time when new members are added to a team. (4) Manpower can be added  	to a late software project provided the additional useful effort  	delivered to the project is adequate to achieve the desired schedule.  	Pair programming can make this more achievable.
+Frederick Brooks states in his book The Mythical Man-Month , "Adding
+manpower to a late software project makes it later." Brooks explains
+that often software development managers react to schedule problems
+by adding more manpower to the project. However, the new team members
+take some time initially to be trained and assimilated into the project.
+Assimilation time is the time the new team member takes to understand
+project specific details. Also, if the subprojects assigned to each
+engineer are interrelated, intercommunication requirements rise since
+each part of the task must be separately coordinated with each other
+part. Thus, Brooks contends that when manpower is added to a late
+project the overall productivity goes down, delaying the project
+even further. This research investigates the effects of pair programming
+on the training, assimilation and intercommunication, as mentioned
+in Brooks' Law. Pair programming is a practice in which two programmers
+work together at one computer, continuously collaborating on the
+same design, algorithm, code, or test. Most software development
+teams that practice pair programming also practice pair rotation.
+With pair rotation, engineers periodically change their pairing partner.
+Pair programming and pair rotation have previously been shown to
+aid teams in improving code and design quality and to improve teamwork.
+In this research, we investigated additional benefits of the pair
+programming and pair rotation practices. Through surveys and mathematically
+modeling, we found the following: (1) Pair programming reduces intercommunication
+time within a team. (2) Pair programming reduces mentoring time when
+new members are added to a team. (3) Pair programming reduces assimilation
+time when new members are added to a team. (4) Manpower can be added
+to a late software project provided the additional useful effort
+delivered to the project is adequate to achieve the desired schedule.
+Pair programming can make this more achievable.

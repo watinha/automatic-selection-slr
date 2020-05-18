@@ -1,2 +1,44 @@
 A SURVEY OF BUSINESS INTILLIGENCE USING DATA MINING, WEB MINING AND TEXT MINING
-Information and technology has taken new changes in the field of communication. This new world is the world of digital with the large amount of data is available on the internet. Lot of peoples is accessing the social sites like facebook, government sites also having the data in huge variety. Banks now maintain all their data related to customer and employees on internet. We required finding new ways and technologies through which we can search the closer observations on this huge data and generate knowledge, i.e. why mining technologies comes in  to existence. Mining techniques  basically  used  some  automated  tools  to  achieve  business  intelligence.  Using  these  tools,  we  will  able  In  this  paper,  we  will  talk  about  mining  techniques,  their  implementations  and  we  will  also  talk  about  how  these  mining  techniques  will  be  useful  to  achieve  Business  Intelligence.
+Information and technology has taken new changes in the field of communication. This new world is the world of digital with the large amount of data is available on the internet. Lot of peoples is accessing the social sites like facebook, government sites also having the data in huge variety. Banks now maintain all their data related to customer and employees on internet. We required finding new ways and technologies through which we can search the closer observations on this huge data and generate knowledge, i.e. why mining technologies comes in  to existence. Mining techniques  basically
+used
+some
+automated
+tools
+to
+achieve
+business
+intelligence.
+Using
+these
+tools,
+we
+will
+able
+In
+this
+paper,
+we
+will
+talk
+about
+mining
+techniques,
+their
+implementations
+and
+we
+will
+also
+talk
+about
+how
+these
+mining
+techniques
+will
+be
+useful
+to
+achieve
+Business
+Intelligence.

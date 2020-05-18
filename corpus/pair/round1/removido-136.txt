@@ -1,2 +1,18 @@
 When does a pair outperform two individuals?
-This paper reports experimental measurements of productivity and quality  	in pair programming. The work complements Laurie Williams' work on  	collaborative programming, in which pair programming and solo programming  	student groups wrote the same programs and then their activities  	were measured to investigate productivity, quality, etc. In this  	paper, pair and solo industrial programmer groups are requested to  	complete algorithm-style aptitude tests so as to observe the capability  	of solving algorithms in singles and in pairs. So doing is independent  	of the familiarity of a programming language. Besides, we also take  	another approach to examining pair programming. A single group of  	industrial programmers carries out alternately pair programming and  	solo programming. All these demonstrate that productivity in pair  	programming hinges upon algorithm design at all levels from understanding  	problems and implementing solutions. In addition, we reach similar  	conclusions to Williams. Our findings indicate that simple design,  	refactoring, and rapid feedback provide an excellent continuous-design  	environment for higher productivity in pair programming.
+This paper reports experimental measurements of productivity and quality
+in pair programming. The work complements Laurie Williams' work on
+collaborative programming, in which pair programming and solo programming
+student groups wrote the same programs and then their activities
+were measured to investigate productivity, quality, etc. In this
+paper, pair and solo industrial programmer groups are requested to
+complete algorithm-style aptitude tests so as to observe the capability
+of solving algorithms in singles and in pairs. So doing is independent
+of the familiarity of a programming language. Besides, we also take
+another approach to examining pair programming. A single group of
+industrial programmers carries out alternately pair programming and
+solo programming. All these demonstrate that productivity in pair
+programming hinges upon algorithm design at all levels from understanding
+problems and implementing solutions. In addition, we reach similar
+conclusions to Williams. Our findings indicate that simple design,
+refactoring, and rapid feedback provide an excellent continuous-design
+environment for higher productivity in pair programming.

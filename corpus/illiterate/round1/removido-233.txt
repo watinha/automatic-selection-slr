@@ -1,2 +1,31 @@
-3D interactive, on-site visualization of ancient Olympia
-This paper describes the work performed for the ARCHEOGUIDE (Augmented 	Reality-based Cultural Heritage On-site GUIDE) project. ARCHEOGUIDE 	is funded by the EU IST framework (IST-1999-11306), and pursued by 	a consortium of European organizations. It delivers an interactive, 	personalized, augmented reality (AR) guide for the visualization 	of ruined archaeological sites. It is based on mobile real-time computing, 	networking, and 3D visualization. Its users are presented with monument 	reconstructions, navigation aid and historical information in a user-friendly 	way through the use of multi-modal interaction techniques. The key 	features of the system are a novel hybrid position and orientation 	tracking technique used in determining the user's viewpoint, navigation 	aid, outdoor operation, and real-time 3D visualization of monuments, 	artifacts, and life. This paper presents examples of the system's 	use at the archaeological site of ancient Olympia in Greece.
+The additional uses of CALL in the endangered language context
+This paper considers the additional uses of CALL in the Endangered
+Language (EL) context. It briefly reviews ELs and reports on CALL
+for ELs in general. It then reviews the extra uses of CALL for ELs;
+these include changing negative attitudes towards the language, arousing
+interest in the language and contributing to language maintenance
+and documentation. In order to demonstrate the benefits of CALL for
+an EL, three examples are presented. Each of the ELs discussed in
+this paper could be considered to be on a different scale on the
+Fishman (1991) Scale for an EL. The first CALL application discussed
+is a program for Irish for primary school children. Irish is a Celtic
+language and is only regularly used by about 10,000 speakers in Ireland.
+The main aim of the program was to try to increase the children’s
+motivation to study Irish, which is a compulsory subject in schools
+in Ireland. The second application is a literacy program for Tojolab’al,
+a Mayan language spoken in Chiapas, Mexico. Tojolab’al could be considered
+to be a relatively stable language (30,000–40,000 speakers out of
+an ethnic population of about 80,000 people), but it has very few
+literate speakers. The idea of this project was to develop CALL courseware
+to teach literacy, beginning with the letters and then progressing
+to words and phrases. The third example is CALL courseware for Nawat,
+an Uto-Aztecan language of El Salvador. The remaining 150 speakers
+of Nawat are mainly elderly and illiterate and this courseware aimed
+to document and develop courseware for the language, while the remaining
+speakers were still alive. The paper concludes with lessons learnt
+for ELs in general from these three specific examples. It surmises
+that despite the difficulties involved in the CALL for EL context,
+if a pragmatic approach is adopted, CALL materials can have positive
+social benefits, which probably outweigh its contribution to language
+learning in the short-term. The effort involved in CALL for ELs is
+definitely worthwhile.

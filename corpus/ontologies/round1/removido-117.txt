@@ -1,2 +1,11 @@
 Iterative Model Driven Integration Checks of Component Based Robotic Systems
-A robot's software ecosystem often comprises a set of heterogeneous software  components, acquiring, exchanging, fusioning, and deriving data to trigger a desired  behaviour, state, or action of the robot. Due to the nature of component  based development [1] [2], and component interaction respectively, an essential,  and often crucial part of robotic system development is frequent integration testing.  While unit tests already provide an established way of checking modelled  constraints on single components, tests including complete component based  (sub-)systems have not been widely studied in robotics so far. We have identi-  fied the following problem statements with respect to component based system  testing so far.
+A robot's software ecosystem often comprises a set of heterogeneous software
+components, acquiring, exchanging, fusioning, and deriving data to trigger a desired
+behaviour, state, or action of the robot. Due to the nature of component
+based development [1] [2], and component interaction respectively, an essential,
+and often crucial part of robotic system development is frequent integration testing.
+While unit tests already provide an established way of checking modelled
+constraints on single components, tests including complete component based
+(sub-)systems have not been widely studied in robotics so far. We have identi-
+fied the following problem statements with respect to component based system
+testing so far.

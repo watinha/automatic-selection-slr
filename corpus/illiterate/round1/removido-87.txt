@@ -1,2 +1,37 @@
-A growth theory perspective on B2C e-commerce growth in Europe: An 	exploratory study
-Information and communication technologies (ICTs) continue to have 	a profound effect on the economies and societies where they are used. 	In this article, we propose three related theories to describe the 	underlying mechanism for growth in e-commerce revenues at the national 	level. Endogenous growth theory posits that the primary drivers of 	e-commerce growth are internal to a country. Exogenous growth theory 	suggests that the primary drivers of e-commerce growth are external 	to an economic system, and reflect the forces of the regional economy. 	A blend of these, a mixed endogenous-exogenous growth theory, incorporates 	drivers from both the economy and the region of a country. We test 	a number of hypotheses about e-commerce growth in the context of 	these theories. The key variables include Internet penetration, telecommunication 	investment intensity, venture capital and credit card availability, 	and education level. The data are drawn from 17 European countries 	over a five-year period from 2000 to 2004, and are analyzed using 	panel data regression with robust error terms, a variant of weighted 	least squares. The results show the differential efficacy of internal 	and external drivers as endogenous and exogenous precursors of e-commerce 	growth across the countries for a number of different modeling specifications. 	We conclude with a discussion of alternative approaches to model 	e-commerce growth in a country. The results also suggest the appropriateness 	of exploring models of regional contagion for e-commerce growth.
+Mapping users' perspectives and outlining social impacts from digitalization
+of terrestrial TV in Brazil
+The digital divide has numerous aspects and is as dynamic as the technology
+industry is able to develop and disseminate new ICTs and services,
+thus increasing or creating new gaps among the more advanced societies
+and those still hampered by social and economic problems. In developing
+countries the diffusion of new technologies is often hindered by
+factors such as insufficient income, deficient infrastructure, cultural
+barriers and lack of information. Brazil is no exception to that
+rule, and all information and communication technologies (ICT) diffusion
+surveys undertaken to date confirm the trend that digital exclusion
+is following the dreadful pattern of social exclusion. The income
+disparities in Brazil are very severe and, also due to the country's
+huge territory and complex geographical and cultural formations,
+a technological innovation is seldom capable of reaching the population
+as a whole and benefiting the entire society. One outstanding exception
+is the terrestrial (free-to-air) TV, which, after about 50 years
+since its introduction, has reached an adoption rate of more than
+90%, and now covers the whole country, with enormous sociocultural
+consequences. In view of this, and with the objective of addressing
+the problem of digital exclusion, the Brazilian Government has devised
+the deployment of digital terrestrial television-DTT-as a singular
+opportunity to reduce the digital divide and to promote the access
+of the population to interactive and citizenship services through
+an already familiar interface, thus avoiding or reducing cultural
+constraints and illiteracy barriers usually posed by other ICTs.
+This study undertakes a comprehensive discussion of that policy and
+its effects, and provides some data to support the strategy: the
+results of two interrelated studies; one that maps TV users' characteristics
+and expectations regarding digital TV, and another that models the
+social network effects on the diffusion of DTT into Brazilian society
+and the users' behavior when facing the new media, namely, an agent-based
+modeling and simulation-ABMS. The model uses the mapping information
+as input to test some hypothetical scenarios in the diffusion process,
+so as to identify factors that affect the overall diffusion process.
+All these studies are in the scope of a broader and deeper methodology
+for ex ante analysis.

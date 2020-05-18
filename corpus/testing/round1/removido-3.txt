@@ -1,2 +1,42 @@
 An investigation of clinical knowledge management practices at the Aga Khan University Hospital, Nairobi
-Globalization has had a lot of impact on the management of various organizations, and the  health care sector is not exempt. In the era of knowledge economy, management of  knowledge has become a significant tool for enhancing the competitiveness of firms. The  Aga Khan University Hospital, Nairobi is the tertiary, teaching and referral healthcare facility  in Kenya. Their approach to care is guided by their core principles of Quality, Access, Impact  and Relevance. Knowledge management at The AKUH is primarily facilitated by the  University hospital library and The Continuous Medical Education (CME) department. The  libraries provide the university community access to comprehensive and multi-disciplinary  information resources in print and digital formats. This access is provided through innovative  services and state-of-the-art systems. Despite all the above there still exist an empirical gap  in the knowledge management practices of the healthcare institution.  This study investigated the knowledge management practices implemented in the university  hospital. Simple random sampling technique was applied to select a sample size of  respondents picked from the university hospital setting. The research applied both  quantitative and qualitative data analysis. Out of 201 questionnaires distributed, 188  responded giving a response rate of 93%. 8 of the respondents were section heads and 10  were program directors, 64 were consultants, 28 were registrars, 24 were senior house  officers and 54 were residents. Data was collected from the respondents using structured  questionnaires. For qualitative study, semi structured interviews were conducted on 13 senior  managers out of which 8 were chairs of different clinical departments,1ICT officer, 1  regional librarian and 1 head librarian, 1 dean of the medical college and 1 CME coordinator  to make a total of thirteen giving a response rate of 81%. Descriptive and causal research  designs were used in analysis of the data. The design was ideal in describing the  characteristics of the large targeted sample used in the study.  The results of the study established that the use of Electronic medical records, Continuous  medical education, Communities of Practice, Knowledge cafes, and Web based system are  the key knowledge management practices that are in place in the university hospital. The  leadership role played by top management emerged as being a key facilitator of knowledge  management practices in the healthcare facility. The results from this study will inform the  hospital management on the knowledge management practices in the hospital, suggest that  knowledge management practices directly influence the performance of clinical staff.  Key recommendations from the study were that an alignment of knowledge management  policy to the organizational strategy would act as guideline on how knowledge should be  disseminated within the organization, secondly the role of leadership in managing KM  activities in terms of management support is key and finally, incentive programs which  reward knowledge sharing are important so as to encourage employees to actively share  knowledge both in the departments and across department knowledge sharing. Further  research efforts can investigate the impact of social media in the improving implementation  of knowledge management within organizations or between sector partners. The study was  limited to the Aga Khan University Hospital which is a private health care facility, further  studies can be carried out in public health care facilities.
+Globalization has had a lot of impact on the management of various organizations, and the
+health care sector is not exempt. In the era of knowledge economy, management of
+knowledge has become a significant tool for enhancing the competitiveness of firms. The
+Aga Khan University Hospital, Nairobi is the tertiary, teaching and referral healthcare facility
+in Kenya. Their approach to care is guided by their core principles of Quality, Access, Impact
+and Relevance. Knowledge management at The AKUH is primarily facilitated by the
+University hospital library and The Continuous Medical Education (CME) department. The
+libraries provide the university community access to comprehensive and multi-disciplinary
+information resources in print and digital formats. This access is provided through innovative
+services and state-of-the-art systems. Despite all the above there still exist an empirical gap
+in the knowledge management practices of the healthcare institution.
+This study investigated the knowledge management practices implemented in the university
+hospital. Simple random sampling technique was applied to select a sample size of
+respondents picked from the university hospital setting. The research applied both
+quantitative and qualitative data analysis. Out of 201 questionnaires distributed, 188
+responded giving a response rate of 93%. 8 of the respondents were section heads and 10
+were program directors, 64 were consultants, 28 were registrars, 24 were senior house
+officers and 54 were residents. Data was collected from the respondents using structured
+questionnaires. For qualitative study, semi structured interviews were conducted on 13 senior
+managers out of which 8 were chairs of different clinical departments,1ICT officer, 1
+regional librarian and 1 head librarian, 1 dean of the medical college and 1 CME coordinator
+to make a total of thirteen giving a response rate of 81%. Descriptive and causal research
+designs were used in analysis of the data. The design was ideal in describing the
+characteristics of the large targeted sample used in the study.
+The results of the study established that the use of Electronic medical records, Continuous
+medical education, Communities of Practice, Knowledge cafes, and Web based system are
+the key knowledge management practices that are in place in the university hospital. The
+leadership role played by top management emerged as being a key facilitator of knowledge
+management practices in the healthcare facility. The results from this study will inform the
+hospital management on the knowledge management practices in the hospital, suggest that
+knowledge management practices directly influence the performance of clinical staff.
+Key recommendations from the study were that an alignment of knowledge management
+policy to the organizational strategy would act as guideline on how knowledge should be
+disseminated within the organization, secondly the role of leadership in managing KM
+activities in terms of management support is key and finally, incentive programs which
+reward knowledge sharing are important so as to encourage employees to actively share
+knowledge both in the departments and across department knowledge sharing. Further
+research efforts can investigate the impact of social media in the improving implementation
+of knowledge management within organizations or between sector partners. The study was
+limited to the Aga Khan University Hospital which is a private health care facility, further
+studies can be carried out in public health care facilities.

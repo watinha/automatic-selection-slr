@@ -1,2 +1,17 @@
-A web accessibility service: update and findings
-We report here on our progress on a project first described at the 	ASSETS 2002 conference. At that time, we had developed a prototype 	system in which a proxy server intermediary was used to adapt Web 	pages to meet the needs of older adults. Since that report, we field 	tested the prototype and learned of problems with the proxy approach. 	We report on the lessons learned from that work and on our new approach 	towards meeting the Web needs of older adults and users with disabilities. 	This new software makes adaptations on the client machine, with greater 	accuracy and speed than was possible with the proxy server approach. 	It transforms Web pages "on the fly", without requiring that all 	Web content be re-written. The new software has been in use for a 	year and we report here on our findings from the usage. We discuss 	this approach in the context of Web accessibility standards and Web 	usability.
+A growth theory perspective on the international diffusion of e-commerce
+This research explores the reasons why electronic commerce practices
+have diffused around the world at the national level of analysis,
+due to forces that are both internal and external to the countries
+in which diffusion is observed to occur. We propose two related growth
+theories that contribute contrasting viewpoints about the origins
+of the drivers of diffusion: endogenous growth theory and exogenous
+growth theory. We use the former theory to argue that the primary
+drivers of diffusion stem from economic forces that are internal
+to a country, including its government policies (e.g., tax on online
+stores), wealth, infrastructure, readiness, education levels, and
+so on. The latter theory suggests that the primary drivers are external
+to the economy, and may reflect the forces present in the regional
+economy, international drivers of technological change, trade flows
+and so on. We explore the efficacy of these alternative perspectives
+in a set of propositions for the drivers of national-level diffusion
+of e-commerce that spans developed and developing nations.

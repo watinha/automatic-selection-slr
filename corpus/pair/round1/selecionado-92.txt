@@ -1,2 +1,10 @@
 Pair-programming effect on developers productivity
-This paper gives an overview of a pair programming experiment designed  	to verify how pair programming affects programmer's technical productivity.  	The experiment took place at the Institute of Computer Science, University  	of Tartu (UT), Estonia. The paper includes the problem statement,  	description of the experimental design, the experiment results, and  	a discussion about the validity of the results. During the experiment  	pair programming worked well in getting early testable programming  	results, pair programmers and nonpair programmers performed with  	similar final results.
+This paper gives an overview of a pair programming experiment designed
+to verify how pair programming affects programmer's technical productivity.
+The experiment took place at the Institute of Computer Science, University
+of Tartu (UT), Estonia. The paper includes the problem statement,
+description of the experimental design, the experiment results, and
+a discussion about the validity of the results. During the experiment
+pair programming worked well in getting early testable programming
+results, pair programmers and nonpair programmers performed with
+similar final results.

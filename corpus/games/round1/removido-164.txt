@@ -1,2 +1,9 @@
 Player Immersion in the Computer Game Narrative
-The main characteristics of the computer game narrative are interactive  	and nonlinear, so this study proposes a questionnaire aim at studying  	player immersion in the computer game narrative. To evaluate the  	questionnaire, a survey was conducted on the Internet. After factor  	analysis and reliability test, an instrument for measuring player  	immersion were obtained. This instrument not only can be applied  	to the computer game narrative, it also ca be used to measure user  	experience in story-oriented virtual reality.
+The main characteristics of the computer game narrative are interactive
+and nonlinear, so this study proposes a questionnaire aim at studying
+player immersion in the computer game narrative. To evaluate the
+questionnaire, a survey was conducted on the Internet. After factor
+analysis and reliability test, an instrument for measuring player
+immersion were obtained. This instrument not only can be applied
+to the computer game narrative, it also ca be used to measure user
+experience in story-oriented virtual reality.

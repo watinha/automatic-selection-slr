@@ -1,0 +1,30 @@
+Speech Recognition for Illiterate Access to Information and Technology
+In rural Tamil Nadu and other predominantly illiterate communities
+throughout the world, computers and technology are currently inaccessible
+without the help of a literate mediator. Speech recognition has often
+been suggested as a key to universal access, but success stories
+of speech-driven interfaces for illiterate end users are few and
+far between. The challenges of dialectal variation, multilingualism,
+cultural barriers, choice of appropriate content, and, most importantly,
+the prohibitive expense of creating the necessary linguistic resources
+for effective speech recognition are intractable using traditional
+techniques. This paper presents an inexpensive approach for gathering
+the linguistic resources needed to power a simple spoken dialog system.
+In our approach, data collection is integrated into dialog design:
+Users of a given village are recorded during interactions, and their
+speech semi-automatically integrated into the acoustic models for
+that village, thus generating the linguistic resources needed for
+automatic recognition of their speech. Our design is multi-modal,
+scalable, and modifiable. It is the result of an international, cross-disciplinary
+collaboration between researchers and NGO workers who serve the rural
+poor in Tamil Nadu. Our groundwork includes user studies, stakeholder
+interviews and field recordings of literate and illiterate agricultural
+workers in three districts of Tamil Nadu over the summer and fall
+of 2005. Automatic speech recognition experiments simulating the
+spoken dialog systems' performance during initialization and gradual
+integration of acoustic data informed the holistic structure of the
+design. Our research addresses the unique social and economic challenges
+of the developing world by relying on modifiable and highly transparent
+software and hardware, by building on locally available resources,
+and by emphasizing community operation and ownership through training
+and education

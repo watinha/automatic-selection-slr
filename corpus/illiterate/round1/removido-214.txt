@@ -1,2 +1,15 @@
-Human values and the future of technology: a declaration of responsibility
-We can make a difference in shaping the future by ensuring that computers 	"serve human needs (Mumford, 1934)." By making explicit the enduring 	values that we hold dear we can guide computer system designers and 	developers for the next decade, century, and thereafter. After setting 	our high-level goals we can pursue the components and seek the process 	for fulfilling them. High-level goals might include peace, excellent 	health care, adequate nutrition, accessible education, communication, 	freedom of expression, support for creative exploration, safety, 	and socially constructive entertainment. Computer technology can 	help attain these high-level goals if we clearly state measurable 	objectives, obtain participation of professionals, and design effective 	human-computer interfaces. Design considerations include adequate 	attention to individual differences among users, support of social 	and organizational structures, design for reliability and safety, 	provision of access by the elderly, handicapped, or illiterate, and 	appropriate user controlled adaptation. With suitable theories and 	empirical research we can achieve ease of learning, rapid performance, 	low error rates, and good retention over time, while preserving high 	subjective satisfaction. To raise the consciousness of designers 	and achieve these goals, we must generate an international debate, 	stimulate discussions within organizations, and interact with other 	intellectual communities. This paper calls for a focus on the "you" 	and "I" in developing improved user interface (UI) research and systems, 	offers a Declaration of Responsibility, and proposes a Social Impact 	Statement for major computing projects.
+Information communication educational technologies in lifelong learning
+of underprivileged groups
+The paper describes conditions that influenced the implementation
+of new technologies in educational organizations for adult learners
+and presents a project of deployment of ICT assisted learning for
+underprivileged groups of adults. The aim was to foster quality of
+teaching and learning and raise digital literacy. Instructional design
+for adult learners with poor learning skills, collaboration skills
+and ICT knowledge was formed, and interoperability within different
+technological conditions, systems and delivery platforms was built.
+Information communication educational technologies were implemented
+in three forms: (1) multimedia learning material on a CD-ROM for
+personal computers without Internet connection, (2) computer supported
+learning environment for guided self-directed learning, and (3) computer
+supported collaborative learning environment.

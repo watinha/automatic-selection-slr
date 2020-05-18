@@ -1,2 +1,8 @@
 Value creation and capture: A model of the software development process
-Understanding software development dynamics can help managers and  	project team members maximize value delivery. Using functions and  	parameters applied in a spreadsheet, this process model facilitates  	this understanding by examining value creation and value capture  	in the presence of uncertainty. Items to explore include project  	staffing, optimal release dates, and potential impacts of process  	improvements such as pair programming.
+Understanding software development dynamics can help managers and
+project team members maximize value delivery. Using functions and
+parameters applied in a spreadsheet, this process model facilitates
+this understanding by examining value creation and value capture
+in the presence of uncertainty. Items to explore include project
+staffing, optimal release dates, and potential impacts of process
+improvements such as pair programming.

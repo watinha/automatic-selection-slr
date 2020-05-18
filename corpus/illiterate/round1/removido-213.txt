@@ -1,2 +1,22 @@
-Collage CAPTCHA
-Nowadays, many daily human activities such as education, commerce, 	talks, etc. are carried out through the Internet. In cases such as 	the registering in websites, some hackers write programs to make 	automatic false enrolments which waste the resources of the website 	while this may even stop the entire website from working. Therefore, 	it is necessary to tell apart human users from computer programs 	which is known as CAPTCHA (completely automated p[ublic turing test 	to tell computers and human apart). CAPTCHA methods are mainly based 	on the weak points of OCR (optical character recognition) systems 	while using them are undesirable to human users. In this paper a 	method has been presented for telling the human users and computer 	softwares apart on the basis of choice of an object shown on the 	screen. In this method some pictures are chosen randomly and after 	effecting some changes such as rotating, all of them are shown on 	the screen. Then we ask the user to choose a specific object. If 	the user chooses the right object we can guess that the user has 	been a human being not computer software. The main advantage of this 	method is its simplicity because the user does not have to type anything. 	This method has been implemented by the Java programming language.
+A cost-effective solution for telemedicine in rural health care using
+mobile ad hoc networks
+Information and communication technology carries with it enormous
+potential for transforming poor people's lives, connecting them to
+markets and improving their access to government services. Health
+care organizations are also utilizing different information system
+technologies that can be employed to reduce administrative costs,
+make organizations more competitive, and ultimately provide better
+care to patients. However, most of the existing health care solutions
+require a huge initial investment and require the end-users to be
+technology-aware enough to use them. Developing economies like those
+in Latin America, Africa and Asia cannot afford to deploy such kind
+of real-time technologies for its masses because this would not be
+financially feasible. This paper discusses the problems associated
+with the implementation of such solutions in the rural sector of
+such economies. Also, a new system has been proposed which makes
+use of the wireless ad hoc networking for rural health care management.
+It has a lot of attractive features like ease of setup, use, and
+maintenance; and, most important, relatively very low cost for both
+users and providers. Also a case study of a similar kind of successful
+e-governance project in India, Bhoomi is shown which provides support
+for the promises associated with the proposed system.

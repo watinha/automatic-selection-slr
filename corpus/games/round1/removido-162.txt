@@ -1,2 +1,27 @@
-Prediction-based real-time resource provisioning for massively multiplayer  	online games
-Massively Multiplayer Online Games (MMOGs) are a class of computationally  	intensive client server applications with severe real-time Quality  	of Service (QoS) requirements, such as the number of updates per  	second each client needs to receive from the servers for a fluent  	and realistic experience. To guarantee the QoS requirements, game  	providers currently over-provision a large amount of their resources,  	which makes the overall efficiency of provisioning and utilization  	of resources rather low and prohibits any but the largest providers  	from joining the market. To address this deficiency, we propose a  	new prediction-based method for dynamic resource provisioning and  	scaling of MMOGs in distributed Grid environments. Firstly, a load  	prediction service anticipates the future game world entity distribution  	from historical trace data using a fast and flexible neural network-based  	method. On top of it, we developed generic analytical game load models  	used to foresee future hot-spots that congest the game servers and  	make the overall environment fragmented and unplayable. Finally,  	a resource allocation service performs dynamic load distribution,  	balancing, and migration of entities that keep the game servers reasonably  	loaded such that the real-time QoS requirements are maintained. Experimental  	results based on a realistic simulation environment demonstrate the  	advantages of our prediction service compared to other conventional  	methods, especially due to its ability to adapt to different user  	load patterns, and a reduction of the average over-allocation from  	250% (in the case of static over-provisioning) to around 25% using  	our dynamic provisioning method.
+Prediction-based real-time resource provisioning for massively multiplayer
+online games
+Massively Multiplayer Online Games (MMOGs) are a class of computationally
+intensive client server applications with severe real-time Quality
+of Service (QoS) requirements, such as the number of updates per
+second each client needs to receive from the servers for a fluent
+and realistic experience. To guarantee the QoS requirements, game
+providers currently over-provision a large amount of their resources,
+which makes the overall efficiency of provisioning and utilization
+of resources rather low and prohibits any but the largest providers
+from joining the market. To address this deficiency, we propose a
+new prediction-based method for dynamic resource provisioning and
+scaling of MMOGs in distributed Grid environments. Firstly, a load
+prediction service anticipates the future game world entity distribution
+from historical trace data using a fast and flexible neural network-based
+method. On top of it, we developed generic analytical game load models
+used to foresee future hot-spots that congest the game servers and
+make the overall environment fragmented and unplayable. Finally,
+a resource allocation service performs dynamic load distribution,
+balancing, and migration of entities that keep the game servers reasonably
+loaded such that the real-time QoS requirements are maintained. Experimental
+results based on a realistic simulation environment demonstrate the
+advantages of our prediction service compared to other conventional
+methods, especially due to its ability to adapt to different user
+load patterns, and a reduction of the average over-allocation from
+250% (in the case of static over-provisioning) to around 25% using
+our dynamic provisioning method.

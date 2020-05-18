@@ -1,2 +1,18 @@
-IntelligentBox as component based development system for body action  	3D games
-This paper treats component based approach for the development of  	body action 3D games. The research group of the author has already  	proposed a 3D software development system called IntelligentBox.  	IntelligentBox has provided various software components called boxes,  	which are 3D visible, reactive objects. IntelligentBox allows the  	user to develop 3D graphics applications including 3D games by combining  	already existing boxes through direct manipulations on a computer  	screen. This is the main feature of IntelligentBox, which is a difference  	from other conventional systems. In this paper, the author introduces  	the extension of IntelligentBox to the development of body action  	3D games. To deal with body actions, various components, i.e., particular  	boxes, those handle input devices frequently used in virtual reality  	applications, are introduced to IntelligentBox. Furthermore, the  	author introduced a particular component called virtual mouse pointer  	to make it possible to manipulate 3D objects using an input device  	like a data-glove.
+IntelligentBox as component based development system for body action
+3D games
+This paper treats component based approach for the development of
+body action 3D games. The research group of the author has already
+proposed a 3D software development system called IntelligentBox.
+IntelligentBox has provided various software components called boxes,
+which are 3D visible, reactive objects. IntelligentBox allows the
+user to develop 3D graphics applications including 3D games by combining
+already existing boxes through direct manipulations on a computer
+screen. This is the main feature of IntelligentBox, which is a difference
+from other conventional systems. In this paper, the author introduces
+the extension of IntelligentBox to the development of body action
+3D games. To deal with body actions, various components, i.e., particular
+boxes, those handle input devices frequently used in virtual reality
+applications, are introduced to IntelligentBox. Furthermore, the
+author introduced a particular component called virtual mouse pointer
+to make it possible to manipulate 3D objects using an input device
+like a data-glove.

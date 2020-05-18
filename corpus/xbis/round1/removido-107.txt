@@ -1,2 +1,17 @@
 Model inference combining expert systems and formal models
-Many works relating to software engineering rely upon formal models to perform  model-checking or automatic test case generation. Nonetheless, producing  these models is tedious and error-prone. Model inference is a recent  research field helping in the production of models. This approach aims at  generating models from documentations or from execution traces (observed  action sequences). This paper presents a new model generation method combining  model inference with expert systems. Intuitively, an engineer is able  to recognise the functional behaviours of an application from its traces by  applying deduction rules. We propose a framework, simulating this way of  deducting, with inference rules organised into layers. Each yields partial  IOSTSs (Input Output Symbolic Transition System), which becomes more  and more abstract and understandable. For event-driven applications, our  proposal is also composed of a crawler, which aims at exploring the application  by means of automatic testing. This crawler is guided in the traversal  of the application with strategies that are implemented with inference rules  as well.
+Many works relating to software engineering rely upon formal models to perform
+model-checking or automatic test case generation. Nonetheless, producing
+these models is tedious and error-prone. Model inference is a recent
+research field helping in the production of models. This approach aims at
+generating models from documentations or from execution traces (observed
+action sequences). This paper presents a new model generation method combining
+model inference with expert systems. Intuitively, an engineer is able
+to recognise the functional behaviours of an application from its traces by
+applying deduction rules. We propose a framework, simulating this way of
+deducting, with inference rules organised into layers. Each yields partial
+IOSTSs (Input Output Symbolic Transition System), which becomes more
+and more abstract and understandable. For event-driven applications, our
+proposal is also composed of a crawler, which aims at exploring the application
+by means of automatic testing. This crawler is guided in the traversal
+of the application with strategies that are implemented with inference rules
+as well.

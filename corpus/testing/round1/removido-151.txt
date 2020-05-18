@@ -1,2 +1,30 @@
 A DESIGN AND A PROTOTYPE FOR A MOBILE INFORMATION SERVICE FOR TOURISTS
-Tourism is one of the biggest industry branches with billions of tourists  traveling every year around the world. Therefore, solutions providing  tourist information have to be up to date with both changes in the industry  and the world's technological progress. The aim of this thesis is  to present a design and a prototype of a tourist mobile service which is  individual-oriented, cost-free for the end user, and secure.  i  On the information providers' side, the solution is implemented as a Webbased  database. The end users access the information through a Bluetooth  application on their mobile devices. The Bluetooth-based solution allows  to avoid any costs for the end users, that is tourists. The study shows that,  even with small data transfers, the tourists could save significantly when  compared to possible roaming charges for data transfer. Also, the proposed  mobile service is not intrusive, as it is provided through an application  installed by tourists voluntarily on their mobile devices.  Through design and implementation this work shows that it is possible to  build a system which can be used to provide information services to tourists  through mobile phones. The work achieved a successful ongoing synchronization  between the client and the server databases. Implementation and  usage were limited to smart phones only, as they provide better technological  support for the solution having features like maps, GPS, Wi-Fi,  Bluetooth and Databases. Moreover, the design of this system shows how  Bluetooth technology can be used effectively as a means of communication  while minimizing its shortcomings and risks, such as security, by bypassing  Bluetooth server service discovery protocol (SDP) and connecting directly  to the device.  Apart from showing the design and implementation of the end-user costfree  mobile information service, the results of this work also highlight the  possible business opportunities to the provider of the service.
+Tourism is one of the biggest industry branches with billions of tourists
+traveling every year around the world. Therefore, solutions providing
+tourist information have to be up to date with both changes in the industry
+and the world's technological progress. The aim of this thesis is
+to present a design and a prototype of a tourist mobile service which is
+individual-oriented, cost-free for the end user, and secure.
+i
+On the information providers' side, the solution is implemented as a Webbased
+database. The end users access the information through a Bluetooth
+application on their mobile devices. The Bluetooth-based solution allows
+to avoid any costs for the end users, that is tourists. The study shows that,
+even with small data transfers, the tourists could save significantly when
+compared to possible roaming charges for data transfer. Also, the proposed
+mobile service is not intrusive, as it is provided through an application
+installed by tourists voluntarily on their mobile devices.
+Through design and implementation this work shows that it is possible to
+build a system which can be used to provide information services to tourists
+through mobile phones. The work achieved a successful ongoing synchronization
+between the client and the server databases. Implementation and
+usage were limited to smart phones only, as they provide better technological
+support for the solution having features like maps, GPS, Wi-Fi,
+Bluetooth and Databases. Moreover, the design of this system shows how
+Bluetooth technology can be used effectively as a means of communication
+while minimizing its shortcomings and risks, such as security, by bypassing
+Bluetooth server service discovery protocol (SDP) and connecting directly
+to the device.
+Apart from showing the design and implementation of the end-user costfree
+mobile information service, the results of this work also highlight the
+possible business opportunities to the provider of the service.

@@ -1,2 +1,11 @@
 Experiences with Mobile Games Product Line Development at Meantime
-Small and medium enterprises (SME) represent a significant percentage  	of software companies. Although there are some experience reports  	on using software product line (SPL) techniques in SMEs, there is  	a lack of such reports on the mobile games domain. This domain is  	attractive both economically and technically, with a significant  	amount of variability, thus suggesting the use of a SPL approach.  	Accordingly, we conduct an exploratory study in a company in this  	domain, eliciting the main challenges, determining if and how SPL  	approaches help to address them, and raising hypotheses to guide  	future studies.
+Small and medium enterprises (SME) represent a significant percentage
+of software companies. Although there are some experience reports
+on using software product line (SPL) techniques in SMEs, there is
+a lack of such reports on the mobile games domain. This domain is
+attractive both economically and technically, with a significant
+amount of variability, thus suggesting the use of a SPL approach.
+Accordingly, we conduct an exploratory study in a company in this
+domain, eliciting the main challenges, determining if and how SPL
+approaches help to address them, and raising hypotheses to guide
+future studies.

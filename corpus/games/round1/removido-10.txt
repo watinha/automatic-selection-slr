@@ -1,2 +1,22 @@
-A model of cognitive loads in massively multiplayer online role playing  	games
-Being one of the most commercially successful entertainment software  	applications, massively multiplayer online role playing games (MMORPGs)  	continue to expand in term of the revenue they generate as well as  	the involvement of users who congregate in their virtual space and  	form communities around them to support each other. Unlike conventional  	offline computer games, or networked games with limited numbers of  	players, MMORPGs are not merely software applications as they are  	usually seen as a space with complicated dynamics of social interactions.  	Hence, it is believed that playing these games might cause cognitive  	overload problems among the players as they have to constantly interact  	with the game world as well as with other users. We conducted an  	exploratory study using qualitative methods to explore cognitive  	overloads in Maple Story, a typical MMORPG. Our results reveal that  	several types of cognitive overloads emerge during the game playing.  	While some of these overloads pose serious problems even to expert  	players, players seem to develop strategies to overcome them. It  	is found that some forms of cognitive load are actually desirable  	in order to make the game challenging. We have also created a set  	of recommendations that can help game developers handle cognitive  	load problems in MMORPGs.
+A model of cognitive loads in massively multiplayer online role playing
+games
+Being one of the most commercially successful entertainment software
+applications, massively multiplayer online role playing games (MMORPGs)
+continue to expand in term of the revenue they generate as well as
+the involvement of users who congregate in their virtual space and
+form communities around them to support each other. Unlike conventional
+offline computer games, or networked games with limited numbers of
+players, MMORPGs are not merely software applications as they are
+usually seen as a space with complicated dynamics of social interactions.
+Hence, it is believed that playing these games might cause cognitive
+overload problems among the players as they have to constantly interact
+with the game world as well as with other users. We conducted an
+exploratory study using qualitative methods to explore cognitive
+overloads in Maple Story, a typical MMORPG. Our results reveal that
+several types of cognitive overloads emerge during the game playing.
+While some of these overloads pose serious problems even to expert
+players, players seem to develop strategies to overcome them. It
+is found that some forms of cognitive load are actually desirable
+in order to make the game challenging. We have also created a set
+of recommendations that can help game developers handle cognitive
+load problems in MMORPGs.

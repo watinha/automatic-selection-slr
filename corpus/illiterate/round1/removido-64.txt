@@ -1,2 +1,16 @@
-A psycho\&\#45;pedagogical approach to m\&\#45;learning in a developing\&\#45;world 	context
-A study of the potential of mobile learning (m-learning) to contribute 	to the development in a typical rapidly developing country (Iran) 	is presented. Established educational theories are applied in order 	to classify potential modalities for m-learning: sample surveys of 	the reactions of typical user groups were taken and analysed. It 	is concluded that m-learning will be the best to be executed within 	the informal framework of learning, not only supplementing the school 	curriculum, but also extending powerfully into lifelong learning, 	especially for isolated rural/agricultural communities. It is further 	concluded that the standard mobile phone is, and will continue for 	some time to be, the dominant platform.
+Giving meaning to measurement
+Measurement provides the transformation that represents the relationship
+between one domain and another. Measurement in isolation is meaningless.
+It must fit into the understanding of a system, which has relational,
+interacting components. Measurement always has a reference from which
+it establishes a relationship between domains. We have a colloquial
+expression in America, “Don't miss the forest for the trees.” It
+means that by focusing on the details, we tend to overlook the big
+picture. Sometimes scientists and engineers can see the details but
+miss the overall perspective. This does not have to be. We can overcome
+this failing and thereby build more useful instruments. We need to
+understand who uses measurement, why we measure, and how we measure.
+Upon this basis we can use basic principles of human interactions
+to construct better, more useful instruments. You might call these
+basic principles ergonomics, user interface, human factors; I would
+call it common sense

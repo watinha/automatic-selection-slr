@@ -1,2 +1,10 @@
 Extreme programming: a more musical approach to software development?
-This paper considers the relationship between software development  	as it is typically practiced, the extreme programming methodology  	and the learning and working environment of those involved in a creative  	art - music. In particular we emphasise how pair programming can  	facilitate an increase in the overall skill level of individuals  	and teams, and relate this to musicians' development of models of  	excellence through ensemble playing. Consideration is also given  	to the psychology of music performance and its relevance to the pursuit  	of excellence in software development.
+This paper considers the relationship between software development
+as it is typically practiced, the extreme programming methodology
+and the learning and working environment of those involved in a creative
+art - music. In particular we emphasise how pair programming can
+facilitate an increase in the overall skill level of individuals
+and teams, and relate this to musicians' development of models of
+excellence through ensemble playing. Consideration is also given
+to the psychology of music performance and its relevance to the pursuit
+of excellence in software development.

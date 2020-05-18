@@ -1,2 +1,8 @@
 Automated Recommender System for Web Based Applications
-Abstract:  Online shopping new way of business in present days based on the previous surfing and purchasing products are recommended  to the users. The existing method of recommending the product has to undergo several processes or functionalities and these  processes or functionalities are manually tested for the accuracy. The manual testing method requires lot of time and money and  other resources. To overcome the problem this paper proposes a Automation Testing for the recommender system, with Feature  Vector Algorithm and perform a automation on each modules of the Feature Vector algorithm and also checks the CrossBrowser  compatibility across the browser and also collecting the online reviews from by using Web Crawling Technique.  
+Abstract:
+Online shopping new way of business in present days based on the previous surfing and purchasing products are recommended
+to the users. The existing method of recommending the product has to undergo several processes or functionalities and these
+processes or functionalities are manually tested for the accuracy. The manual testing method requires lot of time and money and
+other resources. To overcome the problem this paper proposes a Automation Testing for the recommender system, with Feature
+Vector Algorithm and perform a automation on each modules of the Feature Vector algorithm and also checks the CrossBrowser
+compatibility across the browser and also collecting the online reviews from by using Web Crawling Technique.

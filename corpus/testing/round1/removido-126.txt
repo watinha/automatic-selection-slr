@@ -1,2 +1,20 @@
 Determining the effectiveness of three software evaluation techniques through informal aggregation
-Abstract  Context    An accepted fact in software engineering is that software must undergo verification and validation process during development to ascertain and improve its quality level. But there are too many techniques than a single developer could master, yet, it is impossible to be certain that software is free of defects. So, it is crucial for developers to be able to choose from available evaluation techniques, the one most suitable and likely to yield optimum quality results for different products. Though, some knowledge is available on the strengths and weaknesses of the available software quality assurance techniques but not much is known yet on the relationship between different techniques and contextual behavior of the techniques.    Objective    This research investigates the effectiveness of two testing techniques equivalence class partitioning and decision coverage and one review technique code review by abstraction, in terms of their fault detection capability. This will be used to strengthen the practical knowledge available on these techniques.    Method    The results of eight experiments conducted over 5 years to investigate the effectiveness of three techniques code reading by stepwise abstraction, equivalence class partitioning and decision (branch) coverage were aggregated using a less rigorous aggregation process proposed during the course of this work.  Results    It was discovered that the equivalence class partitioning and the decision coverage techniques behaved similarly in terms of fault detection capacity (and type of faults caught) based on the programs and fault classification used in the experiments. They both behaved better than the code reading by stepwise abstraction technique.    Conclusion    Overall, it can be deducted from the aggregation results that the equivalence class partitioning and the decision coverage techniques used are actually equally capable in terms of the type and number of faults detected. Nevertheless, more experiments is still required in this field so that this result can be verified using a rigorous aggregation technique.
+Abstract
+Context
+
+An accepted fact in software engineering is that software must undergo verification and validation process during development to ascertain and improve its quality level. But there are too many techniques than a single developer could master, yet, it is impossible to be certain that software is free of defects. So, it is crucial for developers to be able to choose from available evaluation techniques, the one most suitable and likely to yield optimum quality results for different products. Though, some knowledge is available on the strengths and weaknesses of the available software quality assurance techniques but not much is known yet on the relationship between different techniques and contextual behavior of the techniques.
+
+Objective
+
+This research investigates the effectiveness of two testing techniques equivalence class partitioning and decision coverage and one review technique code review by abstraction, in terms of their fault detection capability. This will be used to strengthen the practical knowledge available on these techniques.
+
+Method
+
+The results of eight experiments conducted over 5 years to investigate the effectiveness of three techniques code reading by stepwise abstraction, equivalence class partitioning and decision (branch) coverage were aggregated using a less rigorous aggregation process proposed during the course of this work.
+Results
+
+It was discovered that the equivalence class partitioning and the decision coverage techniques behaved similarly in terms of fault detection capacity (and type of faults caught) based on the programs and fault classification used in the experiments. They both behaved better than the code reading by stepwise abstraction technique.
+
+Conclusion
+
+Overall, it can be deducted from the aggregation results that the equivalence class partitioning and the decision coverage techniques used are actually equally capable in terms of the type and number of faults detected. Nevertheless, more experiments is still required in this field so that this result can be verified using a rigorous aggregation technique.

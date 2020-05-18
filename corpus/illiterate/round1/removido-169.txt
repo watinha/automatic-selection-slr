@@ -1,2 +1,19 @@
-The case for multi-user design for computer aided learning in developing 	regions
-Computer-aided learning is fast gaining traction in developing regions 	as a means to augment classroom instruction. Reasons for using computer-aided 	learning range from supplementing teacher shortages to starting underprivileged 	children off in technology, and funding for such initiatives range 	from state education funds to international agencies and private 	groups interested in child development. The interaction of children 	with computers is seen at various levels, from unsupervised self-guided 	learning at public booths without specific curriculum to highly regulated 	in-class computer applications with modules designed to go with school 	curriculum. Such learning is used at various levels from children 	as young as 5 year-old to high-schoolers. This paper uses field observations 	of primary school children in India using computer-aided learning 	modules, and finds patterns by which children who perform better 	in classroom activities seat themselves in front of computer monitors, 	and control the mouse, in cases where children are required to share 	computer resources. We find that in such circumstances, there emerges 	a pattern of learning, unique to multi-user environments - wherein 	certain children tend to learn better because of their control of 	the mouse. This research also shows that while computer aided learning 	software for children is primarily designed for single-users, the 	implementation realities of resource-strapped learning environments 	in developing regions presents a strong case for multi-user design.
+Mobile phones may be the right devices for supporting developing
+world accessibility, but is the WWW the right service delivery model?
+In this paper we detail the synergies we have observed between the
+features and limitations of mobile phones, and the usability and
+accessibility requirements of rural developing world users. This
+includes support for sequential interaction, multimedia input and
+output, asynchronous messaging and a universally familiar numeric
+keypad. However, we argue that the WWW as currently conceived may
+be an inappropriate model for delivering mobile information services
+in this context. We highlight a number of tensions we have observed
+between the traditional web model, and the design synergies that
+we have uncovered. To demonstrate an alternative framework, we describe
+CAM --- a platform for delivering mobile information services in
+the rural developing world. Supporting scripted execution, media-driven,
+tangible interaction as well as an offline usage model, CAM is uniquely
+adapted both to rural accessibility requirements and the inherent
+capabilities of mobile phones. By learning from the CAM design, we
+can either improve the design of existing mobile web standards and
+services, or implement a more appropriate framework altogether.

@@ -1,2 +1,16 @@
 Pair designing as practice for enforcing and diffusing design knowledge
-Evolving software's design requires that the members of the team acquire  	a deep and complete knowledge of the domain, the architectural components,  	and their integration. Such information is scarcely addressed within  	the design documentation and it is not trivial to derive it. A strategy  	for enforcing the consciousness of such hidden aspects of software's  	design is needed. One of the expected benefits of pair programming  	is fostering (tacit) knowledge building between the components of  	the pair and fastening its diffusion within the project's team. We  	have applied the paradigm of pair programming to the design phase  	and we have named it 'pair designing'. We have realized an experiment  	and a replica in order to understand if pair designing can be used  	as an effective means for diffusing and enforcing the design knowledge  	while evolving the system's design. The results suggest that pair  	designing could be a suitable means to disseminate and enforce design  	knowledge. Copyright (c) 2005 John Wiley & Sons, Ltd.
+Evolving software's design requires that the members of the team acquire
+a deep and complete knowledge of the domain, the architectural components,
+and their integration. Such information is scarcely addressed within
+the design documentation and it is not trivial to derive it. A strategy
+for enforcing the consciousness of such hidden aspects of software's
+design is needed. One of the expected benefits of pair programming
+is fostering (tacit) knowledge building between the components of
+the pair and fastening its diffusion within the project's team. We
+have applied the paradigm of pair programming to the design phase
+and we have named it 'pair designing'. We have realized an experiment
+and a replica in order to understand if pair designing can be used
+as an effective means for diffusing and enforcing the design knowledge
+while evolving the system's design. The results suggest that pair
+designing could be a suitable means to disseminate and enforce design
+knowledge. Copyright (c) 2005 John Wiley & Sons, Ltd.

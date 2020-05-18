@@ -1,0 +1,11 @@
+Design studies for a financial management system for micro-credit
+groups in rural india
+In this paper we describe the design process, results and observations
+obtained in designing a user interface for managing community-based
+financial institutions in rural India. The primary users are semi-literate
+village women from local communities. We present detailed observations
+from our field visits and the resulting evolution in our design vision.
+We describe a successful design artifact that is the result of this
+process, and list several important features that contributed to
+its success. We conclude with the current state of our work and our
+plans for the future.

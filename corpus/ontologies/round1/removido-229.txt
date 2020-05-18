@@ -1,2 +1,26 @@
 Design and Development of SRIONTO: An Educational Ontology Representing Software Risk Identification Knowledge
-Knowledge can be captured and made available to both  machines and humans by an ontology. Ontology can be served  as a structured knowledge representation scheme, capable of  assisting the construction of a personalized learning path. This  paper describes the processes of conceptualization and  specification, or building of, an ontology. The domain for  which the ontology has been constructed is software risk  identification. The required concepts, the semantic description  of the concepts and the interrelationship among the concepts  along with all other ontological components have been  collected from various literatures and experience of the people  from software industry. From which, a taxonomy has been  constructed by using the property isA? and the design  architecture for the required ontology has also been sketched  out manually with nearly four different types of properties. In  order to reduce implementation efforts, the Protege platform, a  scalable and integrated framework for ontological engineering,  has been used to construct the ontology. The constructed  ontology has been represented in owl format, which makes it  more machine understandable. Then the semantic  representation of the knowledge has been made using the OWL  document generator, which automatically generates a set of  documents from the ontology. In order to understand the  knowledge in more detailed way again the ontology has been  visualized using ontoviz tool
+Knowledge can be captured and made available to both
+machines and humans by an ontology. Ontology can be served
+as a structured knowledge representation scheme, capable of
+assisting the construction of a personalized learning path. This
+paper describes the processes of conceptualization and
+specification, or building of, an ontology. The domain for
+which the ontology has been constructed is software risk
+identification. The required concepts, the semantic description
+of the concepts and the interrelationship among the concepts
+along with all other ontological components have been
+collected from various literatures and experience of the people
+from software industry. From which, a taxonomy has been
+constructed by using the property isA? and the design
+architecture for the required ontology has also been sketched
+out manually with nearly four different types of properties. In
+order to reduce implementation efforts, the Protege platform, a
+scalable and integrated framework for ontological engineering,
+has been used to construct the ontology. The constructed
+ontology has been represented in owl format, which makes it
+more machine understandable. Then the semantic
+representation of the knowledge has been made using the OWL
+document generator, which automatically generates a set of
+documents from the ontology. In order to understand the
+knowledge in more detailed way again the ontology has been
+visualized using ontoviz tool

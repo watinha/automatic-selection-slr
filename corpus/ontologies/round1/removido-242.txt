@@ -1,2 +1,36 @@
 The 101haskell chrestomathy
-In philology and linguistics, the term chrestomathy refers to a  collection of sample texts in one language designed to be useful  for learning the language by demonstrating some language aspects  such as language development or literary style.  In programming, the term program chrestomathy refers to a collection  of sample programs in one or more programming languages  designed to be useful for learning programming (or becoming more  proficient in programming) by demonstrating some programming  language aspects such as comparison of programming style, expressiveness,  and applicable programming techniques in one language  or across different languages.  More broadly, the term software chrestomathy [1] refers to a  collection of software systems relying on one or more software languages  as well as any number of software technologies; a software  chrestomathy demonstrates aspects of programming and software  development. When compared to a program chrestomathy, a software  chrestomathy collects systems rather than programs, thereby  possibly covering additional details such as building, testing, and  sample data.  The 101haskell chrestomathy is a collection of tiny or small  Haskell-based software systems designed to be useful for learning  functional programming in Haskell. The collected systems  present Haskell-based solutions to a number of general system  requirements as defined by the 101companies project [1]. Also,  the systems exercise alternative applicable programming techniques  and technologies (e.g., libraries) for the requirements. The  101haskell chrestomathy is the Haskell-specific sub-chrestomathy  of the 101companies chrestomathy which covers dozens of programming  and software languages. Following the terminology  of 101companies, the collected systems are called contributions,  thereby emphasizing the community aspect of collection.  It happens that Haskell has played a special role in the 101companies  project, i.e., Haskell has been used to bootstrap and demonstrate  various capabilities of 101. (To a slightly reduced extent, this  is also true for Java.) Here is a partial list of such capabilities:
+In philology and linguistics, the term chrestomathy refers to a
+collection of sample texts in one language designed to be useful
+for learning the language by demonstrating some language aspects
+such as language development or literary style.
+In programming, the term program chrestomathy refers to a collection
+of sample programs in one or more programming languages
+designed to be useful for learning programming (or becoming more
+proficient in programming) by demonstrating some programming
+language aspects such as comparison of programming style, expressiveness,
+and applicable programming techniques in one language
+or across different languages.
+More broadly, the term software chrestomathy [1] refers to a
+collection of software systems relying on one or more software languages
+as well as any number of software technologies; a software
+chrestomathy demonstrates aspects of programming and software
+development. When compared to a program chrestomathy, a software
+chrestomathy collects systems rather than programs, thereby
+possibly covering additional details such as building, testing, and
+sample data.
+The 101haskell chrestomathy is a collection of tiny or small
+Haskell-based software systems designed to be useful for learning
+functional programming in Haskell. The collected systems
+present Haskell-based solutions to a number of general system
+requirements as defined by the 101companies project [1]. Also,
+the systems exercise alternative applicable programming techniques
+and technologies (e.g., libraries) for the requirements. The
+101haskell chrestomathy is the Haskell-specific sub-chrestomathy
+of the 101companies chrestomathy which covers dozens of programming
+and software languages. Following the terminology
+of 101companies, the collected systems are called contributions,
+thereby emphasizing the community aspect of collection.
+It happens that Haskell has played a special role in the 101companies
+project, i.e., Haskell has been used to bootstrap and demonstrate
+various capabilities of 101. (To a slightly reduced extent, this
+is also true for Java.) Here is a partial list of such capabilities:

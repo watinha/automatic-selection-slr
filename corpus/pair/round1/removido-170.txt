@@ -1,2 +1,17 @@
 Pair learning: With an eye toward future success
-Pair programming is a practice in which two programmers work collaboratively  	at one computer on the same design, algorithm, or code. Prior research  	indicates that pair programmers produce higher quality code in essentially  	half the time taken by solo programmers. Pair programming is becoming  	increasingly popular in industry and in university curricula. An  	experiment was run at North Carolina State University over a period  	of one and a half years to assess the efficacy of pair programming  	as an alternative educational technique in an introductory programming  	course. We found that the retention rate of the students in the introductory  	programming courses is equal to or better than that of the students  	in the solo programming courses. Most students show a positive attitude  	towards collaborative programming, and students in paired classes  	continue to be successful in subsequent programming classes that  	require solo programming. Pair programming also leads to a reduced  	workload for the course staff in terms of grading, questions answered  	and teaching effort.
+Pair programming is a practice in which two programmers work collaboratively
+at one computer on the same design, algorithm, or code. Prior research
+indicates that pair programmers produce higher quality code in essentially
+half the time taken by solo programmers. Pair programming is becoming
+increasingly popular in industry and in university curricula. An
+experiment was run at North Carolina State University over a period
+of one and a half years to assess the efficacy of pair programming
+as an alternative educational technique in an introductory programming
+course. We found that the retention rate of the students in the introductory
+programming courses is equal to or better than that of the students
+in the solo programming courses. Most students show a positive attitude
+towards collaborative programming, and students in paired classes
+continue to be successful in subsequent programming classes that
+require solo programming. Pair programming also leads to a reduced
+workload for the course staff in terms of grading, questions answered
+and teaching effort.

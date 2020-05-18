@@ -1,2 +1,15 @@
-How and Why Collaborative Software Development Impacts the Software  	Engineering Course
-This paper presents the results of an initial quantitative investigation  	to assess a variety of factors that potentially affect the collaborative  	software development experience. This research was conducted with  	119 students in two undergraduate software engineering classes at  	North Carolina State University. A survey was administered where  	students could reflect on their collaborative experiences. We analyzed  	these factors for interrelationships as well as for correlations  	with performance in the course, grade point average, and SAT scores.  	Our findings support the components of the proposed Social Interaction  	Model of Pair Programming. The substantiation of the Social Interaction  	Model of Pair Programming values suggests that they should be considered  	in course planning. We also find that work ethic and self-perceived  	programming ability positively correlate with GPA.
+How and Why Collaborative Software Development Impacts the Software
+Engineering Course
+This paper presents the results of an initial quantitative investigation
+to assess a variety of factors that potentially affect the collaborative
+software development experience. This research was conducted with
+119 students in two undergraduate software engineering classes at
+North Carolina State University. A survey was administered where
+students could reflect on their collaborative experiences. We analyzed
+these factors for interrelationships as well as for correlations
+with performance in the course, grade point average, and SAT scores.
+Our findings support the components of the proposed Social Interaction
+Model of Pair Programming. The substantiation of the Social Interaction
+Model of Pair Programming values suggests that they should be considered
+in course planning. We also find that work ethic and self-perceived
+programming ability positively correlate with GPA.

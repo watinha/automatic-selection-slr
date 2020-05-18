@@ -1,2 +1,19 @@
 Web Application Testing Framework using Agents
-Testing is a software development activity, devoted to  evaluating quality and improving the end product by  identifying defects and problems. It's an important aspect in  software application development to insure the application  quality which include the application's performance,  reliability, speed, security and functionality. Testing can be  done by automation tools like Win runner, QTP or manually.  Manual testing, is another option, but it takes lot of time and  manpower. Automated testing has increased costs and most of  the times is not affordable for small or middle level  organizations. In this paper we are presenting agent based  testing which can fulfill the testing requirements on smaller  costs. We present an implementation framework of an online  application which can be accessed over the web and on  payment of small amounts can provide different kinds of  software tests for web based applications. The framework  uses Multi Agent Systems to manage, perform, report the  testing procedures. 
+Testing is a software development activity, devoted to
+evaluating quality and improving the end product by
+identifying defects and problems. It's an important aspect in
+software application development to insure the application
+quality which include the application's performance,
+reliability, speed, security and functionality. Testing can be
+done by automation tools like Win runner, QTP or manually.
+Manual testing, is another option, but it takes lot of time and
+manpower. Automated testing has increased costs and most of
+the times is not affordable for small or middle level
+organizations. In this paper we are presenting agent based
+testing which can fulfill the testing requirements on smaller
+costs. We present an implementation framework of an online
+application which can be accessed over the web and on
+payment of small amounts can provide different kinds of
+software tests for web based applications. The framework
+uses Multi Agent Systems to manage, perform, report the
+testing procedures. 

@@ -1,2 +1,21 @@
 A 3-D computer game controller: design and applications
-During the past few decades from the invention of first gaming systems,  	there have been only a few designs for 3-D game controllers, most  	of which were released in limited numbers due to their high cost.  	These controllers were as a result targeted towards virtual reality  	applications and have less been used for home gaming applications.  	Ultrasonic ranging [Logitech 1992] and image processing techniques  	[Marks 2000] are among the methods used to track the position of  	the handheld compartment (HC) of the controller. Both of these methods  	impose some requirements on the environment in which they are utilized  	in, to have the desired performance. Highly reflective surfaces or  	materials in the vicinity of the transceivers cause unwanted echoes  	in the received signal which degrades the performance of ultrasonic  	ranging methods. Image processing techniques require high processing  	power and some sort of distinction, usually in color, between the  	background and the HC. Additionally, both of these methods fall short  	in tracking fast motions of the controller, which further limits  	their application. In this work, a novel design for a 3-D computer  	game controller using Micro-Electro-Mechanical-Systems (MEMS) sensors  	is presented. The proposed design is virtually independent of the  	environment in which it is used and requires small processing power.
+During the past few decades from the invention of first gaming systems,
+there have been only a few designs for 3-D game controllers, most
+of which were released in limited numbers due to their high cost.
+These controllers were as a result targeted towards virtual reality
+applications and have less been used for home gaming applications.
+Ultrasonic ranging [Logitech 1992] and image processing techniques
+[Marks 2000] are among the methods used to track the position of
+the handheld compartment (HC) of the controller. Both of these methods
+impose some requirements on the environment in which they are utilized
+in, to have the desired performance. Highly reflective surfaces or
+materials in the vicinity of the transceivers cause unwanted echoes
+in the received signal which degrades the performance of ultrasonic
+ranging methods. Image processing techniques require high processing
+power and some sort of distinction, usually in color, between the
+background and the HC. Additionally, both of these methods fall short
+in tracking fast motions of the controller, which further limits
+their application. In this work, a novel design for a 3-D computer
+game controller using Micro-Electro-Mechanical-Systems (MEMS) sensors
+is presented. The proposed design is virtually independent of the
+environment in which it is used and requires small processing power.

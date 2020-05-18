@@ -1,2 +1,12 @@
 An Online Survey System on Computer Game Enjoyment and Personality
-This paper discusses the development of an online survey instrument  	to measure the game enjoyment and player characteristics like age,  	gender and personality traits. A research framework of game play  	is proposed based on a review of prior research on computer game  	enjoyment, game characteristics, personality theories, effects of  	computer game play, and technology acceptance model. The proposed  	framework suggests that an appropriate fit between characteristics  	of the player and gaming technology will result in greater enjoyment  	while social influence may moderate effects of the fit. The survey  	will allow the researcher to establish the fit profiles between player  	characteristics and game play.
+This paper discusses the development of an online survey instrument
+to measure the game enjoyment and player characteristics like age,
+gender and personality traits. A research framework of game play
+is proposed based on a review of prior research on computer game
+enjoyment, game characteristics, personality theories, effects of
+computer game play, and technology acceptance model. The proposed
+framework suggests that an appropriate fit between characteristics
+of the player and gaming technology will result in greater enjoyment
+while social influence may moderate effects of the fit. The survey
+will allow the researcher to establish the fit profiles between player
+characteristics and game play.

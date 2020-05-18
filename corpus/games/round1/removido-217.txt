@@ -1,2 +1,11 @@
 Testing, Optimizaton, and Games
-We discuss algorithmic problems arising in the testing of reactive  	systems, i.e. systems that interact with their environment. The goal  	is to design test sequences so that we can deduce desired information  	about the given system under test, such as whether it conforms to  	a given specification model, or whether it satisfies given requirement  	properties. Test generation can be approached from different points  	of view - as an optimization problem of minimizing cost and maximizing  	the effectiveness of the tests; as a game between tester and system  	under test; or as a learning problem. We touch on some of these aspects  	and related algorithmic questions.
+We discuss algorithmic problems arising in the testing of reactive
+systems, i.e. systems that interact with their environment. The goal
+is to design test sequences so that we can deduce desired information
+about the given system under test, such as whether it conforms to
+a given specification model, or whether it satisfies given requirement
+properties. Test generation can be approached from different points
+of view - as an optimization problem of minimizing cost and maximizing
+the effectiveness of the tests; as a game between tester and system
+under test; or as a learning problem. We touch on some of these aspects
+and related algorithmic questions.

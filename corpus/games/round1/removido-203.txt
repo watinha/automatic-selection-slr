@@ -1,2 +1,6 @@
 Introducing EVG: An Emotion Evoking Game
-A dungeon role playing game intended to induce emotions such as boredom,  	surprise, joy, anger and disappointment is introduced. From the preliminary  	study, facial expressions indicating boredom and anger were observed.  	Individual differences were found on appraisal and facial expression  	of surprise, joy and disappointment.
+A dungeon role playing game intended to induce emotions such as boredom,
+surprise, joy, anger and disappointment is introduced. From the preliminary
+study, facial expressions indicating boredom and anger were observed.
+Individual differences were found on appraisal and facial expression
+of surprise, joy and disappointment.

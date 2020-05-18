@@ -1,2 +1,13 @@
-An adaptative game loop architecture with automatic distribution  	of tasks between CPU and GPU
-This article presents a new architecture to implement all game loop  	models for games and real-time applications that use the GPU as a  	mathematics and physics coprocessor, working in parallel processing  	mode with the CPU. The presented model applies automatic task distribution  	concepts. The architecture can apply a set of heuristics defined  	in Lua scripts in order to get acquainted with the best processor  	for handling a given task. The model applies the GPGPU (general-purpose  	computation on GPUs) paradigm. In this article we propose an architecture  	that acquires knowledge about the hardware by running tasks in each  	processor and, by studying their performance over time, finding the  	best processor for a group of tasks.
+An adaptative game loop architecture with automatic distribution
+of tasks between CPU and GPU
+This article presents a new architecture to implement all game loop
+models for games and real-time applications that use the GPU as a
+mathematics and physics coprocessor, working in parallel processing
+mode with the CPU. The presented model applies automatic task distribution
+concepts. The architecture can apply a set of heuristics defined
+in Lua scripts in order to get acquainted with the best processor
+for handling a given task. The model applies the GPGPU (general-purpose
+computation on GPUs) paradigm. In this article we propose an architecture
+that acquires knowledge about the hardware by running tasks in each
+processor and, by studying their performance over time, finding the
+best processor for a group of tasks.

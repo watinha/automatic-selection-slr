@@ -1,2 +1,50 @@
 QVMMA: A Short Term and Long Term Layer 3 DDoS Detector and Mitigator
-QVMMA: A Short Term and Long Term Layer 3 DDoS Detector and Mitigator  {tag
+QVMMA: A Short Term and Long Term Layer 3 DDoS Detector and Mitigator
+{tag}                                                                           {/tag}
+IJCA Proceedings on International Conference
+on Communication, Computing and Virtualization 2016 by IJCA Journal
+ICCCV 2016 - Number 1
+Year of Publication: 2016
+Authors:
+Sonia Laskar
+Dhirendra Mishra
+{bibtex}icccv20163.bib{/bibtex}
+Abstract
+Distributed Denial of Service (DDoS) attacks continue to harm servers using intense wars
+against popular ecommerce and content websites.  The short term and long term types of
+popular DDoS attacks can be detected, prevented and mitigated using the proposed novel
+Qualified Vector Match and Merge Algorithm (QVMMA) in real time.  14 feature components are
+used to generate an attack signature in real time and stored in dynamically updated DDoS
+Captured Attack Pattern (DCAP)30database.  It is effective in detecting new and old attacks.
+Persistent DDoS attacks cause financial damage or reputation loss by loss of the
+company&apos;s valuable clients.  The server&apos;s availability is heavily compromised.
+1 / 5
+QVMMA: A Short Term and Long Term Layer 3 DDoS Detector and Mitigator
+Popular websites Github and BBC UK faced DDoS attacks in 2015.  Long term DDoS attack
+directed on Github continued for over 118 hours34,35.  Short term DDoS attack experienced by
+BBC36 website caused its patchy response.  The main crux of the problem is the absence of a
+way to differentiate between attack records and legitimate records while the attack is occurring
+in real time.  Several methods1-31,37-42,43 are listed in brief in the paper.  Post mortem
+solutions are not applicable in real time.  Available real time solutions are slow.  QVMMA is an
+ideal faster real time solution to prevent DDoS attacks using Statistical Feature Vector
+Generation.  Matlab is used for DDoS real time simulation where the topologies (bus, star,
+abilene network) are created using OMNET++33.  QVMMA generates and uses Statistical
+Feature Vector for Attack Signature Generation, Matching and Identification only for qualifier
+satisfied records.  The web server&apos;s log files used as input to QVMMA are according to
+W3C log format standard34.  Experimentation is completed with exhaustive 336 cases.  Four
+networks are tested with 5, 8, 10, 13 nodes.  Performance evaluation of QVMMA concludes
+EER is 11. 8% when threshold is 1. 6.  Using model of FAR and FAR, the trendline provides
+threshold at 1 with EER at 10%.  Abilene network achieves best result.  As the number of
+attackers, nodes and intermediate routers increase, detection time increases.  If threshold is
+increased, the accuracy reduces.  If the number of nodes increases, accuracy increases.  Thus
+it is concluded that QVMMA can be used for effective layer 3 DDoS Prevention and Mitigation in
+real time based on results generated in Matlab simulation.  Extended results are provided.  A
+model is provided in this paper to predict the detection time for any number of attackers.  Other
+models are provided based on data collected through experimentation to formulate a relation
+between detection time, accuracy, Actual Attack Traffic Passed Rate (A_ATPR) with respect to
+the number of attackers.  The corresponding correlation coefficient and regression coefficient
+are calculated to identify and conclude the strong relationships.  This paper focuses on results
+and discussion on studying the effects and trend observed based on increasing the number of
+attackers during a DDoS attack.   Thus QVMMA is fast enough to be used in real time to detect
+and mitigate short term or long term layer 3 Denial of Service(DoS) and more complex DDoS
+attacks. 

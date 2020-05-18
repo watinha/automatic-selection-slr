@@ -1,0 +1,15 @@
+A neural network, speech-based approach to literacy
+An automatic word recognition system is described which assists orally
+proficient literacy inefficient people to become literate within
+a minimum possible timeframe. The system enables people with a strong
+oral tradition to impart their stories directly in text form, without
+the assistance of a learning facilitator, which is the current best
+practice for such people. This project stems from work with indigenous
+communities, but has far-reaching repercussions beyond this community
+sector, with the potential for benefit to mainstream literacy education
+(Gluck et.al., 1999). It should be emphasized that our system differs
+from virtually all other speech-to-text recognition systems in that
+users are not required to interact via written text (e.g. Kohonen,
+1988); at the heart of the system is a neural network-based pattern
+recognizer which translates speech patterns into visual rather than
+textual cues. Results obtained to date using this system are reported.

@@ -1,2 +1,21 @@
-A cost-effective solution for telemedicine in rural health care using 	mobile ad hoc networks
-Information and communication technology carries with it enormous 	potential for transforming poor people's lives, connecting them to 	markets and improving their access to government services. Health 	care organizations are also utilizing different information system 	technologies that can be employed to reduce administrative costs, 	make organizations more competitive, and ultimately provide better 	care to patients. However, most of the existing health care solutions 	require a huge initial investment and require the end-users to be 	technology-aware enough to use them. Developing economies like those 	in Latin America, Africa and Asia cannot afford to deploy such kind 	of real-time technologies for its masses because this would not be 	financially feasible. This paper discusses the problems associated 	with the implementation of such solutions in the rural sector of 	such economies. Also, a new system has been proposed which makes 	use of the wireless ad hoc networking for rural health care management. 	It has a lot of attractive features like ease of setup, use, and 	maintenance; and, most important, relatively very low cost for both 	users and providers. Also a case study of a similar kind of successful 	e-governance project in India, Bhoomi is shown which provides support 	for the promises associated with the proposed system.
+Coping with somatic illnesses in online support groups: Do the feared
+disadvantages actually occur?
+People in stressful circumstances, such as serious health conditions,
+often turn to support groups. With the increase in the availability
+and popularity of the Internet, the possibility has arisen to join
+support groups online. Various authors have raised potential disadvantages
+of these groups, such as the lack of control of the quality of the
+information that is exchanged and the concern that the exchange within
+the group might include socially inappropriate remarks. In this study
+we explored to what extent these potential disadvantages actually
+occur. In addition, we explored who uses Dutch online support groups
+and what is exchanged by the participants. By means of ''content
+analysis'' we analyzed a random sample of 1500 messages from publicly
+available online support groups for patients with breast cancer,
+arthritis and fibromyalgia. It appeared that the online support groups
+under study were mainly used by female patients. A major part of
+the postings contained ''off topic'' remarks. Popular health related
+topics were ''restrictions in daily life'' and ''regular medication''.
+Only in a minor proportion of the postings, potential disadvantages
+were present. Therefore this study suggests that online support groups
+are a viable option for support.

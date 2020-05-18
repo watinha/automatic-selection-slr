@@ -1,2 +1,20 @@
 Toward an understanding of flow in video games
-In the domain of computer games, research into the interaction between  	player and game has centred on 'enjoyment', often drawing in particular  	on optimal experience research and Csikszentmihalyi's 'Flow theory'.  	Flow is a well-established construct for examining experience in  	any setting and its application to game-play is intuitive. Nevertheless,  	it's not immediately obvious how to translate between the flow construct  	and an operative description of game-play. Previous research has  	attempted this translation through analogy. In this article we propose  	a practical, integrated approach for analysis of the mechanics and  	aesthetics of game-play, which helps develop deeper insights into  	the capacity for flow within games. The relationship between player  	and game, characterized by learning and enjoyment, is central to  	our analysis. We begin by framing that relationship within Cowley's  	user-system-experience (USE) model, and expand this into an information  	systems framework, which enables a practical mapping of flow onto  	game-play. We believe this approach enhances our understanding of  	a player's interaction with a game and provides useful insights for  	games' researchers seeking to devise mechanisms to adapt game-play  	to individual players.
+In the domain of computer games, research into the interaction between
+player and game has centred on 'enjoyment', often drawing in particular
+on optimal experience research and Csikszentmihalyi's 'Flow theory'.
+Flow is a well-established construct for examining experience in
+any setting and its application to game-play is intuitive. Nevertheless,
+it's not immediately obvious how to translate between the flow construct
+and an operative description of game-play. Previous research has
+attempted this translation through analogy. In this article we propose
+a practical, integrated approach for analysis of the mechanics and
+aesthetics of game-play, which helps develop deeper insights into
+the capacity for flow within games. The relationship between player
+and game, characterized by learning and enjoyment, is central to
+our analysis. We begin by framing that relationship within Cowley's
+user-system-experience (USE) model, and expand this into an information
+systems framework, which enables a practical mapping of flow onto
+game-play. We believe this approach enhances our understanding of
+a player's interaction with a game and provides useful insights for
+games' researchers seeking to devise mechanisms to adapt game-play
+to individual players.

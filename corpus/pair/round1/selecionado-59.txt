@@ -1,2 +1,19 @@
 Controlled experimentation on adaptations of pair programming
-The use of agile methods is growing in industrial practice due to  	the documented benefits of increased software quality, shared programmer  	expertise, and user satisfaction. These methods include pair programming  	(two programmers working side-by-side producing the code) and test-driven  	approaches (test cases written first to prepare for coding). In practice,  	software development organizations adapt agile methods to their environment.  	The purpose of this research is to understand better the impacts  	of adapting these methods. We perform a set of controlled experiments  	to investigate how adaptations, or variations, to the pair programming  	method impact programming performance and user satisfaction. We find  	that method variations do influence programming results. In particular,  	better performance and satisfaction outcomes are achieved when the  	pair programming is performed in face-to-face versus virtual settings,  	in combination with the test-driven approach, and with more experienced  	programmers. We also find that limiting the extent of collaboration  	can be effective, especially when programmers are more experienced.  	These experimental results provide a rigorous foundation for deciding  	how to adapt pair programming methods into specific project contexts.
+The use of agile methods is growing in industrial practice due to
+the documented benefits of increased software quality, shared programmer
+expertise, and user satisfaction. These methods include pair programming
+(two programmers working side-by-side producing the code) and test-driven
+approaches (test cases written first to prepare for coding). In practice,
+software development organizations adapt agile methods to their environment.
+The purpose of this research is to understand better the impacts
+of adapting these methods. We perform a set of controlled experiments
+to investigate how adaptations, or variations, to the pair programming
+method impact programming performance and user satisfaction. We find
+that method variations do influence programming results. In particular,
+better performance and satisfaction outcomes are achieved when the
+pair programming is performed in face-to-face versus virtual settings,
+in combination with the test-driven approach, and with more experienced
+programmers. We also find that limiting the extent of collaboration
+can be effective, especially when programmers are more experienced.
+These experimental results provide a rigorous foundation for deciding
+how to adapt pair programming methods into specific project contexts.

@@ -1,2 +1,15 @@
 Microfinance: a technical framework for cross border credit in India
-The Indian economy has been growing at a fast pace for the past few 	years but not all have benefited by this growth. Globalization has 	given a tremendous opportunity to grow but this growth has been restricted 	to a chosen few. This has resulted in an increasing gap between the 	haves and have-nots of the society. Microfinance can help reduce 	this disparity and lead to a more equitable growth of the country.   	Technology has grown tremendously in the past decade and has changed 	the way the various sectors operate today. It has become one of the 	key sustainers and drivers for any sector. It is now playing a key 	sustainer role in microfinance sector as well. Many technological 	vendors are coming up with low cost solutions for the sector, which 	can lower down the transactional costs.
+The Indian economy has been growing at a fast pace for the past few
+years but not all have benefited by this growth. Globalization has
+given a tremendous opportunity to grow but this growth has been restricted
+to a chosen few. This has resulted in an increasing gap between the
+haves and have-nots of the society. Microfinance can help reduce
+this disparity and lead to a more equitable growth of the country.
+
+
+Technology has grown tremendously in the past decade and has changed
+the way the various sectors operate today. It has become one of the
+key sustainers and drivers for any sector. It is now playing a key
+sustainer role in microfinance sector as well. Many technological
+vendors are coming up with low cost solutions for the sector, which
+can lower down the transactional costs.

@@ -1,2 +1,15 @@
 Emotional Requirements in Video Games
-Requirements engineering for video games must address a wide range  	of functional and non-functional requirements. Video game designers  	are most concerned with capturing and representing the player experience:  	the means by which the player's consciousness is cognitively engaged  	while simultaneously inducing emotional responses. We show that emotional  	requirements can be expressed in two parts: as the emotional intent  	of the designer and the means by which the designer expects to induce  	the target emotional state. Spatial and temporal qualifiers on intent  	and means may also be required. We introduce emotional terrain maps,  	emotional intensity maps, and emotion time lines as visual mechanisms  	for capturing and expressing emotional requirements. Using a first-person  	shooter example, we show that these mechanisms can express the desired  	emotional requirements while providing support for spatial and temporal  	qualifiers.
+Requirements engineering for video games must address a wide range
+of functional and non-functional requirements. Video game designers
+are most concerned with capturing and representing the player experience:
+the means by which the player's consciousness is cognitively engaged
+while simultaneously inducing emotional responses. We show that emotional
+requirements can be expressed in two parts: as the emotional intent
+of the designer and the means by which the designer expects to induce
+the target emotional state. Spatial and temporal qualifiers on intent
+and means may also be required. We introduce emotional terrain maps,
+emotional intensity maps, and emotion time lines as visual mechanisms
+for capturing and expressing emotional requirements. Using a first-person
+shooter example, we show that these mechanisms can express the desired
+emotional requirements while providing support for spatial and temporal
+qualifiers.

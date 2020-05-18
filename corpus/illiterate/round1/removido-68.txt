@@ -1,2 +1,16 @@
-Computer graphics, interactive technologies and collaborative learning 	synergy supporting individuals' skills development
-In this paper, we describe work carried out using the synergy of interactive 	technologies, computer graphics and collaborative learning to improve 	educators and students' knowledge of basic education by supporting 	interdisciplinary work.Through direct manipulating accessible Web 	standard languages such as Hyper Text Markup Language - HTML and 	Virtual Reality Modeling Language - VRML and their templates, we 	used interactive graphics techniques and tools, including learning 	theories and methodologies such as experiential learning as support 	for enhancing children's interest on studying and authoring content 	related to subjects such as Mathematics, Geography, Geometry, Languages 	and Arts.As a consequence of these human and technical interactions, 	including knowledge acquisition, we achieved an increase in individuals' 	traditional and digital literacy skills, social inclusion, and community 	collaborative work engagement inside and outside school environment. 	Further we found an improvement in curriculum development.
+Interactive Speech Translation in the Diplomat Project
+The Diplomat rapid-deployment speech-translation system is intended
+to allow naï ve users to communicate across a language barrier, without
+strong domain restrictions, despite the error-prone nature of current
+speech and translation technologies. In addition, it should be deployable
+for new languages an order of magnitude more quickly than traditional
+technologies. Achieving this ambitious set of goals depends in large
+part on allowing the users to correct recognition and translation
+errors interactively. We present the Multi-Engine Machine Translation
+(MEMT) architecture, describing how it is well suited for such an
+application. We then discuss our approaches to rapid-deployment speech
+recognition and synthesis. Finally we describe our incorporation
+of interactive error correction throughout the system design. We
+have already developed working bidirectional Croatian &lrarr2; English
+and Spanish &lrarr2; English systems, and have Haitian Creole &lrarr2;
+English and Korean &lrarr2; English versions under development.

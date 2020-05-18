@@ -1,2 +1,15 @@
-User study on family communication in China
-Family is a core element of society. The development of economics 	and the transformation of cultures in mainland China bring new challenges 	to family communications. To understand current practices and the 	needs of family communication in mainland China, we studied 27 rural 	and urban families with ethnographic methods. We summarized the main 	family structures for rural and urban families and also found three 	main family communication problems: emotional communication, the 	education of children and elder support. These three problems exist 	in both rural and urban areas, but in different forms. Two concepts, 	an emotional poster in village and a learning community based on 	family/village clan, were designed and presented to address the problems.
+Extending prerendered-interface voting software to support accessibility
+and other ballot features
+This work builds on the prerendered user interface (PRUI) approach
+for high-assurance voting software with a new design that supports
+synchronized audio and visual output, as well as concurrent input
+from a touchscreen and an alternate input device. This new design
+offers access for voters with a range of disabilities while retaining
+the benefits of PRUI voting systems: the user interface can be independently
+designed and audited, and the software needing verification is much
+smaller and simpler. This paper discusses the challenges of supporting
+accessibility in this architecture, explains how these challenges
+were addressed, and describes the resulting design. To demonstrate
+the feasibility of this approach and to establish a point of reference
+for the simplicity of voting machine software, this design has been
+implemented as a program called Pvote, in 460 lines of Python.

@@ -1,2 +1,12 @@
 Distributed collaborative design over Cave2 framework
-This paper presents the research and development of mechanisms to  	allow distributed collaborative design of integrated systems. Those  	mechanisms were implemented over the software infrastructure developed  	under the Cave Project, taking advantage on both definitions of the  	framework concept: classical electronic design frameworks and object-oriented  	extensible data modeling. The final result is a design environment  	accessible over Internet-like networks, where groups of designers  	can work over the design representation in a collaborative way. In  	order to organize the interaction between the designers, an extension  	to the Pair Programming collaboration methodology was developed and  	implemented in a case study.
+This paper presents the research and development of mechanisms to
+allow distributed collaborative design of integrated systems. Those
+mechanisms were implemented over the software infrastructure developed
+under the Cave Project, taking advantage on both definitions of the
+framework concept: classical electronic design frameworks and object-oriented
+extensible data modeling. The final result is a design environment
+accessible over Internet-like networks, where groups of designers
+can work over the design representation in a collaborative way. In
+order to organize the interaction between the designers, an extension
+to the Pair Programming collaboration methodology was developed and
+implemented in a case study.

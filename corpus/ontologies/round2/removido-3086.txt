@@ -1,2 +1,7 @@
 SOFTWARE TESTING WITH EMPHASIS ON FINDING SECURITY DEFECTS
-ABSTRACT  The Software Engineering discipline "Software Testing" has not provided a resource for systematically testing a software  product with focus on the various aspects related to information security. This was one of the conclusions produced by a  literature review conducted in the second half of 2012; a systematic literature review is now under way aiming to provide  a more solid perspective on this subject. An approach based on adequately structuring the current knowledge on  information security may provide support for effective security testing.
+ABSTRACT
+The Software Engineering discipline "Software Testing" has not provided a resource for systematically testing a software
+product with focus on the various aspects related to information security. This was one of the conclusions produced by a
+literature review conducted in the second half of 2012; a systematic literature review is now under way aiming to provide
+a more solid perspective on this subject. An approach based on adequately structuring the current knowledge on
+information security may provide support for effective security testing.

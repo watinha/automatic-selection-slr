@@ -1,2 +1,20 @@
-The effects of pair programming on learning efficiency in short programming  	assignments
-Pair programming is one of the important practices of a lightweight  	development methodology namely eXtreme Programming (XP). It emphasizes  	the practice of two persons working together at a single computer  	terminal, to design, code and test computer programs. The effects  	of pair programming on software development in industrial organizations  	were studied and it was found that pair programming increases the  	productivity by 15%. This evidence created an interest in amongst  	community of computer science educators to apply pair programming  	in educational settings. We have conducted an experiment with the  	students of computer science courses to compare the learning efficiency  	of students when they adopt pair programming with that of students  	using traditional method to do laboratory exercises of short duration.  	The learning efficiency was measured by evaluating design documents,  	completion time, and marks obtained in a written test that was conducted  	after every exercise. Our research confirms that the adoption of  	pair programming improves the design ability, reduces time taken  	to do a laboratory exercise and increases the knowledge and programming  	skill.
+The effects of pair programming on learning efficiency in short programming
+assignments
+Pair programming is one of the important practices of a lightweight
+development methodology namely eXtreme Programming (XP). It emphasizes
+the practice of two persons working together at a single computer
+terminal, to design, code and test computer programs. The effects
+of pair programming on software development in industrial organizations
+were studied and it was found that pair programming increases the
+productivity by 15%. This evidence created an interest in amongst
+community of computer science educators to apply pair programming
+in educational settings. We have conducted an experiment with the
+students of computer science courses to compare the learning efficiency
+of students when they adopt pair programming with that of students
+using traditional method to do laboratory exercises of short duration.
+The learning efficiency was measured by evaluating design documents,
+completion time, and marks obtained in a written test that was conducted
+after every exercise. Our research confirms that the adoption of
+pair programming improves the design ability, reduces time taken
+to do a laboratory exercise and increases the knowledge and programming
+skill.

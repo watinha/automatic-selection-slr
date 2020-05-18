@@ -1,0 +1,16 @@
+VOISERV: Creation and Delivery of Converged Services through Voice
+for Emerging Economies
+WWW has made information accessible to computer users in various ways
+not imagined before. However; there is a huge pool ofpeople, especially
+in emerging economies, still untouched by this revolution and are
+either unaware of, or are unable or to join this bandwagon. Mobile
+phones are increasingly empowering the under-privileged to utilize
+data and services beyond the basic voice communication. However;
+factors such as high illiteracy rate, cost sensitivity, and user
+interface issues prevent these users from deriving benefits of available
+infrastructure and services. We have developed a novel system Â¿
+VOISERV that enables ordinary telephone subscribers to create, deploy
+and offer their own customized voice-driven applications called Voic-eSites.
+The generated VoiceSites get hosted in the network for low cost of
+ownership and maintenance, and are integrated with advanced services
+available in the converged networks of today.

@@ -1,2 +1,37 @@
 The Effects of Individual XP Practices on Software Development Effort
-Traditional heavyweight software development methodologies are rigid,  	heavily documentation oriented and process oriented. In the present  	E-Business dominated environment, the above methodolo-gies are hard  	to follow. In response to this, a new generation of lightweight methodologies  	such as Extreme Programming (XP) has evolved which has only a few  	simple rules to adopt, and insist on less documentation. XP proposes  	four values, a development process and twelve practices. One of the  	significant benefits among those claimed by the inventors of XP is  	the reduction of effort in the software development. However, the  	extent of ful-fillment of this claim remains unanswered by empirical  	and quantitative evidences. Hence, the effects of XP on software  	development effort are to be investigated. In this study, we devel-oped  	a process simulation model to analyze the effects of individ-ual  	XP practices on development effort. System dynamics based simulation,  	an effective modeling technique for software devel-opment process  	was chosen. This model has accounted for all the twelve practices  	and processes of XP. We have also introduced a measurement scale  	for measuring the level of usage of individual XP practices. The  	factors that affect the cost are collected from literature and a  	few XP project managers. The process model was simulated for a case  	study of a typical XP project to investigate the effects of individual  	XP practices on development effort by vary-ing their usage levels.  	The decrease in percentage of the develop-ment effort for each XP  	practice when its usage level is varied from minimum to maximum during  	which all the other practices were maintained at a constant usage  	level was found. The decrease in percentage of the development effort  	for each XP practice when its usage level is minimum and maximum  	was computed and is given below. (i) Planning game - 2.67% (ii) Small  	Release - 2.67% (iii) Metaphor - 2.01% (iv) Simple design - 2.5%  	(v) Con-tinuous Testing - 2.88% (vi) Refactoring -0.677% (vii) On-site  	Customer - 5.48% (viii) Pair programming - 4.4% (ix) Collective Code  	Ownership – 4.82% (x) Forty Hours Per Week - 2% (xi) Coding Standard  	- 4.82% (xii) Continuous Integration - 1.13%. The finding of the  	present study on the effects of individual XP practices depicts a  	reduction in software development effort by enhancing their usage  	levels.
+Traditional heavyweight software development methodologies are rigid,
+heavily documentation oriented and process oriented. In the present
+E-Business dominated environment, the above methodolo-gies are hard
+to follow. In response to this, a new generation of lightweight methodologies
+such as Extreme Programming (XP) has evolved which has only a few
+simple rules to adopt, and insist on less documentation. XP proposes
+four values, a development process and twelve practices. One of the
+significant benefits among those claimed by the inventors of XP is
+the reduction of effort in the software development. However, the
+extent of ful-fillment of this claim remains unanswered by empirical
+and quantitative evidences. Hence, the effects of XP on software
+development effort are to be investigated. In this study, we devel-oped
+a process simulation model to analyze the effects of individ-ual
+XP practices on development effort. System dynamics based simulation,
+an effective modeling technique for software devel-opment process
+was chosen. This model has accounted for all the twelve practices
+and processes of XP. We have also introduced a measurement scale
+for measuring the level of usage of individual XP practices. The
+factors that affect the cost are collected from literature and a
+few XP project managers. The process model was simulated for a case
+study of a typical XP project to investigate the effects of individual
+XP practices on development effort by vary-ing their usage levels.
+The decrease in percentage of the develop-ment effort for each XP
+practice when its usage level is varied from minimum to maximum during
+which all the other practices were maintained at a constant usage
+level was found. The decrease in percentage of the development effort
+for each XP practice when its usage level is minimum and maximum
+was computed and is given below. (i) Planning game - 2.67% (ii) Small
+Release - 2.67% (iii) Metaphor - 2.01% (iv) Simple design - 2.5%
+(v) Con-tinuous Testing - 2.88% (vi) Refactoring -0.677% (vii) On-site
+Customer - 5.48% (viii) Pair programming - 4.4% (ix) Collective Code
+Ownership – 4.82% (x) Forty Hours Per Week - 2% (xi) Coding Standard
+- 4.82% (xii) Continuous Integration - 1.13%. The finding of the
+present study on the effects of individual XP practices depicts a
+reduction in software development effort by enhancing their usage
+levels.

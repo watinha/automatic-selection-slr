@@ -1,2 +1,12 @@
-Designing for place-based social interaction of urban residents in 	M\'{e
-The design of technology to facilitate social interaction of urban 	residents is increasingly important for many countries around the 	world. México and South Africa are particularly prone to issues that 	stem from urban densification and a lack of adequate affordable housing. 	Governments look to ICT to take on a mediating and facilitating role. 	This paper reports on research-inprogress of a tri-continental study. 	The external factors and aims of this pilot project identifying local 	case studies to prepare for a larger and longer term international 	comparison of local community networking approaches are examined. 	It is argued that by careful attention to cultural and social assets 	in the community, innovations will be engendered which enhance economic 	and social development. Preliminary design implications for the support 	of neighbourhood interactions across different socio-cultural contexts 	are presented.
+A roadmap for research in mobile business
+Mobile business research has arguably grown to become one of the most
+topical and complex eBusiness research areas in recent years. As
+a result, researchers face a plethora of interdisciplinary research
+challenges. Understanding the range of these challenges and confronting
+them requires coordinated research efforts, backed up by a holistic
+guiding approach. This paper aims at contributing to the future of
+mobile business research by proposing a roadmap to systematise and
+guide future research efforts, providing a methodical outlook to
+open research issues across all dimensions defining mobile business
+and prioritises future research in each dimension in the form of
+short-, medium-, and long-term research challenges.

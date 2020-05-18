@@ -1,2 +1,14 @@
 The Delta3D Open Source Game Engine
-What is it that all game engines and visual simulation tools have  	in common? A lot, as it turns out. In fact, game engines have so  	much in common that you have to wonder if they should actually be  	a commodity and they should be. That advanced feature that makes  	one game engine different from all the rest is part of the reason  	why game engines and visual simulation tools cost so much. Furthermore,  	most game engines have a unique development pipeline associated with  	them. The way content is developed and integrated is specific to  	that engine, implying limited (if any) portability and reuse. This  	business model is perfectly appropriate for the entertainment industry  	where having the latest graphics features can make or break a title,  	but to the training community, the model simply does not work. We  	need to think differently....
+What is it that all game engines and visual simulation tools have
+in common? A lot, as it turns out. In fact, game engines have so
+much in common that you have to wonder if they should actually be
+a commodity and they should be. That advanced feature that makes
+one game engine different from all the rest is part of the reason
+why game engines and visual simulation tools cost so much. Furthermore,
+most game engines have a unique development pipeline associated with
+them. The way content is developed and integrated is specific to
+that engine, implying limited (if any) portability and reuse. This
+business model is perfectly appropriate for the entertainment industry
+where having the latest graphics features can make or break a title,
+but to the training community, the model simply does not work. We
+need to think differently....

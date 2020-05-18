@@ -1,0 +1,17 @@
+Organizational usability of digital libraries in the courts
+Digital libraries (DLs) are the focus of professional movements in
+the medical, legal, and scholarly communities. DLs are being used
+increasingly nationwide in the legal profession for research; computer-integrated
+court reporting; and for trial presentations of multimedia documents
+and evidence photos. We present results of a study which contributes
+to DL research by examining some new DL design concepts within the
+legal domain. Two key forms of DL usability-interface and organizational-are
+discussed. While the human-computer-interaction (HCI) research community
+has made progress in improving interface usability, organizational
+usability is less well understood. We introduce the concept of organizational
+usability which refers to the mix between a computer system's design
+and an organization's characteristics such that the system can be
+effectively integrated into the work practices of members of the
+organization and is socially accepted by them. We explore the technical
+and sociotechnical dimensions of organizational usability by applying
+them to DLs used in the California Superior Courts

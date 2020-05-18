@@ -1,2 +1,25 @@
-Mobile data service fuels the desire for uniqueness
-Mobile content creators and service providers can leverage users' 	desire to be unique to expand revenue.
+Phone-Web: Accessing WWW using a telephone set
+In order to provide a ubiquitous, comprehensive and versatile service
+on the WWW the development of a WWW telephone browsing system named
+Phone-Web is proposed. This Phone-Web browser system would act as
+an intermediary between the telephone user and Web sites, thereby
+facilitating access to the WWW from any phone. The Phone-Web system
+would filter Web page information and then convert it into speech
+format. Users of the Phone-Web system could retrieve and hear information
+stored on WWW servers by using telephone handsets. For this system
+to work it requires a new hypertext language “Hyper Phone Markup
+Language” (HPML) and a dedicated Phone-Web browser. By using the
+proposed HPML language, Web page designers can easily specify service
+information in a set of HPML pages, which would be included in the
+site they are designing. The Phone-Web browser would be capable of
+retrieving and then converting the HPML pages into speech patterns.
+By connecting to the Phone-Web browser, telephone users can access
+any information on any site using the HPML language from any telephone
+anywhere in the world. However, HPML-specified pages can also be
+accessed using existing browsers (e.g., Netscape Navigator, Microsoft
+Internet Explorer, etc.) This means that both telephone and computer
+users can now access the same set of Web pages to retrieve the same
+information. Therefore, instead of maintaining the existing two systems
+(access via the telephone or computer) service providers can now
+maintain one system, which would provide a versatile, and comprehensive
+service for users at all levels of Web-literacy.

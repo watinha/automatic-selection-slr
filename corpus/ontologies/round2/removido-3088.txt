@@ -1,2 +1,29 @@
 Value-based, dependency-aware inspection and test prioritization
-As two of the most popular defect removal activities, Inspection and Testing are  of the most labor-intensive activities in software development life cycle and consumes  between 30% and 50% of total development costs according to many studies. However,  most of the current defect removal strategies treat all instances of software artifacts as  equally important in a value-neutral way; this becomes more risky for high-value  software under limited funding and competitive pressures.  In order to save software inspection and testing effort to further improve  affordability and timeliness while achieving acceptable software quality, this research  introduces a value-based, dependency-aware inspection and test prioritization strategy for  improving the lifecycle cost-effectiveness of software defect removal options. This  allows various defect removal types, activities, and artifacts to be ranked by how well  they reduce risk exposure. Combining this with their relative costs enables them to be  prioritized in terms of Return On Investment (ROI) or Risk Reduction Leverage (RRL).  Furthermore, this strategy enables organizations to deal with two types of common  dependencies among items to be prioritized. This strategy will help project managers  determine how much software inspection/testing is enough? under time and budget  constraints. Besides, a new metric Average Percentage of Business Importance Earned  (APBIE) is proposed to measure how quickly testing can reduce the quality uncertainty  and earn the relative business importance of the System Under Test (SUT).  This Value-Based, Dependency-Aware Inspection and Testing strategy has been  empirically studied and successfully applied on a series of case studies within different  prioritization granularity levels: (1). Prioritizing artifacts to be reviewed in 21 graduate  level, real-client software engineering course projects; (2). Prioritizing testing scenarios  to be applied in an industrial project at the acceptance testing phase in Galorath, Inc.; (3).  Prioritizing software features to be functionally tested in an industrial project in the  China-NFS company; (4). Prioritizing test cases to be executed in 18 course projects. All  the comparative statistics analysis from the four case studies show positive results from  applying the Value-Based, Dependency-Aware strategy. 
+As two of the most popular defect removal activities, Inspection and Testing are
+of the most labor-intensive activities in software development life cycle and consumes
+between 30% and 50% of total development costs according to many studies. However,
+most of the current defect removal strategies treat all instances of software artifacts as
+equally important in a value-neutral way; this becomes more risky for high-value
+software under limited funding and competitive pressures.
+In order to save software inspection and testing effort to further improve
+affordability and timeliness while achieving acceptable software quality, this research
+introduces a value-based, dependency-aware inspection and test prioritization strategy for
+improving the lifecycle cost-effectiveness of software defect removal options. This
+allows various defect removal types, activities, and artifacts to be ranked by how well
+they reduce risk exposure. Combining this with their relative costs enables them to be
+prioritized in terms of Return On Investment (ROI) or Risk Reduction Leverage (RRL).
+Furthermore, this strategy enables organizations to deal with two types of common
+dependencies among items to be prioritized. This strategy will help project managers
+determine how much software inspection/testing is enough? under time and budget
+constraints. Besides, a new metric Average Percentage of Business Importance Earned
+(APBIE) is proposed to measure how quickly testing can reduce the quality uncertainty
+and earn the relative business importance of the System Under Test (SUT).
+This Value-Based, Dependency-Aware Inspection and Testing strategy has been
+empirically studied and successfully applied on a series of case studies within different
+prioritization granularity levels: (1). Prioritizing artifacts to be reviewed in 21 graduate
+level, real-client software engineering course projects; (2). Prioritizing testing scenarios
+to be applied in an industrial project at the acceptance testing phase in Galorath, Inc.; (3).
+Prioritizing software features to be functionally tested in an industrial project in the
+China-NFS company; (4). Prioritizing test cases to be executed in 18 course projects. All
+the comparative statistics analysis from the four case studies show positive results from
+applying the Value-Based, Dependency-Aware strategy. 

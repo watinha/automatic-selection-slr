@@ -1,2 +1,23 @@
-Man-computer interaction aspects in systems for the young people 	and non-alphabetized adults
-The INFormar project (Informatics for the Education of the Illiterate 	Young and Adult) unfolds in a country with a huge social exclusion 	by illiteracy. The project main target is to develop customized computational 	and methodological tools that multiply the processes of teaching 	illiterate adults and of training specialized teachers, at the same 	time helping the process of digital inclusion. The first of the tools 	assesses the individual illiteracy level and gives some insight for 	an analysis of the special aspects of human-computer interface in 	computer systems for illiterate users.
+Text-free user interfaces for illiterate and semiliterate users
+We describe work toward the goal of a user interface (UI) designed
+such that even novice, illiterate users require absolutely no intervention
+from anyone at all to use. Our text-free UI is based on many hours
+of ethnographic design conducted in collaboration with a community
+of illiterate domestic laborers in three Bangalore slums. An ethnographic
+design process was used to understand what kind of application subjects
+would be interested in, how they respond to computing technology,
+and how they react to specific UI elements. We built two applications
+using these principles, one for job search for domestic laborers
+and another for a generic map that could be used for navigating a
+city. The resulting designs are based on key lessons that we gained
+through the design process. This article describes the design process,
+the design principles, which evolved out of the process, the final
+application designs, and results from initial user testing. Our results
+confirm previous work that emphasizes the need for semiabstracted
+graphics and voice feedback, but we additionally find that some aspects
+of design for illiterate users that have been previously overlooked
+(such as a consistent help feature). Results also show that the text-free
+designs are strongly preferred over standard text-based interfaces
+by the communities which we address and that they are potentially
+able to bring even complex computer functions within the reach of
+users who are unable to read.

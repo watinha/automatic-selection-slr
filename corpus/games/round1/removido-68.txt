@@ -1,2 +1,7 @@
 Cognitive evaluation of video games: players' perceptions
-Video games were evaluated by players very familiar with them, along  	five cognitive dimensions drawn from the PASS model. These 233 gamers  	evaluated up to three games each which were then placed into genres  	defined by GameSpot.com and compared in terms of their perceived  	cognitive components. Game genre, for which there was sufficient  	number of evaluations, differed along each cognitive dimension.
+Video games were evaluated by players very familiar with them, along
+five cognitive dimensions drawn from the PASS model. These 233 gamers
+evaluated up to three games each which were then placed into genres
+defined by GameSpot.com and compared in terms of their perceived
+cognitive components. Game genre, for which there was sufficient
+number of evaluations, differed along each cognitive dimension.

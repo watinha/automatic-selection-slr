@@ -1,2 +1,16 @@
 A Literature Survey on Finite State Testing of Graphical User Interface
-The automated graphical user interface (GUI) testing has been  a challenging task. The manual testing done in the GUI  requires huge amount of time, so in order to reduce this time,  many automated GUI testing techniques have been proposed.  The most common way testing with any software is based on  the finite state machine (FSM). It has been used since we have  the software that doesn't have the GUI. So the various efforts  have done to use the same finite state model in the graphical  testing. In this paper, we have presented the survey of the  various GUI testing techniques, mostly that are mostly based  on finite state machines. The various approaches have  described that may range from the combinatorial to artificial  intelligence approach. There is still a gap that to be filled as  the tools are still the part of academic research but not the part  of industries. 
+The automated graphical user interface (GUI) testing has been
+a challenging task. The manual testing done in the GUI
+requires huge amount of time, so in order to reduce this time,
+many automated GUI testing techniques have been proposed.
+The most common way testing with any software is based on
+the finite state machine (FSM). It has been used since we have
+the software that doesn't have the GUI. So the various efforts
+have done to use the same finite state model in the graphical
+testing. In this paper, we have presented the survey of the
+various GUI testing techniques, mostly that are mostly based
+on finite state machines. The various approaches have
+described that may range from the combinatorial to artificial
+intelligence approach. There is still a gap that to be filled as
+the tools are still the part of academic research but not the part
+of industries. 

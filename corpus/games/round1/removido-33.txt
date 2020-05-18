@@ -1,2 +1,11 @@
 AI: the Missing Link in Digital Game Interface Design?
-The central problem that this paper addresses is how to manage dynamic  	change within game environments in response to variable player requirements  	and ability. In particular, we discuss the role of a game AI to enable  	game systems to learn about individual user patterns, behaviours,  	desires or moods in order to adapt the environment in reaction to  	the users interaction with the environment. We discuss the role  	that AI may play in the design of the game interface in order to  	enhance the dynamic and responsive nature of the game system with  	respect to individual users and leading to more rewarding and immersive  	game experiences.
+The central problem that this paper addresses is how to manage dynamic
+change within game environments in response to variable player requirements
+and ability. In particular, we discuss the role of a game AI to enable
+game systems to learn about individual user patterns, behaviours,
+desires or moods in order to adapt the environment in reaction to
+the users interaction with the environment. We discuss the role
+that AI may play in the design of the game interface in order to
+enhance the dynamic and responsive nature of the game system with
+respect to individual users and leading to more rewarding and immersive
+game experiences.

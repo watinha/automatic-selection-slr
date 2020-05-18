@@ -1,0 +1,14 @@
+Gust of me: reconnecting mother and son
+The Gust of Presence conceptual design lets parents and children who
+live apart reconnect in a more friendship-based relationship. With
+two Gustbowls, parents and children can communicate in a simple way
+that requires little effort and could subtly become a part of their
+daily routines. Gustbowl is designed to promote and support informal,
+unobtrusive interactions in families whose members live apart. The
+Gustbowl helps families keep in touch, rather than just exchange
+information, by letting members be a part of each other's daily routines.
+This lets them have the little encounters that are ordinary to members
+who live together yet are greatly missed by members who live apart.
+We describe how the Delft design team created the Gustbowl from user
+studies by developing the concept for and field-testing an experiential
+prototype.

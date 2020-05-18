@@ -1,2 +1,12 @@
 Abordagem para Desenvolver Tecnologia de Software com Apoio de Estudos Secundarios e Primarios
-Abstract. Minimizing risks in the development and introduction of new technologies  in the software industry can be considered an important factor to evolve software  engineering as science. The using of evidence provided by experimental studies  allows the characterization of a technology before its using in software projects in  the industry. Thus, it is possible to determine with reasonable precision the  feasibility in to use a software technology in specific scenarios. Based on this  context, this paper presents an approach that uses secondary and primary studies to  support the conception of new software technologies. Its applicability is evaluated  by the description of two experience cases. As consequence, some discussions are  presented regarding the difficulties, risks, and benefits in the using of the proposed  approach.
+Abstract. Minimizing risks in the development and introduction of new technologies
+in the software industry can be considered an important factor to evolve software
+engineering as science. The using of evidence provided by experimental studies
+allows the characterization of a technology before its using in software projects in
+the industry. Thus, it is possible to determine with reasonable precision the
+feasibility in to use a software technology in specific scenarios. Based on this
+context, this paper presents an approach that uses secondary and primary studies to
+support the conception of new software technologies. Its applicability is evaluated
+by the description of two experience cases. As consequence, some discussions are
+presented regarding the difficulties, risks, and benefits in the using of the proposed
+approach.

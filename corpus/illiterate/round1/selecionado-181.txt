@@ -1,0 +1,22 @@
+Exploring the feasibility of video mail for illiterate users
+We present work that explores whether the asynchronous peer-to-peer
+communication capabilities of email can be made accessible to illiterate
+populations in the developing world. Building on metaphors from traditional
+communication systems such as postal mail, and relevant design principles
+established by previous research into text-free interfaces, we designed
+and evaluated a prototype asynchronous communication application
+built on standard email protocols. We considered different message
+formats -- text, freeform ink, audio, and video + audio -- and via
+iterative usage and design sessions, determined that video + audio
+was the most viable. Design alternatives for authentication processes
+were also explored. Our prototype was refined over three usability
+iterations, and the final version evaluated in a two-stage study
+with 20 illiterate users from an urban slum in Bangalore, India.
+Our results are mixed: On the one hand, the results show that users
+can understand the concept of video mail. They were able to successfully
+complete tasks ranging from account setup to login to viewing and
+creating mail, but required assistance from an online audio assistant.
+On the other hand, there were some surprising challenges such as
+a consistent difficulty understanding the notion of asynchronicity.
+The latter suggests that more work on the paradigm is required before
+the benefits of email can be brought to illiterate users.

@@ -1,2 +1,22 @@
-An empirical study of system design instability metric and design  	evolution in an agile software process
-Software project tracking and project plan adjustment are two important  	software engineering activities. The class growth shows the design  	evolution of the software. The System Design Instability (SDI) metric  	indicates the progress of an object-oriented (OO) project once the  	project is set in motion. The SDI metric provides information on  	project evolution to project managers for possible adjustment to  	the project plan. The objectives of this paper are to test if the  	System Design Instability metric can be used to estimate and re-plan  	software projects in an XP-like agile process and study system design  	evolution in the Agile software process. We present an empirical  	study of the class growth and the SDI metric in two OO systems, developed  	using an agile process similar to Extreme Programming (XP). We analyzed  	the system evolutionary data collected on a daily basis from the  	two systems. We concluded that: the systems' class growth follows  	observable trends, the SDI metric can indicate project progress with  	certain trends, and the SDI metric is correlated with XP activities.  	In both of the analyzed systems, we observed two consistent jumps  	in the SDI metric values in early and late development phases. Part  	of the results agrees with a previous empirical study in another  	environment.
+An empirical study of system design instability metric and design
+evolution in an agile software process
+Software project tracking and project plan adjustment are two important
+software engineering activities. The class growth shows the design
+evolution of the software. The System Design Instability (SDI) metric
+indicates the progress of an object-oriented (OO) project once the
+project is set in motion. The SDI metric provides information on
+project evolution to project managers for possible adjustment to
+the project plan. The objectives of this paper are to test if the
+System Design Instability metric can be used to estimate and re-plan
+software projects in an XP-like agile process and study system design
+evolution in the Agile software process. We present an empirical
+study of the class growth and the SDI metric in two OO systems, developed
+using an agile process similar to Extreme Programming (XP). We analyzed
+the system evolutionary data collected on a daily basis from the
+two systems. We concluded that: the systems' class growth follows
+observable trends, the SDI metric can indicate project progress with
+certain trends, and the SDI metric is correlated with XP activities.
+In both of the analyzed systems, we observed two consistent jumps
+in the SDI metric values in early and late development phases. Part
+of the results agrees with a previous empirical study in another
+environment.

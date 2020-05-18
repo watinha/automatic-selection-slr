@@ -1,2 +1,9 @@
 Experimenting with pair programming in the classroom
-There is now a substantial body of evidence in support of the use  	of pair programming in the classroom. Some of the data is anecdotal  	and some is the result of formal experiments. We are not aware of  	any published data that raises concerns about allowing students to  	complete programming projects using pair programming. In this paper  	we present data from three studies performed at UCSC. All three studies  	support the position that pair programming results in more student  	learning.
+There is now a substantial body of evidence in support of the use
+of pair programming in the classroom. Some of the data is anecdotal
+and some is the result of formal experiments. We are not aware of
+any published data that raises concerns about allowing students to
+complete programming projects using pair programming. In this paper
+we present data from three studies performed at UCSC. All three studies
+support the position that pair programming results in more student
+learning.

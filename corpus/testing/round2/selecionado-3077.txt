@@ -1,2 +1,6 @@
 Mutual knowledge transfer between industry and academia to improve testing with defect taxonomies
-Abstract: Software engineering is an applied research area preferably conducted  jointly by academia and industry to enable transfer of knowledge in both directions  and at the end improvement software engineering in industry. In this paper we  present how the required mutual knowledge transfer via empirical evaluation was  performed to improve testing with defect taxonomies in industry.
+Abstract: Software engineering is an applied research area preferably conducted
+jointly by academia and industry to enable transfer of knowledge in both directions
+and at the end improvement software engineering in industry. In this paper we
+present how the required mutual knowledge transfer via empirical evaluation was
+performed to improve testing with defect taxonomies in industry.

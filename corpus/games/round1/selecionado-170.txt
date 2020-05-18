@@ -1,2 +1,16 @@
 Designing a narrative-based audio only 3D game engine
-Immersing players in believable and engaging virtual environments  	is a common goal for many interactive computer games. While PC-based  	audio only games set in virtual worlds have traditionally been developed  	for blind players, new technology will soon create a market for audio  	only games aimed at a mass audience. We propose a framework for authoring  	interactive narrative-based audio only adventure games set in 3D  	virtual environments. Our work builds on several years of research  	into audio only applications for sight impaired users, augmented  	reality systems and human-computer interaction studies. We argue  	that a simple user interface enhances both immersion and entertainment  	value, making audio only games practical for mobile computing. Novel  	features of our system include real-time gameplay and support for  	multiple players. We also describe a software architecture for creating  	audio only games, the current implementation of which uses low-cost  	existing PC-based hardware and software.
+Immersing players in believable and engaging virtual environments
+is a common goal for many interactive computer games. While PC-based
+audio only games set in virtual worlds have traditionally been developed
+for blind players, new technology will soon create a market for audio
+only games aimed at a mass audience. We propose a framework for authoring
+interactive narrative-based audio only adventure games set in 3D
+virtual environments. Our work builds on several years of research
+into audio only applications for sight impaired users, augmented
+reality systems and human-computer interaction studies. We argue
+that a simple user interface enhances both immersion and entertainment
+value, making audio only games practical for mobile computing. Novel
+features of our system include real-time gameplay and support for
+multiple players. We also describe a software architecture for creating
+audio only games, the current implementation of which uses low-cost
+existing PC-based hardware and software.

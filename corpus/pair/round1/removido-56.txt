@@ -1,2 +1,10 @@
 Extending agile methods: postmortem reviews as extended feedback
-Agile software development methods, such as extreme programming, focus  	on informal learning mechanisms like pair programming. Yet powerful  	methods, new knowledge that is gained in a project does not spread  	rapidly in an organisation if knowledge and experience is not externalised.  	We propose to combine a lightweight externalisation method: postmortem  	reviews with agile methods to strengthen the overall learning, and  	suggest how this can be done. We use practical experience from an  	Extreme Programming development project, and from conducting postmortem  	analysis in several companies in our discussion.
+Agile software development methods, such as extreme programming, focus
+on informal learning mechanisms like pair programming. Yet powerful
+methods, new knowledge that is gained in a project does not spread
+rapidly in an organisation if knowledge and experience is not externalised.
+We propose to combine a lightweight externalisation method: postmortem
+reviews with agile methods to strengthen the overall learning, and
+suggest how this can be done. We use practical experience from an
+Extreme Programming development project, and from conducting postmortem
+analysis in several companies in our discussion.

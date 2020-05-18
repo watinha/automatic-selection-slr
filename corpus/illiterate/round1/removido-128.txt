@@ -1,2 +1,15 @@
-Organizing the unorganized - employing IT to empower the under-privileged
-Various sectors in developing countries are typically dominated by 	the presence of a large number of small and micro-businesses that 	operate in an informal, unorganized manner. Many of these are single 	person run micro-businesses and cannot afford to buy and maintain 	their own IT infrastructure. For others, easy availability of cheap 	labour provides a convenient alternative even though it results in 	inefficiency, as little or no records are maintained, and only manual, 	paper-based processes are followed. This results in high response 	times for customers, no formal accountability and higher charges. 	For the businesses this translates to lower earnings and losses due 	to inefficiencies. In this paper, we look at few such micro-business 	segments and explore their current models of operation, while identifying 	existing inefficiencies and pain points. We build upon the findings 	and propose an approach for delivering benefits of IT solutions to 	such micro-business segments. Finally, we present technology that 	realizes the proposed approach in the specific context of two such 	segments.
+A Social History of the Mobile Telephone with a View of its Future
+The social history of the mobile telephone involves both the history
+of technological development and an account of changing social and
+political frameworks into which the new technological developments
+become integrated. The technological innovations of mobile telephony
+were established from the 1940s, but it was not until the 1990s that
+adoption took off. It has been claimed that the mobile telephone
+revolution can be explained by changes in the way communication happens
+through social networks, away from old hierarchical forms. Several
+unique communicative and behavioural patterns have emerged in countries
+with mass use of the mobile telephone, including texting (SMS) and
+the development of new social norms. Nevertheless there is still
+huge global variation in use and development, and more research needs
+to be conducted which responds to very local patterns of use and
+reuse.

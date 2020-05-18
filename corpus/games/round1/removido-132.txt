@@ -1,2 +1,5 @@
 Evolving Games and Essential Nets for Affine Polymorphism
-This paper presents a game model of Second-order Intuitionistic Multiplicative  	Affine Logic (IMAL2). We extend Lamarche s essential nets to the  	second-order affine setting and use them to show that the model is  	fully and faithfully complete.
+This paper presents a game model of Second-order Intuitionistic Multiplicative
+Affine Logic (IMAL2). We extend Lamarche s essential nets to the
+second-order affine setting and use them to show that the model is
+fully and faithfully complete.

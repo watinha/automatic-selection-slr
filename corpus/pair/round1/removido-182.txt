@@ -1,2 +1,16 @@
 Interpreting procedures from descriptive guidelines
-Errors in clinical practice guidelines may translate into errors in  	real-world clinical practice. The best way to eliminate these errors  	is to understand how they are generated, thus enabling the future  	development of methods to catch errors made in creating the guideline  	before publication. We examined the process by which a medical expert  	from the American College of Physicians (ACP) created clinical algorithms  	from narrative guidelines, as a case study. We studied this process  	by looking at intermediate versions produced during the algorithm  	creation. We identified and analyzed errors that were generated at  	each stage, categorized them using Knuth's classification scheme,  	and studied patterns of errors that were made over the set of algorithm  	versions that were created. We then assessed possible explanations  	for the sources of these errors and provided recommendations for  	reducing the number of errors, based on cognitive theory and on experience  	drawn from software engineering methodologies.
+Errors in clinical practice guidelines may translate into errors in
+real-world clinical practice. The best way to eliminate these errors
+is to understand how they are generated, thus enabling the future
+development of methods to catch errors made in creating the guideline
+before publication. We examined the process by which a medical expert
+from the American College of Physicians (ACP) created clinical algorithms
+from narrative guidelines, as a case study. We studied this process
+by looking at intermediate versions produced during the algorithm
+creation. We identified and analyzed errors that were generated at
+each stage, categorized them using Knuth's classification scheme,
+and studied patterns of errors that were made over the set of algorithm
+versions that were created. We then assessed possible explanations
+for the sources of these errors and provided recommendations for
+reducing the number of errors, based on cognitive theory and on experience
+drawn from software engineering methodologies.

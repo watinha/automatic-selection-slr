@@ -1,2 +1,11 @@
 Toward Quality-Driven Development of 3D Computer Games
-The development of video games is a complex software engineering activity  	bringing together large multidisciplinary teams under stringent constraints.  	While much has been written about how to develop video games, there  	has been as yet little attempt to view video game development from  	a quality perspective, attempting to enumerate the quality attributes  	that must be satisfied by game implementations, and to relate implementation  	techniques to those quality attributes. In this paper, we discuss  	desired quality attributes of 3D computer games, and we use the development  	of our own Life is a Village game to illustrate architectural tactics  	that help achieve these desired qualities.
+The development of video games is a complex software engineering activity
+bringing together large multidisciplinary teams under stringent constraints.
+While much has been written about how to develop video games, there
+has been as yet little attempt to view video game development from
+a quality perspective, attempting to enumerate the quality attributes
+that must be satisfied by game implementations, and to relate implementation
+techniques to those quality attributes. In this paper, we discuss
+desired quality attributes of 3D computer games, and we use the development
+of our own Life is a Village game to illustrate architectural tactics
+that help achieve these desired qualities.

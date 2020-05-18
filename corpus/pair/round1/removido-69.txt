@@ -1,2 +1,8 @@
 Globally distributed software development and pair programming
-This paper examines whether globally distributed software development  	teams can enjoy the benefits that pair programming offers. The paper  	lists seven properties that need to exist before the benefits of  	pair programming can be realized. These properties emerge when two  	people work side-by-side in close proximity. This paper underscores  	the importance for "remote" pairs to exhibit these properties if  	they want to reap the same benefits as close-proximity pair programming.
+This paper examines whether globally distributed software development
+teams can enjoy the benefits that pair programming offers. The paper
+lists seven properties that need to exist before the benefits of
+pair programming can be realized. These properties emerge when two
+people work side-by-side in close proximity. This paper underscores
+the importance for "remote" pairs to exhibit these properties if
+they want to reap the same benefits as close-proximity pair programming.

@@ -1,2 +1,11 @@
-A roadmap for research in mobile business
-Mobile business research has arguably grown to become one of the most 	topical and complex eBusiness research areas in recent years. As 	a result, researchers face a plethora of interdisciplinary research 	challenges. Understanding the range of these challenges and confronting 	them requires coordinated research efforts, backed up by a holistic 	guiding approach. This paper aims at contributing to the future of 	mobile business research by proposing a roadmap to systematise and 	guide future research efforts, providing a methodical outlook to 	open research issues across all dimensions defining mobile business 	and prioritises future research in each dimension in the form of 	short-, medium-, and long-term research challenges.
+The re-invention of the corporate information model
+The paper analyzes the changing structures necessary to access business
+knowledge. The information needs of corporate users, especially those
+found in mobile and diverse professional services organizations,
+have expanded as the sheer amount of data available worldwide has
+multiplied. Many corporations are trying to restructure traditional,
+and typically standalone, information repositories and services into
+entities that will better serve today's and tomorrow's business information
+customer. As an example, the paper describes the approach being taken
+to establishing a new information model at the “Big Six” public accounting
+firm Coopers and Lybrand LLP

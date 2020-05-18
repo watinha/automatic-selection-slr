@@ -1,2 +1,21 @@
 Unsupervised Outlier Detection in Software Engineering
-The increasing complexity of software systems has lead to increased demands  on the tools and methods used when developing software systems.  To determine if a tool or method is more efficient or accurate than others  empirical studies are used. The data used in empirical studies might be  affected by outliers i.e. data points that deviates significantly from the  rest of the data set. Hence, the statistical analysis might be distorted by  these outliers as well.  This study investigates if outliers are present within Empirical Software  Engineering (ESE) studies using unsupervised methods for detection.  It also tries to assess if the statistical analyses performed in ESE studies  are affected by outliers by removing them and performing a re-analysis.  The subjects used in this study comes from a narrow literature review of  recently published papers within Software Engineering (SE). While collecting  the samples needed for this study the current state of practise  regarding data availability and analysis reproducibility is investigated.  This studys results shows that outliers can be found in ESE studies  and it also identifies issues regarding data availability within the same  field. Finally, this study presents guidelines for how to improve the way  outlier detection is presented within ESE studies as well as guidelines for  publishing data.
+The increasing complexity of software systems has lead to increased demands
+on the tools and methods used when developing software systems.
+To determine if a tool or method is more efficient or accurate than others
+empirical studies are used. The data used in empirical studies might be
+affected by outliers i.e. data points that deviates significantly from the
+rest of the data set. Hence, the statistical analysis might be distorted by
+these outliers as well.
+This study investigates if outliers are present within Empirical Software
+Engineering (ESE) studies using unsupervised methods for detection.
+It also tries to assess if the statistical analyses performed in ESE studies
+are affected by outliers by removing them and performing a re-analysis.
+The subjects used in this study comes from a narrow literature review of
+recently published papers within Software Engineering (SE). While collecting
+the samples needed for this study the current state of practise
+regarding data availability and analysis reproducibility is investigated.
+This studys results shows that outliers can be found in ESE studies
+and it also identifies issues regarding data availability within the same
+field. Finally, this study presents guidelines for how to improve the way
+outlier detection is presented within ESE studies as well as guidelines for
+publishing data.

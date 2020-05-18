@@ -1,2 +1,16 @@
-A Case Study in Software Product Lines - The Case of the Mobile Game  	Domain
-Software product lines (SPL) processes are gradually being adopted  	by many companies in several domains. A particular domain where the  	adoption of such processes may bring relevant benefits is the mobile  	applications domain given the big diversity of handsets, although  	the characteristics of this domain usually create barriers to apply  	these processes in practice, such as, restrictions of memory size  	and processing power and different API implementations by different  	manufacturers. In this context, this work presents briefly a practical  	approach to implement core assets in a SPL applied to the mobile  	game domain combining the good practices from the already published  	processes and describes in details a case study performed with the  	application of this approach, based on three different adventure  	mobile games. The results of the case study have shown the approach  	can be suitable for the domain in question.
+A Case Study in Software Product Lines - The Case of the Mobile Game
+Domain
+Software product lines (SPL) processes are gradually being adopted
+by many companies in several domains. A particular domain where the
+adoption of such processes may bring relevant benefits is the mobile
+applications domain given the big diversity of handsets, although
+the characteristics of this domain usually create barriers to apply
+these processes in practice, such as, restrictions of memory size
+and processing power and different API implementations by different
+manufacturers. In this context, this work presents briefly a practical
+approach to implement core assets in a SPL applied to the mobile
+game domain combining the good practices from the already published
+processes and describes in details a case study performed with the
+application of this approach, based on three different adventure
+mobile games. The results of the case study have shown the approach
+can be suitable for the domain in question.

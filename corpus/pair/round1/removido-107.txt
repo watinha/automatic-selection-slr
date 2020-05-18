@@ -1,2 +1,17 @@
 Test-driven development: Concepts, taxonomy, and future direction
-The test-driven development strategy requires writing automated tests  	prior to developing functional code in small, rapid iterations. XP  	is an agile method that develops object-oriented software in very  	short iterations with little upfront design. Although not originally  	given this name, TDD was described as an integral XP practice necessary  	for analysis, design, and testing that also enables design through  	refactoring, collective ownership, continuous integration, and programmer  	courage. Along with pair programming and refactoring, TDD has received  	considerable individual attention since XP's introduction. Developers  	have created tools specifically to support TDD across a range of  	languages and have written numerous books explaining how to apply  	TDD concepts. Researchers have begun to examine TDD's effects on  	defect reduction and quality improvements in academic and professional  	practitioner environments, and educators have started to examine  	how to integrate TDD into computer science and software engineering  	pedagogy.
+The test-driven development strategy requires writing automated tests
+prior to developing functional code in small, rapid iterations. XP
+is an agile method that develops object-oriented software in very
+short iterations with little upfront design. Although not originally
+given this name, TDD was described as an integral XP practice necessary
+for analysis, design, and testing that also enables design through
+refactoring, collective ownership, continuous integration, and programmer
+courage. Along with pair programming and refactoring, TDD has received
+considerable individual attention since XP's introduction. Developers
+have created tools specifically to support TDD across a range of
+languages and have written numerous books explaining how to apply
+TDD concepts. Researchers have begun to examine TDD's effects on
+defect reduction and quality improvements in academic and professional
+practitioner environments, and educators have started to examine
+how to integrate TDD into computer science and software engineering
+pedagogy.

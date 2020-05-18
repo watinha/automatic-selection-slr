@@ -1,2 +1,22 @@
-Implementing decision support technology among shop floor users; 	a story of success with an alternative deployment strategy
-This paper explores the recent use of relatively complex decision 	support systems (DSS) in public sector industries challenged by privatization 	and proposes a technology implementation model with proven success. 	Most implementations fall short of expectations. A primary concern 	is the user; to be effective, DSSs demand users with an in-depth 	understanding of their logic and detailed knowledge of the work being 	done. An iterative implementation model paired with alternative training 	has proven that DSSs can be used successfully by the rank and file, 	with better than planned results. By way of example, we offer the 	findings of one study of a large public transit system using such 	a strategy to deploy a preventive maintenance technology. An iterative 	top-down/bottom-up model for technology deployment is presented, 	consisting of: (1) a relatively small design team of software developers, 	maintenance managers, shop floor workers and foremen; (2) a powerful 	new training technique resulting in high quality direct data entry 	from the shop floor and (3) feedback from the work floor used in 	ongoing refinements of the system. The paper concludes that deployment 	must be organized around the concept that DSS are tools that are 	appropriated by the users and implementation efforts should facilitate 	that process
+Implementing decision support technology among shop floor users;
+a story of success with an alternative deployment strategy
+This paper explores the recent use of relatively complex decision
+support systems (DSS) in public sector industries challenged by privatization
+and proposes a technology implementation model with proven success.
+Most implementations fall short of expectations. A primary concern
+is the user; to be effective, DSSs demand users with an in-depth
+understanding of their logic and detailed knowledge of the work being
+done. An iterative implementation model paired with alternative training
+has proven that DSSs can be used successfully by the rank and file,
+with better than planned results. By way of example, we offer the
+findings of one study of a large public transit system using such
+a strategy to deploy a preventive maintenance technology. An iterative
+top-down/bottom-up model for technology deployment is presented,
+consisting of: (1) a relatively small design team of software developers,
+maintenance managers, shop floor workers and foremen; (2) a powerful
+new training technique resulting in high quality direct data entry
+from the shop floor and (3) feedback from the work floor used in
+ongoing refinements of the system. The paper concludes that deployment
+must be organized around the concept that DSS are tools that are
+appropriated by the users and implementation efforts should facilitate
+that process

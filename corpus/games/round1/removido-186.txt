@@ -1,2 +1,15 @@
 Generative conversation tool for game writers
-Conversation is an important part of many games, whether it is there  	to provide information or entertainment. In the current state of  	commercial game development, almost all conversation is hand-authored.  	Further, different authoring approaches are used for conversations  	between non-player characters (typically linear scripting) versus  	conversations between a non-player character and a human player (typically  	dialogue trees). In this paper, we present a tool, designed in collaboration  	with Telltale Games, for creating cocktail party conversations in  	which characters engage in free-flowing conversations. From an authorial  	perspective, we start at the hand-authoring side of the spectrum  	and add system-level support for conversation generation -- our aim  	is to decrease the authorial burden of creating a conversation while  	remaining close to existing methods the company's designers are familiar  	with using.
+Conversation is an important part of many games, whether it is there
+to provide information or entertainment. In the current state of
+commercial game development, almost all conversation is hand-authored.
+Further, different authoring approaches are used for conversations
+between non-player characters (typically linear scripting) versus
+conversations between a non-player character and a human player (typically
+dialogue trees). In this paper, we present a tool, designed in collaboration
+with Telltale Games, for creating cocktail party conversations in
+which characters engage in free-flowing conversations. From an authorial
+perspective, we start at the hand-authoring side of the spectrum
+and add system-level support for conversation generation -- our aim
+is to decrease the authorial burden of creating a conversation while
+remaining close to existing methods the company's designers are familiar
+with using.

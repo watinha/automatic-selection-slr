@@ -1,2 +1,9 @@
 Detection of Cross Browser Inconsistency by Comparing Extracted Attributes
-Abstract The advancement in web technology and popularity of web applications amplifies the inconsistencies  between various web browsers. These inconsistencies augment cross browser incompatibilities that constitute different  look on different browsers for a particular web application. In some cases, Cross-Browser Inconsistencies (XBIs)  consists of acceptable difference whereas these may entirely prevent users from accessing part of a web applications  functionality in other cases. Therefore, testing process of a web application must be performed comprehensively on  multiple browsers to achieve consistency. Available tools and techniques require a considerable manual effort to  recognize such issues and provide limited support for fixing the cause of the issues. In this paper, we propose a  technique for detecting cross-browser issues without human intervention.
+Abstract The advancement in web technology and popularity of web applications amplifies the inconsistencies
+between various web browsers. These inconsistencies augment cross browser incompatibilities that constitute different
+look on different browsers for a particular web application. In some cases, Cross-Browser Inconsistencies (XBIs)
+consists of acceptable difference whereas these may entirely prevent users from accessing part of a web applications
+functionality in other cases. Therefore, testing process of a web application must be performed comprehensively on
+multiple browsers to achieve consistency. Available tools and techniques require a considerable manual effort to
+recognize such issues and provide limited support for fixing the cause of the issues. In this paper, we propose a
+technique for detecting cross-browser issues without human intervention.

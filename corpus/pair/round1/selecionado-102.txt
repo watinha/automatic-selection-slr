@@ -1,2 +1,22 @@
 Evaluating the Usefulness of Pair Programming in a Classroom Setting
-Pair programming, the practice of two programmers working side by  	side on the same task on one computer, is a practice that is becoming  	increasingly prevalent in the computer science industry. Although  	there has been a large amount of research investigating pair programming  	in an industry setting, there has been little work done with pair  	programming in a classroom setting. Furthermore, the studies that  	have been done have concentrated on programming students with ample  	programming experience in a variety of languages. In addition to  	this, industry studies have focused in on the amount of work being  	completed rather than what is learned by the programmers. Therefore,  	this work will concentrate on students with considerably less programming  	experience, and focus on whether they learn better while working  	in teams. In addition, we will investigate how the difference in  	programming skill contributes to the amount learned. To do so, we  	have observed and interviewed students participating in pair programming  	to determine whether they are able to learn more and enjoy their  	work more when working in pairs. Finally, we participated in pair  	programming in a variety of settings to test it first hand. We found  	that despite some drawbacks, pair programming can be extremely beneficial.  	When used correctly, pair programming can be a valuable asset to  	the computer science classroom.
+Pair programming, the practice of two programmers working side by
+side on the same task on one computer, is a practice that is becoming
+increasingly prevalent in the computer science industry. Although
+there has been a large amount of research investigating pair programming
+in an industry setting, there has been little work done with pair
+programming in a classroom setting. Furthermore, the studies that
+have been done have concentrated on programming students with ample
+programming experience in a variety of languages. In addition to
+this, industry studies have focused in on the amount of work being
+completed rather than what is learned by the programmers. Therefore,
+this work will concentrate on students with considerably less programming
+experience, and focus on whether they learn better while working
+in teams. In addition, we will investigate how the difference in
+programming skill contributes to the amount learned. To do so, we
+have observed and interviewed students participating in pair programming
+to determine whether they are able to learn more and enjoy their
+work more when working in pairs. Finally, we participated in pair
+programming in a variety of settings to test it first hand. We found
+that despite some drawbacks, pair programming can be extremely beneficial.
+When used correctly, pair programming can be a valuable asset to
+the computer science classroom.

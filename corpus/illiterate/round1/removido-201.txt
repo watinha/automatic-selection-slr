@@ -1,2 +1,24 @@
-Assessing limiting factors to the acceptance of antiretroviral therapy 	in a large cohort of injecting drug users
-Objective   	A comprehensive questionnaire was designed to assess the knowledge 	and understanding of injecting drug users (IDUs) regarding their 	HIV disease, and to determine any factors that may increase the acceptance 	of antiretroviral therapy (ART) by this group.   	Results   	Twenty percent of the total IDU cohort attending the GUIDE (GenitoUrinary 	Medicine and Infectious Diseases) clinic participated in the study. 	Fifty-two percent had been homeless in the past 5 years and 84% are 	unemployed. Seventy-two percent of patients did not complete second 	level education and 10% were illiterate. Fifty-one percent had siblings 	or parents with a history of injection drug misuse, and 25% had at 	least one sibling also HIV positive. Forty-seven percent started 	using drugs before the age of 13 years, and the most common initial 	drug was heroin (44%). Ninety-five percent had attended for methadone 	maintenance therapy (MMT), with 39% currently attending for daily 	therapy. The majority of patients were unable to simply explain or 	interpret CD4 cell counts (54%) and 'viral loads' (65%). Fifty-seven 	percent of patients were receiving highly active antiretroviral therapy 	(HAART). There was a statistically significant association between 	patients receiving HAART and both attendance at a primary care physician 	for methadone maintenance therapy (P = 0.005), and weekly take-outs 	of methadone (P = 0.005). There was also an association between adherence 	to HAART and attendance at a methadone maintenance clinic (P = 0.04).   	Conclusions   	This study highlights the chaotic lifestyle and complex social background 	of the IDU. Such factors were not, however, associated with acceptance 	of HAART. The primary factor associated with both the acceptance 	of and adherence to HAART was regular and stable attendance for methadone 	therapy.
+Learning e-learning -- a comprehensive investigation of course developers'
+and language teacher trainees' views regarding the usefulness and
+effectiveness of a multimedia self-tuition course
+The paper presents the results of a comparative investigation of course
+developers’ and teacher trainees’ views regarding the usefulness
+and effectiveness of a multimedia self-tuition course designed to
+introduce foreign language teacher trainees to tools and methods
+for organising computer-assisted language learning. The paper first
+provides a brief description of the home-study course itself. It
+describes the course’s main components, its content as well as the
+learning and evaluation tasks the course provides in support of the
+learning process. Next, the paper reports on the way in which the
+evaluation project investigating teacher trainees’ and course developers’
+views regarding the effectiveness of the course was set up. The project’s
+design is presented, and the way in which various procedures of data
+collection (written evaluations and individual interviews) were triangulated
+is commented on. In the third section we present the investigation’s
+main findings. The section focuses on points of agreement and disagreement
+between developers’ and trainees’ views regarding the usefulness
+and effectiveness of the course. Finally, we describe the changes
+brought about by the evaluation project, and reflect on the necessity
+to take account of future users’ views and requirements in the design
+and development process if the training of foreign language teachers
+is to benefit from web-based delivery.

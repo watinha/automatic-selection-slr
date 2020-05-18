@@ -1,2 +1,8 @@
 The costs and benefits of pair programming
-Pair or collaborative programming is where two programmers develop  	software side by side at one computer. Using interviews and controlled  	experiments, the authors investigated the costs and benefits of pair  	programming. They found that for a development-time cost of about  	15%, pair programming improves design quality, reduces defects, reduces  	staffing risk, enhances technical skills, improves team communications  	and is considered more enjoyable at statistically significant levels.
+Pair or collaborative programming is where two programmers develop
+software side by side at one computer. Using interviews and controlled
+experiments, the authors investigated the costs and benefits of pair
+programming. They found that for a development-time cost of about
+15%, pair programming improves design quality, reduces defects, reduces
+staffing risk, enhances technical skills, improves team communications
+and is considered more enjoyable at statistically significant levels.

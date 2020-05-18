@@ -1,2 +1,21 @@
 Pair formation in CS1: Self-selection vs random pairing
-Attrition in Computer Science education is at its highest level in  	the last 20 years. Many researchers are searching for practices to  	decrease the attrition rate nationwide. Pair programming has been  	borrowed from industry and placed in today's computer science academic  	environment. Many studies have shown that pair programming increases  	students' confidence levels and aids in the retention of those students  	that have selected computer science as their academic major. This  	research builds on this premise and investigates the effects of self-selection  	and random methods of pair formation. These methods of pair formation  	were used in beginning computer science courses at a historically  	black college and university (HBCU) to statistically demonstrate  	that students prefer to self-select their partner. Honoring this  	preference aids in the students overall satisfaction with beginning  	CS courses therefore decreasing the students possibility of changing  	their academic major. Data will show that in a CS1 course, the election  	to implement random or self-selection pair formation is trivial and  	students will perform equally whether the pairs are assigned or self-selected,  	however self-selection aids in the satisfaction of a student and  	therefore impacts their decision to retain computer science as their  	major.
+Attrition in Computer Science education is at its highest level in
+the last 20 years. Many researchers are searching for practices to
+decrease the attrition rate nationwide. Pair programming has been
+borrowed from industry and placed in today's computer science academic
+environment. Many studies have shown that pair programming increases
+students' confidence levels and aids in the retention of those students
+that have selected computer science as their academic major. This
+research builds on this premise and investigates the effects of self-selection
+and random methods of pair formation. These methods of pair formation
+were used in beginning computer science courses at a historically
+black college and university (HBCU) to statistically demonstrate
+that students prefer to self-select their partner. Honoring this
+preference aids in the students overall satisfaction with beginning
+CS courses therefore decreasing the students possibility of changing
+their academic major. Data will show that in a CS1 course, the election
+to implement random or self-selection pair formation is trivial and
+students will perform equally whether the pairs are assigned or self-selected,
+however self-selection aids in the satisfaction of a student and
+therefore impacts their decision to retain computer science as their
+major.

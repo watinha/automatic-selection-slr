@@ -1,2 +1,20 @@
-Visualization of a closed three-dimensional surface using portal-based 	rendering
-The complexity and size of data is rapidly increasing in modern science, 	business and engineering. This has resulted in increasing demands 	for more sophisticated data analysis methods. Multidimensional scaling 	has been used to visualize large high-dimensional datasets in the 	form of a map. Such maps are very intuitive for us, as we are familiar 	with reading geographical maps. However, they typically result in 	a flat space (world), which presents undefined discontinuous edges 	at the end of the world.In order to provide a continuous space for 	visualizing high-dimensional data, a closed three-dimensional (3D) 	surface, such as surfaces of a sphere and a torus, has been used 	as a target mapping space for multi-dimensional scaling. This paper 	proposes an application of a portal-based rendering technique to 	visualize such closed 3D surfaces. This 3D rendering technique allows 	users to see and navigate through the surface in a natural manner. 	This eliminates any discontinuous boundaries usually introduced by 	a process of projection from 3D to two-dimensional space. Furthermore, 	as our initial investigations show, it is a general technique that 	is applicable to any closed 3D surface.
+Visualization of a closed three-dimensional surface using portal-based
+rendering
+The complexity and size of data is rapidly increasing in modern science,
+business and engineering. This has resulted in increasing demands
+for more sophisticated data analysis methods. Multidimensional scaling
+has been used to visualize large high-dimensional datasets in the
+form of a map. Such maps are very intuitive for us, as we are familiar
+with reading geographical maps. However, they typically result in
+a flat space (world), which presents undefined discontinuous edges
+at the end of the world.In order to provide a continuous space for
+visualizing high-dimensional data, a closed three-dimensional (3D)
+surface, such as surfaces of a sphere and a torus, has been used
+as a target mapping space for multi-dimensional scaling. This paper
+proposes an application of a portal-based rendering technique to
+visualize such closed 3D surfaces. This 3D rendering technique allows
+users to see and navigate through the surface in a natural manner.
+This eliminates any discontinuous boundaries usually introduced by
+a process of projection from 3D to two-dimensional space. Furthermore,
+as our initial investigations show, it is a general technique that
+is applicable to any closed 3D surface.

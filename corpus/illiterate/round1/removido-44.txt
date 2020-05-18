@@ -1,2 +1,13 @@
 Electronic sign strategies and their benefits
-Recent years have seen the introduction of many electronic signs providing 	dynamic information to road users. These variable message signs (VMS) 	are, in most cases, connected together to form systems over increasingly 	large geographical areas, and have the opportunity to influence significant 	numbers of drivers. Much work is currently under way to measure the 	performance of such systems in order to assess the benefits of the 	investment and justify the further deployment of signs. The results 	are beginning to identify VMS strategies that yield the best returns. 	They have already provoked proposals for further integration of VMS 	with other information systems, and are highlighting institutional 	issues relating to sign control. This paper summarises these results 	and the emerging conclusions from the work
+Recent years have seen the introduction of many electronic signs providing
+dynamic information to road users. These variable message signs (VMS)
+are, in most cases, connected together to form systems over increasingly
+large geographical areas, and have the opportunity to influence significant
+numbers of drivers. Much work is currently under way to measure the
+performance of such systems in order to assess the benefits of the
+investment and justify the further deployment of signs. The results
+are beginning to identify VMS strategies that yield the best returns.
+They have already provoked proposals for further integration of VMS
+with other information systems, and are highlighting institutional
+issues relating to sign control. This paper summarises these results
+and the emerging conclusions from the work

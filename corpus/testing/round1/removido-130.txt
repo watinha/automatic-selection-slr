@@ -1,2 +1,27 @@
 On the development life cycle of distributed functional applications: a case study
-Abstract  In a world where technology plays a major, increasing role day after day,   efforts devoted to develop better software are never too much. Both industry   and academia are well aware of this, and keep on working to face the new   problems and challenges that arise, more efficiently and effectively each time.   Companies show their interest in cutting-edge methods, techniques, and tools,   especially when they are backed up with empirical results that show practical   benefits. On the other hand, academia is more than ever aware of real-world   problems, and it is succeeding in connecting its research efforts to actual case   studies.   This thesis follows the mentioned trend, as it presents a study on software   applications development based on a real case. As its main novelty and contribution,   the integral process of software development is addressed from the   functional paradigm point of view. In contrast with the traditional imperative   paradigm, the functional paradigm represents not only a different way of developing   applications, but also a distinct manner of thinking about software   itself. This work goes through the characteristics and properties that functional   technology gives to both software and its development process, from   the early analysis and design development phases, up to the final and no less   critical verification and validation stages. In particular, the strengths and opportunities   that emerge in the broad field of testing, thanks to the use of the   functional paradigm, are explored in depth.   From the analysis of this process being put into practise in a real software   development experience, we draw conclusions about the convenience of applying   a functional approach to complex domains. At the same time, we extract   a reusable engineering methodology to do so.
+Abstract
+In a world where technology plays a major, increasing role day after day,
+efforts devoted to develop better software are never too much. Both industry
+and academia are well aware of this, and keep on working to face the new
+problems and challenges that arise, more efficiently and effectively each time.
+Companies show their interest in cutting-edge methods, techniques, and tools,
+especially when they are backed up with empirical results that show practical
+benefits. On the other hand, academia is more than ever aware of real-world
+problems, and it is succeeding in connecting its research efforts to actual case
+studies.
+This thesis follows the mentioned trend, as it presents a study on software
+applications development based on a real case. As its main novelty and contribution,
+the integral process of software development is addressed from the
+functional paradigm point of view. In contrast with the traditional imperative
+paradigm, the functional paradigm represents not only a different way of developing
+applications, but also a distinct manner of thinking about software
+itself. This work goes through the characteristics and properties that functional
+technology gives to both software and its development process, from
+the early analysis and design development phases, up to the final and no less
+critical verification and validation stages. In particular, the strengths and opportunities
+that emerge in the broad field of testing, thanks to the use of the
+functional paradigm, are explored in depth.
+From the analysis of this process being put into practise in a real software
+development experience, we draw conclusions about the convenience of applying
+a functional approach to complex domains. At the same time, we extract
+a reusable engineering methodology to do so.

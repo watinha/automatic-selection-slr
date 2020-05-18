@@ -1,2 +1,17 @@
 Testing Web Services in the Cloud
-Cloud Computing makes it possible for users to access a wide range of web services in the public domain  and to embed these global services in their local applications. This promises to save a significant  amount of individual development cost. The biggest obstacle to using this technology is the problem of  trust. To gain trust in the services offered they have to be extensively tested, either by the user himself  or by a trusted agent. This chapter deals with the testing of web services in the cloud. There are many  similarities to testing web services in a local service-oriented architecture, but there are also significant  differences. In a company specific SOA, testers can gain access to the source. This is not true of the  cloud. There is no possibility of accessing the source. Therefore, testers must rely solely on the specification  contained in the service level agreement SLA and the web service interface definition WSDL  or REST to base their test upon. Testing in the cloud is strictly a black-box test. The goal of a cloud  service test is also not to find errors but to assess the suitability of the service to the purpose of the user.  It may be necessary to test several services in order to find that one best suited to the requirements of the  user. To judge suitability it is necessary to define an ideal usage profile, including performance, security  and other non-functional criteria, and to compare that with the actual profile of each potential service.  For this both static and dynamic analysis methods must be applied. The chapter presents an automated  approach to assessing cloud services and selecting that one most suitable to the user s application.
+Cloud Computing makes it possible for users to access a wide range of web services in the public domain
+and to embed these global services in their local applications. This promises to save a significant
+amount of individual development cost. The biggest obstacle to using this technology is the problem of
+trust. To gain trust in the services offered they have to be extensively tested, either by the user himself
+or by a trusted agent. This chapter deals with the testing of web services in the cloud. There are many
+similarities to testing web services in a local service-oriented architecture, but there are also significant
+differences. In a company specific SOA, testers can gain access to the source. This is not true of the
+cloud. There is no possibility of accessing the source. Therefore, testers must rely solely on the specification
+contained in the service level agreement SLA and the web service interface definition WSDL
+or REST to base their test upon. Testing in the cloud is strictly a black-box test. The goal of a cloud
+service test is also not to find errors but to assess the suitability of the service to the purpose of the user.
+It may be necessary to test several services in order to find that one best suited to the requirements of the
+user. To judge suitability it is necessary to define an ideal usage profile, including performance, security
+and other non-functional criteria, and to compare that with the actual profile of each potential service.
+For this both static and dynamic analysis methods must be applied. The chapter presents an automated
+approach to assessing cloud services and selecting that one most suitable to the user s application.

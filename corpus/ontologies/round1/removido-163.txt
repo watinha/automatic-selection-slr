@@ -1,2 +1,73 @@
 Agent Systems in Software Engineering
-During the last decade the continuous growth of the Web resulted in a significant development  shift from simple types of software applications to distributed multi-tier web-based  applications. In general, distributed systems are by nature more complex than centralized  systems. As a result, the software engineering tasks of these systems are also complicated.  Unlike traditional software applications, Web-based applications are associated with a  plethora of special characteristics that impede the appliance of conventional software  engineering techniques. Among them, the most important include the distributed and  stateless nature of the Web, the impressively high changing frequency of implementation  technologies and the spread of dynamic Web pages. Furthermore, the vital role of databases  in both web and distributed applications raises a demand for introducing software  engineering techniques tailored for these applications. These applications, known as  database applications (DA), contain embedded SQL statements in the source code. Similarly  to web applications, the presence of such special statements turns out to impose a number of  limitations to the applicability of existing software engineering techniques while also  originating new issues.  In this chapter, the use of agent technology to confront with the software engineering task  will be illustrated. More precisely, the focus will be on the application of agent systems in  order to confront with the requirements of the software engineering process for distributed  software systems in general, paying particular attention to distributed database applications  and web applications.  Software agents can be described as intelligent and autonomous software entities that have  the ability to exhibit proactive behaviour and to collaborate with each other. The software  engineering process can be greatly enhanced by utilising agent technology and adopting the  architecture of an intelligent, flexible and extensible agent system. The multi-tier  architecture of most distributed applications offers a suitable foundation because of its  inherent complication that highlights the significant and novel contribution of a multi-agent  architecture.  The rationale behind utilizing agent technology has to do with the interoperability of the  software resources belonging to potentially disparate application components and disparate  domains. Towards this direction, agents offer a unified platform of interaction through  agent communication.  The application of agent technology for the software engineering task is certainly a new and  promising research area. However, a variety of approaches that attempt to exploit the  www.intechopen.com  140 Tools in Artificial Intelligence  benefits of agent technology have already made their appearance and it is expected that this  tendency will further evolve. At this point, it needs to be clarified that the chapter will not  focus on the research area that deals with the employment of software engineering  technology for agent systems. Although similar in title, this research area deals with  applying software engineering methodologies to assist the creation of multi-agent systems;  something completely different.  The first one has as a goal to provide an agent infrastructure to support software testing.  This is realised by suggesting multi-agent frameworks that can be used as a model to build  agent systems for testing service-oriented web applications. This research track aims at  presenting an agent system for tackling the issues of software maintenance and testing of  distributed applications.  Illustrating the research attempts that employ software agents on software engineering  tasks, they can be categorised according to two key target levels. The first one has an  infrastructural target. Some research work focuses on presenting communication and  coordination infrastructures for agents engaged in web software testing. Another research  direction targets the creation of a multi-agent framework for software testing but the goal is  on how an agent infrastructural framework can assist the job of constructing concrete agents  systems for service-oriented applications.  The second one has a more applied target. As a representative work, research in which  multi-agent system architectures are used in software testing of web-based applications can  be mentioned. Moreover, there is ongoing research where an agent system is being utilised  for the software engineering of distributed database applications. The first primary objective  is to assess the maintainability and to facilitate the maintenance of such applications in the  presence of changes on the schema of the underlying database. The second primary  objective is to support another major software engineering task namely structural and  regression software testing.  The remainder of this chapter is organised as follows. Section 2 outlines the fundamental  background scientific areas of Agent Systems and Software Engineering. Section 3  introduces the first primary research direction where agent frameworks are used in software  engineering. Section 4 continues the illustration covering the second primary research  direction where multi-agent systems are used in software engineering. Section 5 is about  Agent-Oriented Software Engineering and gives a brief description of the opposite view  where the idea of an agent is being utilised as a generic software engineering model. Finally,  section 6 concludes the chapter by offering an overall analysis of the current research status  by highlighting the commonalities and the differences of the above research approaches, in  a form of comparative evaluation, and providing a view of the scope of the current  approaches and potential future research courses of action. 
+During the last decade the continuous growth of the Web resulted in a significant development
+shift from simple types of software applications to distributed multi-tier web-based
+applications. In general, distributed systems are by nature more complex than centralized
+systems. As a result, the software engineering tasks of these systems are also complicated.
+Unlike traditional software applications, Web-based applications are associated with a
+plethora of special characteristics that impede the appliance of conventional software
+engineering techniques. Among them, the most important include the distributed and
+stateless nature of the Web, the impressively high changing frequency of implementation
+technologies and the spread of dynamic Web pages. Furthermore, the vital role of databases
+in both web and distributed applications raises a demand for introducing software
+engineering techniques tailored for these applications. These applications, known as
+database applications (DA), contain embedded SQL statements in the source code. Similarly
+to web applications, the presence of such special statements turns out to impose a number of
+limitations to the applicability of existing software engineering techniques while also
+originating new issues.
+In this chapter, the use of agent technology to confront with the software engineering task
+will be illustrated. More precisely, the focus will be on the application of agent systems in
+order to confront with the requirements of the software engineering process for distributed
+software systems in general, paying particular attention to distributed database applications
+and web applications.
+Software agents can be described as intelligent and autonomous software entities that have
+the ability to exhibit proactive behaviour and to collaborate with each other. The software
+engineering process can be greatly enhanced by utilising agent technology and adopting the
+architecture of an intelligent, flexible and extensible agent system. The multi-tier
+architecture of most distributed applications offers a suitable foundation because of its
+inherent complication that highlights the significant and novel contribution of a multi-agent
+architecture.
+The rationale behind utilizing agent technology has to do with the interoperability of the
+software resources belonging to potentially disparate application components and disparate
+domains. Towards this direction, agents offer a unified platform of interaction through
+agent communication.
+The application of agent technology for the software engineering task is certainly a new and
+promising research area. However, a variety of approaches that attempt to exploit the
+www.intechopen.com
+140 Tools in Artificial Intelligence
+benefits of agent technology have already made their appearance and it is expected that this
+tendency will further evolve. At this point, it needs to be clarified that the chapter will not
+focus on the research area that deals with the employment of software engineering
+technology for agent systems. Although similar in title, this research area deals with
+applying software engineering methodologies to assist the creation of multi-agent systems;
+something completely different.
+The first one has as a goal to provide an agent infrastructure to support software testing.
+This is realised by suggesting multi-agent frameworks that can be used as a model to build
+agent systems for testing service-oriented web applications. This research track aims at
+presenting an agent system for tackling the issues of software maintenance and testing of
+distributed applications.
+Illustrating the research attempts that employ software agents on software engineering
+tasks, they can be categorised according to two key target levels. The first one has an
+infrastructural target. Some research work focuses on presenting communication and
+coordination infrastructures for agents engaged in web software testing. Another research
+direction targets the creation of a multi-agent framework for software testing but the goal is
+on how an agent infrastructural framework can assist the job of constructing concrete agents
+systems for service-oriented applications.
+The second one has a more applied target. As a representative work, research in which
+multi-agent system architectures are used in software testing of web-based applications can
+be mentioned. Moreover, there is ongoing research where an agent system is being utilised
+for the software engineering of distributed database applications. The first primary objective
+is to assess the maintainability and to facilitate the maintenance of such applications in the
+presence of changes on the schema of the underlying database. The second primary
+objective is to support another major software engineering task namely structural and
+regression software testing.
+The remainder of this chapter is organised as follows. Section 2 outlines the fundamental
+background scientific areas of Agent Systems and Software Engineering. Section 3
+introduces the first primary research direction where agent frameworks are used in software
+engineering. Section 4 continues the illustration covering the second primary research
+direction where multi-agent systems are used in software engineering. Section 5 is about
+Agent-Oriented Software Engineering and gives a brief description of the opposite view
+where the idea of an agent is being utilised as a generic software engineering model. Finally,
+section 6 concludes the chapter by offering an overall analysis of the current research status
+by highlighting the commonalities and the differences of the above research approaches, in
+a form of comparative evaluation, and providing a view of the scope of the current
+approaches and potential future research courses of action. 

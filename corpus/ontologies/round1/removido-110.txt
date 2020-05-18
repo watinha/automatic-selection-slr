@@ -1,2 +1,3 @@
 Correctness evaluation model for composite web service
-Abstract:  Web service playing the vital role in today's business environment. Business work flows are implemented as composite web service. Web services are growing day by day. Identifying the reliable web service is a tedious task. One of the reliability metric is correctness of the service. In this paper functional correctness model is designed for composite web service using black box testing technique.
+Abstract:
+Web service playing the vital role in today's business environment. Business work flows are implemented as composite web service. Web services are growing day by day. Identifying the reliable web service is a tedious task. One of the reliability metric is correctness of the service. In this paper functional correctness model is designed for composite web service using black box testing technique.

@@ -1,2 +1,28 @@
 Extreme programming: a university team design experience
-The paper discusses an experience in applying the extreme programming  	approach to the 4 year team design project course. Extreme programming  	is a methodology for software system development that focuses on  	high customer integration, extensive testing, code-centered development  	and documentation, refactoring and paired programming. Typically,  	the project course is managed using the standard waterfall or V-shaped  	development models with a faculty advisor acting as a customer for  	the project. In this project extreme programming has been used instead.  	Extreme programming is based on a sequence of development practices,  	including pair programming, very accurate configuration management,  	strong customer interaction based on "system stories", detailed testing.  	In this project, paired programmers are used for the duration of  	a release and then the pairs rotate. The distributed programming  	environment is handled using the JCVS suite of configuration management  	tools. Every 3-4 weeks, a new fully functional release is delivered  	and reviewed by the customer. The specifications for each release  	are captured incrementally using use case scenarios. Only the essential  	requirements for the current iteration are implemented. The JUnit  	test suite is also used to test each of the Java classes on an ongoing  	basis. The test suite verifies all aspects of the software at each  	build; this is necessary when refactoring components. Requirements  	capture, design and implementation of the deliverables are performed  	incrementally and result in quicker development times and reduced  	defects. Refactoring is applied wherever possible to simplify the  	code. Documentation is applied using the standard JavaDoc utility  	and is kept to a minimum. Finally, customer feedback is immediately  	incorporated into future iterations of the design process.
+The paper discusses an experience in applying the extreme programming
+approach to the 4 year team design project course. Extreme programming
+is a methodology for software system development that focuses on
+high customer integration, extensive testing, code-centered development
+and documentation, refactoring and paired programming. Typically,
+the project course is managed using the standard waterfall or V-shaped
+development models with a faculty advisor acting as a customer for
+the project. In this project extreme programming has been used instead.
+Extreme programming is based on a sequence of development practices,
+including pair programming, very accurate configuration management,
+strong customer interaction based on "system stories", detailed testing.
+In this project, paired programmers are used for the duration of
+a release and then the pairs rotate. The distributed programming
+environment is handled using the JCVS suite of configuration management
+tools. Every 3-4 weeks, a new fully functional release is delivered
+and reviewed by the customer. The specifications for each release
+are captured incrementally using use case scenarios. Only the essential
+requirements for the current iteration are implemented. The JUnit
+test suite is also used to test each of the Java classes on an ongoing
+basis. The test suite verifies all aspects of the software at each
+build; this is necessary when refactoring components. Requirements
+capture, design and implementation of the deliverables are performed
+incrementally and result in quicker development times and reduced
+defects. Refactoring is applied wherever possible to simplify the
+code. Documentation is applied using the standard JavaDoc utility
+and is kept to a minimum. Finally, customer feedback is immediately
+incorporated into future iterations of the design process.

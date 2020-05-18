@@ -1,2 +1,20 @@
 Using genres to customize usability evaluations of video games
-Video games are varied, with vastly different visual layouts and interaction  	styles; however, most games that share a common genre still have  	many user interface similarities. These similarities suggest that  	genres can be used as a conceptual framework for examining design  	issues in video games, and for developing a deeper understanding  	of how the design process can be specialized for specific types of  	games. In this paper, we consider how genre relates to one aspect  	of design---the usability of games, which deals with players' ability  	to learn, control, and understand a game interface. We report results  	from a study where we coded usability problems in reviews of 108  	commercial video games. The review set included 18 games from each  	of six major game genres. We statistically analyzed the problems  	from each genre, and found significant differences between many of  	the genres. We present usability profiles for each genre based on  	the problem distributions that we found. The profiles describe both  	common and infrequent problems in each genre and provide details  	on how they commonly occur in games. The profiles can be used to  	specialize usability evaluations by helping designers focus on common  	problems seen in games from each genre.
+Video games are varied, with vastly different visual layouts and interaction
+styles; however, most games that share a common genre still have
+many user interface similarities. These similarities suggest that
+genres can be used as a conceptual framework for examining design
+issues in video games, and for developing a deeper understanding
+of how the design process can be specialized for specific types of
+games. In this paper, we consider how genre relates to one aspect
+of design---the usability of games, which deals with players' ability
+to learn, control, and understand a game interface. We report results
+from a study where we coded usability problems in reviews of 108
+commercial video games. The review set included 18 games from each
+of six major game genres. We statistically analyzed the problems
+from each genre, and found significant differences between many of
+the genres. We present usability profiles for each genre based on
+the problem distributions that we found. The profiles describe both
+common and infrequent problems in each genre and provide details
+on how they commonly occur in games. The profiles can be used to
+specialize usability evaluations by helping designers focus on common
+problems seen in games from each genre.

@@ -1,2 +1,14 @@
 Dynamic Game Level Design Using Gaussian Mixture Model
-In computer games, the level design and balance of character attributes  	are the key features of interesting games. Level designers adjust  	the attributes of the game characters and opponent behavior to create  	appropriate levels of difficult, and avoid player frustration. Generally,  	opponent behavior is defined by a static script, however, this results  	in repetitive levels and environments, making in difficult to maintain  	the player s interest. Accordingly, this paper proposes a dynamic  	scripting method that can sustain the degree of interest intended  	by the level designer by adjusting the opponent behaviors while playing  	the game. The player s countermeasure pattern for dynamic level design  	is modeled using a Gaussian Mixture Model (GMM). The proposed method  	is applied to a shooter game, and the experimental results maintain  	the degree of interest intended by the level designer.
+In computer games, the level design and balance of character attributes
+are the key features of interesting games. Level designers adjust
+the attributes of the game characters and opponent behavior to create
+appropriate levels of difficult, and avoid player frustration. Generally,
+opponent behavior is defined by a static script, however, this results
+in repetitive levels and environments, making in difficult to maintain
+the player s interest. Accordingly, this paper proposes a dynamic
+scripting method that can sustain the degree of interest intended
+by the level designer by adjusting the opponent behaviors while playing
+the game. The player s countermeasure pattern for dynamic level design
+is modeled using a Gaussian Mixture Model (GMM). The proposed method
+is applied to a shooter game, and the experimental results maintain
+the degree of interest intended by the level designer.

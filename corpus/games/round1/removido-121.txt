@@ -1,2 +1,7 @@
 A note on pattern-recognition techniques and game-playing programs
-A problem encountered in the design of game-playing programs the evaluation  	of board positions is formally identical to a typical pattern-recognition  	problem. Certain techniques, which have been found helpful in the  	pattern-recognition case, may therefore also be applied to game-playing  	programs. A brief review of these techniques, based on multivariate  	analysis, is given.
+A problem encountered in the design of game-playing programs the evaluation
+of board positions is formally identical to a typical pattern-recognition
+problem. Certain techniques, which have been found helpful in the
+pattern-recognition case, may therefore also be applied to game-playing
+programs. A brief review of these techniques, based on multivariate
+analysis, is given.

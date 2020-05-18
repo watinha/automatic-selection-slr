@@ -1,2 +1,21 @@
 Applying a selection method to choose Quality Attribute Techniques
-Abstract  Context    Software products have requirements on software quality attributes such as safety and performance. Development teams use various specific techniques to achieve these quality requirements. We call these Quality Attribute Techniques (QATs). QATs are used to identify, analyse and control potential product quality problems. Although QATs are widely used in practice, there is no systematic approach to represent, select, and integrate them in existing approaches to software process modelling and tailoring.    Objective    This research aims to provide a systematic approach to better select and integrate QATs into tailored software process models for projects that develop products with specific product quality requirements.    Method    A selection method is developed to support the choice of appropriate techniques for any quality attribute, across the lifecycle. The selection method is based on three perspectives: (1) risk management; (2) process integration; and (3) cost/benefit using Analytic Hierarchy Process (AHP). An industry case study is used to validate the feasibility and effectiveness of applying the selection method.    Results    The case study demonstrates that the selection method provides a more methodological and effective approach to choose QATs for projects that target a specific quality attribute, compared to the ad hoc selection performed by development teams.    Conclusion    The proposed selection method can be used to systematically choose QATs for projects to target specific product qualities throughout the software development lifecycle.
+Abstract
+Context
+
+Software products have requirements on software quality attributes such as safety and performance. Development teams use various specific techniques to achieve these quality requirements. We call these Quality Attribute Techniques (QATs). QATs are used to identify, analyse and control potential product quality problems. Although QATs are widely used in practice, there is no systematic approach to represent, select, and integrate them in existing approaches to software process modelling and tailoring.
+
+Objective
+
+This research aims to provide a systematic approach to better select and integrate QATs into tailored software process models for projects that develop products with specific product quality requirements.
+
+Method
+
+A selection method is developed to support the choice of appropriate techniques for any quality attribute, across the lifecycle. The selection method is based on three perspectives: (1) risk management; (2) process integration; and (3) cost/benefit using Analytic Hierarchy Process (AHP). An industry case study is used to validate the feasibility and effectiveness of applying the selection method.
+
+Results
+
+The case study demonstrates that the selection method provides a more methodological and effective approach to choose QATs for projects that target a specific quality attribute, compared to the ad hoc selection performed by development teams.
+
+Conclusion
+
+The proposed selection method can be used to systematically choose QATs for projects to target specific product qualities throughout the software development lifecycle.

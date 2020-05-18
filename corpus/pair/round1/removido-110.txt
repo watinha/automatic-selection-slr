@@ -1,2 +1,15 @@
 Extreme programming and its development practices
-Extreme programming (XP) has attracted attention because of its fierce  	denial of many well-accepted software engineering practices considered  	as a sound approach to the development of intensive software systems.  	XP has been declared to be a new way of software development: a lightweight  	methodology, which is efficient, low-risk, flexible, predictable,  	scientific, and distinguishable from any other methodology. In the  	core of XP practices are programming activities, with strong emphasis  	on oral communications, automated tests, pair programming, storytelling  	culture and collective code-ownership at any time in the XP project.  	The paper gives an overview of XP practices and raises some serious  	concerns regarding their role in conceptual modelling and code generation;  	which directly affects software architecture solutions. The paper  	also tackles similarities between rational unified process (RUP)  	and XP, which have often been juxtaposed by software developers.
+Extreme programming (XP) has attracted attention because of its fierce
+denial of many well-accepted software engineering practices considered
+as a sound approach to the development of intensive software systems.
+XP has been declared to be a new way of software development: a lightweight
+methodology, which is efficient, low-risk, flexible, predictable,
+scientific, and distinguishable from any other methodology. In the
+core of XP practices are programming activities, with strong emphasis
+on oral communications, automated tests, pair programming, storytelling
+culture and collective code-ownership at any time in the XP project.
+The paper gives an overview of XP practices and raises some serious
+concerns regarding their role in conceptual modelling and code generation;
+which directly affects software architecture solutions. The paper
+also tackles similarities between rational unified process (RUP)
+and XP, which have often been juxtaposed by software developers.

@@ -1,0 +1,14 @@
+Using an intergenerational communications system as a 'light-weight'
+technology probe
+A problem with the technology probe [1] approach is the substantial
+time required to gain results. For prototype technological systems,
+a further problem is the requirement that systems are deployed into
+non- technical end-user's homes, where they are comparatively hard
+to maintain. Even a robust system may be vulnerable to unavoidable
+problems in these kinds of environment (for example, bandwidth outages
+in a communications device). We introduce a light-weight procedure
+that sacrifices some of the realism associated with technology probes
+in favor of ease of deployment and speed of information gathering.We
+apply our methods to the "Keep in Touch" (KiT) intergenerational
+communications system, and describe some preliminary results that
+we have obtained.

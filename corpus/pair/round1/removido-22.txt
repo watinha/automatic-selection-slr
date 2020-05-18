@@ -1,2 +1,3 @@
 Pair Programming: Development times two
-By teaming developers into two-person groups, you can boost both software  	quality and staff satisfaction.
+By teaming developers into two-person groups, you can boost both software
+quality and staff satisfaction.

@@ -1,2 +1,17 @@
-Integrating data from disparate sources: a mass collaboration approach
-The rapid growth of distributed data at enterprises and on the WWW 	has fueled significant interest in building data integration systems. 	Such a system provides users with a uniform query interface (called 	mediated schema) to a multitude of data sources, thus freeing them 	from manually querying each individual source. To address some problems 	in the MOBS (Mass Collaboration to Build Systems) project at the 	University of Illinois, we develop solutions that learn from the 	multitude of users in the integration environment to improve the 	accuracy of integration tools. The improved accuracy in turn can 	significantly reduce the workload of the system builder. In developing 	MOBS we address the following key challenges: (i) obtaining user 	participation, (ii) learning from user participation, and (iii) combining 	user answers.
+Globetoddler: designing for remote interaction between preschoolers
+and their traveling parents
+In recent decades, families in the Western world have become more
+geographically distributed, making it more difficult for family members
+to achieve and maintain a feeling of connectedness. Different time
+zones and contexts and a limited awareness of the other family members'
+availability and mood are some of many factors that make "being together"
+more challenging when physically apart. Besides, when it comes to
+preschool children, existing communication technologies, such as
+phones and computers, may not even be an option. As a result, many
+families simply accept the fact that being apart leads to fragmented,
+or even non-existent, interaction. In this paper we describe initial
+work on a tangible system, Globetoddler, which aims to make remote
+interaction between preschool children and their traveling parents
+easy and enjoyable. The paper describes the process of defining design
+principles for this system, as well as the content and implications
+of these principles.

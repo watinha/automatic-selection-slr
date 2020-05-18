@@ -1,2 +1,19 @@
 Interactive evolutionary design of anthropomorphic symbols
-Although the computer science literature contains numerous examples 	that describe various interactive evolutionary computational (IEC) 	algorithms, few studies have focused on how use such algorithms to 	elicit design information from a population of human users. The purpose 	of this study was to address this gap in the literature by constructing 	and testing an IEC algorithm for anthropomorphic symbol design. A 	design group of 25 subjects used the algorithm to create 100 anthropomorphic 	symbols represented the emotions of anger, joy, fear, and sadness. 	The 100 symbols underwent comprehensions testing using a separate 	group of 30 subjects. Factor analysis of the nine limb angles comprising 	each symbol revealed that specific combinations of limb angles differed 	significantly between symbols based on the emotional referent the 	IEC algorithm users meant to convey. Comprehension testing results 	revealed that recognition accuracy for the joy symbols was highest 	while recognition accuracy for the anger symbols was lowest. The 	findings of the current study suggest the IEC algorithms can be used 	to identify important symbol design characteristics and generate 	symbols whose message is readily comprehended by end user populations.
+Although the computer science literature contains numerous examples
+that describe various interactive evolutionary computational (IEC)
+algorithms, few studies have focused on how use such algorithms to
+elicit design information from a population of human users. The purpose
+of this study was to address this gap in the literature by constructing
+and testing an IEC algorithm for anthropomorphic symbol design. A
+design group of 25 subjects used the algorithm to create 100 anthropomorphic
+symbols represented the emotions of anger, joy, fear, and sadness.
+The 100 symbols underwent comprehensions testing using a separate
+group of 30 subjects. Factor analysis of the nine limb angles comprising
+each symbol revealed that specific combinations of limb angles differed
+significantly between symbols based on the emotional referent the
+IEC algorithm users meant to convey. Comprehension testing results
+revealed that recognition accuracy for the joy symbols was highest
+while recognition accuracy for the anger symbols was lowest. The
+findings of the current study suggest the IEC algorithms can be used
+to identify important symbol design characteristics and generate
+symbols whose message is readily comprehended by end user populations.

@@ -1,2 +1,16 @@
-The consistency of empirical comparisons of regression and analogy-based  	software project cost prediction
-The objective is to determine the consistency within and between results  	in empirical studies of software engineering cost estimation. We  	focus on regression and analogy techniques as these are commonly  	used. We conducted an exhaustive literature search using predefined  	inclusion and exclusion criteria and identified 67 journal papers  	and 104 conference papers. From this sample we identified 11 journal  	papers and 9 conference papers that used both methods. Our analysis  	found that about 25% of studies were internally inconclusive. We  	also found that there is approximately equal evidence in favour of,  	and against analogy-based methods. We confirm the lack of consistency  	in the findings and argue that this inconsistent pattern from 20  	different studies comparing regression and analogy is somewhat disturbing.  	It suggests that we need to ask more detailed questions than just:  	What is the best prediction system?
+The consistency of empirical comparisons of regression and analogy-based
+software project cost prediction
+The objective is to determine the consistency within and between results
+in empirical studies of software engineering cost estimation. We
+focus on regression and analogy techniques as these are commonly
+used. We conducted an exhaustive literature search using predefined
+inclusion and exclusion criteria and identified 67 journal papers
+and 104 conference papers. From this sample we identified 11 journal
+papers and 9 conference papers that used both methods. Our analysis
+found that about 25% of studies were internally inconclusive. We
+also found that there is approximately equal evidence in favour of,
+and against analogy-based methods. We confirm the lack of consistency
+in the findings and argue that this inconsistent pattern from 20
+different studies comparing regression and analogy is somewhat disturbing.
+It suggests that we need to ask more detailed questions than just:
+What is the best prediction system?

@@ -1,2 +1,18 @@
 eXtreme Programming support tool in distributed environment
-eXtreme Programming (XP) is an agile software development process  	in which both short period iterative development arid communication  	between project members are important. Software development aims  	at producing high quality programs within a promised period. To gain  	an improvement in product quality, XP proposes twelve practices such  	as pair programming, test driven development, refactoring, etc. Pair  	programming makes it possible for all project members to deepen understanding  	of their programs, and also it becomes easy to find the error of  	them. Consequently, it improves quality of their programs. It is  	required that the pair has to work together with sufficient communication.  	However, in realistic software development, it is necessary to carry  	out development in the distributed environment by time and spatial  	restrictions of developers, such as office environment, and telecommuting,  	an international project. In XP, since communication is important,  	we propose XP support environment on a network from the viewpoint  	of pair programming support so that the quality of a program can  	be improved also in distributed environment.
+eXtreme Programming (XP) is an agile software development process
+in which both short period iterative development arid communication
+between project members are important. Software development aims
+at producing high quality programs within a promised period. To gain
+an improvement in product quality, XP proposes twelve practices such
+as pair programming, test driven development, refactoring, etc. Pair
+programming makes it possible for all project members to deepen understanding
+of their programs, and also it becomes easy to find the error of
+them. Consequently, it improves quality of their programs. It is
+required that the pair has to work together with sufficient communication.
+However, in realistic software development, it is necessary to carry
+out development in the distributed environment by time and spatial
+restrictions of developers, such as office environment, and telecommuting,
+an international project. In XP, since communication is important,
+we propose XP support environment on a network from the viewpoint
+of pair programming support so that the quality of a program can
+be improved also in distributed environment.

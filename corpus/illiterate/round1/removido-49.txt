@@ -1,2 +1,13 @@
 Challenging interfaces/redesigning users
-As the identity of the computer user becomes more diverse, software 	developers can no longer assume familiarity with legacy systems or 	perfect vision, motor control and memory. The development of Piloot 	(for users with learning difficulties) and SeeWord (for dyslexic 	readers) shows that systems can be usable and accessible for 'non-typical' 	user groups. It is no longer appropriate to design 'general purpose' 	software that excludes users because of their age or minor impairments. 	Piloot and SeeWord, although developed for very different user groups, 	uncover some common barriers to computer use. Although some of these 	barriers were overcome in similar ways, other solutions were specific 	to the target user group and this may suggest strategies that will 	be effective in developing inclusive systems in the future.
+As the identity of the computer user becomes more diverse, software
+developers can no longer assume familiarity with legacy systems or
+perfect vision, motor control and memory. The development of Piloot
+(for users with learning difficulties) and SeeWord (for dyslexic
+readers) shows that systems can be usable and accessible for 'non-typical'
+user groups. It is no longer appropriate to design 'general purpose'
+software that excludes users because of their age or minor impairments.
+Piloot and SeeWord, although developed for very different user groups,
+uncover some common barriers to computer use. Although some of these
+barriers were overcome in similar ways, other solutions were specific
+to the target user group and this may suggest strategies that will
+be effective in developing inclusive systems in the future.

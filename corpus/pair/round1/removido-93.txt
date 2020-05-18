@@ -1,2 +1,16 @@
 Method engineering for OO systems development
-For the past 15 years, many proposed OO methodologies have sought  	to deliver full life-cycle support for systems development using  	OO tools. Many are highly prescriptive, that is, the methodology  	elements are highly interconnected. This inherent complexity makes  	it difficult for a methodology to be adapted to project-specific  	circumstances, especially (and usually) when project managers and  	developers are advised by the methodology's creator that they must  	use all or none of the components of the methodology. Indeed, even  	with the advent of agile methodologies, frequently touted by their  	developers as offering more people-focus and flexibility, proponents  	often say an agile methodology like extreme programming (XP) is followed  	in its entirety and that XP without, say, pair programming is not  	XP. This metamodel-based framework helps distill the key ingredients  	in software engineering processes in ways that facilitate method  	engineering, along with process understanding.
+For the past 15 years, many proposed OO methodologies have sought
+to deliver full life-cycle support for systems development using
+OO tools. Many are highly prescriptive, that is, the methodology
+elements are highly interconnected. This inherent complexity makes
+it difficult for a methodology to be adapted to project-specific
+circumstances, especially (and usually) when project managers and
+developers are advised by the methodology's creator that they must
+use all or none of the components of the methodology. Indeed, even
+with the advent of agile methodologies, frequently touted by their
+developers as offering more people-focus and flexibility, proponents
+often say an agile methodology like extreme programming (XP) is followed
+in its entirety and that XP without, say, pair programming is not
+XP. This metamodel-based framework helps distill the key ingredients
+in software engineering processes in ways that facilitate method
+engineering, along with process understanding.

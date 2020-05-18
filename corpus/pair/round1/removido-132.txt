@@ -1,2 +1,9 @@
 Subclassing XP: breaking its rules the right way
-Extreme programming encourages adoption of all of its practices. In  	practice many projects drop practices. What remains can be an incomplete  	methodology, which is dangerous. This problem can be overcome by  	replacing each removed dropped practice with a compensating practice  	tailored to the circumstances of the project - effectively subclassing  	XP. This experience report recounts the experiences of subclassing  	of XP at Wotif.com, where pair programming was replaced with "pairing"  	and refactoring was replaced with "team refactoring" .
+Extreme programming encourages adoption of all of its practices. In
+practice many projects drop practices. What remains can be an incomplete
+methodology, which is dangerous. This problem can be overcome by
+replacing each removed dropped practice with a compensating practice
+tailored to the circumstances of the project - effectively subclassing
+XP. This experience report recounts the experiences of subclassing
+of XP at Wotif.com, where pair programming was replaced with "pairing"
+and refactoring was replaced with "team refactoring" .

@@ -1,2 +1,19 @@
 Feedback-Directed Exploration of Web Applications to Derive Test Models
-Abstract Dynamic exploration techniques play a significant  role in automated web application testing and analysis. However,  a general web application crawler that exhaustively explores  the states can become mired in limited specific regions of  the web application, yielding poor functionality coverage. In  this paper, we propose a feedback-directed web application  exploration technique to derive test models. While exploring,  our approach dynamically measures and applies a combination  of code coverage impact, navigational diversity, and structural  diversity, to decide a-priori (1) which state should be expanded,  and (2) which event should be exercised next to maximize the  overall coverage, while minimizing the size of the test model.  Our approach is implemented in a tool called FEEDEX. We  have empirically evaluated the efficacy of FEEDEX using six web  applications. The results show that our technique is successful in  yielding higher coverage while reducing the size of the test model,  compared to classical exhaustive techniques such as depth-first,  breadth-first, and random exploration.
+Abstract Dynamic exploration techniques play a significant
+role in automated web application testing and analysis. However,
+a general web application crawler that exhaustively explores
+the states can become mired in limited specific regions of
+the web application, yielding poor functionality coverage. In
+this paper, we propose a feedback-directed web application
+exploration technique to derive test models. While exploring,
+our approach dynamically measures and applies a combination
+of code coverage impact, navigational diversity, and structural
+diversity, to decide a-priori (1) which state should be expanded,
+and (2) which event should be exercised next to maximize the
+overall coverage, while minimizing the size of the test model.
+Our approach is implemented in a tool called FEEDEX. We
+have empirically evaluated the efficacy of FEEDEX using six web
+applications. The results show that our technique is successful in
+yielding higher coverage while reducing the size of the test model,
+compared to classical exhaustive techniques such as depth-first,
+breadth-first, and random exploration.

@@ -1,2 +1,26 @@
-How to steer an embedded software project: tactics for selecting  	the software process model
-Modern large new product developments (NPD) are typically characterized  	by many uncertainties and frequent changes. Often the embedded software  	development projects working on such products face many problems  	compared to traditional, placid project environments. One of the  	major project management decisions is then the selection of the project's  	software process model. An appropriate process model helps coping  	with the challenges, and prevents many potential project problems.  	On the other hand, an unsuitable process choice causes additional  	problems. This paper investigates the software process model selection  	in the context of large market-driven embedded software product development  	for new telecommunications equipment. Based on a quasi-formal comparison  	of publicly known software process models including modern agile  	methodologies, we propose a process model selection frame, which  	the project manager can use as a systematic guide for (re)choosing  	the project's process model. A novel feature of this comparative  	selection model is that we make the comparison against typical software  	project problem issues. Some real-life project case examples are  	examined against this model. The selection matrix expresses how different  	process models answer to different questions, and indeed there is  	not a single process model that would answer all the questions. On  	the contrary, some of the seeds to the project problems are in the  	process models themselves. However, being conscious of these problems  	and pitfalls when steering a project enables the project manager  	to master the situation.
+How to steer an embedded software project: tactics for selecting
+the software process model
+Modern large new product developments (NPD) are typically characterized
+by many uncertainties and frequent changes. Often the embedded software
+development projects working on such products face many problems
+compared to traditional, placid project environments. One of the
+major project management decisions is then the selection of the project's
+software process model. An appropriate process model helps coping
+with the challenges, and prevents many potential project problems.
+On the other hand, an unsuitable process choice causes additional
+problems. This paper investigates the software process model selection
+in the context of large market-driven embedded software product development
+for new telecommunications equipment. Based on a quasi-formal comparison
+of publicly known software process models including modern agile
+methodologies, we propose a process model selection frame, which
+the project manager can use as a systematic guide for (re)choosing
+the project's process model. A novel feature of this comparative
+selection model is that we make the comparison against typical software
+project problem issues. Some real-life project case examples are
+examined against this model. The selection matrix expresses how different
+process models answer to different questions, and indeed there is
+not a single process model that would answer all the questions. On
+the contrary, some of the seeds to the project problems are in the
+process models themselves. However, being conscious of these problems
+and pitfalls when steering a project enables the project manager
+to master the situation.

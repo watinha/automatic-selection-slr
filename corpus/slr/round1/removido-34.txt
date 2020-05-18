@@ -1,2 +1,10 @@
 A survey of software refactoring
-We provide an extensive overview of existing research in the field  	of software refactoring. This research is compared and discussed  	based on a number of different criteria: the refactoring activities  	that are supported, the specific techniques and formalisms that are  	used for supporting these activities, the types of software artifacts  	that are being refactored, the important issues that need to be taken  	into account when building refactoring tool support, and the effect  	of refactoring on the software process. A running example is used  	to explain and illustrate the main concepts.
+We provide an extensive overview of existing research in the field
+of software refactoring. This research is compared and discussed
+based on a number of different criteria: the refactoring activities
+that are supported, the specific techniques and formalisms that are
+used for supporting these activities, the types of software artifacts
+that are being refactored, the important issues that need to be taken
+into account when building refactoring tool support, and the effect
+of refactoring on the software process. A running example is used
+to explain and illustrate the main concepts.

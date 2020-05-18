@@ -1,2 +1,17 @@
-Investigating the impact of personality types on communication and  	collaboration-viability in pair programming - an empirical study
-This paper presents two controlled experiments (a pilot and the main  	one) investigating the impact of developer personalities and temperaments  	on communication, collaboration-pair viability and ultimately effectiveness  	in pair programming. The objective of the experiments was to compare  	pairs of mixed/heterogeneous developer personalities and temperaments  	with pairs of the same personalities and temperaments, in terms of  	pair effectiveness. Pair effectiveness is expressed in terms of pair  	performance, measured by communication, velocity, productivity and  	customer satisfaction, and pair collaboration-viability measured  	by developers' satisfaction, knowledge acquisition and participation  	(collaboration satisfaction ratio, nuisance ratio, voluntary or mandatory  	preference, and driver or navigator preference). The results have  	shown that there is significant difference between the two groups,  	indicating better communication and collaboration-viability for the  	pairs with mixed personalities/temperaments.
+Investigating the impact of personality types on communication and
+collaboration-viability in pair programming - an empirical study
+This paper presents two controlled experiments (a pilot and the main
+one) investigating the impact of developer personalities and temperaments
+on communication, collaboration-pair viability and ultimately effectiveness
+in pair programming. The objective of the experiments was to compare
+pairs of mixed/heterogeneous developer personalities and temperaments
+with pairs of the same personalities and temperaments, in terms of
+pair effectiveness. Pair effectiveness is expressed in terms of pair
+performance, measured by communication, velocity, productivity and
+customer satisfaction, and pair collaboration-viability measured
+by developers' satisfaction, knowledge acquisition and participation
+(collaboration satisfaction ratio, nuisance ratio, voluntary or mandatory
+preference, and driver or navigator preference). The results have
+shown that there is significant difference between the two groups,
+indicating better communication and collaboration-viability for the
+pairs with mixed personalities/temperaments.

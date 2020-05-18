@@ -1,2 +1,12 @@
 Automatic prototyping in model-driven game development
-Model-driven game development (MDGD) is an emerging paradigm where  	models become first-order elements in game development, maintenance,  	and evolution. In this article, we present a first approach to 2D  	platform game prototyping automatization through the use of model-driven  	engineering (MDE). Platform-independent models (PIM) define the structure  	and the behavior of the games and a platform-specific model (PSM)  	describes the game control mapping. Automatic MOFscript transformations  	from these models generate the software prototype code in C++. As  	an example, Bubble Bobble has been prototyped in a few hours following  	the MDGD approach. The resulting code generation represents 93&percnt;  	of the game prototype.
+Model-driven game development (MDGD) is an emerging paradigm where
+models become first-order elements in game development, maintenance,
+and evolution. In this article, we present a first approach to 2D
+platform game prototyping automatization through the use of model-driven
+engineering (MDE). Platform-independent models (PIM) define the structure
+and the behavior of the games and a platform-specific model (PSM)
+describes the game control mapping. Automatic MOFscript transformations
+from these models generate the software prototype code in C++. As
+an example, Bubble Bobble has been prototyped in a few hours following
+the MDGD approach. The resulting code generation represents 93&percnt;
+of the game prototype.

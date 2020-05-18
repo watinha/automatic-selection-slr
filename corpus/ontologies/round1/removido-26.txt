@@ -1,2 +1,11 @@
 A Software Tool for Selection and Integrability on Service Oriented Applications
-Abstract. Connecting services to rapidly developing service-oriented  applications is a challenging issue. Selection of adequate services implies to  face an overwhelming assessment effort, even with a reduced set of candidate  services. On previous work we have presented an approach for service selection  addressing the assessment of WSDL interfaces and the expected execution  behavior of candidate services. In this paper we present a plugin for the Eclipse  IDE to support the approach and to assist developers daily tasks on exploring  services integrability. Particularly for behavioral compatibility we make use of  two testing frameworks: JUnit and MuClipse to achieve a compliance testing  strategy. 
+Abstract. Connecting services to rapidly developing service-oriented
+applications is a challenging issue. Selection of adequate services implies to
+face an overwhelming assessment effort, even with a reduced set of candidate
+services. On previous work we have presented an approach for service selection
+addressing the assessment of WSDL interfaces and the expected execution
+behavior of candidate services. In this paper we present a plugin for the Eclipse
+IDE to support the approach and to assist developers daily tasks on exploring
+services integrability. Particularly for behavioral compatibility we make use of
+two testing frameworks: JUnit and MuClipse to achieve a compliance testing
+strategy. 

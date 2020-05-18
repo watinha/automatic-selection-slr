@@ -1,2 +1,11 @@
-A growth theory perspective on the international diffusion of e-commerce
-This research explores the reasons why electronic commerce practices 	have diffused around the world at the national level of analysis, 	due to forces that are both internal and external to the countries 	in which diffusion is observed to occur. We propose two related growth 	theories that contribute contrasting viewpoints about the origins 	of the drivers of diffusion: endogenous growth theory and exogenous 	growth theory. We use the former theory to argue that the primary 	drivers of diffusion stem from economic forces that are internal 	to a country, including its government policies (e.g., tax on online 	stores), wealth, infrastructure, readiness, education levels, and 	so on. The latter theory suggests that the primary drivers are external 	to the economy, and may reflect the forces present in the regional 	economy, international drivers of technological change, trade flows 	and so on. We explore the efficacy of these alternative perspectives 	in a set of propositions for the drivers of national-level diffusion 	of e-commerce that spans developed and developing nations.
+Computers, programming and people
+Now part of consumer society and marketed globally, computers are
+designed to be sold rather than used. Software marketers, e-businesses,
+and their technicians consider having an understanding of how the
+underlying machinery works to be utterly irrelevant. For them, the
+most important skills are marketing, management, and graphical expertise.
+The profession should strive to make it easy for people to exploit
+the computer on their own terms in their own culture. The symbolic
+programming system should be completely straightforward, but adaptable
+to different writing systems. Any complexity should be subsumed by
+the operating system or concealable within the macro-coding system

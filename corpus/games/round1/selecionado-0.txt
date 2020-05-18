@@ -1,2 +1,12 @@
-The Unlikeability of a Cuddly Toy Interface: An Experimental Study  	of Preschoolers Likeability and Usability of a 3D Game Played with  	a Cuddly Toy Versus a Keyboard
-We report on a comparative study of the likeability and usability  	of a cuddly toy interface versus a keyboard interface. We put 35  	preschoolers to the test and asked them to play a 3D game via a keyboard  	and via a cuddly toy interface. Afterwards the usability (user-friendliness)  	and the likeability (joy-ofuse) of both interfaces were assessed.  	Our results indicate that the cuddly toy interface was neither more  	likeable nor more usable than the keyboard interface. Based on additional  	qualitative data, we argument that the causes might be fatigue, a  	lack of meaningful use of gestures, and the occurrence of satisficing.
+The Unlikeability of a Cuddly Toy Interface: An Experimental Study
+of Preschoolers Likeability and Usability of a 3D Game Played with
+a Cuddly Toy Versus a Keyboard
+We report on a comparative study of the likeability and usability
+of a cuddly toy interface versus a keyboard interface. We put 35
+preschoolers to the test and asked them to play a 3D game via a keyboard
+and via a cuddly toy interface. Afterwards the usability (user-friendliness)
+and the likeability (joy-ofuse) of both interfaces were assessed.
+Our results indicate that the cuddly toy interface was neither more
+likeable nor more usable than the keyboard interface. Based on additional
+qualitative data, we argument that the causes might be fatigue, a
+lack of meaningful use of gestures, and the occurrence of satisficing.

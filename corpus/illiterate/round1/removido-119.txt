@@ -1,2 +1,14 @@
-Crisis and opportunity in computer science
-The future of the field depends on winning back student enrollment, 	public interest in technology, and government research funding.
+A pervasive wiki application based on VoiceXML
+In this paper, we describe the design and implementation of an audio
+wiki application accessible via the Public Switched Telephone Network
+(PSTN) and the Internet for educational purposes. The application
+exploits mature World Wide Web Consortium standards such as VoiceXML,
+Speech Synthesis Markup Language (SSML) and Speech Recognition Grammar
+Specification (SRGS). The purpose of such an application is to assist
+visually impaired, technologically uneducated, and underprivileged
+people in accessing information originally intended to be accessed
+visually via a Personal Computer. Users may access wiki content via
+wired or mobile phones, or via a Personal Computer using a Web Browser
+or a Voice over IP service. This feature promotes pervasiveness to
+educational material to an extremely large population, i.e. those
+who simply own a telephone line.

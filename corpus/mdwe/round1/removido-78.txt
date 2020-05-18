@@ -1,2 +1,2 @@
-Movie forecast Guru: A Web-based {DSS
-Herein we describe a Web-based {DSS
+Movie forecast Guru: A Web-based {DSS} for Hollywood managers
+Herein we describe a Web-based {DSS} to help Hollywood managers make better decisions on important movie characteristics, such as, genre, super stars, technical effects, release time, etc. These parameters are used to build prediction models to classify a movie in one of nine success categories, from a ''flop'' to a ''blockbuster''. The system employs a number of traditional and non-traditional prediction models as distributed independent experts, implemented as Web services. The paper describes the purpose and the architecture of the system, the development environment, the user assessment results, and the lessons learned as they relate to Web-based {DSS} development.

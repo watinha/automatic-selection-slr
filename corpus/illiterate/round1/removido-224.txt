@@ -1,2 +1,15 @@
-The role of speech input in wearable computing
-Speech recognition seems like an attractive input mechanism for wearable 	computers, and as we saw in this magazine's first issue, several 	companies are promoting products that use limited speech interfaces 	for specific tasks. However, we must overcome several challenges 	to using speech recognition in more general contexts, and interface 	designers must be wary of applying the technology to situations where 	speech is inappropriate.
+3D interactive, on-site visualization of ancient Olympia
+This paper describes the work performed for the ARCHEOGUIDE (Augmented
+Reality-based Cultural Heritage On-site GUIDE) project. ARCHEOGUIDE
+is funded by the EU IST framework (IST-1999-11306), and pursued by
+a consortium of European organizations. It delivers an interactive,
+personalized, augmented reality (AR) guide for the visualization
+of ruined archaeological sites. It is based on mobile real-time computing,
+networking, and 3D visualization. Its users are presented with monument
+reconstructions, navigation aid and historical information in a user-friendly
+way through the use of multi-modal interaction techniques. The key
+features of the system are a novel hybrid position and orientation
+tracking technique used in determining the user's viewpoint, navigation
+aid, outdoor operation, and real-time 3D visualization of monuments,
+artifacts, and life. This paper presents examples of the system's
+use at the archaeological site of ancient Olympia in Greece.

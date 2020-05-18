@@ -1,2 +1,13 @@
 Using a role scheme to derive software project metrics
-Roles' playing is common in our lives. We play different roles with  	our family, at work as well as in other environments. Role allocation  	in software development projects is also accepted though it may be  	implemented differently by different software development methods.  	In a previous work [Y. Dubinsky, O. Hazzan, Roles in agile software  	development teams, in: 5th International Conference on Extreme Programming  	and Agile Processes in Software Engineering, 2004, pp. 157-165] we  	have found that personal roles may raise teammates' personal accountability  	while maintaining the essence of the software development method.  	In this paper we present our role scheme, elaborate on its implementation  	and explain how it can be used to derive metrics. We illustrate our  	ideas by data gathered in student projects in the university.
+Roles' playing is common in our lives. We play different roles with
+our family, at work as well as in other environments. Role allocation
+in software development projects is also accepted though it may be
+implemented differently by different software development methods.
+In a previous work [Y. Dubinsky, O. Hazzan, Roles in agile software
+development teams, in: 5th International Conference on Extreme Programming
+and Agile Processes in Software Engineering, 2004, pp. 157-165] we
+have found that personal roles may raise teammates' personal accountability
+while maintaining the essence of the software development method.
+In this paper we present our role scheme, elaborate on its implementation
+and explain how it can be used to derive metrics. We illustrate our
+ideas by data gathered in student projects in the university.

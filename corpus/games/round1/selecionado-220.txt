@@ -1,2 +1,27 @@
-Object-Orientation Is Evil to Mobile Game: Experience from Industrial  	Mobile RPGs
-Mobile gaming is playing an important role in the entertainment industry.  	Good performance is a critical requirement for mobile games in order  	to achieve acceptable running speed although mobile devices are limited  	by scarce resources. Object-oriented programming is the prevalent  	programming paradigm and this is true for mobile game development  	as well. As the origin of object-orientation (OO) is not targeting  	the embedded software domain, there is suspicion as to OO s usability  	for embedded software, especially with respect to mobile games. Questions  	arise like how OO and to what degree OO will affect the performance,  	executable file size, and how optimization strategies can improve  	the qualities of mobile game software. In this paper we investigate  	these questions within the mobile Role-Playing-Game (RPG) domain  	using five industrial mobile games developed with OO. We re-implemented  	these five RPGs with a structural programming style, by reducing  	the inheritance relationships, removing excessive classes and interfaces.  	Some additional optimizations are also applied during the re-implementation,  	such as the tackling of performance bottleneck methods, using more  	efficient algorithms. New games after optimizations run on average  	almost 25% faster than the corresponding original games, with a maximum  	of 34.62% improvement; the memory usage is decreased by more than  	10% on average and 17.56% as a maximum; we also achieved a 59% code  	reduction and a 71% Jar file decrease after optimization. Therefore  	if developers are aiming for mobile game performance, we conclude  	that they should use as few OO features as possible. Structural programming  	can be a very competitive alternative.
+Object-Orientation Is Evil to Mobile Game: Experience from Industrial
+Mobile RPGs
+Mobile gaming is playing an important role in the entertainment industry.
+Good performance is a critical requirement for mobile games in order
+to achieve acceptable running speed although mobile devices are limited
+by scarce resources. Object-oriented programming is the prevalent
+programming paradigm and this is true for mobile game development
+as well. As the origin of object-orientation (OO) is not targeting
+the embedded software domain, there is suspicion as to OO s usability
+for embedded software, especially with respect to mobile games. Questions
+arise like how OO and to what degree OO will affect the performance,
+executable file size, and how optimization strategies can improve
+the qualities of mobile game software. In this paper we investigate
+these questions within the mobile Role-Playing-Game (RPG) domain
+using five industrial mobile games developed with OO. We re-implemented
+these five RPGs with a structural programming style, by reducing
+the inheritance relationships, removing excessive classes and interfaces.
+Some additional optimizations are also applied during the re-implementation,
+such as the tackling of performance bottleneck methods, using more
+efficient algorithms. New games after optimizations run on average
+almost 25% faster than the corresponding original games, with a maximum
+of 34.62% improvement; the memory usage is decreased by more than
+10% on average and 17.56% as a maximum; we also achieved a 59% code
+reduction and a 71% Jar file decrease after optimization. Therefore
+if developers are aiming for mobile game performance, we conclude
+that they should use as few OO features as possible. Structural programming
+can be a very competitive alternative.

@@ -1,2 +1,21 @@
 Manual test case derivation from UML activity diagrams and state machines: A controlled experiment
-Abstract  Context    It is a difficult and challenging task to fully automatize model-based testing because this demands complete and unambiguous system models as input. Therefore, in practice, test cases, especially on the system level, are still derived manually from behavioral models like UML activity diagrams or state machines. But this kind of manual test case derivation is error-prone and knowing these errors makes it possible to provide guidelines to reduce them.    Objective    The objective of the study presented in this paper therefore is to examine which errors are possible and actually made when manually deriving test cases from UML activity diagrams or state machines and whether there are differences between these diagram types.    Method    We investigate the errors made when deriving test cases manually in a controlled student experiment. The experiment was performed and internally replicated with overall 84 participants divided into three groups at two institutions.    Results    As a result of our experiment, we provide a taxonomy of errors made and their frequencies. In addition, our experiment provides evidence that activity diagrams have a higher perceived comprehensibility but also a higher error-proneness than state machines with regard to manual test case derivation. This information helps to develop guidelines for manual test case derivation from UML activity diagrams and state machines.    Conclusion    Most errors observed were due to missing test steps, conditions or results, or content was written into the wrong field. As activity diagrams have a higher perceived comprehensibility, but also more error-prone than state machines, both diagram types are useful for manual test case derivation. Their application depends on the context and should be complemented with clear rules on how to derive test cases.
+Abstract
+Context
+
+It is a difficult and challenging task to fully automatize model-based testing because this demands complete and unambiguous system models as input. Therefore, in practice, test cases, especially on the system level, are still derived manually from behavioral models like UML activity diagrams or state machines. But this kind of manual test case derivation is error-prone and knowing these errors makes it possible to provide guidelines to reduce them.
+
+Objective
+
+The objective of the study presented in this paper therefore is to examine which errors are possible and actually made when manually deriving test cases from UML activity diagrams or state machines and whether there are differences between these diagram types.
+
+Method
+
+We investigate the errors made when deriving test cases manually in a controlled student experiment. The experiment was performed and internally replicated with overall 84 participants divided into three groups at two institutions.
+
+Results
+
+As a result of our experiment, we provide a taxonomy of errors made and their frequencies. In addition, our experiment provides evidence that activity diagrams have a higher perceived comprehensibility but also a higher error-proneness than state machines with regard to manual test case derivation. This information helps to develop guidelines for manual test case derivation from UML activity diagrams and state machines.
+
+Conclusion
+
+Most errors observed were due to missing test steps, conditions or results, or content was written into the wrong field. As activity diagrams have a higher perceived comprehensibility, but also more error-prone than state machines, both diagram types are useful for manual test case derivation. Their application depends on the context and should be complemented with clear rules on how to derive test cases.

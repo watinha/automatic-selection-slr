@@ -1,0 +1,24 @@
+WWTW: the world wide telecom web
+The World Wide Web (WWW) enabled quick and easy information dissemination
+and brought about fundamental changes to various aspects of our lives.
+However, a very large number of people, mostly in developing regions,
+are still untouched by this revolution. Compared to PCs, the primary
+access mechanism to WWW, mobile phones have made a phenomenal penetration
+into this population segment. Low cost of ownership, the simple user
+interface consisting of a small keyboard, limited menu and voice-based
+access contribute to the success of mobile phones with the less literate.
+However, apart from basic voice communication, these people are not
+being able to exploit the benefits of information and services available
+to WWW users.
+
+
+In this paper, we present the World Wide Telecom Web (WWTW) --- our
+vision of a voice-driven ecosystem parallel to that of the WWW. WWTW
+is a network of interconnected voice sites that are voice driven
+applications created by users and hosted in the network. It has the
+potential to enable the underprivileged population to become a part
+of the next generation converged networked world. We present a whole
+gamut of existing technology enablers for our vision as well as present
+research directions and open challenges that need to be solved to
+not only realize a WWTW but also to enable the two Webs to cross
+leverage each other.

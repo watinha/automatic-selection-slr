@@ -1,2 +1,21 @@
-The impact of pair programming and test-driven development on package  	dependencies in object-oriented design - an experiment
-Test-driven development (TDD) and pair programming are software development  	practices popularized by extreme programming methodology. The aim  	of the practices is to improve software quality. Provide an empirical  	evidence of the impact of both practices on package dependencies  	playing a role of package level design quality indicators. An experiment  	with a hundred and eighty eight MSc students from Wroclaw University  	of Technology, who developed finance-accounting system in different  	ways (CS - classic solo, TS - TDD solo, CP - classic pairs, TP -  	TDD pairs). It appeared that package level design quality indicators  	(namely package dependencies in an object-oriented design) were not  	significantly affected by development method. Generalization of the  	results is limited due to the fact that MSc students participated  	in the study. Previous research revealed that using test-driven development  	instead of classic (test-last) testing approach had statistically  	significant positive impact on some class level software quality  	indicators (namely CBO and RFC metrics) in case of solo programmers  	as well as pairs. Combined results suggest that the positive impact  	of test-driven development on software quality may be limited to  	class level.
+The impact of pair programming and test-driven development on package
+dependencies in object-oriented design - an experiment
+Test-driven development (TDD) and pair programming are software development
+practices popularized by extreme programming methodology. The aim
+of the practices is to improve software quality. Provide an empirical
+evidence of the impact of both practices on package dependencies
+playing a role of package level design quality indicators. An experiment
+with a hundred and eighty eight MSc students from Wroclaw University
+of Technology, who developed finance-accounting system in different
+ways (CS - classic solo, TS - TDD solo, CP - classic pairs, TP -
+TDD pairs). It appeared that package level design quality indicators
+(namely package dependencies in an object-oriented design) were not
+significantly affected by development method. Generalization of the
+results is limited due to the fact that MSc students participated
+in the study. Previous research revealed that using test-driven development
+instead of classic (test-last) testing approach had statistically
+significant positive impact on some class level software quality
+indicators (namely CBO and RFC metrics) in case of solo programmers
+as well as pairs. Combined results suggest that the positive impact
+of test-driven development on software quality may be limited to
+class level.

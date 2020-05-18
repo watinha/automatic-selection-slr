@@ -1,2 +1,17 @@
 The Platform of Quick Development of Mobile 3D Game
-The platform of quick development of mobile 3D game can be used to  	reduce the mobile 3d phone games' develop-cycle. With this platform,  	the developers can break out of the complexity of programming. Thus  	more efforts will be putted into enriching contents of the game itself.  	The core of the platform of quick development of mobile 3D game is  	the ability of configuration, which can be divided into the following  	parts. The first part is the implementation of a 3D mobile game template  	in the environment of Symbian OS and Nokia Series 60 platform. The  	example game is a first-person shooting (FPS) game using OpenGL ES.  	The second part is to analyze the whole structure of the game systems,  	and to extract the parameters of the game which can be customized.  	According to the extracted part, we make the customized XML documents.  	Finally we use custom tools to customize the game. The tools modify  	the XML data following the programmer's intention and use the XML  	data to rewrite the gameÂ¿s source codes and to build a new version  	of the game.
+The platform of quick development of mobile 3D game can be used to
+reduce the mobile 3d phone games' develop-cycle. With this platform,
+the developers can break out of the complexity of programming. Thus
+more efforts will be putted into enriching contents of the game itself.
+The core of the platform of quick development of mobile 3D game is
+the ability of configuration, which can be divided into the following
+parts. The first part is the implementation of a 3D mobile game template
+in the environment of Symbian OS and Nokia Series 60 platform. The
+example game is a first-person shooting (FPS) game using OpenGL ES.
+The second part is to analyze the whole structure of the game systems,
+and to extract the parameters of the game which can be customized.
+According to the extracted part, we make the customized XML documents.
+Finally we use custom tools to customize the game. The tools modify
+the XML data following the programmer's intention and use the XML
+data to rewrite the gameÂ¿s source codes and to build a new version
+of the game.

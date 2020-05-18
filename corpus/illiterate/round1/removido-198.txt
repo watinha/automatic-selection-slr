@@ -1,2 +1,17 @@
-WELL done and well liked: online information literacy skills and 	learner impressions of the web as a resource for foreign language 	learning
-One of the most common uses of the World Wide Web for foreign language 	learning is as a resource for students to find information when researching 	essay topics. When language instructors ask students to perform searches 	for information about a given issue it is assumed that students know 	how to perform those searches and appreciate the usefulness of the 	Web. However, we do not really know much about the relationship between 	learners and the Web: what processes are involved, how the students 	go about the search process and what their perceptions of the Web 	are. It is therefore essential that these assumptions are examined 	and researched. To find out more about these questions, a study was 	initiated with the aim of obtaining information on how foreign language 	higher education students interact with the Web in general and in 	the context of a search for content/reading tasks in particular. 	The goal was to produce a descriptive snapshot of student impressions 	and abilities at one given moment. For this purpose 198 students 	of Spanish at the University of Southampton were asked how they use 	the Web, what for, how they go about finding the information they 	need, what they perceive to be the advantages and disadvantages of 	using the Web as a research tool for language learning, to compare 	it to other resources and what their perceptions of it are. To measure 	their degree of online information literacy, a scale was created. 	In this paper the details of the project will be presented, and the 	findings of the study discussed.
+Decision support engineering: a DSS development methodology
+Current DSS research has demonstrated the viability of DSSs which
+provide active support, are knowledge based, promote creativity,
+and could act as tools for organizing thoughts. Very few of these
+promising approaches have been tried out in practice for real-life
+situations. One of the important reasons for this gap in state-of-the-art
+DSS research and practice is the need for a comprehensive DSS development
+methodology. This paper presents a comprehensive methodology based
+on a life cycle model and encompassing an engineering approach to
+DSS development. This approach assumes that functionality of a DSS
+is a process of negotiation between the user and the builder, and
+focusses on the support provided by a DSS, as this is the basic reason
+for DSS development. As an engineering approach, it establishes the
+standard for the level of support to be provided by the proposed
+DSS in terms of task effectiveness and resource requirements. This
+engineering approach has been used in a number of DSS development
+projects and has produced successful DSS products

@@ -1,2 +1,7 @@
 Variable Service Process for SaaS Application
-Abstract: To meet the required functional and nonfunctional requirements of different enterprise applications  it is important to model the possible design so that a feasible alternative can be defined. We observed SaaS  developed application by multi-tenancy to provide flexible customization and introduced many issues in  software scalability and dynamic testing. Multi-tenancy demand to customizing the single instance according  variability wishes among many customers. For that we proposed variable service process to customization  multi-tenancy in runtime. It will be realize all benefits of variability concept for SaaS application.
+Abstract: To meet the required functional and nonfunctional requirements of different enterprise applications
+it is important to model the possible design so that a feasible alternative can be defined. We observed SaaS
+developed application by multi-tenancy to provide flexible customization and introduced many issues in
+software scalability and dynamic testing. Multi-tenancy demand to customizing the single instance according
+variability wishes among many customers. For that we proposed variable service process to customization
+multi-tenancy in runtime. It will be realize all benefits of variability concept for SaaS application.

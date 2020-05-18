@@ -1,2 +1,13 @@
-ScriptEase: generative design patterns for computer role-playing  	games
-Recently, some researchers have argued that generative design patterns  	(GDPs) can leverage the obvious design re-use that characterizes  	traditional design patterns into code re-use. This work provides  	additional evidence that GDPs are both useful and productive. Specifically,  	the current state-of-the-art in the domain of computer games is to  	script individual game objects to provide the desired interactions  	for each game adventure. We use BioWare Corp.'s popular Neverwinter  	Nights computer role-playing game to show how GDPs can be used to  	generate game scripts. This is a particularly good domain for GDPs,  	since game designers often have little or no programming skills.  	We demonstrate our approach using a new GDP tool called ScriptEase.
+ScriptEase: generative design patterns for computer role-playing
+games
+Recently, some researchers have argued that generative design patterns
+(GDPs) can leverage the obvious design re-use that characterizes
+traditional design patterns into code re-use. This work provides
+additional evidence that GDPs are both useful and productive. Specifically,
+the current state-of-the-art in the domain of computer games is to
+script individual game objects to provide the desired interactions
+for each game adventure. We use BioWare Corp.'s popular Neverwinter
+Nights computer role-playing game to show how GDPs can be used to
+generate game scripts. This is a particularly good domain for GDPs,
+since game designers often have little or no programming skills.
+We demonstrate our approach using a new GDP tool called ScriptEase.

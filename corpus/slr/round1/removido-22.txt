@@ -1,2 +1,14 @@
 The golden age of software architecture
-Since the late 1980s, software architecture has emerged as the principled  	understanding of the large-scale structures of software systems.  	From its roots in qualitative descriptions of empirically observed  	useful system organizations, software architecture has matured to  	encompass a broad set of notations, tools, and analysis techniques.  	Whereas initially the research area interpreted software practice,  	it now offers concrete guidance for complex software design and development.  	It has made the transition from basic research to an essential element  	of software system design and construction. This retrospective examines  	software architecture's growth in the context of a technology maturation  	model, matching its significant accomplishments to the model's stages  	to gain perspective on where the field stands today. This trajectory  	has taken architecture to its golden age.
+Since the late 1980s, software architecture has emerged as the principled
+understanding of the large-scale structures of software systems.
+From its roots in qualitative descriptions of empirically observed
+useful system organizations, software architecture has matured to
+encompass a broad set of notations, tools, and analysis techniques.
+Whereas initially the research area interpreted software practice,
+it now offers concrete guidance for complex software design and development.
+It has made the transition from basic research to an essential element
+of software system design and construction. This retrospective examines
+software architecture's growth in the context of a technology maturation
+model, matching its significant accomplishments to the model's stages
+to gain perspective on where the field stands today. This trajectory
+has taken architecture to its golden age.

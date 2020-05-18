@@ -1,2 +1,15 @@
 GUIDE: Games with UML for interactive design exploration
-In this paper we present our design tool GUIDE, which allows the user  	to explore a design in UML interactively by playing a game. The game  	incorporates both the design model and a specification of what it  	means for the design to be correct. The central idea of this approach  	is that the designer can increment the game during a play and gradually  	add more detail to it. Specification and design are refined by repeated  	plays of the game. The designer stops playing when design and specification  	are detailed enough for his purpose and match each other. The interactive  	game approach helps to cope with incompleteness and informal definition  	of UML models, which make strictly formal verification techniques  	difficult. The designer may resolve these problems when they arise  	during a play or let the GUIDE tool determine how the play should  	proceed. We discuss the potential impact of GUIDE and tools like  	it on software development.
+In this paper we present our design tool GUIDE, which allows the user
+to explore a design in UML interactively by playing a game. The game
+incorporates both the design model and a specification of what it
+means for the design to be correct. The central idea of this approach
+is that the designer can increment the game during a play and gradually
+add more detail to it. Specification and design are refined by repeated
+plays of the game. The designer stops playing when design and specification
+are detailed enough for his purpose and match each other. The interactive
+game approach helps to cope with incompleteness and informal definition
+of UML models, which make strictly formal verification techniques
+difficult. The designer may resolve these problems when they arise
+during a play or let the GUIDE tool determine how the play should
+proceed. We discuss the potential impact of GUIDE and tools like
+it on software development.

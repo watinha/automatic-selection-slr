@@ -1,2 +1,3 @@
 Metamorphic Testing for Cybersecurity
- Abstract:  Metamorphic testing (MT) can enhance security testing by providing an alternative to using a test oracle, which is often unavailable or impractical. The authors report how MT detected previously unknown bugs in real-world critical applications such as code obfuscators, giving evidence that software testing requires diverse perspectives to achieve greater cybersecurity.  
+ Abstract:
+Metamorphic testing (MT) can enhance security testing by providing an alternative to using a test oracle, which is often unavailable or impractical. The authors report how MT detected previously unknown bugs in real-world critical applications such as code obfuscators, giving evidence that software testing requires diverse perspectives to achieve greater cybersecurity.

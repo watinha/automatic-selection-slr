@@ -1,2 +1,8 @@
 Pair Design in Undergraduate Labs
-Pair programming is widely recognized as a successful method of improving  	student competence in computer science while lowering dependence  	on teaching staff. In this paper, we propose an approach based on  	pair programming, termed pair design, that reinforces program design  	and testing skills in addition to collaboration. We describe the  	approach and our results in applying it to freshmen and sophomore  	laboratory environments.
+Pair programming is widely recognized as a successful method of improving
+student competence in computer science while lowering dependence
+on teaching staff. In this paper, we propose an approach based on
+pair programming, termed pair design, that reinforces program design
+and testing skills in addition to collaboration. We describe the
+approach and our results in applying it to freshmen and sophomore
+laboratory environments.

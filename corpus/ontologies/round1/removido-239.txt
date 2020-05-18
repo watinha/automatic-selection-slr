@@ -1,2 +1,10 @@
 A Contribution to Modeling and Automatic Generation of Educational Content
-Abstract. The development of educational modules concise units of study,  composed by theoretical and practical content which can be delivered to learners  by using technological resources has been extensively explored in the  context of Teaching and Learning. In this paper we present and discuss supporting  mechanisms for developing educational modules, emphasizing aspects  of modeling and generating content. We present AIM?CID an integrated  approach for modeling educational content which considers different didactic  perspectives. We also propose a collaborative tool that supports modeling and  generating content based on the AIM?CID.
+Abstract. The development of educational modules concise units of study,
+composed by theoretical and practical content which can be delivered to learners
+by using technological resources has been extensively explored in the
+context of Teaching and Learning. In this paper we present and discuss supporting
+mechanisms for developing educational modules, emphasizing aspects
+of modeling and generating content. We present AIM?CID an integrated
+approach for modeling educational content which considers different didactic
+perspectives. We also propose a collaborative tool that supports modeling and
+generating content based on the AIM?CID.

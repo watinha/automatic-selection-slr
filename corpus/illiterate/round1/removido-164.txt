@@ -1,2 +1,11 @@
-Hardware speech recognition for user interfaces in low cost, low 	power devices
-We propose a system architecture for real-time hardware speech recognition 	on low-cost, power-constrained devices. The system is intended to 	support real-time speech-based user interfaces as part of an effort 	to bring information and communication technologies (ICTs) to underdeveloped 	regions of the world. Our system architecture exploits a shared infrastructure 	model. The computationally intensive task of speech model training 	and retraining is performed offline by shared servers, while the 	actual recognition of speech is conducted on low-cost hand-held devices 	using custom hardware. The recognizer is extremely flexible and can 	support multiple languages or dialects with speaker-independent recognition. 	Dynamic loading of speech models is used for changing language grammar 	and retraining, while reprogramming is used to support evolution 	of recognition algorithms. The focus on small sets of words (at one 	time) reduces the complexity, cost and power consumption. We design 	the speech decoder, the central component of the recognizer, and 	we validate it via a prototype FPGA implementation. We then use ASIC 	synthesis to estimate power and size for the design. Our evaluations 	demonstrate an order of magnitude improvement in power compared with 	optimized recognition software running on a low-power embedded general-purpose 	processor of the same technology and of similar capabilities. The 	synthesis also estimates the area of the design to be about 2.5mm, 	showing potential for lower cost. In designing and testing our recognizer 	we use datasets in both English and Tamil languages.
+A peer-to-peer architecture for the collaborative construction of
+scientific theories by virtual communities
+Needs for bidirectional nonvertical access to information and learning
+are evident and urgent. We cannot impose pervasive, huge investments
+to developing country's users forcing them to wait. Peer-to-peer
+architectures integrated with interoperable XML documents are currently
+the most suited means for direct, bidirectional access to information
+within virtual communities. We show how such an architecture may
+improve the effectiveness of a previously developed tool for literacy
+in Brazil, at the same time as it enables highly qualified scientists
+in the West to cooperate on the Web today, on the grid tomorrow.

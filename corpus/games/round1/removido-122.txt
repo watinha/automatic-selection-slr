@@ -1,2 +1,9 @@
-Challenges in collaborative game design developing learning environments  	for creating games
-We perform a general analysis of the game design process, the structure  	of digital games and investigate the requirements for the use of  	OpenCroquet as a platform for collaborative game design. Based on  	our experiences of using a Squeak/Tweak programming environment in  	many game projects and recently for teaching game design we derive  	properties of a learning environment for teaching game design in  	an OpenCroquet environment with a special focus on collaboration.
+Challenges in collaborative game design developing learning environments
+for creating games
+We perform a general analysis of the game design process, the structure
+of digital games and investigate the requirements for the use of
+OpenCroquet as a platform for collaborative game design. Based on
+our experiences of using a Squeak/Tweak programming environment in
+many game projects and recently for teaching game design we derive
+properties of a learning environment for teaching game design in
+an OpenCroquet environment with a special focus on collaboration.

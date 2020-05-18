@@ -1,2 +1,37 @@
 Software Testing Process Performance Improvement using Service-Based Testing Support
-A  S software gradually becomes an important and necessary  facet in modern daily lives, software quality should  be treated as an utmost issue attentive by all parties involved.  Unfortunately, the inherent software quality problems are often  not carefully administered from the outset of the development  process. Inadequate and inappropriate testing is one common  shortfall that culminates defects to be accumulated over its life  cycle.  A software development model, namely, V-model presents  the relationships between each development and associated  testing phases in the waterfall model [1]. Four testing phases  are Unit Testing (UT), Integration Testing (IT), System Testing  (ST), and User Acceptance Testing (UAT). UT is operated  by the development team, IT and ST are performed by the  test team, and UAT is conducted by the user team. Some  organizations focus on IT and ST only while others pay  attention to all phases. The problems are lack of related testing  understanding and knowledge of developers and users [2, 3]  as far as test plan and test skill in UT and UAT are concerned.  Furthermore, the communication and coordination among the  teams are not effective. The impact from this issues is the gaps  between developers and testers, and between testers and users.  This is illustrated as a framework model in Fig. 1.  The software testing performance that we focus on this  study encompasses key performance factors such as duration,  effort, and quality [4, 5, 6, 7] can affect this gaps directly. This  study describes a significant improvement in key performance  factors with the concepts of testing service from test team for  development and user team in UT and UAT.  The paper is structured as follows. Section 2 presents  the survey results in software testing industry and related  researches. Service-based testing Support model (SbtS) is  presented in Section 3. Section 4 summarizes the practical  results of a case study with three pilot projects. A final  concluding remarks and future work are given in Section 5
+A
+S software gradually becomes an important and necessary
+facet in modern daily lives, software quality should
+be treated as an utmost issue attentive by all parties involved.
+Unfortunately, the inherent software quality problems are often
+not carefully administered from the outset of the development
+process. Inadequate and inappropriate testing is one common
+shortfall that culminates defects to be accumulated over its life
+cycle.
+A software development model, namely, V-model presents
+the relationships between each development and associated
+testing phases in the waterfall model [1]. Four testing phases
+are Unit Testing (UT), Integration Testing (IT), System Testing
+(ST), and User Acceptance Testing (UAT). UT is operated
+by the development team, IT and ST are performed by the
+test team, and UAT is conducted by the user team. Some
+organizations focus on IT and ST only while others pay
+attention to all phases. The problems are lack of related testing
+understanding and knowledge of developers and users [2, 3]
+as far as test plan and test skill in UT and UAT are concerned.
+Furthermore, the communication and coordination among the
+teams are not effective. The impact from this issues is the gaps
+between developers and testers, and between testers and users.
+This is illustrated as a framework model in Fig. 1.
+The software testing performance that we focus on this
+study encompasses key performance factors such as duration,
+effort, and quality [4, 5, 6, 7] can affect this gaps directly. This
+study describes a significant improvement in key performance
+factors with the concepts of testing service from test team for
+development and user team in UT and UAT.
+The paper is structured as follows. Section 2 presents
+the survey results in software testing industry and related
+researches. Service-based testing Support model (SbtS) is
+presented in Section 3. Section 4 summarizes the practical
+results of a case study with three pilot projects. A final
+concluding remarks and future work are given in Section 5

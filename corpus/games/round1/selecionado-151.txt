@@ -1,2 +1,9 @@
 A Study on User Experience of Online Games
-User experience issues in online games are studied with the theory  	and method of user-centered design and game playability as the breakthrough  	point, and then we can get the design guidelines about the user experience.  	According to the data and then we use factor analysis and correlation  	analysis to study the degree of correlation between the various indicators  	and player satisfaction. According to the results, a user experience  	design guidelines is proposed. This guidelines can be referenced  	by the designer for the game development and other IT products.
+User experience issues in online games are studied with the theory
+and method of user-centered design and game playability as the breakthrough
+point, and then we can get the design guidelines about the user experience.
+According to the data and then we use factor analysis and correlation
+analysis to study the degree of correlation between the various indicators
+and player satisfaction. According to the results, a user experience
+design guidelines is proposed. This guidelines can be referenced
+by the designer for the game development and other IT products.

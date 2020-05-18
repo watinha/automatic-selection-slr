@@ -1,2 +1,15 @@
-Is telemedicine the panacea for Sub-Saharan Africa's medical nightmare?
-"Ever since my eye swelled up, I've gone to church to pray for a cure...I 	always knew He would send a way to make me better---I just didn't 	know it was going to be from London," says Anna Mobutsu, a 23-year-old 	farm laborer, who cannot imagine journeying farther than a bus ride 	from her home in the small African town of Nelspruit. An illiterate 	single parent with a 7-year-old and an elderly mother to support 	on about $56 a month, Anna does not even own a TV to introduce her 	to a world beyond her own. "But this afternoon I went to London" 	[2].
+A Picture Language Translator
+Picture languages are on attractive basis for communication. However,
+it is difficult to represent and understand accurate meaning in such
+languages. So, we are developing an approach where pictures with
+captions are allocated on positions of a 2D structure and special
+translators generate corresponding sentences in natural languages.
+These positions have pre-defined meaning and represent a multimedia
+hieroglyph. The hieroglyph is a complex picture (a multimedia sentence)
+including more simple pictures (multimedia words). In this approach
+the "hieroglyphic writing" is reduced to selecting appropriate multimedia
+words through special interface panels without necessity to use keyboards.
+As a result, the users can send and receive multimedia messages,
+though they have never used a computer before. In this paper, methods
+and implementation techniques for translating multimedia hieroglyphs
+into English are explained

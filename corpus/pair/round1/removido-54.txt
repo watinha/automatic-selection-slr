@@ -1,2 +1,15 @@
 Program comprehension risks and opportunities in extreme programming
-Investigates the relationship between reverse engineering and program  	comprehension on the one hand, and the software process on the other.  	To understand this relationship, we select one particular existing  	software process, extreme programming (XP), and study the role played  	in it by program comprehension and reverse engineering. To that end,  	we analyze five key XP practices in depth: pair programming, unit  	testing, refactoring, evolutionary design and collaborative planning.  	The contributions of this paper are: (1) the identification of promising  	research areas in the field of program comprehension; (2) the identification  	of new application perspectives for reverse engineering technology;  	(3) a critical analysis of XP resulting in research questions that  	could help resolve some of the uncertainties surrounding XP; and  	(4) a discussion of the role that comprehension and reverse engineering  	can play in software process design.
+Investigates the relationship between reverse engineering and program
+comprehension on the one hand, and the software process on the other.
+To understand this relationship, we select one particular existing
+software process, extreme programming (XP), and study the role played
+in it by program comprehension and reverse engineering. To that end,
+we analyze five key XP practices in depth: pair programming, unit
+testing, refactoring, evolutionary design and collaborative planning.
+The contributions of this paper are: (1) the identification of promising
+research areas in the field of program comprehension; (2) the identification
+of new application perspectives for reverse engineering technology;
+(3) a critical analysis of XP resulting in research questions that
+could help resolve some of the uncertainties surrounding XP; and
+(4) a discussion of the role that comprehension and reverse engineering
+can play in software process design.

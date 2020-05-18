@@ -1,2 +1,19 @@
 Using Search Based SE for GUI Test Data Generation
-The graphical user interfaces (GUIs) are playing a major role  in the popularity of software systems. Recognizing the  importance of GUI, software teams feel an immense pressure  in delivering the interface according to expectations of the  customer. Beside heavy focus and due attention towards GUI,  software engineers are still looking for practices to ensure the  thorough testing of such applications involving GUI's. One  major breakthrough to automate this manual effort of GUI  testing is to map GUI events with some models and graphs.  Event-flow graph is relatively a fresh and useful addition to  cope up with automation of GUI testing. We have used event  driven nature of GUI for testing in some of previous studies.  In this paper we are presenting an idea of generating test cases  for GUI based on search based algorithm and manipulating  ontology for GUI testing. This ontology is supposed to work on  the basis of semantics of possible events and than annotations  will use to generate the test cases and work as an oracle for  verification of the output of testing effort. 
+The graphical user interfaces (GUIs) are playing a major role
+in the popularity of software systems. Recognizing the
+importance of GUI, software teams feel an immense pressure
+in delivering the interface according to expectations of the
+customer. Beside heavy focus and due attention towards GUI,
+software engineers are still looking for practices to ensure the
+thorough testing of such applications involving GUI's. One
+major breakthrough to automate this manual effort of GUI
+testing is to map GUI events with some models and graphs.
+Event-flow graph is relatively a fresh and useful addition to
+cope up with automation of GUI testing. We have used event
+driven nature of GUI for testing in some of previous studies.
+In this paper we are presenting an idea of generating test cases
+for GUI based on search based algorithm and manipulating
+ontology for GUI testing. This ontology is supposed to work on
+the basis of semantics of possible events and than annotations
+will use to generate the test cases and work as an oracle for
+verification of the output of testing effort. 

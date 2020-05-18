@@ -1,2 +1,10 @@
-Investigating pair-programming in a 2nd-year software development  	and design computer science course
-This paper presents the results of a pair programming experiment conducted  	at the University of Auckland (NZ) during the first semester of 2004.  	It involved 300 second year computer science students attending a  	software design and construction course. We investigated similar  	issues to those reported by L. Williams et al., (2003) and employed  	a subset of the questionnaires used on the experiments presented.  	Our results support the use of pair programming as an effective programming/design  	learning technique.
+Investigating pair-programming in a 2nd-year software development
+and design computer science course
+This paper presents the results of a pair programming experiment conducted
+at the University of Auckland (NZ) during the first semester of 2004.
+It involved 300 second year computer science students attending a
+software design and construction course. We investigated similar
+issues to those reported by L. Williams et al., (2003) and employed
+a subset of the questionnaires used on the experiments presented.
+Our results support the use of pair programming as an effective programming/design
+learning technique.

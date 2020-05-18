@@ -1,2 +1,16 @@
 Overlooked aspects of COTS-based development
-Although developing with commercial-off-the-shelf components is gaining  	more attention from both research and industrial communities, most  	literature on the topic doesn't clearly identify context variables  	such as the type of products, projects, and systems. In particular,  	the literature often lacks a definition of "COTS product," or, when  	a definition is present, it invariably disagrees with other studies.  	A shared definition would improve discourse and enable researchers  	to meta-analyze published empirical data. After a speculative effort  	to define and classify COTS products, we decided to obtain this much-needed  	understanding from the bottom up. We asked people involved in industrial  	projects to name the key features in COTS-based development and to  	tell us what they think constitutes a COTS product. We present the  	interview results in the form of six theses, which contradict widely  	accepted (or simply undisputed) ideas. We also present a definition  	of "COTS product" that captures the key features.
+Although developing with commercial-off-the-shelf components is gaining
+more attention from both research and industrial communities, most
+literature on the topic doesn't clearly identify context variables
+such as the type of products, projects, and systems. In particular,
+the literature often lacks a definition of "COTS product," or, when
+a definition is present, it invariably disagrees with other studies.
+A shared definition would improve discourse and enable researchers
+to meta-analyze published empirical data. After a speculative effort
+to define and classify COTS products, we decided to obtain this much-needed
+understanding from the bottom up. We asked people involved in industrial
+projects to name the key features in COTS-based development and to
+tell us what they think constitutes a COTS product. We present the
+interview results in the form of six theses, which contradict widely
+accepted (or simply undisputed) ideas. We also present a definition
+of "COTS product" that captures the key features.

@@ -1,2 +1,18 @@
-Evaluation of User s Physical Experience in Full Body Interactive  	Games
-This paper is an evaluation of full body interactive games using Kroflic s  	and Labans framework of Body, Space, Time and Relationship. An experiment  	with 8 participants playing 10 games for 20 minutes was conducted  	and recorded to digital video. Body, Space and Time elements have  	been measured using observation, motion tracking and Quantity of  	Motion (QoM). The results from the experiment informed the designer  	about the participants physical experience through the analysis  	of postures used in each game, the quality of the movement, the body  	parts used in the interaction, the playing area, the direction of  	movement, direction of gaze, tempo, dynamics and QoM. The experiment  	informed the designer about important issues of the user s physical  	experience and proved that the method can provide useful information  	in the development and evaluation of full body interactive games.  	The theoretical work of Laban and Kroflic also proved useful for  	interaction and games design in the transition from desktop to full  	body interactive games.
+Evaluation of User s Physical Experience in Full Body Interactive
+Games
+This paper is an evaluation of full body interactive games using Kroflic s
+and Labans framework of Body, Space, Time and Relationship. An experiment
+with 8 participants playing 10 games for 20 minutes was conducted
+and recorded to digital video. Body, Space and Time elements have
+been measured using observation, motion tracking and Quantity of
+Motion (QoM). The results from the experiment informed the designer
+about the participants physical experience through the analysis
+of postures used in each game, the quality of the movement, the body
+parts used in the interaction, the playing area, the direction of
+movement, direction of gaze, tempo, dynamics and QoM. The experiment
+informed the designer about important issues of the user s physical
+experience and proved that the method can provide useful information
+in the development and evaluation of full body interactive games.
+The theoretical work of Laban and Kroflic also proved useful for
+interaction and games design in the transition from desktop to full
+body interactive games.

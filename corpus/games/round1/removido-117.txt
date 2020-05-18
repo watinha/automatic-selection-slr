@@ -1,2 +1,13 @@
 Large Display Size Enhances User Experience in 3D Games
-Large displays are becoming commonplace for home and office computers.  	Although researchers have quantified the benefits of working on large  	displays, there has been little investigation of how large displays  	physiologically and emotionally impact the user. Using subjective  	and physiological measures, we compared the users experience when  	game playing on a large display versus a small display. We found  	that the large display caused greater physiological responses and  	higher subjective ratings of excitement. These physiological results  	were mirrored in the participants subjective reports. The study  	contributes to understanding of interaction with large displays and  	refining the requirements for what constitutes effective and desirable  	humancomputer interaction (HCI).
+Large displays are becoming commonplace for home and office computers.
+Although researchers have quantified the benefits of working on large
+displays, there has been little investigation of how large displays
+physiologically and emotionally impact the user. Using subjective
+and physiological measures, we compared the users experience when
+game playing on a large display versus a small display. We found
+that the large display caused greater physiological responses and
+higher subjective ratings of excitement. These physiological results
+were mirrored in the participants subjective reports. The study
+contributes to understanding of interaction with large displays and
+refining the requirements for what constitutes effective and desirable
+humancomputer interaction (HCI).

@@ -1,2 +1,9 @@
 Co-authorship Networks in Additive Manufacturing Studies Based on Social Network Analysis
-In the last 30 years there has been growing interest in additive manufacturing technology. Coauthorship  of published papers plays such an important role in scientific development. The  collaborative research social network on the field of additive manufacturing is paid particular  attention in this paper. A framework based on open source software is proposed to automate the  data collection and social network analysis. The characteristics of the overall network structure is  analyzed and visualized. The development process of AM collaboration community mode is  discussed. So as to provide inspiration for collaborative research and further development of  additive manufacturing technology.  
+In the last 30 years there has been growing interest in additive manufacturing technology. Coauthorship
+of published papers plays such an important role in scientific development. The
+collaborative research social network on the field of additive manufacturing is paid particular
+attention in this paper. A framework based on open source software is proposed to automate the
+data collection and social network analysis. The characteristics of the overall network structure is
+analyzed and visualized. The development process of AM collaboration community mode is
+discussed. So as to provide inspiration for collaborative research and further development of
+additive manufacturing technology.

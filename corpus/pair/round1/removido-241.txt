@@ -1,2 +1,14 @@
-Experiments with industry's "pair-programming" model in the computer  	science classroom
-Anecdotal evidence from several sources, primarily in industry, indicates  	that two programmers working collaboratively on the same design,  	algorithm, code, or test perform substantially better than the two  	working alone. Two courses taught at the University of Utah studied  	the use of this technique, often called pair-programming or collaborative  	programming, in the undergraduate computer science classroom. The  	students applied a positive form of "pair-pressure" on each other,  	which proved beneficial to the quality of their work products. The  	students also benefit from "pair-learning" which allowed them to  	learn new languages faster and better than with solitary learning.  	The workload of the teaching staff is reduced because the students  	more often look to each other for technical support and advice.
+Experiments with industry's "pair-programming" model in the computer
+science classroom
+Anecdotal evidence from several sources, primarily in industry, indicates
+that two programmers working collaboratively on the same design,
+algorithm, code, or test perform substantially better than the two
+working alone. Two courses taught at the University of Utah studied
+the use of this technique, often called pair-programming or collaborative
+programming, in the undergraduate computer science classroom. The
+students applied a positive form of "pair-pressure" on each other,
+which proved beneficial to the quality of their work products. The
+students also benefit from "pair-learning" which allowed them to
+learn new languages faster and better than with solitary learning.
+The workload of the teaching staff is reduced because the students
+more often look to each other for technical support and advice.

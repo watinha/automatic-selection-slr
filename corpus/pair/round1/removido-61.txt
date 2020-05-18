@@ -1,2 +1,10 @@
 Piloting XP on four mission-critical projects
-According to proponents, extreme programming creates focused, efficient  	software development that heavily emphasizes customer involvement.  	As software developers for mission-critical two-way radio systems  	in Motorola's commercial, government, and industrial solutions sector,  	we'd been hearing a lot about XP's benefits. Software development  	teams constantly battle to increase productivity while maintaining  	or improving quality . Four Motorola teams piloted extreme programming  	to see if it would let them satisfy their customers' constantly changing  	requirements while improving productivity.
+According to proponents, extreme programming creates focused, efficient
+software development that heavily emphasizes customer involvement.
+As software developers for mission-critical two-way radio systems
+in Motorola's commercial, government, and industrial solutions sector,
+we'd been hearing a lot about XP's benefits. Software development
+teams constantly battle to increase productivity while maintaining
+or improving quality . Four Motorola teams piloted extreme programming
+to see if it would let them satisfy their customers' constantly changing
+requirements while improving productivity.

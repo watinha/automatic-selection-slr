@@ -1,2 +1,27 @@
 The economics of software development by pair programmers
-Evidence suggests that pair programmers - two programmers working  	collaboratively on the same design, algorithm, code, or test-perform  	substantially better than the two would work alone. Improved quality,  	teamwork, communication, knowledge management, and morale have been  	among the reported benefits of pair programming. This paper presents  	a comparative economic evaluation that strengthens the case for pair  	programming. The evaluation builds on the quantitative results of  	an empirical study conducted at the University of Utah. The evaluation  	is performed by interpreting these findings in the context of two  	different, idealized models of value realization. In the first model,  	consistent with the traditional waterfall process of software development,  	code produced by a development team is deployed in a single increment;  	its value is not realized until the full project completion. In the  	second model, consistent with agile software development processes  	such as extreme programming, code is produced and delivered in small  	increments; thus its value is realized in an equally incremental  	fashion. Under both models, our analysis demonstrates a distinct  	economic advantage of pair programmers over solo programmers. Based  	on these preliminary results, we recommend that organizations engaged  	in software development consider adopting pair programming as a practice  	that could improve their bottom line. To be able to perform quantitative  	analyses, several simplifying assumptions had to be made regarding  	alternative models of software development, the costs and benefits  	associated with these models, and how these costs and benefits are  	recognized. The implications of these assumptions are addressed in  	the paper.
+Evidence suggests that pair programmers - two programmers working
+collaboratively on the same design, algorithm, code, or test-perform
+substantially better than the two would work alone. Improved quality,
+teamwork, communication, knowledge management, and morale have been
+among the reported benefits of pair programming. This paper presents
+a comparative economic evaluation that strengthens the case for pair
+programming. The evaluation builds on the quantitative results of
+an empirical study conducted at the University of Utah. The evaluation
+is performed by interpreting these findings in the context of two
+different, idealized models of value realization. In the first model,
+consistent with the traditional waterfall process of software development,
+code produced by a development team is deployed in a single increment;
+its value is not realized until the full project completion. In the
+second model, consistent with agile software development processes
+such as extreme programming, code is produced and delivered in small
+increments; thus its value is realized in an equally incremental
+fashion. Under both models, our analysis demonstrates a distinct
+economic advantage of pair programmers over solo programmers. Based
+on these preliminary results, we recommend that organizations engaged
+in software development consider adopting pair programming as a practice
+that could improve their bottom line. To be able to perform quantitative
+analyses, several simplifying assumptions had to be made regarding
+alternative models of software development, the costs and benefits
+associated with these models, and how these costs and benefits are
+recognized. The implications of these assumptions are addressed in
+the paper.

@@ -1,2 +1,16 @@
-Improving the interface between business and product development  	using agile practices and the cycles of control framework
-We describe how we created and adopted an agile product development  	process in a small software company based on the cycles of control  	framework by combining selected agile practices and principles from  	the scrum and XP methodologies. Describing the development process  	using the framework helped in identifying the crucial control points  	between business and development and enabled defining practical and  	well-functioning connections between them. The control points enable  	visibility and flexible management of product development status  	and direction. Currently business understands development status  	better, which has led to fewer interruptions between the control  	points, and thus improved working conditions for development. Positive  	experiences are reported of newly adopted practices such as scrum  	meetings, pair programming, and unit testing. However, finding and  	adopting technical tools to facilitate the process proved to be challenging.
+Improving the interface between business and product development
+using agile practices and the cycles of control framework
+We describe how we created and adopted an agile product development
+process in a small software company based on the cycles of control
+framework by combining selected agile practices and principles from
+the scrum and XP methodologies. Describing the development process
+using the framework helped in identifying the crucial control points
+between business and development and enabled defining practical and
+well-functioning connections between them. The control points enable
+visibility and flexible management of product development status
+and direction. Currently business understands development status
+better, which has led to fewer interruptions between the control
+points, and thus improved working conditions for development. Positive
+experiences are reported of newly adopted practices such as scrum
+meetings, pair programming, and unit testing. However, finding and
+adopting technical tools to facilitate the process proved to be challenging.

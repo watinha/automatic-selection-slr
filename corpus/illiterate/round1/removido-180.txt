@@ -1,2 +1,12 @@
-The wired city: Problem boundaries with municipal government, health 	care delivery, education, state services and the informed public
-This paper considers some of the sociological problems and benefits 	which must be anticipated by any community which is planning a major 	TV cable system with a large, on-line computer system at the cable 	head, providing a large-scale data retrieval and store-and-forward 	system. We will confine the discussion to the impact of (and on) 	the provision of data services. The University of Illinois experiment 	has already shown the basic technical feasibility of such a system 	for 4000 active users.1
+The knowledge contribution of engineers to software development:
+a case study
+The focus of the authors is on the domain knowledge advantage of end
+user prototyping (EUP). The authors present the case history of an
+industrial engineer in an aluminum manufacturing company who becomes
+a sophisticated user of microcomputers and successfully prototypes
+an expert decision support system. Previous work in the field is
+extended and enhanced, and how EUP builds upon the domain knowledge
+possessed by end users, and thereby overcomes the domain knowledge
+deficiency of software engineers, is demonstrated. When compared
+to rapid prototyping by software engineers, prototyping by end users
+enables more effective utilization of domain knowledge

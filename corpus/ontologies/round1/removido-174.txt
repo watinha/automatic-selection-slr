@@ -1,2 +1,16 @@
 A methodology of testing high-level Petri nets
-Petri nets have been extensively used in the modelling and analysis of concurrent and  distributed systems. The verification and validation of Petri nets are of particular  importance in the development of concurrent and distributed systems. As a  complement to formal analysis techniques, testing has been proven to be effective in  detecting system errors and is easy to apply. An open problem is how to test Petri nets  systematically, effectively and efficiently. An approach to solve this problem is to  develop test criteria so that test adequacy can be measured objectively and test cases  can be generated efficiently, even automatically. In this paper, we present a  methodology of testing high-level Petri nets based on our general theory of testing  concurrent software systems. Four types of testing strategies are investigated, which  include state-oriented testing, transition-oriented testing, flow-oriented testing and  specification-oriented testing. For each strategy, a set of schemes to observe and  record testing results and a set of coverage criteria to measure test adequacy are  defined. The subsumption relationships and extraction relationships among the  proposed testing methods are systematically investigated and formally proved. 
+Petri nets have been extensively used in the modelling and analysis of concurrent and
+distributed systems. The verification and validation of Petri nets are of particular
+importance in the development of concurrent and distributed systems. As a
+complement to formal analysis techniques, testing has been proven to be effective in
+detecting system errors and is easy to apply. An open problem is how to test Petri nets
+systematically, effectively and efficiently. An approach to solve this problem is to
+develop test criteria so that test adequacy can be measured objectively and test cases
+can be generated efficiently, even automatically. In this paper, we present a
+methodology of testing high-level Petri nets based on our general theory of testing
+concurrent software systems. Four types of testing strategies are investigated, which
+include state-oriented testing, transition-oriented testing, flow-oriented testing and
+specification-oriented testing. For each strategy, a set of schemes to observe and
+record testing results and a set of coverage criteria to measure test adequacy are
+defined. The subsumption relationships and extraction relationships among the
+proposed testing methods are systematically investigated and formally proved. 

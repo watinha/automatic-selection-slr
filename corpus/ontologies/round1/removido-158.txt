@@ -1,2 +1,21 @@
 A Multi-Agent Framework for Testing 3-Tier Distributed Systems Architecture
-Lack of time and capital for software testing is an  oft encountered problem in most organizations. The  plethora of possible test cases for each software  component makes software testing a very expensive  and time consuming activity and can, in extreme cases,  account for up to 50% of the total cost of the software  development process. The advent of distributed systems  has augmented the complexity of the testing process  and has made it an even more daunting task than  before. This paper presents an innovative multi-agent  framework to ease some of the burdens associated with  the testing of generic distributed systems. The  architecture of the proposed MAS (Multi-Agent  System) is presented along with detailed descriptions  of the various models arrived at following the analysis  and design phases of the proposed system. The  proposed framework is considered as a step towards  the automation of the testing process for distributed  systems in order to enhance their reliability within an  acceptable range of cost and time.  
+Lack of time and capital for software testing is an
+oft encountered problem in most organizations. The
+plethora of possible test cases for each software
+component makes software testing a very expensive
+and time consuming activity and can, in extreme cases,
+account for up to 50% of the total cost of the software
+development process. The advent of distributed systems
+has augmented the complexity of the testing process
+and has made it an even more daunting task than
+before. This paper presents an innovative multi-agent
+framework to ease some of the burdens associated with
+the testing of generic distributed systems. The
+architecture of the proposed MAS (Multi-Agent
+System) is presented along with detailed descriptions
+of the various models arrived at following the analysis
+and design phases of the proposed system. The
+proposed framework is considered as a step towards
+the automation of the testing process for distributed
+systems in order to enhance their reliability within an
+acceptable range of cost and time.

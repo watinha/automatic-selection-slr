@@ -1,2 +1,13 @@
-Use of the PETRA scale in a weighed inventory study of British Asian 	children: methodological considerations
-A one-year cross-sectional survey of 4–40 month old Indo-Asian children 	was carried out in Sheffield. The aim was to examine the dietary 	intakes and nutritional status of weanlings. Weighed inventories 	were facilitated by use of the PETRA scale (Cherlyn Electronics, 	Cambridge). Families were accessed via Child Health and GP clinics, 	targeted on the basis of information on age and ethnicity of Sheffield-bom 	infants, derived from Central Clinic records. Studies were completed 	on 120 children (approximately a quarter of the target population). 	Diet histories were taken and food samples collected in order to 	validate the weighed intake method. Data collection and supervision 	of mothers was carried out by one Bengali and two Punjabi-speaking 	fieldworkers, previously trained in nutrition and dietary assessment 	techniques. Although initial laboratory trials were successful, in 	field trials and in the main study, the scales proved to be less 	user friendly and more prone to damage than expected. Although our 	experience indicates that the PETRA scales do allow use of the weighed 	intake method for otherwise inaccessible, illiterate subjects, this 	is dependent on a high level of supervision.
+MULTINET: Enabler for Next Generation Pervasive Wireless Services
+Pervasive services provided to the enterprise require from increased
+speed, performance, degree of personalization, ubiquitous access
+and reliability. 4G broadband wireless systems and multihoming technologies
+provide a working framework where such challenges could be met. In
+the context of a user driven broadband multimedia service and heterogeneous
+multiple-flow communication network supported system, this paper
+presents the MULTINET architecture as an enabler for next generation
+service delivery. The paper will discuss the main entities involved
+in the system, the main functionality supported and performance.
+The paper will also highlight initial architecture set-ups and evaluate
+benefits and drawbacks of the proposed configurations to meet the
+identified QoS requirements.

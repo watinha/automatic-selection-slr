@@ -1,2 +1,2 @@
-Enhancing the expressivity of {PADL
-Process Algebra Description Language, {PADL
+Enhancing the expressivity of {PADL} for specifying Web Services Architectures
+Process Algebra Description Language, {PADL} in short, is a description language for describing structural components specified as individual process working in parallel with communication capabilities. This description is close to what we consider a web service except for the communication process. The {PADL} language is consider for synchronous communication while we need an asynchronous definition in communications terms. Then we propose in this work an extension of {PADL} for specifying Web Services Architectures.

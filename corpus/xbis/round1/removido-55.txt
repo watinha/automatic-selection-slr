@@ -1,2 +1,19 @@
 An Oracle based on Image Comparison for Regression Testing of Web Applications
-Abstract Much work has been done on automating regression  testing for Web applications, but most of them focus on test  data generation or test execution. Little work has been done  on automatically determining if a test passed or failed; testers  would need to visually confirm the result which can be a tedious  task. The difficulty is compounded by the fact that parts of a  Web page (such as advertisements) may change each time the  Web application is executed even though it has no bearing on the  Web application function itself. We thus propose a test oracle for  automatically determining the result of regression testing a Web  application. The key point of our approach is the identification  of parts that may change, which we call variable region. We  first generate the expected result, by executing the original (premodification)  Web application multiple times so that variable  regions can be identified. Then, after the Web application is  modified, regression testing is conducted by comparing the output  of the modified Web application against the expected output. An  evaluation confirmed the usefulness of our approach.
+Abstract Much work has been done on automating regression
+testing for Web applications, but most of them focus on test
+data generation or test execution. Little work has been done
+on automatically determining if a test passed or failed; testers
+would need to visually confirm the result which can be a tedious
+task. The difficulty is compounded by the fact that parts of a
+Web page (such as advertisements) may change each time the
+Web application is executed even though it has no bearing on the
+Web application function itself. We thus propose a test oracle for
+automatically determining the result of regression testing a Web
+application. The key point of our approach is the identification
+of parts that may change, which we call variable region. We
+first generate the expected result, by executing the original (premodification)
+Web application multiple times so that variable
+regions can be identified. Then, after the Web application is
+modified, regression testing is conducted by comparing the output
+of the modified Web application against the expected output. An
+evaluation confirmed the usefulness of our approach.

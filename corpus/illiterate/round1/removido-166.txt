@@ -1,2 +1,22 @@
-Understanding ICT\&\#45;based business models in developing countries
-It is an essential issue to show how small- and medium-sized enterprises 	(SMEs) and micro enterprises in developing countries can profit from 	the opportunities presented through the use of information and communication 	technologies ICTs. This fosters development and helps narrowing the 	digital divide. The paper presents a business model framework that 	helps analysing ICT-based business models and illustrates it through 	the Village Phone Program of the telecommunication operator Grameen 	Phone in Bangladesh. Furthermore, the paper proposes a so-called 	business model handbook to improve knowledge transfer related to 	ICT-based business models.
+Understanding and designing for intermediated information tasks in
+India
+It's important to consider both primary and secondary users when designing
+for intermediated interaction scenarios in India and elsewhere in
+the developing world. However, most of this research has focused
+on supporting users in the developed world who are voluntarily collaborating
+on a computing task. Many users in India, especially those from disadvantaged
+classes, have only partial or no physical access to computing devices.
+We refer to these users as secondary users to distinguish them from
+the primary users that the interface design process traditionally
+considers. Secondary users must interact with information resources
+via a proxy primary user who has the required access rights and skills.
+The proxy's filtering and funneling decisions limit the secondary
+users' information-seeking behavior; the secondary user might also
+have an unequal power relationship with the proxy. Therefore, secondary
+users might never know the full scope of actions and knowledge available
+to them. If we are to realize the egalitarian potential of computing,
+we must consider secondary users in the design process. We must develop
+technologies that recognize the needs and aspirations of all classes
+of users, including those without direct access to the user interface.
+In fact, by designing user interfaces explicitly supporting intermediated
+tasks, both primary and secondary users can benefit.

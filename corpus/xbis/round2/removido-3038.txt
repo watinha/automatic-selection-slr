@@ -1,2 +1,12 @@
 TESTAR para testing IoT
-As the number of devices connected to the Internet is increasing, the so-called  Internet of Things (IoT) is becoming a reality. It even has the required potential to  change both the way we live and the way we work.  In order to take advantage of the benefits that the IoT can bring us, ensuring the quality  of massively interconnected devices becomes a pressing necessity. A means of satisfying  this need would be automated testing of IoT devices. However, this presents many  difficulties such as the lack of standards and limitations in battery and memory.  In this work we start from an automated testing tool at the user interface level that has  already been successfully applied in several industrial cases. Maintaining its philosophy  and approach, a new tool is developed which is applicable to the IoT environment. The  tool is evaluated by testing a smart home and the results are presented.
+As the number of devices connected to the Internet is increasing, the so-called
+Internet of Things (IoT) is becoming a reality. It even has the required potential to
+change both the way we live and the way we work.
+In order to take advantage of the benefits that the IoT can bring us, ensuring the quality
+of massively interconnected devices becomes a pressing necessity. A means of satisfying
+this need would be automated testing of IoT devices. However, this presents many
+difficulties such as the lack of standards and limitations in battery and memory.
+In this work we start from an automated testing tool at the user interface level that has
+already been successfully applied in several industrial cases. Maintaining its philosophy
+and approach, a new tool is developed which is applicable to the IoT environment. The
+tool is evaluated by testing a smart home and the results are presented.

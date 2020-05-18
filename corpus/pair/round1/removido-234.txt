@@ -1,2 +1,14 @@
 Empirical validation of pair programming
-This paper discusses an empirical assessment of pair programming.  	Several agile processes arose and have been adopted in industry with  	the promise of producing working software in the early phases of  	production process and to make the organization flexible and adaptable  	with respect to the changing environment. The outcomes of the experiments  	can be summarized as follows: (i) pair programming improves the productivity  	of developers with respect to solo programming; (ii) it also fosters  	knowledge transfer between the developers of the pair: the experiment  	suggests that this effect is emphasized when both the components  	own the same educational background; and, finally, (iii) distributing  	the components of a pair could seriously deteriorate expected benefits,  	if an appropriate support for communication and collaboration is  	not set up.
+This paper discusses an empirical assessment of pair programming.
+Several agile processes arose and have been adopted in industry with
+the promise of producing working software in the early phases of
+production process and to make the organization flexible and adaptable
+with respect to the changing environment. The outcomes of the experiments
+can be summarized as follows: (i) pair programming improves the productivity
+of developers with respect to solo programming; (ii) it also fosters
+knowledge transfer between the developers of the pair: the experiment
+suggests that this effect is emphasized when both the components
+own the same educational background; and, finally, (iii) distributing
+the components of a pair could seriously deteriorate expected benefits,
+if an appropriate support for communication and collaboration is
+not set up.

@@ -1,2 +1,11 @@
-Dialog-based protocol: an empirical research method for cognitive  	activities in software engineering
-This paper proposes dialog-based protocol for the study of the cognitive  	activities during software development and evolution. The dialog-based  	protocol, derived from the idea of pair programming, is a significant  	alternative to the common think-aloud protocol, because it lessens  	the Hawthorne and placebo effects. Using screen-capturing and voice  	recording instead of videotaping further reduces the Hawthorne effect.  	The self-directed learning theory provides an encoding scheme and  	can be used in analyzing the data. A case study illustrates this  	new approach.
+Dialog-based protocol: an empirical research method for cognitive
+activities in software engineering
+This paper proposes dialog-based protocol for the study of the cognitive
+activities during software development and evolution. The dialog-based
+protocol, derived from the idea of pair programming, is a significant
+alternative to the common think-aloud protocol, because it lessens
+the Hawthorne and placebo effects. Using screen-capturing and voice
+recording instead of videotaping further reduces the Hawthorne effect.
+The self-directed learning theory provides an encoding scheme and
+can be used in analyzing the data. A case study illustrates this
+new approach.

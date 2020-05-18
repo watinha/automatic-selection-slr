@@ -1,2 +1,22 @@
-Extracting key semantic terms from Chinese speech query for web searches
-This paper discusses the challenges and proposes a solution to performing 	information retrieval on the Web using Chinese natural language speech 	query. The main contribution of this research is in devising a divide-and-conquer 	strategy to alleviate the speech recognition errors. It uses the 	query model to facilitate the extraction of main core semantic string 	(CSS) from the Chinese natural language speech query. It then breaks 	the CSS into basic components corresponding to phrases, and uses 	a multi-tier strategy to map the basic components to known phrases 	in order to further eliminate the errors. The resulting system has 	been found to be effective.
+Inside the source selection process: Selection criteria for human
+information sources
+Co-workers are an important source of information in organizations.
+Consequently, information managers seek to facilitate the use of
+such human information sources. Although various studies about what
+influences the use of human information sources in organizations
+exist, it is difficult for information managers to utilize insights
+from this research body. The studies have provided contradictory
+results regarding the role of accessibility and quality and suffer
+from various weaknesses. To address these weaknesses, several studies
+are employing other research methods. This study aims to contribute
+to the methodological development of this emerging new line of research
+by exploring the value of a think aloud approach to such studies.
+In addition, it aims to provide more insight into the role of accessibility
+and quality in the selection of human information sources in organizations.
+Fifty-six employees from four governmental organizations were asked
+to think aloud while selecting human information sources. The findings
+of this study corroborate those of studies taking a similar approach:
+source quality is the most dominant factor in the selection of human
+information sources. The think aloud approach seems a valuable contribution
+to available research methods to assess the role of accessibility
+and quality in human source selection in organizations.

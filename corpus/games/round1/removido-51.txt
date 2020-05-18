@@ -1,2 +1,10 @@
-Interaction and Expressivity in Video Games: Harnessing the Rhetoric  	of Film
-The film-maker uses the camera and editing creatively, not simply  	to present the action of the film but also to set up a particular  	relation between the action and the viewer. In 3D video games with  	action controlled by the player, the pseudo camera is usually less  	creatively controlled and has less effect on the playerrsquos appreciation  	of and engagement with the game. This paper discusses methods of  	controlling games by easy and intuitive interfaces and use of an  	automated virtual camera to increase the appeal of games for users.
+Interaction and Expressivity in Video Games: Harnessing the Rhetoric
+of Film
+The film-maker uses the camera and editing creatively, not simply
+to present the action of the film but also to set up a particular
+relation between the action and the viewer. In 3D video games with
+action controlled by the player, the pseudo camera is usually less
+creatively controlled and has less effect on the playerrsquos appreciation
+of and engagement with the game. This paper discusses methods of
+controlling games by easy and intuitive interfaces and use of an
+automated virtual camera to increase the appeal of games for users.

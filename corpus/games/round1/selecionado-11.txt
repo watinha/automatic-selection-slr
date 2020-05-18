@@ -1,2 +1,24 @@
-Identifying usability and fun problems in a computer game during  	first use and after some practice
-This paper describes an experiment to discover the change in the types  	of detected problems and the attitude of children towards a game  	when user testing a computer game for young children during first  	use and after they have practiced with a game. Both the numbers of  	different types of identified problems and the severity of the problems  	are investigated. Based on this knowledge, practitioners could adapt  	the set up of their user tests to effectively find as many aspects  	of the game as possible that merit change, according to the aims  	of the developers. The study shows that usability problems caused  	by a lack of knowledge were more often identified during first use.  	Furthermore, fun problems related to a too-high challenge level may  	disappear after some practice, whereas fun problems caused by the  	game taking over control for too long while the user wants to proceed  	playing the game were identified more often after some practice.  	The study shows that the impact severity of problems detected during  	first use was higher than when children had more practice with a  	game. As a result of these changes in experienced problems the commonly  	used measures efficiency, effectiveness and satisfaction increased  	when children had practiced with the game. Finally, the study also  	shows that the set of most severe problems identified during first  	use may be radically different from the set of most severe problems  	identified after some practice.
+Identifying usability and fun problems in a computer game during
+first use and after some practice
+This paper describes an experiment to discover the change in the types
+of detected problems and the attitude of children towards a game
+when user testing a computer game for young children during first
+use and after they have practiced with a game. Both the numbers of
+different types of identified problems and the severity of the problems
+are investigated. Based on this knowledge, practitioners could adapt
+the set up of their user tests to effectively find as many aspects
+of the game as possible that merit change, according to the aims
+of the developers. The study shows that usability problems caused
+by a lack of knowledge were more often identified during first use.
+Furthermore, fun problems related to a too-high challenge level may
+disappear after some practice, whereas fun problems caused by the
+game taking over control for too long while the user wants to proceed
+playing the game were identified more often after some practice.
+The study shows that the impact severity of problems detected during
+first use was higher than when children had more practice with a
+game. As a result of these changes in experienced problems the commonly
+used measures efficiency, effectiveness and satisfaction increased
+when children had practiced with the game. Finally, the study also
+shows that the set of most severe problems identified during first
+use may be radically different from the set of most severe problems
+identified after some practice.

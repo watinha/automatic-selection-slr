@@ -1,2 +1,16 @@
 Design and simulation of interactive 3D computer games
-Design and development of attractive and competitive computer games  	is no longer a one-man task, but a complex multistage process with  	many participants. Discovering new game ideas and their further development,  	game world and characters design and modeling, game evaluation and  	testing all these are conducted by specialists teamed to work together.  	In this paper we discuss tools and facilities supporting the collaborative  	game design and development process through rapid prototyping and  	simulation of 3D game worlds, characters, behaviors and other game  	functionality. Single player and multi-player games are addressed  	in the context of different hardware platforms and software approaches.  	We report our experience in building a Game Design and Simulation  	testbed environment (GDS) and its usage in location-based entertainment  	projects. Work on GDS has been carried out in the scope of the VirtuaFly  	project and during the development of the physical motion based commercial  	game VirtuaFly2.
+Design and development of attractive and competitive computer games
+is no longer a one-man task, but a complex multistage process with
+many participants. Discovering new game ideas and their further development,
+game world and characters design and modeling, game evaluation and
+testing all these are conducted by specialists teamed to work together.
+In this paper we discuss tools and facilities supporting the collaborative
+game design and development process through rapid prototyping and
+simulation of 3D game worlds, characters, behaviors and other game
+functionality. Single player and multi-player games are addressed
+in the context of different hardware platforms and software approaches.
+We report our experience in building a Game Design and Simulation
+testbed environment (GDS) and its usage in location-based entertainment
+projects. Work on GDS has been carried out in the scope of the VirtuaFly
+project and during the development of the physical motion based commercial
+game VirtuaFly2.

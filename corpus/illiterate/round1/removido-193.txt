@@ -1,2 +1,10 @@
-The aAQUA Approach: Innovative Web 2.0 Tools for Developing Countries
-As in many regions of the world, people in rural India often lack 	access to knowledge that's more readily available to people in urban 	areas. Although rural telecenters are becoming more common, developing 	content that's presented in local languages, relevant to users, and 	delivered in an immediately usable form is a challenge here and in 	rural areas across the globe. To address this, an agricultural portal 	for rural farmers in India uses innovative database systems and information 	retrieval techniques. In so doing, it both improves service and addresses 	connection costs and constraints.
+\, {N}uu Xaa: a system to support homeless people's self-subsistence
+In this paper we present Ñuu Xaa, a tin collecting bank to support
+homeless people's self-subsistence in the city of Huajuapan de León.
+The main goal of this system is to improve homeless people's quality
+of life by providing them with the opportunity to have remunerative
+self-employment. We think that the implementation of Ñuu Xaa will
+bring homeless people social, economical and psychological benefits
+because they will be able to earn enough money in order to satisfy
+their elementary needs and the community will understand that homeless
+people aren't lazy but just people in need.

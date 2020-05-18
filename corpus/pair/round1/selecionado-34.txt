@@ -1,2 +1,14 @@
-Performances of pair designing on software evolution: a controlled  	experiment
-Evolving software design is a critical activity for many reasons:  	inadequate documentation, loss of strategic knowledge due to personnel's  	turnover, intrinsic complexity of software design. As a consequence,  	performances in the evolution tasks may deteriorate. Some experiments  	demonstrate that pair programming is able to reduce the time spent  	for accomplishing the tasks while increasing the overall work quality.  	Pair programming is usually applied to coding; the term 'pair designing'  	refers to applying the practice of working in pairs to the design  	phase. Because of the asymmetry existing between coding and designing,  	pair designing could not replicate all the benefits of pair programming.  	This paper discusses a controlled experiment for understanding which  	are the effects of pair designing when evolving software design.
+Performances of pair designing on software evolution: a controlled
+experiment
+Evolving software design is a critical activity for many reasons:
+inadequate documentation, loss of strategic knowledge due to personnel's
+turnover, intrinsic complexity of software design. As a consequence,
+performances in the evolution tasks may deteriorate. Some experiments
+demonstrate that pair programming is able to reduce the time spent
+for accomplishing the tasks while increasing the overall work quality.
+Pair programming is usually applied to coding; the term 'pair designing'
+refers to applying the practice of working in pairs to the design
+phase. Because of the asymmetry existing between coding and designing,
+pair designing could not replicate all the benefits of pair programming.
+This paper discusses a controlled experiment for understanding which
+are the effects of pair designing when evolving software design.

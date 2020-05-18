@@ -1,2 +1,19 @@
 Design facial appearance for roles in video games
-Roles in video games often serve as avatars of players. Different  	game players may have their particular preferences on a role s facial  	appearance. It would be desirable to allow players to customize the  	design of roles. This paper presents two methods for recommending  	a roles facial appearance for a particular game player and illustrates  	the two methods by using heroic roles as an example. The two recommendation  	methods are designated as the text-input and the picture-input approaches.  	The text-input approach requests the game player to carry out pairwise  	comparisons for determining the relative weights of 16 personality  	traits of heroes. The recommendation mechanism for the text-input  	approach is based on the fuzzy AHP (analytic hierarchy process).  	Whereas the picture-input approach requests the game player to view  	a sample set of pictures and rate his/her preferences on each picture.  	The recommendation mechanism for the picture-input approach is based  	on the BP (back-propagation) neural network. Experiments indicated  	that the text-input approach is more effective in terms of recommending  	an appropriate facial appearance, yet at the expense of needing more  	user time.
+Roles in video games often serve as avatars of players. Different
+game players may have their particular preferences on a role s facial
+appearance. It would be desirable to allow players to customize the
+design of roles. This paper presents two methods for recommending
+a roles facial appearance for a particular game player and illustrates
+the two methods by using heroic roles as an example. The two recommendation
+methods are designated as the text-input and the picture-input approaches.
+The text-input approach requests the game player to carry out pairwise
+comparisons for determining the relative weights of 16 personality
+traits of heroes. The recommendation mechanism for the text-input
+approach is based on the fuzzy AHP (analytic hierarchy process).
+Whereas the picture-input approach requests the game player to view
+a sample set of pictures and rate his/her preferences on each picture.
+The recommendation mechanism for the picture-input approach is based
+on the BP (back-propagation) neural network. Experiments indicated
+that the text-input approach is more effective in terms of recommending
+an appropriate facial appearance, yet at the expense of needing more
+user time.

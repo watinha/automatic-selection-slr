@@ -1,2 +1,13 @@
-Extreme dynamics: towards a system dynamics model of the extreme  	programming software development process
-We present a system dynamics model of two key practices of the extreme  	programming paradigm for software development: pair programming and  	pair switching, and task switching. The performance of the programming  	process obtained through this model is compared with the performance  	of the model that describes a traditional approach to programming  	in which programmers work individually. The effects of various parameters  	are highlighted, and the conditions under which one approach appears  	to give better results than the other are outlined. In particular,  	XP appears to have an advantage over the traditional approach when  	pair switches are not too frequent, and when the personalities of  	the members of the pair are not different.
+Extreme dynamics: towards a system dynamics model of the extreme
+programming software development process
+We present a system dynamics model of two key practices of the extreme
+programming paradigm for software development: pair programming and
+pair switching, and task switching. The performance of the programming
+process obtained through this model is compared with the performance
+of the model that describes a traditional approach to programming
+in which programmers work individually. The effects of various parameters
+are highlighted, and the conditions under which one approach appears
+to give better results than the other are outlined. In particular,
+XP appears to have an advantage over the traditional approach when
+pair switches are not too frequent, and when the personalities of
+the members of the pair are not different.

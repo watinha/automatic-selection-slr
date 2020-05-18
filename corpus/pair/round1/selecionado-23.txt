@@ -1,2 +1,13 @@
-Pair Programming in Software Development Teams An Empirical Study  	of its Benefits
-We present the results of an extensive and substantial case study  	on pair programming, which was carried out in courses for software  	development at the University of Dortmund, Germany. 13 software development  	teams with about 100 students took part in the experiment. The groups  	were divided into two sets with different working conditions. In  	one set, the group members worked on their projects in pairs. Even  	though the paired teams could only use half of the workstations the  	teams of individual workers could use, the paired teams produced  	nearly as much code as the teams of individual workers at the same  	time. In addition, the code produced by the paired teams was easier  	to read and to understand. This facilitates finding errors and maintenance.
+Pair Programming in Software Development Teams An Empirical Study
+of its Benefits
+We present the results of an extensive and substantial case study
+on pair programming, which was carried out in courses for software
+development at the University of Dortmund, Germany. 13 software development
+teams with about 100 students took part in the experiment. The groups
+were divided into two sets with different working conditions. In
+one set, the group members worked on their projects in pairs. Even
+though the paired teams could only use half of the workstations the
+teams of individual workers could use, the paired teams produced
+nearly as much code as the teams of individual workers at the same
+time. In addition, the code produced by the paired teams was easier
+to read and to understand. This facilitates finding errors and maintenance.

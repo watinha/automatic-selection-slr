@@ -1,2 +1,11 @@
-Proposing a hybrid tag-camera-based identification and navigation 	aid for the visually impaired
-In this paper a barcode-based system to help the visually impaired 	identity objects in the environment and navigate through unknown 	territories is introduced. The system is based on the idea of tagging 	the different objects with 2D barcodes. With the aid of a portable 	camera and a computing device, the system can recognize and relay 	the barcode content to the user. We present the advantages of the 	proposed system compared to those of existing technologies. The different 	steps for recognizing and extracting the barcodes are described and 	applied to a sample image.
+Proposing a hybrid tag-camera-based identification and navigation
+aid for the visually impaired
+In this paper a barcode-based system to help the visually impaired
+identity objects in the environment and navigate through unknown
+territories is introduced. The system is based on the idea of tagging
+the different objects with 2D barcodes. With the aid of a portable
+camera and a computing device, the system can recognize and relay
+the barcode content to the user. We present the advantages of the
+proposed system compared to those of existing technologies. The different
+steps for recognizing and extracting the barcodes are described and
+applied to a sample image.

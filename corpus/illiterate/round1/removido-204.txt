@@ -1,2 +1,15 @@
-The non-technical person as technical writer/editor and documentation 	for the computer illiterate
-University computer center personnel know there is no dearth of documentation 	designed for the expert. Control Data, UNIVAC, DEC—;even IBM— paper 	and fiche all possible areas. IBM's latest Marketing Publications 	KWIC Index alone contains 60 pages (double columns, reduced print) 	of titles...an ample supply of words, even for rabid manualpeople. 	No, the documentation problem which faces User Services groups in 	academic installations is how best to provide information to the 	non-expert: the new, naive user; the pseudo-sophisticate who comes 	on strong with highly-specialized terms like “keypunch” and “listing”, 	the Director of User Services—in other words, the various types of 	true computer illiterate This paper respectfully suggests that it 	is possible to employ a person with no technical training as a technical 	writer/editor within a university computer center environment, and 	that such an individual can prove amazingly effective in helping 	User Services to attack this sometimes menial, always demanding task.
+Online Collage CAPTCHA
+In some websites it is necessary to tell apart human users from computer
+programs which is known as CAPTCHA (Completely Automated Public Turing
+test to tell Computers and Human Apart). CAPTCHA methods are mainly
+based on the weak points of OCR systems while using them are undesirable
+to human users. In this paper a method has been presented for telling
+the human users and computer softwares apart on the basis of choice
+of an object shown on the screen. In this method some objects are
+chosen randomly and the pictures about these topics are downloaded
+from Internet. Then after effecting some changes such as rotating,
+all of the pictures are shown on the screen. Then we ask the user
+to choose a specific object. If the user chooses the right object
+we can guess that the user has been a human being and not a computer
+software. The main advantage of this method is its simplicity because
+the user does not have to type anything.

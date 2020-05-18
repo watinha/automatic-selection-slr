@@ -1,2 +1,22 @@
 Capture & Replay with Text-Based Reuse and Framework Agnosticism
-Abstract Software systems need to be constantly tested, either  to verify changes or to check conformance to requirements. The  current leading approaches to automate GUI tests are coding  and the use of Capture & Replay (C&R) tools. Coding is  usually associated with (even if ad hoc) reuse strategies, but  requires from the developer specialized knowledge about the  adopted framework. On the other hand, even though C&R is  able to promote faster automation, it raises maintainability and  scalability issues in the long term due to scripts scattering and  rework for each new test case, because usually there is no  associated reuse strategy. In order to combine the benefits of  both approaches, we propose: an abstract and framework-free  representation of test actions captured during testing activities; a  text-based strategy that matches a new test case with previously  recorded test actions; and a C&R tool that implements these  concepts in the mobile context. We developed and evaluated our  strategy in the context of a partnership with Motorola Mobility,  achieving a reuse ratio up to 71% with time gains similar to  traditional C&R approaches when compared to coding.  Keywords-test automation; capture and replay; reuse; mobile  applications; natural language processing
+Abstract Software systems need to be constantly tested, either
+to verify changes or to check conformance to requirements. The
+current leading approaches to automate GUI tests are coding
+and the use of Capture & Replay (C&R) tools. Coding is
+usually associated with (even if ad hoc) reuse strategies, but
+requires from the developer specialized knowledge about the
+adopted framework. On the other hand, even though C&R is
+able to promote faster automation, it raises maintainability and
+scalability issues in the long term due to scripts scattering and
+rework for each new test case, because usually there is no
+associated reuse strategy. In order to combine the benefits of
+both approaches, we propose: an abstract and framework-free
+representation of test actions captured during testing activities; a
+text-based strategy that matches a new test case with previously
+recorded test actions; and a C&R tool that implements these
+concepts in the mobile context. We developed and evaluated our
+strategy in the context of a partnership with Motorola Mobility,
+achieving a reuse ratio up to 71% with time gains similar to
+traditional C&R approaches when compared to coding.
+Keywords-test automation; capture and replay; reuse; mobile
+applications; natural language processing

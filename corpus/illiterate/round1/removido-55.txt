@@ -1,2 +1,17 @@
 The Mechanics of Internet Growth: A Developing-Country Perspective
-The uneven diffusion of the Internet across countries reinforces social 	and economic inequalities. Correlation studies associate its uneven 	diffusion with such factors as competition, telephone infrastructure, 	literacy, economic development, access charges, and network reliability, 	but they do not reveal the mechanics of Internet diffusion because 	it is the interplay of different factors, not any factor in isolation, 	that generates diffusion behavior. This paper uses the system dynamics 	(SD) methodology to develop a causal model of Internet diffusion 	in a developing country. The SD methodology was selected because 	its basic construct, the feedback loop, is well suited to represent 	the mechanics driving dynamic processes. The proposed causal model 	is validated using Internet subscriber data from India. The technique 	of dominant loop analysis identifies the feedback loops that have 	the most influence on diffusion behavior. The model can be used to 	evaluate diffusion patterns resulting from different policy alternatives 	intended to foster Internet diffusion in developing countries.
+The uneven diffusion of the Internet across countries reinforces social
+and economic inequalities. Correlation studies associate its uneven
+diffusion with such factors as competition, telephone infrastructure,
+literacy, economic development, access charges, and network reliability,
+but they do not reveal the mechanics of Internet diffusion because
+it is the interplay of different factors, not any factor in isolation,
+that generates diffusion behavior. This paper uses the system dynamics
+(SD) methodology to develop a causal model of Internet diffusion
+in a developing country. The SD methodology was selected because
+its basic construct, the feedback loop, is well suited to represent
+the mechanics driving dynamic processes. The proposed causal model
+is validated using Internet subscriber data from India. The technique
+of dominant loop analysis identifies the feedback loops that have
+the most influence on diffusion behavior. The model can be used to
+evaluate diffusion patterns resulting from different policy alternatives
+intended to foster Internet diffusion in developing countries.

@@ -1,2 +1,13 @@
 Computer games: introduction
-"Why an issue on computer games?" you may be asking. Several reasons  	come to mind. First, computer science owes a lot to computer games.  	Obviously, the computer game industry has made significant advances  	in computer graphics, but computer games have also made contributions  	in other areas such as human computer interaction and computer architecture.  	In the future, I believe the contributions from computer games to  	computer science, and vice versa, will be even more numerous. Computer  	game companies and software and hardware companies are forming alliances  	in order to leverage off each other's research. Entertainment companies  	and telecommunication companies are also joining these alliances.  	Whatever the outcome of these partnerships, we know that computer  	games will change dramatically in the future...
+"Why an issue on computer games?" you may be asking. Several reasons
+come to mind. First, computer science owes a lot to computer games.
+Obviously, the computer game industry has made significant advances
+in computer graphics, but computer games have also made contributions
+in other areas such as human computer interaction and computer architecture.
+In the future, I believe the contributions from computer games to
+computer science, and vice versa, will be even more numerous. Computer
+game companies and software and hardware companies are forming alliances
+in order to leverage off each other's research. Entertainment companies
+and telecommunication companies are also joining these alliances.
+Whatever the outcome of these partnerships, we know that computer
+games will change dramatically in the future...

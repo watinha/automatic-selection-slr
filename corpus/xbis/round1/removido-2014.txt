@@ -1,2 +1,3 @@
 Worlds Apart: Industrial and Academic Focus Areas in Software Testing
-Abstract:  To determine how industry and academia approach software testing, researchers compared the titles of presentations from selected conferences in each of the two communities. The results shed light on the root cause of low industry-academia collaboration and led to suggestions on how to improve this situation.
+Abstract:
+To determine how industry and academia approach software testing, researchers compared the titles of presentations from selected conferences in each of the two communities. The results shed light on the root cause of low industry-academia collaboration and led to suggestions on how to improve this situation.

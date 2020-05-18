@@ -1,2 +1,2 @@
-Preface to {MDWE'06
-In this paper we describe the aim, rationale and main objectives of the third edition of the Workshop on {Model-Driven
+Preface to {MDWE'06}
+In this paper we describe the aim, rationale and main objectives of the third edition of the Workshop on {Model-Driven} Web Engineering {(MDWE2006),} that was held in conjunction with {ICWE} 2006, in Palo Alto, California, on July 11, 2006. We also describe the topics of interest to the workshop, and the list of presented papers.

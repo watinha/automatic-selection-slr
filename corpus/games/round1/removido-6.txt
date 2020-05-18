@@ -1,2 +1,12 @@
 Extracting and Evolving Mobile Games Product Lines
-For some organizations, the proactive approach to product lines may  	be inadequate due to prohibitively high investment and risks. As  	an alternative, the extractive and the reactive approaches are incremental,  	offering moderate costs and risks, and therefore sometimes may be  	more appropriate. However, combining these two approaches demands  	a more detailed process at the implementation level. This paper presents  	a method for extracting a product line and evolving it, relying on  	a strategy that uses refactorings expressed in terms of simpler programming  	laws. The approach is evaluated with a case study in the domain of  	games for mobile devices, where variations are handled with aspect-oriented  	constructs.
+For some organizations, the proactive approach to product lines may
+be inadequate due to prohibitively high investment and risks. As
+an alternative, the extractive and the reactive approaches are incremental,
+offering moderate costs and risks, and therefore sometimes may be
+more appropriate. However, combining these two approaches demands
+a more detailed process at the implementation level. This paper presents
+a method for extracting a product line and evolving it, relying on
+a strategy that uses refactorings expressed in terms of simpler programming
+laws. The approach is evaluated with a case study in the domain of
+games for mobile devices, where variations are handled with aspect-oriented
+constructs.

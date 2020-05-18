@@ -1,2 +1,20 @@
 Webbasierte Re-Implementierung von LICARA nanoSCAN
-Abstract  Thanks to the expensive research the number of nanoparticles and nanomaterials  and their variations have signifantly increased during the last years.  Even though great expectations are placed on nanoparticles there are still a  lot of unanswered questions regarding the benets and risks towards human  and environment.  In September 2014, EMPA developed in cooperation with the companies  TNO and NCB the LICARA guidelines to be used to conduct a Life Cycle,  Risk and Benet Assessment of nanoparticles. The LICARA nanoSCAN Excel  version is connected to these guidelines and is acting as a semi-quantitative  decision support tool while answering questions.  Within the scope of this bachelor thesis a web based version of the Excel  tool has been developed to increase the usability of the software. The existing  Excel tool has been analysed using the Design principles of Donald Norman.  Based on these results the requirements were made. The developed tool has  been tested by users and developers of the Excel tool and their feedback has  been considered during the re-design.
+Abstract
+Thanks to the expensive research the number of nanoparticles and nanomaterials
+and their variations have signifantly increased during the last years.
+Even though great expectations are placed on nanoparticles there are still a
+lot of unanswered questions regarding the bene
+ts and risks towards human
+and environment.
+In September 2014, EMPA developed in cooperation with the companies
+TNO and NCB the LICARA guidelines to be used to conduct a Life Cycle,
+Risk and Bene
+t Assessment of nanoparticles. The LICARA nanoSCAN Excel
+version is connected to these guidelines and is acting as a semi-quantitative
+decision support tool while answering questions.
+Within the scope of this bachelor thesis a web based version of the Excel
+tool has been developed to increase the usability of the software. The existing
+Excel tool has been analysed using the Design principles of Donald Norman.
+Based on these results the requirements were made. The developed tool has
+been tested by users and developers of the Excel tool and their feedback has
+been considered during the re-design.

@@ -1,2 +1,18 @@
-The Impact of Pair Programming on Student Performance, Perception  	and Persistence
-This study examined the effectiveness of pair programming in four  	lecture sections of a large introductory programming course. We were  	particularly interested in assessing how the use of pair programming  	affects student performance and decisions to pursue computer science  	related majors. We found that students who used pair programming  	produced better programs, were more confident in their solutions,  	and enjoyed completing the assignments more than students who programmed  	alone. Moreover, pairing students were significantly more likely  	than non-pairing students to complete the course, and consequently  	to pass it. Among those who completed the course, pairers performed  	as well on the final exam as non-pairers, were significantly more  	likely to be registered as computer science related majors one year  	later, and to have taken subsequent programming courses. Our findings  	suggest that not only does pairing not compromise students' learning,  	but that it may enhance the quality of their programs and encourage  	them to pursue computer science degrees.
+The Impact of Pair Programming on Student Performance, Perception
+and Persistence
+This study examined the effectiveness of pair programming in four
+lecture sections of a large introductory programming course. We were
+particularly interested in assessing how the use of pair programming
+affects student performance and decisions to pursue computer science
+related majors. We found that students who used pair programming
+produced better programs, were more confident in their solutions,
+and enjoyed completing the assignments more than students who programmed
+alone. Moreover, pairing students were significantly more likely
+than non-pairing students to complete the course, and consequently
+to pass it. Among those who completed the course, pairers performed
+as well on the final exam as non-pairers, were significantly more
+likely to be registered as computer science related majors one year
+later, and to have taken subsequent programming courses. Our findings
+suggest that not only does pairing not compromise students' learning,
+but that it may enhance the quality of their programs and encourage
+them to pursue computer science degrees.
