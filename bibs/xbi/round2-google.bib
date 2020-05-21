@@ -1,60 +1,73 @@
-@Article{1091,
-title = {Using Multi-Locators to Increase the Robustness of Web Test Cases},
-abstract = {Abstract:
+@article{1091,
+ abstract = {Abstract:
 The main reason for the fragility of web test cases is the inability of web element locators to work correctly when the web page DOM evolves. Web elements locators are used in web test cases to identify all the GUI objects to operate upon and eventually to retrieve web page content that is compared against some oracle in order to decide whether the test case has passed or not. Hence, web element locators play an extremely important role in web testing and when a web element locator gets broken developers have to spend substantial time and effort to repair it. While algorithms exist to produce robust web element locators to be used in web test scripts, no algorithm is perfect and different algorithms are exposed to different fragilities when the software evolves. Based on such observation, we propose a new type of locator, named multi-locator, which selects the best locator among a candidate set of locators produced by different algorithms. Such selection is based on a voting procedure that assigns different voting weights to different locator generation algorithms. Experimental results obtained on six web applications, for which a subsequent release was available, show that the multi-locator is more robust than the single locators (about -30% of broken locators w.r.t. the most robust kind of single locator) and that the execution overhead required by the multiple queries done with different locators is negligible (2-3% at most).},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Using Multi-Locators to Increase the Robustness of Web Test Cases},
+ year = {2015}
 }
-@Article{1092,
-title = {Why creating web page objects manually if it can be done automatically?},
-abstract = {Page Object is a design pattern aimed at making web test scripts more readable, robust and maintainable. The effort to manually create the page objects needed for a web application may be substantial and unfortunately existing tools do not help web developers in such task.
+
+@article{1092,
+ abstract = {Page Object is a design pattern aimed at making web test scripts more readable, robust and maintainable. The effort to manually create the page objects needed for a web application may be substantial and unfortunately existing tools do not help web developers in such task.
 
 In this paper we present Apogen, a tool for the automatic generation of page objects for web applications. Our tool automatically derives a testing model by reverse engineering the target web application and uses a combination of dynamic and static analysis to generate Java page objects for the popular Selenium WebDriver framework. Our preliminary evaluation shows that it is possible to use around 3/4 of the automatic page object methods as they are, while the remaining 1/4 need only minor modifications.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Why creating web page objects manually if it can be done automatically?},
+ year = {2015}
 }
-@Article{1093,
-title = {Chapter Five - Approaches and Tools for Automated End-to-End Web Testing},
-abstract = {Abstract
+
+@article{1093,
+ abstract = {Abstract
 The importance of test automation in web engineering comes from the widespread use of web applications and the associated demand for code quality. Test automation is considered crucial for delivering the quality levels expected by users, since it can save a lot of time in testing and it helps developers to release web applications with fewer defects. The main advantage of test automation comes from fast, unattended execution of a set of tests after some changes have been made to a web application. Moreover, modern web applications adopt a multitier architecture where the implementation is scattered across different layers and run on different machines. For this reason, end-to-end testing techniques are required to test the overall behavior of web applications.
 
 In the last years, several approaches have been proposed for automated end-to-end web testing and the choice among them depends on a number of factors, including the tools used for web testing and the costs associated with their adoption. They can be classified using two main criteria: the first concerns how test cases are developed (ie, Capture-Replay and Programmable approaches), while, the second concerns how test cases localize the web elements to interact with (ie, Coordinates-based, DOM-based, and Visual approaches), that is what kind of locators are used for selecting the target GUI components.
 For developers and project managers it is not easy to select the most suitable automated end-to-end web testing approach for their needs among the existing ones. This chapter provides a comprehensive overview of the automated end-to-end web testing approaches and summarizes the findings of a long term research project aimed at empirically investigating their strengths and weaknesses.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Chapter Five - Approaches and Tools for Automated End-to-End Web Testing},
+ year = {2016}
 }
-@Article{1094,
-title = {Robula+: an algorithm for generating robust XPath locators for web testing},
-abstract = {Abstract
+
+@article{1094,
+ abstract = {Abstract
 
 Automated test scripts are used with success in many web development projects, so as to automatically verify key functionalities of the web application under test, reveal possible regressions and run a large number of tests in short time. However, the adoption of automated web testing brings advantages but also novel problems, among which the test code fragility problem. During the evolution of the web application, existing test code may easily break and testers have to correct it. In the context of automated DOM-based web testing, one of the major costs for evolving the test code is the manual effort necessary to repair broken web page element locators lines of source code identifying the web elements (e.g. form fields and buttons) to interact with.
 
 In this work, we present Robula+, a novel algorithm able to generate robust XPath-based locators locators that are likely to work correctly on new releases of the web application. We compared Robula+ with several state of the practice/art XPath locator generator tools/algorithms. Results show that XPath locators produced by Robula+ are by far the most robust. Indeed, Robula+ reduces the locators' fragility on average by 90% w.r.t. absolute locators and by 63% w.r.t. Selenium IDE locators. },
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Robula+: an algorithm for generating robust XPath locators for web testing},
+ year = {2016}
 }
-@Article{1095,
-title = {Why do Record/Replay Tests of Web Applications Break?},
-abstract = {Abstract:
+
+@article{1095,
+ abstract = {Abstract:
 Software engineers often use record/replay tools to enable the automated testing of web applications. Tests created in this manner can then be used to regression test new versions of the web applications as they evolve. Web application tests recorded by record/replay tools, however, can be quite brittle, they can easily break as applications change. For this reason, researchers have begun to seek approaches for automatically repairing record/replay tests. To date, however, there have been no comprehensive attempts to characterize the causes of breakagesin record/replay tests for web applications. In this work, wepresent a taxonomy classifying the ways in which record/replay tests for web applications break, based on an analysis of 453 versions of popular web applications for which 1065 individual test breakages were recognized. The resulting taxonomy can help direct researchers in their attempts to repair such tests. It can also help practitioners by suggesting best practices when creating tests or modifying programs, and can help researchers with other tasks such as test robustness analysis and IDE design.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Why do Record/Replay Tests of Web Applications Break?},
+ year = {2016}
 }
-@Article{1098,
-title = {Ringer: web automation by demonstration},
-abstract = {With increasing amounts of data available on the web and a diverse range of users interested in programmatically accessing that data, web automation must become easier. Automation helps users complete many tedious interactions, such as scraping data, completing forms, or transferring data between websites. However, writing web automation scripts typically requires an expert programmer because the writer must be able to reverse engineer the target webpage. We have built a record and replay tool, Ringer, that makes web automation accessible to non-coders. Ringer takes a user demonstration as input and creates a script that interacts with the page as a user would. This approach makes Ringer scripts more robust to webpage changes because user-facing interfaces remain relatively stable compared to the underlying webpage implementations. We evaluated our approach on benchmarks recorded on real webpages and found that it replayed 4x more benchmarks than a state-of-the-art replay tool.},
-duplicado = {false},
-inserir = {false}
+
+@article{1098,
+ abstract = {With increasing amounts of data available on the web and a diverse range of users interested in programmatically accessing that data, web automation must become easier. Automation helps users complete many tedious interactions, such as scraping data, completing forms, or transferring data between websites. However, writing web automation scripts typically requires an expert programmer because the writer must be able to reverse engineer the target webpage. We have built a record and replay tool, Ringer, that makes web automation accessible to non-coders. Ringer takes a user demonstration as input and creates a script that interacts with the page as a user would. This approach makes Ringer scripts more robust to webpage changes because user-facing interfaces remain relatively stable compared to the underlying webpage implementations. We evaluated our approach on benchmarks recorded on real webpages and found that it replayed 4x more benchmarks than a state-of-the-art replay tool.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Ringer: web automation by demonstration},
+ year = {2016}
 }
-@Article{1100,
-title = {WATERFALL: an incremental approach for repairing record-replay tests of web applications},
-abstract = {Software engineers use record/replay tools to capture use case scenarios that can serve as regression tests for web applications. Such tests, however, can be brittle in the face of code changes. Thus, researchers have sought automated approaches for repairing broken record/replay tests. To date, such approaches have operated by directly analyzing differences between the releases of web applications. Often, however, intermediate versions or commits exist between releases, and these represent finer-grained sequences of changes by which new releases evolve. In this paper, we present WATERFALL, an incremental test repair approach that applies test repair techniques iteratively across a sequence of fine-grained versions of a web application. The results of an empirical study on seven web applications show that our approach is substantially more effective than a coarse-grained approach (209% overall), while maintaining an acceptable level of overhead.},
-duplicado = {false},
-inserir = {false}
+
+@article{1100,
+ abstract = {Software engineers use record/replay tools to capture use case scenarios that can serve as regression tests for web applications. Such tests, however, can be brittle in the face of code changes. Thus, researchers have sought automated approaches for repairing broken record/replay tests. To date, such approaches have operated by directly analyzing differences between the releases of web applications. Often, however, intermediate versions or commits exist between releases, and these represent finer-grained sequences of changes by which new releases evolve. In this paper, we present WATERFALL, an incremental test repair approach that applies test repair techniques iteratively across a sequence of fine-grained versions of a web application. The results of an empirical study on seven web applications show that our approach is substantially more effective than a coarse-grained approach (209% overall), while maintaining an acceptable level of overhead.},
+ duplicado = {false},
+ inserir = {false},
+ title = {WATERFALL: an incremental approach for repairing record-replay tests of web applications},
+ year = {2016}
 }
-@Article{1101,
-title = {End-User Record and Replay for the Web},
-abstract = {The usefulness of todays websites is limited by their form and ease of access. Even though
+
+@article{1101,
+ abstract = {The usefulness of todays websites is limited by their form and ease of access. Even though
 the web contains an ever-expanding wealth of information, much of it exists in a form that is
 not directly useful. How can end-users access the web in a way that meets their needs?
 We present record and replay (R+R) as a way to bridge the gap between a websites functionality
@@ -89,12 +102,14 @@ two such tools using Ringer. One allows end-users to scrape structured data from
 simply through demonstration. The other allows end-users to aggregate real-time data from
 various websites in the form of live tiles, by specifying the data they want on a website through
 demonstration.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {End-User Record and Replay for the Web},
+ year = {2015}
 }
-@Article{1102,
-title = {Testing Web Applications: A Survey},
-abstract = {Web applications are widely used. The massive use of web
+
+@article{1102,
+ abstract = {Web applications are widely used. The massive use of web
 applications imposes the need for testing them. Testing web
 applications is a challenging process given that it needs to
 account for the dynamic, asynchronous and interactive nature
@@ -116,119 +131,153 @@ topics that are discussed in this paper are: Test repair, test
 breakage prevention, test maintenance, capture-replay testing
 versus programmable web testing and faults within web
 applications.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Testing Web Applications: A Survey},
+ year = {2016}
 }
-@Article{1103,
-title = {PerfGuard: binary-centric application performance monitoring in production environments},
-abstract = {Diagnosis of performance problems is an essential part of software development and maintenance. This is in particular a challenging problem to be solved in the production environment where only program binaries are available with limited or zero knowledge of the source code. This problem is compounded by the integration with a significant number of third-party software in most large-scale applications. Existing approaches either require source code to embed manually constructed logic to identify performance problems or support a limited scope of applications with prior manual analysis. This paper proposes an automated approach to analyze application binaries and instrument the binary code transparently to inject and apply performance assertions on application transactions. Our evaluation with a set of large-scale application binaries without access to source code discovered 10 publicly known real world performance bugs automatically and shows that PerfGuard introduces very low overhead (less than 3% on Apache and MySQL server) to production systems.},
-duplicado = {false},
-inserir = {false}
+
+@article{1103,
+ abstract = {Diagnosis of performance problems is an essential part of software development and maintenance. This is in particular a challenging problem to be solved in the production environment where only program binaries are available with limited or zero knowledge of the source code. This problem is compounded by the integration with a significant number of third-party software in most large-scale applications. Existing approaches either require source code to embed manually constructed logic to identify performance problems or support a limited scope of applications with prior manual analysis. This paper proposes an automated approach to analyze application binaries and instrument the binary code transparently to inject and apply performance assertions on application transactions. Our evaluation with a set of large-scale application binaries without access to source code discovered 10 publicly known real world performance bugs automatically and shows that PerfGuard introduces very low overhead (less than 3% on Apache and MySQL server) to production systems.},
+ duplicado = {false},
+ inserir = {false},
+ title = {PerfGuard: binary-centric application performance monitoring in production environments},
+ year = {2016}
 }
-@Article{1104,
-title = {Accelerating Test Automation through a Domain Specific Language},
-abstract = {Abstract:
+
+@article{1104,
+ abstract = {Abstract:
 Test automation involves the automatic execution of test scripts instead of being manually run. This significantly reduces the amount of manual effort needed and thus is of great interest to the software testing industry. There are two key problems in the existing tools & methods for test automation - a) Creating an automation test script is essentially a code development task, which most testers are not trained on, and b) the automation test script is seldom readable, making the task of maintenance an effort intensive process. We present the Accelerating Test Automation Platform (ATAP) which is aimed at making test automation accessible to non-programmers. ATAP allows the creation of an automation test script through a domain specific language based on English. The English-like test scripts are automatically converted to machine executable code using Selenium WebDriver. ATAP's English-like test script makes it easy for non-programmers to author. The functional flow of an ATAP script is easy to understand as well thus making maintenance simpler (you can understand the flow of the test script when you revisit it many months later). ATAP has been built around the Eclipse ecosystem and has been used in a real-life testing project. We present the details of the implementation of ATAP and the results from its usage in practice.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Accelerating Test Automation through a Domain Specific Language},
+ year = {2017}
 }
-@Article{1106,
-title = {Processing automation scripts of software},
-abstract = {Processing automation scripts used for testing pages includes running the automation scripts using a processor, searching for an element on the page according to locating information in an instruction of the automation scripts, collecting element-related information of the element in response to finding of the element on the page according to the locating information, and associating the collected element-related information of the element with the instruction of the automation scripts. The element-related information associated with the instruction is saved.},
-duplicado = {false},
-inserir = {false}
+
+@article{1106,
+ abstract = {Processing automation scripts used for testing pages includes running the automation scripts using a processor, searching for an element on the page according to locating information in an instruction of the automation scripts, collecting element-related information of the element in response to finding of the element on the page according to the locating information, and associating the collected element-related information of the element with the instruction of the automation scripts. The element-related information associated with the instruction is saved.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Processing automation scripts of software},
+ year = {2015}
 }
-@Article{1109,
-title = {Regression testing of web applications using Record/Replay tools},
-abstract = {Software engineers often use record/replay tools to enable the automated testing of web applications. Tests created in this man- ner can then be used to regression test new versions of the web applications as they evolve. Web application tests recorded by record/replay tools, however, can be quite brittle; they can easily break as applications change. For this reason, researchers have be- gun to seek approaches for automatically repairing record/replay tests. This research investigates different aspects in relation to test- ing web applications using record/replay tools. The areas that we are interested in include taxonomizing the causes behind breakages and developing automated techniques to repair breakages, creating prevention techniques to stop the occurrence of breakages and de- veloping automated frameworks for root cause analysis. Finally, we intend to evaluate all of these activities via controlled studies involving software engineers and real web application tests.},
-duplicado = {false},
-inserir = {false}
+
+@article{1109,
+ abstract = {Software engineers often use record/replay tools to enable the automated testing of web applications. Tests created in this man- ner can then be used to regression test new versions of the web applications as they evolve. Web application tests recorded by record/replay tools, however, can be quite brittle; they can easily break as applications change. For this reason, researchers have be- gun to seek approaches for automatically repairing record/replay tests. This research investigates different aspects in relation to test- ing web applications using record/replay tools. The areas that we are interested in include taxonomizing the causes behind breakages and developing automated techniques to repair breakages, creating prevention techniques to stop the occurrence of breakages and de- veloping automated frameworks for root cause analysis. Finally, we intend to evaluate all of these activities via controlled studies involving software engineers and real web application tests.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Regression testing of web applications using Record/Replay tools},
+ year = {2016}
 }
-@Article{1110,
-title = {Comparative Study of Cross Browser Compatibility as Design Issue in Various Websites},
-abstract = {Abstract  -  In this current era of information technology websites are very important means of communication. Lot of efforts is required by different institutions / organizations to portray complete information on beautifully designed websites.  Websites act as an online agent through which a user can get his work done without physically visiting the organizations.  Website design is given with a very critical look by the designer so that it can provide users with all the facilities of the concerned institutions / organizations online. To make websites behavior similar in all the different browsers employed by the different categories of the users, the responsibility of the designer and the concerned institutions / organizations increases manifold. In this research paper author developed an online tool using .NET Framework using C# to study cross browser compatibility as Design issue in various categories of the websites like Job portals, Government, educational,  Commercial and Social networking. The automated tool developed by author function on the basis of the different standards prescribed in W3C guidelines document UAAG 2.0 [7] and act like a parser and renders the complete code of the website and produces result on basis of the behavior of the websites in five most popular and widely used Browsers like parameters like Internet Explorer[7,8,9], Chrome, Safari, Fire fox. Each Browser is tested on the basis of the five parameters which are included in the parser are Blinking, Active X control, Website Resolution; image Formats, HTML Tag errors. The results  obtained after testing five different categories of websites shows that educational and social networking sites shows least compatibility in multiple browsers where as job portals, commercial and government websites shows 100% compliance to the website design standards recommended by W3C w.r.t browser compatibility of different websites on different browsing platform.},
-duplicado = {false},
-inserir = {false}
+
+@article{1110,
+ abstract = {Abstract  -  In this current era of information technology websites are very important means of communication. Lot of efforts is required by different institutions / organizations to portray complete information on beautifully designed websites.  Websites act as an online agent through which a user can get his work done without physically visiting the organizations.  Website design is given with a very critical look by the designer so that it can provide users with all the facilities of the concerned institutions / organizations online. To make websites behavior similar in all the different browsers employed by the different categories of the users, the responsibility of the designer and the concerned institutions / organizations increases manifold. In this research paper author developed an online tool using .NET Framework using C# to study cross browser compatibility as Design issue in various categories of the websites like Job portals, Government, educational,  Commercial and Social networking. The automated tool developed by author function on the basis of the different standards prescribed in W3C guidelines document UAAG 2.0 [7] and act like a parser and renders the complete code of the website and produces result on basis of the behavior of the websites in five most popular and widely used Browsers like parameters like Internet Explorer[7,8,9], Chrome, Safari, Fire fox. Each Browser is tested on the basis of the five parameters which are included in the parser are Blinking, Active X control, Website Resolution; image Formats, HTML Tag errors. The results  obtained after testing five different categories of websites shows that educational and social networking sites shows least compatibility in multiple browsers where as job portals, commercial and government websites shows 100% compliance to the website design standards recommended by W3C w.r.t browser compatibility of different websites on different browsing platform.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Comparative Study of Cross Browser Compatibility as Design Issue in Various Websites},
+ year = {2015}
 }
-@Article{1111,
-title = {Issues on Developing a Location Aware Game for Mobile Browsers},
-abstract = {Despite of recent development of mobile browsers and web technologies most location based games intended to be played with a phone are delivered as installable programs. This is unfortunate as in many cases applications which can be used directly from a web page without installation are much more accessible to users. In this paper we present common problematics building location based applications using only web technologies. The problematics are explored via building an example application and presented together with solution options.},
-duplicado = {false},
-inserir = {false}
+
+@article{1111,
+ abstract = {Despite of recent development of mobile browsers and web technologies most location based games intended to be played with a phone are delivered as installable programs. This is unfortunate as in many cases applications which can be used directly from a web page without installation are much more accessible to users. In this paper we present common problematics building location based applications using only web technologies. The problematics are explored via building an example application and presented together with solution options.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Issues on Developing a Location Aware Game for Mobile Browsers},
+ year = {2016}
 }
-@Article{1112,
-title = {Virtuaalinen tietokanta sovellusalustana},
-abstract = {Abstract:
+
+@article{1112,
+ abstract = {Abstract:
 This bachelors thesis is about virtual database solution called Collector. First section describes the needed theory about databases and SaaS. After theory part, Collector is being evaluated against different kind of database solutions. Both relational databases and NoSql-databases are covered.
 
 
 Main focus of the research is to review Collector's performance and capacity. This is done by a script which writes data to database and executes search queries to determine how long does the searches take.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Virtuaalinen tietokanta sovellusalustana},
+ year = {2014}
 }
-@Article{1113,
-title = {Web Interface for natural language processing engines},
-abstract = {This thesis presents a graphical user interface that simplifies the use of natural language processing engines. Until now the use of the implemented part-of-speech task and other natural language processing tasks were possible only through command line interface. This restriction of the current interface was the reason, because of which the users were required to have both programming and scripting knowledge and experience. In addition to that, the preparation of the input data, used to feed the engine, and output data from the tasks had to be handled manually.
+
+@article{1113,
+ abstract = {This thesis presents a graphical user interface that simplifies the use of natural language processing engines. Until now the use of the implemented part-of-speech task and other natural language processing tasks were possible only through command line interface. This restriction of the current interface was the reason, because of which the users were required to have both programming and scripting knowledge and experience. In addition to that, the preparation of the input data, used to feed the engine, and output data from the tasks had to be handled manually.
 The problem was solved by developing a web-based application and integrating OpenNLP engine and its part-of-speech tagging task. Hence, the chosen solution provides portability and accessibility from various locations. The user interface simplifies the working process for users with little or no technical knowledge and experience. Moreover, the application facilitates and guides the users through the tasks process flow. It also allows them to automatically preprocess their data to a format required as an input for the engine. After that, the users can simply follow the stages for the rest of the task and use the engine. Moreover, the application saves the data at the end of every stage of the task, which does not enroll the user to execute the whole task at once. Also the data used as an input and output from every stage of the task is stored automatically on the server, which provides reusability. And last, the application has modular structure, which provides the ability to extend the amount of tasks and engines according to the needs of the users.
 The application provides simple interface, automated process and file handling. However the speed and accessibility of the application depends on the connection and the load on the server. The current software can be expanded with additional engines and tasks, but only if they support the current file and system structure.
 In the future some parts of the user interface and the back-end structure could be improved, as well as some more complexed tasks and different engines could be implemented.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Web Interface for natural language processing engines},
+ year = {2016}
 }
-@Article{1114,
-title = {System for computationally quantifying similarities between images},
-abstract = {Systems and methods provide for quantifying the similarity between images that appear similar. Given a set of images, one image is selected as the base image, to which the remaining images are compared. One or more portions of the base image are selected for comparison and the color composition of these areas is calculated. Then, the color compositions are examined to quantify the similarity or difference between the images, which is assigned a score reflective of the quantitative similarity or difference. The results are displayed. These systems and methods allow, e.g, a website owner to check whether web pages have come through imperfectly across different browsers; the analysis identifies not just blatant errors, but even single-pixel shifts.},
-duplicado = {false},
-inserir = {false}
+
+@article{1114,
+ abstract = {Systems and methods provide for quantifying the similarity between images that appear similar. Given a set of images, one image is selected as the base image, to which the remaining images are compared. One or more portions of the base image are selected for comparison and the color composition of these areas is calculated. Then, the color compositions are examined to quantify the similarity or difference between the images, which is assigned a score reflective of the quantitative similarity or difference. The results are displayed. These systems and methods allow, e.g, a website owner to check whether web pages have come through imperfectly across different browsers; the analysis identifies not just blatant errors, but even single-pixel shifts.},
+ duplicado = {false},
+ inserir = {false},
+ title = {System for computationally quantifying similarities between images},
+ year = {2013}
 }
-@Article{1115,
-title = {Method and system for webpage regression testing},
-abstract = {A regression testing system comprises an automatic test tool configured to capture a first web screen shot and a second web screen shot of a webpage, where the webpage has undergone an update or edit. The regression testing system also comprises a visual comparator configured to identify similar areas in the first web screen shot and the second web screen shot. The visual comparator receives, and compares characteristics of, the web screen shots. Furthermore, the regression testing system generates a report with marked different characteristics between the first and second web screen shots. The regression testing system identifies similar areas in the first and second web screen shots shot even if the similar areas are at different locations within the web screen shots. The comparison performed by the visual comparator includes performing a pixel comparison combined with a marking algorithm to group differences in smaller, related but separate areas.},
-duplicado = {false},
-inserir = {false}
+
+@article{1115,
+ abstract = {A regression testing system comprises an automatic test tool configured to capture a first web screen shot and a second web screen shot of a webpage, where the webpage has undergone an update or edit. The regression testing system also comprises a visual comparator configured to identify similar areas in the first web screen shot and the second web screen shot. The visual comparator receives, and compares characteristics of, the web screen shots. Furthermore, the regression testing system generates a report with marked different characteristics between the first and second web screen shots. The regression testing system identifies similar areas in the first and second web screen shots shot even if the similar areas are at different locations within the web screen shots. The comparison performed by the visual comparator includes performing a pixel comparison combined with a marking algorithm to group differences in smaller, related but separate areas.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Method and system for webpage regression testing},
+ year = {2014}
 }
-@Article{1118,
-title = {Identifying equivalent javascript events},
-abstract = {Identifying equivalent JavaScript events includes receiving source code containing two JavaScript events for equivalency analysis, extracting an HTML element containing an event from each JavaScript event and analyzing the extracted HTML elements. Responsive to a determination that the HTML elements are of a same type according to equivalency criteria B, and responsive to a determination that the HTML elements have a same number of attributes according to equivalency criteria C, a determination is made whether JavaScript function calls of each JavaScript event are similar according to equivalency criteria A. Responsive to a determination that the JavaScript function calls are similar according to equivalency criteria A, and responsive to a determination that the other attributes of the HTML elements satisfy equivalency criteria D, the JavaScript events are identified as equivalent.},
-duplicado = {false},
-inserir = {false}
+
+@article{1118,
+ abstract = {Identifying equivalent JavaScript events includes receiving source code containing two JavaScript events for equivalency analysis, extracting an HTML element containing an event from each JavaScript event and analyzing the extracted HTML elements. Responsive to a determination that the HTML elements are of a same type according to equivalency criteria B, and responsive to a determination that the HTML elements have a same number of attributes according to equivalency criteria C, a determination is made whether JavaScript function calls of each JavaScript event are similar according to equivalency criteria A. Responsive to a determination that the JavaScript function calls are similar according to equivalency criteria A, and responsive to a determination that the other attributes of the HTML elements satisfy equivalency criteria D, the JavaScript events are identified as equivalent.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Identifying equivalent javascript events},
+ year = {2016}
 }
-@Article{1119,
-title = {Detecting influence caused by changing the source code of an application from which a document object model tree and cascading style sheet may be extracted},
-abstract = {One embodiment is a computer-implemented method for detecting an influence caused by changing a source code of an application from which a document object model (DOM) tree and cascading style sheets (CSSs) are extracted. The method includes saving one or more input operations of a user of the application, a DOM tree, and a CSS for each of one or more times that an instruction is received to check a screen state. After the source code is changed, the one or more input operations are emulated in an operation order, for each of the one or more times. A DOM tree and CSS are acquired for each of the one or more times. The saved DOM tree and CSS are compared with the acquired DOM tree and CSS for each of the one or more times. A result of the comparison is output.},
-duplicado = {false},
-inserir = {false}
+
+@article{1119,
+ abstract = {One embodiment is a computer-implemented method for detecting an influence caused by changing a source code of an application from which a document object model (DOM) tree and cascading style sheets (CSSs) are extracted. The method includes saving one or more input operations of a user of the application, a DOM tree, and a CSS for each of one or more times that an instruction is received to check a screen state. After the source code is changed, the one or more input operations are emulated in an operation order, for each of the one or more times. A DOM tree and CSS are acquired for each of the one or more times. The saved DOM tree and CSS are compared with the acquired DOM tree and CSS for each of the one or more times. A result of the comparison is output.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Detecting influence caused by changing the source code of an application from which a document object model tree and cascading style sheet may be extracted},
+ year = {2016}
 }
-@Article{1121,
-title = {Indexing and annotating a usability test recording},
-abstract = {A method for indexing a user interface test recording includes capturing, during a session, a recording of a plurality of interactions with the user interface, capturing, during the session, an event stream including a plurality of user interface events, synchronizing, in time, the plurality of interactions and the plurality of user interface events, identifying a point of interest in the event stream, wherein the point of interest is correlated to a time in the recording by the synchronization, and annotating the recording at a time correlated to when the point of interest occurred.},
-duplicado = {false},
-inserir = {false}
+
+@article{1121,
+ abstract = {A method for indexing a user interface test recording includes capturing, during a session, a recording of a plurality of interactions with the user interface, capturing, during the session, an event stream including a plurality of user interface events, synchronizing, in time, the plurality of interactions and the plurality of user interface events, identifying a point of interest in the event stream, wherein the point of interest is correlated to a time in the recording by the synchronization, and annotating the recording at a time correlated to when the point of interest occurred.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Indexing and annotating a usability test recording},
+ year = {2015}
 }
-@Article{1122,
-title = {Facilitating debugging of web applications through recording reduction: A family of empirical studies},
-abstract = {Abstract
+
+@article{1122,
+ abstract = {Abstract
 Recording the sequence of events that lead to a failure of a web application can be an effective aid for debugging. Users can send a recording that results in a failure to a web applications developer. The developer can then replay the recording, reproduce the failure, and find the fault(s) that cause it. Developers can do the same thing when faced with faults encountered in web applications in-house. A recording of an event sequence, however, may include many events that are not related to a failure, and this may render debugging more difficult. To address this problem, we have adapted Delta Debugging to function on recordings of web applications, in a manner that lets it identify and discard portions of those recordings that do not influence the occurrence of a failure, The resulting recording reduction technique can enable developers to localize faults based on reduced recordings instead of larger unreduced recordings, potentially reducing the amount of time and effort required to locate faults. We present the results of four empirical studies of our approach, in which we apply it to recordings created by Selenium IDE. In our first study we applied our technique to 30 faulty web applications obtained from developer forums, and showed that our technique could achieve significant reductions in recording size and replay time on these applications. In our second study we explored whether programmers could benefit from the use of reduced recordings when attempting to locate faults, and showed that our technique did increase their efficiency and effectiveness. In our third study we explored the scalability of our approach by applying it to substantially larger, more complex applications, and found that the approach worked even better on these larger applications than on the first set of smaller ones studied. In our fourth study we considered whether programmers working with two of these larger applications, who had more direct experience with the applications and the use of recordings and debugging could benefit from our technique. We found that the technique improved their efficiency and effectiveness, and the degree of improvement was even larger than that observed in our second study. Overall, these results suggest that recording reduction may be useful as means for helping programmers debug web applications.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Facilitating debugging of web applications through recording reduction: A family of empirical studies},
+ year = {2017}
 }
-@Article{1123,
-title = {Facilitating debugging of web applications through recording reduction},
-abstract = {Abstract
+
+@article{1123,
+ abstract = {Abstract
 Recording the sequence of events that lead to a failure of a web application can be an effective aid for debugging. Users can send a recording that results in a failure to a web applications developer. The developer can then replay the recording, reproduce the failure, and find the fault(s) that cause it. Developers can do the same thing when faced with faults encountered in web applications in-house. A recording of an event sequence, however, may include many events that are not related to a failure, and this may render debugging more difficult. To address this problem, we have adapted Delta Debugging to function on recordings of web applications, in a manner that lets it identify and discard portions of those recordings that do not influence the occurrence of a failure, The resulting recording reduction technique can enable developers to localize faults based on reduced recordings instead of larger unreduced recordings, potentially reducing the amount of time and effort required to locate faults. We present the results of four empirical studies of our approach, in which we apply it to recordings created by Selenium IDE. In our first study we applied our technique to 30 faulty web applications obtained from developer forums, and showed that our technique could achieve significant reductions in recording size and replay time on these applications. In our second study we explored whether programmers could benefit from the use of reduced recordings when attempting to locate faults, and showed that our technique did increase their efficiency and effectiveness. In our third study we explored the scalability of our approach by applying it to substantially larger, more complex applications, and found that the approach worked even better on these larger applications than on the first set of smaller ones studied. In our fourth study we considered whether programmers working with two of these larger applications, who had more direct experience with the applications and the use of recordings and debugging could benefit from our technique. We found that the technique improved their efficiency and effectiveness, and the degree of improvement was even larger than that observed in our second study. Overall, these results suggest that recording reduction may be useful as means for helping programmers debug web applications.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Facilitating debugging of web applications through recording reduction},
+ year = {2017}
 }
-@Article{1124,
-title = {AppCheck: A Crowdsourced Testing Service for Android Applications},
-abstract = {Abstract:
+
+@article{1124,
+ abstract = {Abstract:
 It is well known that the fragmentation of Android ecosystem has caused severe compatibility issues. Therefore, for Android apps, cross-platform testing (the apps must be tested on a multitude of devices and operating system versions) is particularly important to assure their quality. Although lots of cross-platform testing techniques have been proposed, there are still some limitations: 1) it is time-consuming and error-prone to encode platform-agnostic tests manually, 2) test scripts generated by existing record/replay techniques are brittle and will break when replayed on different platforms, 3) Developers, and even test vendors have not equipped some special Android devices. As a result, apps have not been tested sufficiently, leading to many compatibility issues after releasing. To address these limitations, this paper proposes AppCheck, a crowdsourced testing service for Android apps. To generate tests that will explore different behavior of the app automatically, AppCheck crowdsources event trace collection over the Internet, and various touch events will be captured when real users interact with the app. The collected event traces are then transformed into platform-agnostic test scripts, and directly replayed on the devices of real users. During the replay, various data (e.g., screenshots and layout information) will be extracted to identify compatibility issues. Our empirical evaluation shows that AppCheck is effective and improves the state of the art},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {AppCheck: A Crowdsourced Testing Service for Android Applications},
+ year = {2017}
 }
-@Article{1125,
-title = {DEVELOPMENT OF AGNOSTIC MOBILE APPLICATIONS WITH CROSS-PLATFORM CLOUD COMPUTING PLATFORMS},
-abstract = {Smart phones became part and parcel of our life, where mobility provides a freedom of not being
+
+@article{1125,
+ abstract = {Smart phones became part and parcel of our life, where mobility provides a freedom of not being
 bounded by time and space. In addition, number of smartphones produced each year is skyrocketing.
 However, this also created discrepancies or fragmentation among devices and OSes, which in turn
 made an exceeding hard for developers to deliver hundreds of similar featured applications with
@@ -239,48 +288,60 @@ the most popular cloud based development platforms and tested integrated cloud f
 This research showed that cloud based mobile development platforms may able to reduce mobile
 fragmentation and enable to utilize single codebase to deliver a mobile application for different
 platforms.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {DEVELOPMENT OF AGNOSTIC MOBILE APPLICATIONS WITH CROSS-PLATFORM CLOUD COMPUTING PLATFORMS},
+ year = {2014}
 }
-@Article{1127,
-title = {Online application testing across browser environments},
-abstract = {A stub can be loaded into a first browser environment of a browser application on a client machine, with the stub being loaded from a domain. The stub can execute to load an online application test into the first browser environment. Additionally, the test can execute in the first browser environment to conduct the test on an online application. For example, the test may be conducted from a second browser environment of the browser on the client machine. Performing the test can include loading one or more digital pages from the application into the second browser environment.},
-duplicado = {false},
-inserir = {true}
+
+@article{1127,
+ abstract = {A stub can be loaded into a first browser environment of a browser application on a client machine, with the stub being loaded from a domain. The stub can execute to load an online application test into the first browser environment. Additionally, the test can execute in the first browser environment to conduct the test on an online application. For example, the test may be conducted from a second browser environment of the browser on the client machine. Performing the test can include loading one or more digital pages from the application into the second browser environment.},
+ duplicado = {false},
+ inserir = {true},
+ title = {Online application testing across browser environments},
+ year = {2015}
 }
-@Article{1128,
-title = {Real time web development testing and reporting system},
-abstract = {Elements of the geometry of the image of a webpage as rendered on at least one target browser are compared with elements of a baseline geometry of the webpage to determine the differences between elements of the baseline geometry of the webpage and elements of the respective geometries of the image of the webpage as rendered on the at least one target browser. The elements of the image may be determined by a software tool for determining elements of a document geometry, such as a DOM geometry service. Code such as JavaScript may be injected into the webpage for use in determining the elements of the geometry of the image of the webpage. A list of issues that web developers face may be generated and the above differences between respective elements may allow arriving at a solution for at least some of the issues in order to provide testing of webpage information in real time.},
-duplicado = {false},
-inserir = {false}
+
+@article{1128,
+ abstract = {Elements of the geometry of the image of a webpage as rendered on at least one target browser are compared with elements of a baseline geometry of the webpage to determine the differences between elements of the baseline geometry of the webpage and elements of the respective geometries of the image of the webpage as rendered on the at least one target browser. The elements of the image may be determined by a software tool for determining elements of a document geometry, such as a DOM geometry service. Code such as JavaScript may be injected into the webpage for use in determining the elements of the geometry of the image of the webpage. A list of issues that web developers face may be generated and the above differences between respective elements may allow arriving at a solution for at least some of the issues in order to provide testing of webpage information in real time.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Real time web development testing and reporting system},
+ year = {2016}
 }
-@Article{1129,
-title = {Testing framework for dynamic web pages},
-abstract = {A system and method for bucket testing includes: retrieving a user's information from a user in a bucket testing group when a request to serve a web page is received; determining from the user's information if the user has an active bucket identifier associated with the user's account in a persistent store; retrieving bucket parameters from the user's information when it is determined that the user has an active bucket identifier; determining if the bucket parameters are within a range assigned to the bucket testing group; passing the bucket parameters to the server; and loading configuration and files associated with the active bucket identifier.},
-duplicado = {false},
-inserir = {false}
+
+@article{1129,
+ abstract = {A system and method for bucket testing includes: retrieving a user's information from a user in a bucket testing group when a request to serve a web page is received; determining from the user's information if the user has an active bucket identifier associated with the user's account in a persistent store; retrieving bucket parameters from the user's information when it is determined that the user has an active bucket identifier; determining if the bucket parameters are within a range assigned to the bucket testing group; passing the bucket parameters to the server; and loading configuration and files associated with the active bucket identifier.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Testing framework for dynamic web pages},
+ year = {2015}
 }
-@Article{1140,
-title = {Estimating similarity of rich internet pages using visual information},
-abstract = {Abstract
+
+@article{1140,
+ abstract = {Abstract
 Traditional text-based web page similarity measures fail to handle rich-information-embedded modern web pages. Current approaches regard web pages as either DOM trees or images. However, the former only focuses on the web page structure, while the latter ignores the inner connections among different web page features. Therefore, they are not suitable for modern web pages. Hence, the idea of a block tree is introduced, which contains both structural and visual information of web pages. A visual similarity metric is proposed as the edit distance between two block trees. Finally, an experiment is undertaken, by cross-comparing 500 web pages, illustrating that the model appears to be highly accurate, empirically demonstrating that the metric is highly promising.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Estimating similarity of rich internet pages using visual information},
+ year = {2017}
 }
-@Article{1141,
-title = {Maintenance of automated test suites in industry: An empirical study on Visual GUI Testing},
-abstract = {Abstract
+
+@article{1141,
+ abstract = {Abstract
 Context: Verification and validation (V&V) activities make up 2050% of the total development costs of a software system in practice. Test automation is proposed to lower these V&V costs but available research only provides limited empirical data from industrial practice about the maintenance costs of automated tests and what factors affect these costs. In particular, these costs and factors are unknown for automated GUI-based testing.
 Objective: This paper addresses this lack of knowledge through analysis of the costs and factors associated with the maintenance of automated GUI-based tests in industrial practice.
 Method: An empirical study at two companies, Siemens and Saab, is reported where interviews about, and empirical work with, Visual GUI Testing is performed to acquire data about the techniques maintenance costs and feasibility.
 Results: 13 factors are observed that affect maintenance, e.g. tester knowledge/experience and test case complexity. Further, statistical analysis shows that developing new test scripts is costlier than maintenance but also that frequent maintenance is less costly than infrequent, big bang maintenance. In addition a cost model, based on previous work, is presented that estimates the time to positive return on investment (ROI) of test automation compared to manual testing.
 Conclusions: It is concluded that test automation can lower overall software development costs of a project while also having positive effects on software quality. However, maintenance costs can still be considerable and the less time a company currently spends on manual testing, the more time is required before positive, economic, ROI is reached after automation.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Maintenance of automated test suites in industry: An empirical study on Visual GUI Testing},
+ year = {2016}
 }
-@Article{1142,
-title = {TESTAR - from academic protoype towards an industry-ready tool for automated testing at the User Interface level},
-abstract = {Abstract. Testing applications with a Graphical User Interface (GUI)
+
+@article{1142,
+ abstract = {Abstract. Testing applications with a Graphical User Interface (GUI)
 is an important, though challenging and time consuming task. The state
 of the art in the industry are still capture and replay tools, which may
 simplify the recording and execution of input sequences, but do not support
@@ -293,12 +354,14 @@ present the tool TESTAR, an automated search-based approach to test
 applications at the GUI level whose objective is to solve part of the
 maintenance problem by automatically generating test cases based on a
 structure that is automatically derived from the GUI.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {TESTAR - from academic protoype towards an industry-ready tool for automated testing at the User Interface level},
+ year = {2015}
 }
-@Article{1143,
-title = {Closing Gaps between Capture and Replay: Model-based GUI Testing},
-abstract = {Abstract. Testing software as a black box can be time consuming and errorprone.
+
+@article{1143,
+ abstract = {Abstract. Testing software as a black box can be time consuming and errorprone.
 Operating and monitoring the graphical user interface is a generic method
 to test such systems. This work deals with convenient and systematic testing of
 GUI software systems. It presents a new approach to model-based GUI testing
@@ -308,40 +371,50 @@ charts and (4) the classification tree method. The approach is implemented as
 a prototype and is currently under validation on a real GUI. The presented approach
 includes the whole test cycle, from scanning the GUI and model-based
 test specification to the automatic execution of tests.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Closing Gaps between Capture and Replay: Model-based GUI Testing},
+ year = {2015}
 }
-@Article{1144,
-title = {Automated Localisation Testing in Industry with Test},
-abstract = {Abstract
+
+@article{1144,
+ abstract = {Abstract
 Test  ??  is a testing tool that automatically and dynamically generates, executes and verifies test sequences based on a tree model that is derived from the software User Interface through assistive technologies. Test  ??  is an academic prototype that we continuously try to transfer to companies to get feedback about its applicability. In this paper we report on one of these short experiences of using Test  ??  in industry at the Valencian company Indenova. We applied the tool to check the localisation quality of a secure web platform that encapsulates a set of applications as services.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Automated Localisation Testing in Industry with Test},
+ year = {2016}
 }
-@Article{1145,
-title = {Development and maintenance efforts testing graphical user interfaces: a comparison},
-abstract = {For testing of graphical user interfaces many tools exists. The aim of this work is a statement regarding the advantages and disadvantages of various testing tools with regard to their use in the economic context to be taken. It is compared, inter alia, whether there are differences in the generations of test tools in terms of finding defects and which tool has the lowest development and maintenance costs. Results show that with QF-Test test suites can be created the quickest while EggPlant has the shortest maintenance time. TestComplete performs worse in both disciplines. For test robustness, no clear picture can be drawn. The selection of a test tool is typically done once in a project at the beginning and should be considered carefully.},
-duplicado = {false},
-inserir = {false}
+
+@article{1145,
+ abstract = {For testing of graphical user interfaces many tools exists. The aim of this work is a statement regarding the advantages and disadvantages of various testing tools with regard to their use in the economic context to be taken. It is compared, inter alia, whether there are differences in the generations of test tools in terms of finding defects and which tool has the lowest development and maintenance costs. Results show that with QF-Test test suites can be created the quickest while EggPlant has the shortest maintenance time. TestComplete performs worse in both disciplines. For test robustness, no clear picture can be drawn. The selection of a test tool is typically done once in a project at the beginning and should be considered carefully.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Development and maintenance efforts testing graphical user interfaces: a comparison},
+ year = {2016}
 }
-@Article{1146,
-title = {Automated Testing of Web Applications with TESTAR},
-abstract = {Abstract
+
+@article{1146,
+ abstract = {Abstract
 The TESTAR tool was originally conceived to perform automated testing of desktop applications via their Graphical User Interface (GUI). Starting from the premise that source code is not available, TESTAR automatically selects actions based only on information derived from the GUI and in this way generates test sequences on the fly. In this work we extend its use to web applications and carry out experiments using the Odoo open source management software as the testing object. We also introduce novel metrics to evaluate the performance of the testing with TESTAR, which are valid even when access to the source code is not available and testing is only possible via the GUI. We compare results obtained for two types of action selection mechanisms, based on random choice and   QQ -learning with different parameter settings. Statistical analysis shows the superiority of the latter provided an adequate choice of parameters; furthermore, the results point to interesting areas for improvement.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Automated Testing of Web Applications with TESTAR},
+ year = {2016}
 }
-@Article{1147,
-title = {Combining profiling and monitoring to analyze test coverage and identify performance problems},
-abstract = {The use of profilers is a common approach for locating bottlenecks in software performance.
+
+@article{1147,
+ abstract = {The use of profilers is a common approach for locating bottlenecks in software performance.
 
 Existing profilers typically generalize memory consumption and CPU usage. This work is dedicated to profiling-based identification of performance problems for specific moments of program execution. By combining conventional profiling with monitoring of user actions (e.g. mouse and keyboard inputs), a more fine-grained analysis of program behavior is possible. The calculation of coverage levels for GUI tests will also be available. The current state of this work describes a proposed solution. Realization of a prototype implementing the approach is currently ongoing.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Combining profiling and monitoring to analyze test coverage and identify performance problems},
+ year = {2016}
 }
-@Article{1148,
-title = {Another experience with Test? in industry: automated localisation testing},
-abstract = {Abstract. Test?
+
+@article{1148,
+ abstract = {Abstract. Test?
 is a testing tool that automatically and dynamically
 generates, executes and verifies test sequences based on a tree model that
 is derived from the User Interface through the Accessibility API. Test?
@@ -351,12 +424,14 @@ to get feedback about its applicability. In this paper we report on one
 of these short experiences of using Test?
 in industry at the Valencian
 company Indenova.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Another experience with Test? in industry: automated localisation testing},
+ year = {2016}
 }
-@Article{1149,
-title = {TESTAR para testing IoT},
-abstract = {As the number of devices connected to the Internet is increasing, the so-called
+
+@article{1149,
+ abstract = {As the number of devices connected to the Internet is increasing, the so-called
 Internet of Things (IoT) is becoming a reality. It even has the required potential to
 change both the way we live and the way we work.
 In order to take advantage of the benefits that the IoT can bring us, ensuring the quality
@@ -367,52 +442,58 @@ In this work we start from an automated testing tool at the user interface level
 already been successfully applied in several industrial cases. Maintaining its philosophy
 and approach, a new tool is developed which is applicable to the IoT environment. The
 tool is evaluated by testing a smart home and the results are presented.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {TESTAR para testing IoT},
+ year = {2016}
 }
-@Article{1150,
-title = {Reconocimiento de widgets automatico para aplicaciones Java/Swing en TESTAR},
-abstract = {The Software Testing and Quality (STAQ) group of the PROS research center at the
- Polytechnic University of Valencia (UPV) has developed a tool, called TESTAR
- (www.testar.org) for automated testing at the user interface level (UI) . TESTAR generates and
- executes test cases automatically based on a tree model automatically derived from the UI of the
- application under test. This tree is built using the Accessibility API of the operating system that
- helps to recognize all graphical UI elements (widgets). The tool is not capture / replay nor uses
- image recognition. Companies that have deployed the tool are very positive and see it as a
- paradigm shift for testing. They believe that TESTAR has the potential to solve many problems
- with existing tools.
- In this project the aim is to extend and implement the recognizability of widgets (graphical
- elements of the User Interface) of the TESTAR tool for Java applications in Microsoft Windows
- operating systems. TESTAR has a limitation regarding the recognition of widgets when the Java
- technology Swing is used (it runs smoothly for AWT and SWT).
- TESTAR is based on accessibility technologies that expose widgets of the software
- application under test. The "lightweight" character of Swing makes that some Swing elements
- are not correctly identified by accessibility technologies . To support the application
- accesbilidad for Swing there is a bridge called Java Access Bridge exposes the Java
- Accessibility API in a dynamic link library (DLL) for Windows:
- http://www.oracle.com/technetwork/articles/javase/index-jsp-136191.html
- Therefore, the work of the project will be:
- Study the Java Access Bridge bridge to facilitate recognition of widgets automatically in
- Java / Swing applications.
- Implement a plug-in for TESTAR to enrich the tool with recognition of Swing widgets, in
- addition to the current support for AWT and SWT technologies.
- Assess the capacity of TESTAR in Java / Swing with two case studies with industrial
- applications. (Currently EVERIS and Clearone are companies that have shown interest in
- having this capacity available in TESTAR).
+
+@article{1150,
+ abstract = {The Software Testing and Quality (STAQ) group of the PROS research center at the
+Polytechnic University of Valencia (UPV) has developed a tool, called TESTAR
+(www.testar.org) for automated testing at the user interface level (UI) . TESTAR generates and
+executes test cases automatically based on a tree model automatically derived from the UI of the
+application under test. This tree is built using the Accessibility API of the operating system that
+helps to recognize all graphical UI elements (widgets). The tool is not capture / replay nor uses
+image recognition. Companies that have deployed the tool are very positive and see it as a
+paradigm shift for testing. They believe that TESTAR has the potential to solve many problems
+with existing tools.
+In this project the aim is to extend and implement the recognizability of widgets (graphical
+elements of the User Interface) of the TESTAR tool for Java applications in Microsoft Windows
+operating systems. TESTAR has a limitation regarding the recognition of widgets when the Java
+technology Swing is used (it runs smoothly for AWT and SWT).
+TESTAR is based on accessibility technologies that expose widgets of the software
+application under test. The "lightweight" character of Swing makes that some Swing elements
+are not correctly identified by accessibility technologies . To support the application
+accesbilidad for Swing there is a bridge called Java Access Bridge exposes the Java
+Accessibility API in a dynamic link library (DLL) for Windows:
+http://www.oracle.com/technetwork/articles/javase/index-jsp-136191.html
+Therefore, the work of the project will be:
+Study the Java Access Bridge bridge to facilitate recognition of widgets automatically in
+Java / Swing applications.
+Implement a plug-in for TESTAR to enrich the tool with recognition of Swing widgets, in
+addition to the current support for AWT and SWT technologies.
+Assess the capacity of TESTAR in Java / Swing with two case studies with industrial
+applications. (Currently EVERIS and Clearone are companies that have shown interest in
+having this capacity available in TESTAR).
 Document the results},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Reconocimiento de widgets automatico para aplicaciones Java/Swing en TESTAR},
+ year = {2017}
 }
-@Article{1151,
-title = {Harnessing Automated Test Case Generators for GUI Testing in Industry},
-abstract = {Abstract:
+
+@article{1151,
+ abstract = {Abstract:
 Modern graphical user interfaces (GUIs) are highly dynamic and support multi-touch interactions and screen gestures besides conventional inputs via mouse and keyboard. Hence, the flexibility of modern GUIs enables countless usage scenarios and combinations including all kind of interactions. From the viewpoint of testing, this flexibility results in a combinatorial explosion of possible interaction sequences. It dramatically raises the required time and effort involved in GUI testing, which brings manual exploration as well as conventional regression testing approaches to its limits. Automated test generation (ATG) has been proposed as a solution to reduce the effort for manually designing test cases and to speed-up test execution cycles. In this paper we describe how we successfully harnessed a state-of-the-art ATG tool (Randoop) developed for code-based API testing to generate GUI test cases. The key is an adapter that transforms API calls to GUI events. The approach is the result of a research transfer project with the goal to apply ATG for testing of human machine interfaces used to control industrial machinery. In this project the ATG tool was used to generate unit test cases for custom GUI controls and system tests for exploring navigation scenarios. It helped to increase the test coverage and was able reveal new defects in the implementation of the GUI controls as well as in the GUI application.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Harnessing Automated Test Case Generators for GUI Testing in Industry},
+ year = {2016}
 }
-@Article{1152,
-title = {Automated Testing at the User Interface level},
-abstract = {Graphical User Interfaces (GUIs) represent the main connection
+
+@article{1152,
+ abstract = {Graphical User Interfaces (GUIs) represent the main connection
 point between a softwares components and its end
 users and can be found in almost all modern applications.
 This makes them attractive for testers, since testing at the GUI
@@ -445,18 +526,22 @@ cases are recorded and the tree model is inferred for every
 state, this implies that tests will run even when the GUI
 changes. This reduces the maintenance problem that threatens
 the techniques mentioned earlier.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Automated Testing at the User Interface level},
+ year = {2015}
 }
-@Article{1153,
-title = {Hybrid monkey testing: enhancing automated GUI tests with random test generation},
-abstract = {Many software projects maintain automated GUI tests that are repeatedly executed for regression testing. Every test run executes exactly the same fixed sequence of steps confirming that the currently tested version shows precisely the same behavior as the last version. The confirmatory approach implemented by these tests limits their ability to find new defects. We therefore propose to combine existing automated regression tests with random test generation. Random test generation creates a rich variety of test steps that interact with the system under test in new, unexpected ways. Enhancing existing test cases with random test steps allows revealing new, hidden defects with little extra effort. In this paper we describe our implementation of a hybrid approach that enhances existing GUI test cases with additional, randomly generated interactions. We conducted an experiment using a mature, widely-used open source application. On average the added random interactions increased the number of visited application windows per test by 23.6% and code coverage by 12.9%. Running the enhanced tests revealed three new defects.},
-duplicado = {false},
-inserir = {false}
+
+@article{1153,
+ abstract = {Many software projects maintain automated GUI tests that are repeatedly executed for regression testing. Every test run executes exactly the same fixed sequence of steps confirming that the currently tested version shows precisely the same behavior as the last version. The confirmatory approach implemented by these tests limits their ability to find new defects. We therefore propose to combine existing automated regression tests with random test generation. Random test generation creates a rich variety of test steps that interact with the system under test in new, unexpected ways. Enhancing existing test cases with random test steps allows revealing new, hidden defects with little extra effort. In this paper we describe our implementation of a hybrid approach that enhances existing GUI test cases with additional, randomly generated interactions. We conducted an experiment using a mature, widely-used open source application. On average the added random interactions increased the number of visited application windows per test by 23.6% and code coverage by 12.9%. Running the enhanced tests revealed three new defects.},
+ duplicado = {false},
+ inserir = {false},
+ title = {Hybrid monkey testing: enhancing automated GUI tests with random test generation},
+ year = {2017}
 }
-@Article{1154,
-title = {Adapting automated test generation to GUI testing of industry applications},
-abstract = {Abstract
+
+@article{1154,
+ abstract = {Abstract
 Context
 
 Automated test generation promises to improve the effectiveness of software testing and to reduce the involved manual effort. While automated test generation has been successfully applied for code-level API testing, it has not found widespread adoption in practice for testing of graphical user interfaces. Tools for test generation do not support GUI testing out-of-the-box but require dedicated extensions.
@@ -476,20 +561,27 @@ Automated test generation via test adapters could be applied at all test levels.
 Conclusion
 
 Test adapters can be used for applying automated test generation for testing GUIs of industry applications. They bridge the gap between automated test generation tools and industry applications. The development of test adapters requires no tool-specific knowledge and can be performed by members of the development team.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Adapting automated test generation to GUI testing of industry applications},
+ year = {2018}
 }
-@Article{1155,
-title = {Searching for the Best Test},
-abstract = {Abstract:
+
+@article{1155,
+ abstract = {Abstract:
 Random testing has been controversial throughout the history. In the early 70s opinions about random testing were divided: Girard and Rault (1973) call it a valuable test case generation scheme [11]. This is confirmed by Thayer, Lipow and Nelson (1978) in their book on software reliability [21] they say it is the necessary final step in the testing activities. However, Glenford Myers (1979) in his seminal work on the art of Software Testing [18] denominates random testing as probably the poorest testing method.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Searching for the Best Test},
+ year = {2017}
 }
-@Article{1156,
-title = {Overview of the ICST International Software Testing Contest},
-abstract = {Abstract:
+
+@article{1156,
+ abstract = {Abstract:
 In the software testing contest, practitioners and researcher's are invited to test their test approaches against similar approaches to evaluate pros and cons and which is perceivably the best. The 2017 iteration of the contest focused on Graphical User Interface-driven testing, which was evaluated on the testing tool TESTONA. The winner of the competition was announced at the closing ceremony of the international conference on software testing (ICST), 2017.},
-duplicado = {false},
-inserir = {false}
+ duplicado = {false},
+ inserir = {false},
+ title = {Overview of the ICST International Software Testing Contest},
+ year = {2017}
 }
+
