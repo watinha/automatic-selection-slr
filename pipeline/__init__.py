@@ -21,6 +21,7 @@ class BibParser:
                     insert = 'selecionado' if entry['inserir'] == 'true' else 'removido'
                     title = entry['title']
                     abstract = entry['abstract']
+                    year = entry['year']
                     content = u'%s\n%s' % (title, abstract)
                     folder = filename.split('/')[2].split('-')[0]
 
@@ -37,9 +38,14 @@ class BibParser:
                         content = content.split('\n')[0]
                     self.texts_list.append({
                         'content': content,
-                        'category': insert
+                        'category': insert,
+                        'year': int(year)
                     })
                 bib_file.close()
+
+        def year_sort (el):
+            return el['year']
+        self.texts_list.sort(key=year_sort)
 
         return self.texts_list
 
