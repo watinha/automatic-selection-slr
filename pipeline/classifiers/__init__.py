@@ -5,20 +5,41 @@ import np, random
 #from keras.wrappers.scikit_learn import KerasClassifier
 
 from sklearn import tree, metrics, svm, naive_bayes, ensemble, linear_model, neural_network
-from sklearn.model_selection import cross_validate, StratifiedKFold, GridSearchCV, train_test_split
+from sklearn.model_selection import cross_validate, StratifiedKFold, GroupKFold, TimeSeriesSplit, GridSearchCV, train_test_split
+
+class YearsSplit:
+    def __init__ (self, n_splits=4, years=[]):
+        self._n_splits = n_splits
+        self._years = years
+        self._test_indexes = []
+        current = max(years)
+        for i in range(n_splits):
+            test_index = years.index(current)
+            self._test_indexes.append(test_index)
+            current = max(years[:test_index])
+        self._test_indexes.reverse()
+
+    def split (self, X, y, groups=None):
+        for test_index in self._test_indexes:
+            train = [ i for i in range(test_index) ]
+            test = [ i for i in range(test_index, len(self._years)) ]
+            yield train, test
 
 
 class SimpleClassifier:
-    def __init__ (self, seed):
+    def __init__ (self, seed, n_splits=5):
         self._seed = seed
+        self._n_splits = n_splits
 
     def execute (self, dataset):
         X = dataset['features']
         y = dataset['categories']
+        groups = dataset['years']
         random.seed(self._seed)
-        kfold = StratifiedKFold(n_splits=5, random_state=self._seed)
+        kfold = YearsSplit(n_splits=self._n_splits, years=groups)
         model = self.get_classifier(X, y)
-        scores = cross_validate(model, X, y, cv=kfold, scoring=['f1_macro', 'precision_macro', 'recall_macro'])
+        scores = cross_validate(model, X, y, cv=kfold,
+                scoring=['f1_macro', 'precision_macro', 'recall_macro'])
         print("OUR APPROACH F-measure: %s on average and %s SD" %
                 (scores['test_f1_macro'].mean(), scores['test_f1_macro'].std()))
         print("OUR APPROACH Precision: %s on average and %s SD" %
@@ -93,8 +114,8 @@ class RandomForestClassifier (SimpleClassifier):
         return model
 
 class DecisionTreeClassifier (SimpleClassifier):
-    def __init__ (self, seed=42, criterion='entropy'):
-        SimpleClassifier.__init__(self, seed)
+    def __init__ (self, seed=42, criterion='entropy', n_splits=5):
+        SimpleClassifier.__init__(self, seed, n_splits)
         self.classifier_name = 'decision_tree'
         self._criterion = criterion
 
@@ -153,8 +174,8 @@ class MLPClassifier (SimpleClassifier):
 
 
 class SVMClassifier (SimpleClassifier):
-    def __init__ (self, seed):
-        SimpleClassifier.__init__(self, seed)
+    def __init__ (self, seed, n_splits=5):
+        SimpleClassifier.__init__(self, seed, n_splits=n_splits)
         self.classifier_name = 'svm'
 
     def get_classifier (self, X, y):

@@ -59,11 +59,13 @@ class GenerateDataset:
         texts = [ text_data['content'] for text_data in texts_list ]
         categories = [ 1 if text_data['category'] == 'selecionado' else 0
                 for text_data in texts_list ]
+        years = [ text_data['year'] for text_data in texts_list ]
         features = self._vectorizer.fit_transform(texts)
         result = {
             'texts': texts,
             'features': features,
-            'categories': np.array(categories)
+            'categories': np.array(categories),
+            'years': years
         }
         print (result['features'].shape)
         return result

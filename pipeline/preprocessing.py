@@ -22,7 +22,8 @@ class TextFilterComposite:
             filtered_text = self._filter(tokens)
             result.append({
                 'content': filtered_text.lower(),
-                'category': text['category']
+                'category': text['category'],
+                'year': text['year']
             })
 
         return result
