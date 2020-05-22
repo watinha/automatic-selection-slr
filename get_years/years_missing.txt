@@ -1,0 +1,1151 @@
+=== Updating bibs available in bibs/ontologies/round1-google.bib ===
+1: Using Forward Snowballing to update Systematic Reviews in Software Engineering -> 2016
+2: SERP-test: a taxonomy for supporting industry academia communication -> 2017
+3: Using the Findings of a Mapping Study to Conduct a Research Project: A Case in Knowledge Management in Software Testing -> 2015
+4: Ontology Learning from Software Requirements Specification (SRS) -> 2016
+5: ROoST: Reference Ontology on Software Testing -> 2017
+6: A Top Domain Ontology For Software Testing -> 2016
+7: A Top-Domain Ontology for Software testing -> 2016
+8: Using Ontology Patterns for Building a Reference Software Testing Ontology -> 2013
+9: Transformation of the Software Testing Glossary into a Browsable Concept Map -> 2015
+10: Inventory of Testing Ideas and Structuring of Testing Terms -> 2013
+11: Heuristic Method to Improve Systematic Collection of Terminology -> 2016
+12: Building of Concept System to Improve Systematic Collection of Terminology -> 2016
+13: Whitening SOA Testing via Event Exposure -> 2013
+14: Preemptive Regression Testingof Workflow-Based Web Services -> 2014
+15: Performance Evaluation of Web-Services Classification -> 2014
+16: Preemptive Regression Test Scheduling Strategies: A New Testing Approach to Thriving on the Volatile Service Environments -> 2012
+17: An Ontology for Guiding Performance Testing -> 2014
+18: Testing-Based Process for Service-Oriented Applications -> 2011
+19: Behavior Assessment based Selection Method for Service Oriented Applications Integrability -> 2012
+20: A proposed framework for full automation of software testing process -> 2012
+21: An Intelligent Broker Approach to Semantics-Based Service Composition -> 2011
+22: Design of intelligent agents for collaborative testing of service-based systems -> 2011
+23: Dynamic Test Reconfiguration for Composite Web Services -> 2014
+24: Architecturing Dynamic Data Race Detection as a Cloud-Based Service -> 2015
+25: Automated testing of Web Services system based on OWL-S -> 2012
+26: Big SaaS: The Next Step beyond Big Data -> 2015
+27: A Software Tool for Selection and Integrability on Service Oriented Applications -> 2014
+28: Generating effective test cases based on satisfiability modulo theory solvers for service-oriented workflow applications -> 2016
+29: X-Check: A Novel Cross-Browser Testing Service Based on Record/Replay -> 2016
+30: A Test Automation Framework for Collaborative Testing of Web Service Dynamic Compositions -> 2014
+31: Modification Impact Analysis Based Test Case Prioritization for Regression Testing of Service-Oriented Workflow Applications -> 2015
+32: Testing-based Behavioral Assessment for Service Selection -> 2013
+33: Automated and effective testing of web services for XML injection attacks -> 2016
+34: Algebraic Testing of Web Services: The Monic Approach ->
+35: A Survey on Technique for Dynamic Test Reconfiguration for Composite Web Services ->
+36: Goal-based testing of semantic web services ->
+37: Automated Web Service Composition Testing as a Service ->
+38: Web Service Performance Testing ->
+39: Monic Testing of Web Services Based on Algebraic Specifications ->
+40: 8th international workshop on automation of software test (AST 2013) ->
+41: Optimal control based regression test selection for service-oriented workflow applications ->
+42: Automated and Effective Security Testing for XML-based Vulnerabilities ->
+43: Review of the Present State-of-the-Art of Dynamic Test Reconfiguration of Composite Web Services ->
+44: A Technique for Testing Composed Web Services including Footprint ->
+45: SDA-CLOUD: A Multi-VM Architecture for Adaptive Dynamic Data Race Detection ->
+46: A test framework for large-scale message broker system for consumer devices ->
+47: A TESTING FRAMEWORK FOR FAULT TOLERANT COMPOSITION OF TRANSACTIONAL WEB SERVICES ->
+48: Automated Realistic Test Input Generation and Cost Reduction in Service-centric System Testing ->
+49: Survey on Collaborative Testing of Web Services ->
+50: The Use of Ontology in Case Based Reasoning for Reusable Test Case Generation ->
+51: IMPROVING DEVELOPMENT TIMES BY REUSING FLEXIBLE HARDWARE AND SOFTWARE COMPONENT ->
+52: IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE DEGREE OF DOCTOR OF PHILOSOPY IN THE DEPARTMENT OF INFORMATION SYSTEM ->
+53: A Quality Assurance Approach and Case Study in BSS ->
+54: Accounting for Product Similarity in Software Project Duration Estimation ->
+55: Research and practice on the whole life cycle test process model ->
+56: Consolidating a Process for the Design, Representation, and Evaluation of Reference Architectures ->
+57: Reference Architectures ->
+58: Contributions and Perspectives in Architectures of Software Testing Environments ->
+59: Requirements, design and evaluation of a privacy reference architecture for web applications and services ->
+60: A Levels-based Approach for Defining Software Measurement Architectures ->
+61: OntoArch Reliability-Aware Software Architecture Design and Experience ->
+62: Uma Arquitetura de Referencia para Medicao de Software ->
+63: Estabelecimento de uma arquitetura de referencia para aplicacoes de televisao digital ->
+64: A Process Framework for Designing Software Reference Architectures for Providing Tools as a Service ->
+65: An Ontology-based Software Test Generation Framework ->
+66: Ontologia para teste de desempenho de software ->
+67: Analyzing the relationships between inspections and testing to provide a software testing focus ->
+68: Application of Inference Rules to a Software Requirements Ontology to Generate Software Test Cases ->
+69: Knowledge Management in Software Testing ->
+70: Testing as a Service over Cloud ->
+71: Testing Web Services: A Survey ->
+72: Testing and verification in service-oriented architecture: a survey ->
+73: A Comprehensive Ontology for Knowledge Representation in the Internet of Things ->
+74: An Approach for Service Composition and Testing for Cloud Computing ->
+75: Towards a scalable and robust multi-tenancy SaaS ->
+76: Internetware computing: issues and perspective ->
+77: Usage-Based Online Testing for Proactive Adaptation of Service-Based Applications ->
+78: Automatically generating realistic test input from web services ->
+79: A metamorphic relation-based approach to testing web services without oracles ->
+80: Metamorphic Testing for Web Services: Framework and a Case Study ->
+81: WS-TaaS: A Testing as a Service Platform for Web Service Load Testing ->
+82: A systematic review on the functional testing of semantic web services ->
+83: Black box test case prioritization techniques for semantic based composite web services using OWL-S ->
+84: A test case reduction method for semantic based web services ->
+85: A Subsumption Hierarchy of Test Case Prioritization for Composite Services ->
+86: Test Pair Selection for Test Case Prioritization in Regression Testing for WS-BPEL Programs ->
+87: Turning web services descriptions into quickcheck models for automatic testing ->
+88: An Ontology-Based Approach for GUI Testing ->
+89: A flow graph-based test model for OWL-S web services ->
+90: Approaches to Functional, Structural and Security SOA Testing ->
+91: Employing Privacy-Preserving Techniques to Protect Control-Flow Graphs in a Decentralized, End-to-End Regression Test Selection Framework for Web Services ->
+92: Towards effective and intelligent multi-tenancy SaaS ->
+93: Data flow analysis and testing for OWL-S semantic web service compositions ->
+94: Prioritizing Structurally Complex Test Pairs for Validating WS-BPEL Evolutions ->
+95: Using ontology to generate test cases for GUI testing ->
+96: Ontology-based Web Service robustness test generation ->
+97: Distribution-Aware Mutation Analysis ->
+98: Delivering Web service load testing as a service with a global cloud ->
+99: Desenvolvimento e avaliacao de um registro de servicos de ferramentas de teste ->
+100: Systematic scenario test case generation for nuclear safety systems ->
+101: A Framework for Automated and Composable Testing of Component-Based Services ->
+102: Ontology patterns for service-oriented software development ->
+103: Interface-Based Automated Testing for Open Software Architecture ->
+104: Automatic Generation of Test Models for Web Services Using WSDL and OCL ->
+105: Towards Dynamic Random Testing for Web Services ->
+106: Semantic Support for Log Analysis of Safety-Critical Embedded Systems ->
+107: Specifications for Web Services Testing: A Systematic Review ->
+108: ????????? Web ???????? ->
+109: Validation test case generation based on safety analysis ontology ->
+110: TEST CASE GENERATION AND PRIORITIZATION FOR COMPOSITE WEB SERVICE BASED ON OWL-S ->
+111: Correctness evaluation model for composite web service ->
+112: Generating Realistic Test Input Using Web Services ->
+113: Estabelecimento de uma arquitetura de referencia orientada a servicos para ferramentas de teste de software ->
+114: Estendendo rest-unit : geracao baseada em U2TP de drivers e dados de teste para RESTful Web Services ->
+115: Uso da tecnica de teste estrutural para o teste e monitoracao de servicos ->
+116: Regression Testing of Web Services Using Parsing and Test case Prioritization Approach ->
+117: Survey on Service Oriented Architecture Testing ->
+118: Iterative Model Driven Integration Checks of Component Based Robotic Systems ->
+119: The Role of Semantics in Testing Semantic Web Services ->
+120: A comparative study of testing semantic web services ->
+121: Intelligent Framework for Web-Service Testing ->
+122: A Data Flow Testing Approach for Semantic Web Service Compositions Based on OWL-S ->
+123: On the quality of Web Services ->
+124: Improving data perturbation testing techniques for Web services ->
+125: Introducing fault-based combinatorial testing to web services ->
+126: On the quality of Web Services. ->
+127: Software test process improvement approaches: A systematic literature review and an industrial case study ->
+128: Barriers to Implement Test Process in Small-Sized Companies ->
+129: Multi-attribute Comparison of Automated Functional and Regression Testing Tools using Fuzzy AHP ->
+130: Evaluation of Test Process Improvement approaches: An industrial case study ->
+131: Estudo e Definicao de uma Metodologia de Teste de Software no Contexto de Sistemas Embarcados Criticos ->
+132: Avaliacao de processos de Teste pelo Modelo de Maturidade TMMi em pequenas empresas ->
+133: An Ontology for Unmanned and Autonomous Systems of Systems Test and Evaluation ->
+134: Software test maturity assessment and test process improvement: A multivocal literature review ->
+135: On the Use of Ontologies in Software Process Assessment: A Systematic Literature Review ->
+136: Cloud Testing- Issues, Challenges, Needs and Practice ->
+137: Testing as a Service (TaaS) on Clouds ->
+138: Testing Tasks Management in Testing Cloud Environment ->
+139: STUDY OF TESTING AS A SERVICE (TAAS) COST EFFECTIVE FRAMEWORK FOR TAAS IN CLOUD ENVIRONMENT ->
+140: API TESTING TOOL IN CLOUD ->
+141: Ontology-Based Test Case Generation for Testing Web Services ->
+142: A multi-agent based framework for collaborative testing on Web services ->
+143: An agent-based testing approach for Web applications ->
+144: Towards the Establishment of an Ontology of Software Testing ->
+145: Design of a trustworthy service broker and dependence-based progressive group testing ->
+146: An agent-based framework for testing Web applications ->
+147: An Approach to Generating Test Cases for Testing Component-based Web Applications ->
+148: Developing Software Testing Ontology in UML for a Software Growth Environment of Web-Based Applications ->
+149: An agent-based data-flow testing approach for Web applications ->
+150: A Multi-Agent Framework for Testing Distributed Systems ->
+151: Ontology for Service Oriented Testing of Web Services ->
+152: Multi-agent test environment for BPEL-based web service composition ->
+153: A Tuple-Space-Based Coordination Architecture for Test Agents in the MAST Framework ->
+154: Cooperative agent approach to quality assurance and testing Web software ->
+155: An Agent-based Approach for the Maintenance of Database Applications ->
+156: Scalable Context Simulation for Mobile Applications ->
+157: Semi-automated Tool Recommender for Software Development Processes ->
+158: First steps toward a Verification and Validation Ontology ->
+159: A Multi-Agent Framework for Testing 3-Tier Distributed Systems Architecture ->
+160: Role of Agent Technology in Web Usage Mining: Homomorphic Encryption Based Recommendation for E-commerce Applications ->
+161: Employing Agents Towards Database Applications Testing ->
+162: An Ontology-Based Multi-Agent System for Active Software Engineering Ontology ->
+163: A Formal Open Framework Based on Agent for Testing Web Applications ->
+164: Agent Systems in Software Engineering ->
+165: Medical software runtime checking using Petri-nets & software agents ->
+166: A multi-agent system apporach for user-session-based testing of web applications ->
+167: Utilizing Fuzzy colored Petri-Nets to monitor cardiac pacemaker behavior  Sign In or Purchase ->
+168: A Systematic Review of Agent-Based Test Case Generation for Regression Testing ->
+169: Use and Design of Ontology-based Multi-agent System for Multi-site Software Development Environment ->
+170: Development of a Multi-Agent Framework for Software Quality ->
+171: Web Application Testing Framework using Agents ->
+172: Agent based regression testing framework ->
+173: CREATING A TESTING FRAMEWORK AND WORKFLOW FOR DEVELOPERS NEW TO WEB APPLICATION ENGINEERING ->
+174: A Top-Domain Ontology for Software testing. ->
+175: A methodology of testing high-level Petri nets ->
+176: Ontologies for Software Engineering: Past, Present and Future ->
+177: Knowledge management initiatives in software testing: A mapping study ->
+178: Knowledge Management Applied to Software Testing: A Systematic Mapping ->
+179: Trustworthiness framework of reusable test case ->
+180: An Ontology-Based Knowledge Sharing Portal for Software Testing ->
+181: Software component and the semantic Web: An in-depth content analysis and integration history ->
+182:  No PAIN, no gain?: the utility of PArallel fault INjections ->
+183: Software Testing as a Service: An Academic Research Perspective ->
+184:  Hard Problems in Software Testing: Solutions Using Testing as a Service (TaaS) ->
+185: A configurable cloud-based testing infrastructure for interoperable distributed automation systems ->
+186: Overcoming Hard Problems in Software Testing with Testing as a Service ->
+187: On the Utility of Higher Order Fault Models for Fault Injections ->
+188: Dynamic Scheduling Strategy for Testing Task in Cloud Computing ->
+189: Using Test Clouds to Enable Continuous Integration Testing of Distributed Real-Time and Embedded System Applications ->
+190: TASSA: A Testing as a Service Framework for Web Service Compositions ->
+191: An Architecture for Cloud Service Testing and Real Time Management ->
+192: Software Testing Process Performance Improvement using Service-Based Testing Support ->
+193: The Verification and Validation of a Large-Scale System: Equipment TaaS as an Example ->
+194: Use of Learning Strategies of SWEBOK Guide Proposed Knowledge Areas ->
+195: An Ontology-Based Approach for Test Case Reuse ->
+196: An Ontology for Unmanned and Autonomous Systems of Systems Test and Evaluation ->
+197: Can My Test Case Run on Your Test Plant? A Logic-Based Compliance Check and Its Evaluation on Real Data ->
+198: Reusing Test Cases Based on the Function Point ->
+199: SRAD: a semantic rapid method for software development ->
+200: An Adaptive Service Selection Approach to Service Composition ->
+201: A Coverage Relationship Model for Test Case Selection and Ranking for Multi-version Software ->
+202: A WS-BPEL Based Structural Testing Approach for Web Service Compositions ->
+203: Supporting the internet-based evaluation of research software with cloud infrastructure ->
+204: An Abstract Workflow-Based Framework for Testing Composed Web Services ->
+205: Research directions in verification & validation process improvement ->
+206: An Agent-Based Framework for Automated Testing of Web-Based Systems ->
+207: Ontology-Based Web Application Testing ->
+208: Cost-aware pareto optimal test suite minimisation for service-centric systems ->
+209: Testing Web Services in the Cloud ->
+210: Visual management of workflows in web development frameworks ->
+211: 3D Virtual Client Center and its Service Oriented Modeling ->
+212: Efficient Agent Based Testing Framework for Web Applications ->
+213: Generating Open API Usage Rule from Error Descriptions ->
+214: A Metamorphic Testing Methodology for Online SOA Application Testing ->
+215: Application and Outlook ->
+216: Practical Experiences of Testing Web Services ->
+217: An Automatic Test Framework for BPEL-based Web Services ->
+218: The Distribution of Testing Activities in Web Services and SOA Environment ->
+219: A Service-Oriented Architecture Based Vendor Managed Inventory System ->
+220: A General Framework for Testing Web-Based Applications ->
+221: MADRE CORAJE AND EDUCATION FOR DEVELOPMENT (ED): A COLLABORATIVE EXPERIENCE IN A VIRTUAL LEARNING ENVIRONMENT ->
+222: COWST: Collaborative Web Service Tester ->
+223: A verification framework for Service-Oriented Architecture applications ->
+224: Systematic literature reviews pertaining to the trends, techniques, problems, and challenges in software testing (2006-2009) A systematic literature review ->
+225: A Framework for the Testability of Service Oriented Architecture ->
+226: A Structural Testing Approach and Tool for Web Service Compositions Based on the WS-BPEL ->
+227: Decision Making Process for B2C Model Using Behavior Analysis with Big Data Technologies ->
+228: Ontology Classification for Semantic-Web-Based Software Engineering ->
+229: Ontology driven semantic annotation based GUI testing ->
+230: Design and Development of SRIONTO: An Educational Ontology Representing Software Risk Identification Knowledge ->
+231: Towards optimization of Software Engineering ontologies ->
+232: The Security Assessment Domain: A Survey of Taxonomies and Ontologies ->
+233: Towards economical software release recommendations ->
+234: A Survey of Security Assessment Ontologies ->
+235: An aspect-oriented reference architecture for Software Engineering Environments ->
+236: Using Ontologies for Modeling Educational Content ->
+237: An Ontology for Controlled Experiments on Software Engineering ->
+238: Towards the establishment of supporting mechanisms for modeling and generating educational content ->
+239: Ontology for complex railway systems application to ERTMS/ETCS system ->
+240: A Contribution to Modeling and Automatic Generation of Educational Content ->
+241: The 101haskell Chrestomathy: A Whole Bunch of Learnable Lambdas ->
+242: Uma Contribuicao a Modelagem e Geracao Automatica de Conteudos Educacionais ->
+243: The 101haskell chrestomathy ->
+244: A Reference Architecture for provisioning of Tools as a Service: Meta-model, Ontologies and Design Elements ->
+245: ValiPar Service: Structural Testing of Concurrent Programs as a Web Service Composition ->
+246: IMA-Tool: A tool for modeling and automatic generation of educational content ->
+247: Towards the Open Source Reference Architectures ->
+248: A Systematic Literature Review on Systems-of-Systems Knowledge Representation ->
+=== Updating bibs available in bibs/ontologies/round2-ieee.bib ===
+249: Quality assurance of web services: A systematic literature review ->
+250: Automatic SaaS test cases generation based on SOA in the cloud service ->
+251: Web Service Discovery Based on User Requirements ->
+252: Web application testing in fifteen years of WSE ->
+253: Cloud manufacturing service composition modeling and formal verification based on Calculus for Orchestration of Web Service ->
+=== Updating bibs available in bibs/ontologies/round3-google.bib ===
+254: An Analysis and Survey of the Development of Mutation Testing ->
+255: Higher Order Mutation Testing ->
+256: The Set of Pareto-Nash Equilibria in Multicriteria Strategic Games ->
+257: The partial solutions consideration based self-adaptive evolutionary algorithm: A learning structure of neuro-fuzzy networks ->
+258: Using Test Case Mutation to Evaluate the Model of the User Interface ->
+259: A process for the representation of openEHR ADL archetypes in OWL ontologies ->
+260: Automated Mutation-Based Test Case Evaluation for Semantic Web Services ->
+261: Towards Automatic Generation and Continuous Improvement of Functional Test Cases: The Case of the Test-Duo Framework and Mutation Testing ->
+262: An Anecdote to Automated Test Case Generation Techniques using GUI and Mutation Testing ->
+263: MuTomVo: Mutation Testing framework for omnet-based simulated enVironments ->
+264: Norm based service selection ->
+265: Mutating OWLs: semantic mutation testing for ontologies ->
+266: Testing Web Services with Model-Based Mutation ->
+267: Automation of Operator Oriented Code Coverage using Mutation Testing ->
+268: A Reliability Calculation Method for Web Service Composition Using Fuzzy Reasoning Colored Petri Nets and Its Application on Supercomputing Cloud Platform ->
+269: An approach to detect web services vague datatype specifications to enhance understandability ->
+270: Automatic Combination Technology of Fuzzy CPN for OWL-S Web Services in Supercomputing Cloud Platform ->
+271: ONTO-ResAsset Development: An Ontology for Reusable Assets Specification and Management ->
+=== Updating bibs available in bibs/ontologies/round1-ieee.bib ===
+272: Testing-Based Process for Service-Oriented Applications ->
+273: SDA-CLOUD: A Multi-VM Architecture for Adaptive Dynamic Data Race Detection ->
+274: 8th International Workshop on Automation of Software Test (AST 2013) ->
+275: X-Check: A Novel Cross-Browser Testing Service Based on Record/Replay ->
+276: Big SaaS: The Next Step beyond Big Data ->
+277: Whitening SOA Testing via Event Exposure ->
+278: An Intelligent Broker Approach to Semantics-Based Service Composition ->
+279: Architecturing Dynamic Data Race Detection as a Cloud-Based Service ->
+280: Preemptive Regression Test Scheduling Strategies: A New Testing Approach to Thriving on the Volatile Service Environments ->
+281: Preemptive Regression Testingof Workflow-Based Web Services ->
+282: Monic Testing of Web Services Based on Algebraic Specifications ->
+283: A test framework for large-scale message broker system for consumer devices ->
+284: Generating effective test cases based on satisfiability modulo theory solvers for service-oriented workflow applications ->
+285: Optimal control based regression test selection for service-oriented workflow applications ->
+286: A Quality Assurance Approach and Case Study in BSS ->
+287: An Ontology-Based Knowledge Framework for Software Testing ->
+288: Contributions and Perspectives in Architectures of Software Testing Environments ->
+289: Consolidating a Process for the Design, Representation, and Evaluation of Reference Architectures ->
+290: A Process Framework for Designing Software Reference Architectures for Providing Tools as a Service ->
+291: Metamorphic Testing for Web Services: Framework and a Case Study ->
+292: Specifications for Web Services Testing: A Systematic Review ->
+293: Automatically generating realistic test input from web services ->
+294: A Comprehensive Ontology for Knowledge Representation in the Internet of Things ->
+295: Usage-Based Online Testing for Proactive Adaptation of Service-Based Applications ->
+296: Towards Dynamic Random Testing for Web Services ->
+297: Interface-Based Automated Testing for Open Software Architecture ->
+298: Testing as a Service over Cloud ->
+299: WS-TaaS: A Testing as a Service Platform for Web Service Load Testing ->
+300: Prioritizing Structurally Complex Test Pairs for Validating WS-BPEL Evolutions ->
+301: Distribution-Aware Mutation Analysis ->
+302: Correctness evaluation model for composite web service ->
+303: A Framework for Automated and Composable Testing of Component-Based Services ->
+304: Employing Privacy-Preserving Techniques to Protect Control-Flow Graphs in a Decentralized, End-to-End Regression Test Selection Framework for Web Services ->
+305: A Subsumption Hierarchy of Test Case Prioritization for Composite Services ->
+306: A test case reduction method for semantic based web services ->
+307: Testing and verification in service-oriented architecture: a survey ->
+308: Ontology patterns for service-oriented software development ->
+309: Test Pair Selection for Test Case Prioritization in Regression Testing for WS-BPEL Programs ->
+310: Introducing fault-based combinatorial testing to web services ->
+311: Barriers to Implement Test Process in Small-Sized Companies ->
+312: Using the Findings of a Mapping Study to Conduct a Research Project: A Case in Knowledge Management in Software Testing ->
+313: Trustworthiness framework of reusable test case ->
+314: Knowledge management initiatives in software testing: A mapping study ->
+315: Software Testing as a Service: An Academic Research Perspective ->
+316: The Verification and Validation of a Large-Scale System: Equipment TaaS as an Example ->
+317: An Architecture for Cloud Service Testing and Real Time Management ->
+318: A configurable cloud-based testing infrastructure for interoperable distributed automation systems ->
+319: Dynamic Scheduling Strategy for Testing Task in Cloud Computing ->
+320: No PAIN, No Gain? The Utility of PArallel Fault INjections ->
+321: Hard Problems in Software Testing: Solutions Using Testing as a Service (TaaS) ->
+322: Using Test Clouds to Enable Continuous Integration Testing of Distributed Real-Time and Embedded System Applications ->
+323: Automated Web Service Composition Testing as a Service ->
+324: Can My Test Case Run on Your Test Plant? A Logic-Based Compliance Check and Its Evaluation on Real Data ->
+325: Generating Open API Usage Rule from Error Descriptions ->
+326: 3D Virtual Client Center and its Service Oriented Modeling ->
+327: An Agent-Based Framework  f or Automated Testing of Web-Based Systems ->
+328: The Distribution of Testing Activities in Web Services and SOA Environment ->
+329: Supporting the internet-based evaluation of research software with cloud infrastructure ->
+330: Open Problems in Software Test Coverage ->
+=== Updating bibs available in bibs/ontologies/round1-outros.bib ===
+331: Software Testing Focus ->
+=== Updating bibs available in bibs/ontologies/round2-google.bib ===
+332: Is effectiveness sufficient to choose an intervention?: Considering resource use in empirical software engineering ->
+333: A Decision Support Method for Recommending Degrees of Exploration in Exploratory Testing ->
+334: Ontology patterns: clarifying concepts and terminology ->
+335: SABiO: Systematic Approach for Building Ontologies ->
+336: Semantic Documentation in Requirements Engineering ->
+337: SEON: A Software Engineering Ontology Network ->
+338: Towards Supporting International Standard-Based Software Engineering Approaches Using Semantic Web Technologies: A Systematic Literature Review ->
+339: An Ontology-based Knowledge Management System for Software Testing ->
+340: Canopus: A Domain-Specific Language for Modeling Performance Testing ->
+341: Relacionando Conceitos de Areas de Estudo de Desempenho da Ciencia da Computacao ->
+342: A Domain-Specific Language for Modeling Performance Testing ->
+343: Vee@Cloud: the virtual test lab on the cloud ->
+344: Improving scenario selection for simulations by run-time control-flow analysis ->
+345: OntoQAI: An Ontology to Support Quality Assurance Inspections ->
+346: Cloud scalability measurement and testing ->
+347: Generating Finite State Machine from WSMO choreography for testing Web services ->
+348: Automatic SaaS test cases generation based on SOA in the cloud service ->
+349: Web Service Discovery Based on User Requirements ->
+350: Maintaining Motivation Models (in BMM) in the Context of a (WSDL-S) Service Landscape ->
+351: MT4WS: an automated metamorphic testing system for web services ->
+352: Multi Matchmaking Approach for Semantic Web Services Selection Based on Fuzzy Inference ->
+353: A framework to support the maintenance of formal goal models ->
+354: Cloud testing tools ->
+355: A Survey of Software Testing in the Cloud ->
+356: Software-as-a-service (SaaS): perspectives and challenges ->
+357: EasySaaS: A SaaS development framework ->
+358: Adaptive Fault Detection for Testing Tenant Applications in Multi-tenancy SaaS Systems ->
+359: SaaS Testing on Clouds - Issues, Challenges and Needs ->
+360: Multi-tenancy and Sub-tenancy Architecture in Software-as-a-Service (SaaS) ->
+361: SAAS network-based backup system ->
+362: Metadata manager for analytics system ->
+363: HLA-Based SaaS-Oriented Simulation Frameworks ->
+364: Service-orientation in computing curriculum ->
+365: Platform agnostic resource provisioning ->
+366: Variable service process by feature meta-model for SaaS application ->
+367: Smart distributed transactions and multiply distributed tables ->
+368: Dynamic rules based query rewriting engine ->
+369: Out-of-band specification of metadata during database operations ->
+370: Data consistency and rollback for cloud analytics ->
+371: ASSESSMENT CRITERIA OF IAAS SOLUTION IN CLOUD COMPUTING ->
+372: Redistribution reduction in EPRDBMS ->
+373: Advancements in data distribution methods and referential integrity ->
+374: Cloud computing adoption decision modelling for SMEs: a conjoint analysis ->
+375: Variable Service Process for SaaS Application ->
+376: Design Models for Service-based Software Application ->
+377: Analysis and design of scalable software as a service architecture ->
+378: The EMFIS Model Enable More Frequent Integration of Software ->
+379: Extensions to generational data distribution methods ->
+380: A Systematic Mapping Study of Empirical Studies on Software Cloud Testing Methods ->
+381: Cloud-based streaming data receiver and persister ->
+382: A SaaS-based software modeling for bank intermediary business ->
+383: A Semi-Automatic Approach of Transforming Applications to be Multi-Tenancy Enabled ->
+384: Towards a compliant and secure cloud: cloud migration, swapping providers and contractual aspects ->
+385: Enabling multitenant software solutions for online business software ->
+386: A Systematic Mapping Study on the Multi-tenant Architecture of SaaS Systems ->
+387: Regression Testing of Web Service: A Systematic Mapping Study ->
+388: Highly scalable model for tests execution in cloud environments ->
+389: Automation and intelligent scheduling of distributed system functional testing ->
+390: TEST CASE GENERATION FOR INTEGRATING MEDICAL SYSTEMS CONSIDERING FUNCTION CHARACTERISTICS ->
+391: Mechanism for on demand Tag-Based software testing in virtualized environments ->
+392: ACI (automated Continuous Integration) using Jenkins: Key for successful embedded Software development ->
+393: Service testing for the internet of things ->
+394: Test Data Generation Based on GUI: A Systematic Mapping ->
+395: A Literature Survey on Finite State Testing of Graphical User Interface ->
+396: Validation of ontology based test case generation for graphical user interface ->
+397: Cloud manufacturing service composition modeling and formal verification based on Calculus for Orchestration of Web Service ->
+398: Time activity pattern observatory from mobile web logs ->
+399: An insight into campus network user behaviour analysis decision system ->
+400: Semantic Interoperability-Enabled Architecture for Connected Health Services ->
+401: An extension to BPEL for criteria-based web service composition ->
+402: Artefact-centric business process configuration ->
+403: Transformation from business process models to BPEL with overlapped patterns involved ->
+404: Requirements driven test prioritisation approach for web service composition ->
+405: The sub-pixel efficacy region of the bivariate linear interpolation function ->
+406: Exploration of take-off ontology of model airplane and its application ->
+407: An Approach to Implementing Cloud Service Oriented Legacy Application Evolution ->
+408: Web application testing in fifteen years of WSE ->
+409: Special issue: selected papers from the 12th International Symposium on Web Systems Evolution (WSE 2010) ->
+410: A conceptualization of a nuclear or radiological emergency ->
+411: Automated Test Sequence Generation for Function Block Diagram Programs ->
+412: Empirical studies omit reporting necessary details: A systematic literature review of reporting quality in model based testing ->
+413: Test Scenario Generation for Reliability Tactics from UML Sequence Diagram ->
+414: A More Intelligent Test Case Generation Approach through Task Models Manipulation ->
+415: Model-based testing for software safety: a systematic mapping study ->
+416: A Systematic Survey on Automated Test Case Generation from UML Sequence Diagram Using GA and Other Approaches ->
+417: Dynamic Scenarios in Embedded System Verification ->
+418: SOFTWARE TESTING WITH EMPHASIS ON FINDING SECURITY DEFECTS ->
+419: Automated synthesis of domain-specific model interpreters ->
+420: Value-based, dependency-aware inspection and test prioritization ->
+421: A Real Options Approach to Testing ->
+422: Assessing autonomy vulnerabilities in military vehicles ->
+423: The Development of an Architecture Framework for Systems Engineering Process Simulators ->
+424: Contract-Based Testing for Web Services ->
+425: Automatic Mutation Testing and Simulation on OWL-S Specified Web Services ->
+426: Control Flow Analysis and Coverage Driven Testing for Web Services ->
+427: A Framework for Model Checking Web Service Compositions Based on BPEL4WS ->
+428: Leveraging Semantic Web Service Descriptions for Validation by Automated Functional Testing ->
+429: Towards Specification Based Testing for Semantic Web Services ->
+430: Test-Data Generation for Web Services Based on Contract Mutation ->
+431: A comparative evaluation of state-of-the-art web service composition testing approaches ->
+432: A Framework for Testing Semantic Web Services Using Model Checking ->
+433: An application of ontology to test case reuse ->
+434: Toward the use of Petri nets for the formalization of OWL-S choreographies ->
+435: OPENET: Ontology-based engine for high-level Petri nets ->
+436: Ontology Combined Structural and Operational Semantics for Resource-Oriented Service Composition ->
+437: Timing Constraints Specification and Verification for Web Service Compositions ->
+438: Verification of Semantic Web Service Annotations Using Ontology-Based Partitioning ->
+439: Analytical quality assurance ->
+440: Model Checking for Web Service Flow Based on Annotated OWL-S ->
+441: A Semantic Web based approach for design pattern detection from source code ->
+442: GENERATING TEST CASES OF COMPOSITE SERVICES BASED ON OWL-S AND EH-CPN ->
+443: Test Reconfiguration for Service Oriented Applications ->
+444: Verifying web services of OWL-S with Petri net ->
+445: A Framework for Time Consistency Verification for Web Processes Based on Annotated OWL-S ->
+446: Toward Model Checking Web Services over the Web ->
+447: Automatic test case generation from requirements for industrial cyber-physical systems ->
+448: A Verification Method for Temporal Consistency of Service Flow ->
+449: The Support of Interface Specifications in Black-box Components Testing ->
+450: Modeling and Model-based Testing of Service Choreographies ->
+451: OCL-Based Testing for E-Learning Web Service ->
+452: FINITE SAFETY MODELS FOR HIGH-ASSURANCE SYSTEMS ->
+453: Requirements-Aided Automatic Test Case Generation for Industrial Cyber-physical Systems ->
+454: Using Workflow Patterns to Model and Validate Service Requirements ->
+455: An Ontology-based Automated Test Oracle Comparator for Testing Web Applications ->
+456: Modeling method of ontology web service interaction based on Coloured Petri Net ->
+457: Software Testing Techniques Revisited for OWL Ontologies ->
+458: The Framework for Testing of Web Services through Actions in Addition to Scripts ->
+459: Verifying and Enhancing the Correctness of the Dynamic Composite Web Service ->
+460: Testing Discovered Web Services Automatically ->
+461: A literature overview of knowledge sharing between Petri nets and ontologies ->
+462: Ontology based personalized information from semantic Web ->
+463: A Logical Approach to Generating Test Plans ->
+464: Towards a Reference Architecture for Software Testing Tools ->
+465: Reference architecture knowledge representation: an experience ->
+466: JaBUTiService: A Web Service for Structural Testing of Java Programs ->
+467: A Service-Oriented Reference Architecture for Software Testing Tools ->
+468: Exploring ontologies to support the establishment of reference architectures: An example on software testing ->
+469: Ontology-Based Testing Platform for Reusing ->
+470: A Systematic Literature Review on Knowledge Representation Approaches for Systems-of-Systems ->
+471: Using Search Based SE for GUI Test Data Generation ->
+472: Ontologies to coordinate multiple views: exploring document collections ->
+473: A Behavior Tree-Based Model for Supporting the Analysis of Knowledge Transferred in Software R&D Teams ->
+474: Unit Testing Approaches for BPEL: A Systematic Review ->
+475: The Research on Web Service based Network Management ->
+476: A Micro-Kernel Test Engine for Automatic Test System ->
+477: Architecture of Real Time Messaging server using duplex web services ->
+478: Distributed agent-based performance testing framework on Web Services ->
+479: EEMTI: An extending framework for nested web service verification ->
+480: Grid Analysis Environment Service Architecture for Structured Modeling ->
+481: Multi-agent and Workflow-Based Web Service Management Model ->
+482: Real Time Messaging Server Using Duplex Web Services ->
+483: Implementation of Real Time Messaging Server using Duplex Web Services ->
+484: Multi-agent Based Information Collaboration Computation ->
+485: Towards Vocabulary Development by Convention ->
+486: Research Questions for Validation and Verification in the Context of Model-Based Engineering ->
+487: Simulation product fidelity: A qualitative & quantitative system engineering approach ->
+488: An Ontology for Open Government Data Business Model ->
+489: Capture & Replay with Text-Based Reuse and Framework Agnosticism ->
+490: Condensation of Reverse Engineered UML Diagrams by Using the Semantic Web Technologies ->
+491: Automated Test Oracles: State of the Art, Taxonomies and Trends ->
+=== Updating bibs available in bibs/mdwe/round1-sciencedirect.bib ===
+492: Specification of personalization in web application design ->
+=== Updating bibs available in bibs/mdwe/round1-acm.bib ===
+=== Updating bibs available in bibs/mdwe/round1-ieee.bib ===
+=== Updating bibs available in bibs/xbi/round1-google.bib ===
+493: X-PERT: accurate identification of cross-browser issues in web applications ->
+494: Studying Evolving Software Ecosystems based on Ecological Models ->
+495: CrossCheck: Combining Crawling and Differencing to Better Detect Cross-browser Incompatibilities in Web Applications ->
+496: Automated analysis of CSS rules to support style maintenance ->
+497: Web application testing: A systematic literature review ->
+498: WebMate: a tool for testing web 2.0 applications ->
+499: WebMate: Generating Test Cases for Web 2.0 ->
+500: Robust test automation using contextual clues ->
+501: A Comprehensive Client-Side Behavior Model for Diagnosing Attacks in Ajax Applications ->
+502: Clustering-Aided Page Object Generation for Web Testing ->
+503: AdMotional: Towards Personalized Online Ads ->
+504: Improving oracle quality by detecting brittle assertions and unused inputs in tests ->
+505: Hidden-Web Induced by Client-Side Scripting: An Empirical Study ->
+506: Detection and Localization of HTML Presentation Failures Using Computer Vision-Based Techniques ->
+507: X-PERT: a web application testing tool for cross-browser inconsistency detection ->
+508: Browserbite: Accurate Cross-Browser Testing via Machine Learning over Image Features ->
+509: Adaptive Random Testing for Image Comparison in Regression Web Testing ->
+510: Cross Browser Incompatibility: Reasons and Solutions ->
+511: Incremental visual comparison of web browser screens ->
+512: Evolution of Web Systems ->
+513: Migrating cascading style sheets to preprocessors by introducing mixins ->
+514: Software Analysis for the Web: Achievements and Prospects ->
+515: Software services: a research roadmap ->
+516: Chapter Five - Advances in Testing JavaScript-Based Web Applications ->
+517: Open Data: Reverse Engineering and Maintenance Perspective ->
+518: APOGEN: automatic page object generator for web testing ->
+519: Web service for automated cross-browser compatibility checking of web applications ->
+520: Analysis and Identification of Cross Browser Inconsistency Issues in Web Application using Automation Testing ->
+521: Determining differences in an event-driven application accessed in different client-tier environments ->
+522: X-Check: A Novel Cross-Browser Testing Service Based on Record/Replay ->
+523: Technique for coordinating the distributed, parallel crawling of interactive client-server applications ->
+524: Webbasierte Re-Implementierung von LICARA nanoSCAN ->
+525: Refactoring and migration of cascading style sheets: towards optimization and improved maintainability ->
+526: Evaluation of resizing capability of web browser ->
+527: Portability of Process-Aware and Service-Oriented Software ->
+528: Architecture for distributed, parallel crawling of interactive client-server applications ->
+529: Browser and operating system compatibility ->
+530: Multiple-implementation testing of supervised learning software ->
+531: Automated layout failure detection for responsive web pages without an explicit oracle ->
+532: Online shopping cart ->
+533: Detect Cross-Browser Issues for JavaScript-Based Web Applications Based on Record/Replay ->
+534: An Empirical Study of Internationalization Failures in the Web ->
+535: A Crowdsourcing framework for Detecting Cross-Browser Issues in Web Application ->
+536: Engenharia reversa de padroes de interacao ->
+537: Detecting and Localizing Visual Inconsistencies in Web Applications ->
+538: Detection of dead widgets in software applications ->
+539: Automatic Deformations Detection in Internet Interfaces: ADDII ->
+540: Technique for stateless distributed parallel crawling of interactive client-server applications ->
+541: CSSDev: refactoring duplication in cascading style sheets ->
+542: IE browser compatibility for web applications ->
+543: Webpage cross-browser test from image level ->
+544: Masinoppel pohinev veebilehtede uhilduvusdiagnostika ->
+545: Cross-Browser Compatibility Testing of Web Applications ->
+546: A Mapping Study on Software Product Lines Testing Tools ->
+547: A Comparative Study of Web Application Testing and Mobile Application Testing ->
+548: An Oracle based on Image Comparison for Regression Testing of Web Applications ->
+549: Deteccao Automatica de Incompatibilidades Cross-Browser utilizando Redes Neurais Artificiais ->
+550: Automated Techniques to Detect Faults Early in Large Software Applications ->
+551: Graphical-user-interface-based method and system for designing and configuring web-site testing and analysis ->
+552: Cross-platform testing and maintenance of web and mobile applications ->
+553: A Survey of Dynamic Analysis and Test Generation for JavaScript ->
+554: Detecting latent cross-platform API violations ->
+555: Detection of Cross Browser Inconsistency by Comparing Extracted Attributes ->
+556: Measuring and Improving Website User Experience using UX Methodologies: A Case Study on Cross Browser Compatibility Heuristic ->
+557: Crawling Ajax-Based Web Applications through Dynamic Analysis of User Interface State Changes ->
+558: Real Challenges in Mobile App Development ->
+559: Invariant-Based Automatic Testing of Modern Web Applications ->
+560: A systematic mapping study of web application testing ->
+561: Reverse Engineering iOS Mobile Applications ->
+562: Mining questions asked by web developers ->
+563: The first decade of GUI ripping: Extensions, applications, and broader impacts ->
+564: Feedback-Directed Exploration of Web Applications to Derive Test Models ->
+565: DLint: dynamically checking bad coding practices in JavaScript ->
+566: Software engineering for the web: the state of the practice ->
+567: Extended Subtree: A New Similarity Function for Tree Structured Data ->
+568: Extracting Interaction-Based Stateful Behavior in Rich Internet Applications ->
+569: Detecting inconsistencies in multi-platform mobile apps ->
+570: Crawl-based analysis of web applications: Prospects and challenges ->
+571: Automated Acceptance Testing of JavaScript Web Applications ->
+572: Visual testing of Graphical User Interfaces: An exploratory study towards systematic definitions and approaches ->
+573: Native and Multiple Targeted Mobile Applications ->
+574: Automated verification of pattern-based interaction invariants in Ajax applications ->
+575: Validating ajax applications using a delay-based mutation technique ->
+576: Automatic test tool for webpage design with micro-browsers on mobile platforms ->
+577: How to Train Your Browser: Preventing XSS Attacks Using Contextual Script Fingerprints ->
+578: Analyzing web applications: An empirical study ->
+579: cross browser compatibility as design issue in various websites. ->
+580: ???XaaS???????????????? ->
+581: Diversity-Based Automated Test Case Generation ->
+582: On the Use of Smelly Examples to Detect Code Smells in JavaScript ->
+583: Search-based testing tools for Ajax- A systematic literature review ->
+584: Mining Stack Overflow for questions asked by web developers : an empirical study ->
+585: XCompatibility Checker: a tool for detecting cross-browser incompatibilities ->
+586: Browser Compatibility: the State of the Art from a Historical Perspective ->
+587: Automated modularization of GUI test cases ->
+588: A Study on Similarity Function for Tree Structured Data ->
+589: Supporting to Find Faults in Rich Internet Applications by Extracting Interaction-based State Machines ->
+590: Leveraging existing tests in automated test generation for web applications ->
+591: POGen: A Test Code Generator Based on Template Variable Coverage in Gray-Box Integration Testing for Web Applications ->
+592: A Grey-box Approach for Automated GUI-Model Generation of Mobile Applications ->
+593: Mining behavior models from enterprise web applications ->
+594: Web Application Model Generation through Reverse Engineering and UI Pattern Inferring ->
+595: A Testing Tool for Web Applications Using a Domain-Specific Modelling Language and the NuSMV Model Checker ->
+596: TypeDevil: dynamic type inconsistency analysis for JavaScript ->
+597: Model Reverse-engineering of Mobile Applications with Exploration Strategies ->
+598: Enabling collaborative testing across shared software components ->
+599: Mining Workflow Models from Web Applications ->
+600: Model inference combining expert systems and formal models ->
+601: Inferring models with rule-based expert systems ->
+602: Model Inference and Automatic Testing of Mobile Applications ->
+603: Domain-Driven Model Inference Applied To Web Applications ->
+604: Reverse Engineering and Testing Dynamic Web Applications ->
+605: Leveraging task-based data to support functional testing of web applications ->
+606: CREATING A TESTING FRAMEWORK AND WORKFLOW FOR DEVELOPERS NEW TO WEB APPLICATION ENGINEERING ->
+607: Reverse engineering of web applications ->
+608: Automated Test Input Generation for Android: Are We There Yet? (E) ->
+609: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps ->
+610: Finding HTML presentation failures using image comparison techniques ->
+611: Detection and Localization of HTML Presentation Failures Using Computer Vision-Based Techniques  Sign In or Purchase ->
+612: WebMate: Web Application Test Generation in the Real World ->
+613: Testing Cross-Platform Mobile App Development Frameworks (T) ->
+614: Cross-platform feature matching for web applications ->
+615: Root cause analysis for HTML presentation failures using search-based techniques ->
+616: Bayesian Statistics in Software Engineering: Practical Guide and Case Studies ->
+617: ReDeCheck: an automatic layout failure checking tool for responsively designed web pages ->
+618: The rise of Chrome ->
+619: Declarative layout constraints for testing web applications ->
+620:  Refactoring and migration of cascading style sheets: towards optimization and improved maintainability ->
+621: An automatic layout faults detection technique in responsive web pages considering JavaScript defined dynamic layouts ->
+622: Searching for behavioural bugs with stateful test oracles in web crawlers ->
+623: Unsupervised Outlier Detection in Software Engineering ->
+624: Automated Recommender System for Web Based Applications ->
+625: Class coverage GUI testing for Android applications ->
+626: WebSee: A Tool for Debugging HTML Presentation Failures ->
+627: Using Visual Symptoms for Debugging Presentation Failures in Web Applications ->
+628: Detecting and Localizing Internationalization Presentation Failures in Web Applications ->
+629: A Study of Causes and Consequences of Client-Side JavaScript Bugs ->
+630: Cross-Browser Testing in Browserbite ->
+631: XFix: an automated tool for the repair of layout cross browser issues ->
+632: Automated repair of layout cross browser issues using search-based techniques ->
+633: Automatic detection of cross-browser incompatibilities using machine learning and screenshot similarity: student research abstract ->
+634: Browserbite: cross-browser testing via image processing ->
+635: TESTAR: Tool Support for Test Automation at the User Interface Level ->
+636: Automatic Detection of Potential Layout Faults Following Changes to Responsive Web Pages (N) ->
+637: Using Semantic Similarity in Crawling-Based Web Application Testing ->
+638: A Review on Web Application Testing and its Current Research Directions ->
+639: Using Semantic Similarity for Input Topic Identification in Crawling-based Web Application Testing ->
+640: Visualization of automated test results obtained by the TESTAR tool ->
+641: Understanding a prospective approach to designing malicious social bots ->
+642: Cross-Browser Compatibility Testing Based on Model Comparison ->
+643: Chapter Four - Recent Advances in Automatic Black-Box Testing ->
+644: Analysis and Identification of Cross Browser Inconsistency Issues in Web Application using  Automation Testing ->
+645: An Automated Approach for Cross-Browser Inconsistency (XBI) Detection ->
+646: Automated Testing of Event-Driven Applications ->
+647: A SURVEY OF BUSINESS INTILLIGENCE USING DATA MINING, WEB MINING AND TEXT MINING ->
+648: QVMMA: A Short Term and Long Term Layer 3 DDoS Detector and Mitigator ->
+649: 00 A Survey of Dynamic Analysis and Test Generation for JavaScript ->
+650: Metamorphic Testing for Cybersecurity ->
+651: Comparison of Different Techniques of Web GUI-based Testing with the Representative Tools Selenium and EyeSel ->
+652: VISOR: A fast image processing pipeline with scaling and translation invariance for test oracle automation of visual output systems ->
+653: Web Application Model Generation through Reverse Engineering and UI Pattern Inferring  Sign In or Purchase ->
+654: Search-based security testing of web applications ->
+655: Testing Web Applications Through Layout Constraints ->
+656:  Automated exploration and analysis of ajax web applications with WebMole ->
+657: Exhaustive Exploration of Ajax Web Applications with Selective Jumping ->
+658: A Reference Framework for the Automated Exploration of Web Applications ->
+659: Co-authorship Networks in Additive Manufacturing Studies Based on Social Network Analysis ->
+660: ALEX: Mixed-Mode Learning of Web Applications at Ease ->
+661: Extraction of User Behavior Profiles for Software Modernization ->
+662: Chapter Four - Advances in Web Application Testing, 2010 2014 ->
+663: Automatic Test Case Generation for Modern Web Applications Using Population-Based Automatic Fuzzy Neural Network ->
+664: Composing and Delivering Heterogeneous Web Testing Software as a Composite Web Testing Service ->
+665: Improved Developer Support for the Detection of Cross-Browser Incompatibilities ->
+=== Updating bibs available in bibs/xbi/round2-ieee.bib ===
+666: Facilitating debugging of web applications through recording reduction ->
+=== Updating bibs available in bibs/xbi/round3-google.bib ===
+667: Efficient means to test server generated applications on mobile device ->
+668: Software testing system and method ->
+=== Updating bibs available in bibs/xbi/round1-ieee.bib ===
+669: Detection and Localization of HTML Presentation Failures Using Computer Vision-Based Techniques ->
+670: Detecting and Localizing Visual Inconsistencies in Web Applications ->
+671: Using Visual Symptoms for Debugging Presentation Failures in Web Applications ->
+672: Automated analysis of CSS rules to support style maintenance ->
+673: A Comprehensive Client-Side Behavior Model for Diagnosing Attacks in Ajax Applications ->
+674: CSSDev: refactoring duplication in cascading style sheets ->
+675: Detecting and Localizing Internationalization Presentation Failures in Web Applications ->
+676: Software Analysis for the Web: Achievements and Prospects ->
+677: Detecting latent cross-platform API violations ->
+678: Browserbite: Accurate Cross-Browser Testing via Machine Learning over Image Features ->
+679: A Survey of Dynamic Analysis and Test Generation for JavaScript ->
+680: The first decade of GUI ripping: Extensions, applications, and broader impacts ->
+681: Automated Modularization of GUI Test Cases ->
+682: Automated Acceptance Testing of JavaScript Web Applications ->
+683: Invariant-Based Automatic Testing of Modern Web Applications ->
+684: Reverse Engineering iOS Mobile Applications ->
+685: Visual testing of Graphical User Interfaces: An exploratory study towards systematic definitions and approaches ->
+686: Extracting Interaction-Based Stateful Behavior in Rich Internet Applications ->
+687: Real Challenges in Mobile App Development ->
+688: Extended Subtree: A New Similarity Function for Tree Structured Data ->
+689: Automated verification of pattern-based interaction invariants in Ajax applications ->
+690: Adaptive Random Testing for Image Comparison in Regression Web Testing ->
+691: Using Semantic Similarity in Crawling-Based Web Application Testing ->
+692: Automated Generation of Oracles for Testing User-Interaction Features of Mobile Apps ->
+693: Automatic Detection of Potential Layout Faults Following Changes to Responsive Web Pages (N) ->
+694: AppCheck: A Crowdsourced Testing Service for Android Applications ->
+695: Searching for Behavioural Bugs with Stateful Test Oracles in Web Crawlers ->
+696: Class coverage GUI testing for Android applications ->
+697: An automatic layout faults detection technique in responsive web pages considering JavaScript defined dynamic layouts ->
+=== Updating bibs available in bibs/xbi/round1-outros.bib ===
+698: Leveraging task-based data to support functional testing of web applications ->
+699: Mining behavior models from enterprise web applications ->
+700: Inferring models with rule-based expert systems ->
+701: Software engineering for the web: the state of the practice ->
+702: X-PERT: accurate identification of cross-browser issues in web applications ->
+703: Enabling collaborative testing across shared software components ->
+704: TypeDevil: dynamic type inconsistency analysis for JavaScript ->
+705: Automated repair of layout cross browser issues using search-based techniques ->
+706: DLint: dynamically checking bad coding practices in JavaScript ->
+707: A grey-box approach for automated GUI-model generation of mobile applications ->
+708: A Survey of Dynamic Analysis and Test Generation for JavaScript ->
+709: ALEX: Mixed-Mode Learning of Web Applications at Ease ->
+710: Traceability Types for Mastering Change in Collaborative Software Quality Management ->
+711: Web Service Test Evolution ->
+712: Worlds Apart: Industrial and Academic Focus Areas in Software Testing ->
+713: A Comparative Study of Software Testing Techniques ->
+714: Integrating a Lightweight Risk Assessment Approach into an Industrial Development Process ->
+715: Risk orientation in software testing processes of small and medium enterprises: an exploratory and comparative study ->
+716: Using Defect Taxonomies for Testing Requirements ->
+717: Manual test case derivation from UML activity diagrams and state machines: A controlled experiment ->
+718: New Perspectives on Software Quality [Guest editors' introduction] ->
+719: A taxonomy of risk-based testing ->
+720: RUP Alignment and Coverage Analysis of CMMI ML2 Process Areas for the Context of Software Projects Execution ->
+721: A multiple case study on risk-based testing in industry ->
+722: A Demonstration Case on Steps and Rules for the Transition from Process-Level to Software Logical Architectures in Enterprise Models ->
+=== Updating bibs available in bibs/xbi/round2-google.bib ===
+723: Using Multi-Locators to Increase the Robustness of Web Test Cases ->
+724: Why creating web page objects manually if it can be done automatically? ->
+725: Chapter Five - Approaches and Tools for Automated End-to-End Web Testing ->
+726: Robula+: an algorithm for generating robust XPath locators for web testing ->
+727: Why do Record/Replay Tests of Web Applications Break? ->
+728: Ringer: web automation by demonstration ->
+729: WATERFALL: an incremental approach for repairing record-replay tests of web applications ->
+730: End-User Record and Replay for the Web ->
+731: Testing Web Applications: A Survey ->
+732: PerfGuard: binary-centric application performance monitoring in production environments ->
+733: Accelerating Test Automation through a Domain Specific Language ->
+734: Processing automation scripts of software ->
+735: Regression testing of web applications using Record/Replay tools ->
+736: Comparative Study of Cross Browser Compatibility as Design Issue in Various Websites ->
+737: Issues on Developing a Location Aware Game for Mobile Browsers ->
+738: Virtuaalinen tietokanta sovellusalustana ->
+739: Web Interface for natural language processing engines ->
+740: System for computationally quantifying similarities between images ->
+741: Method and system for webpage regression testing ->
+742: Identifying equivalent javascript events ->
+743: Detecting influence caused by changing the source code of an application from which a document object model tree and cascading style sheet may be extracted ->
+744: Indexing and annotating a usability test recording ->
+745: Facilitating debugging of web applications through recording reduction: A family of empirical studies ->
+746: Facilitating debugging of web applications through recording reduction ->
+747: AppCheck: A Crowdsourced Testing Service for Android Applications ->
+748: DEVELOPMENT OF AGNOSTIC MOBILE APPLICATIONS WITH CROSS-PLATFORM CLOUD COMPUTING PLATFORMS ->
+749: Online application testing across browser environments ->
+750: Real time web development testing and reporting system ->
+751: Testing framework for dynamic web pages ->
+752: Estimating similarity of rich internet pages using visual information ->
+753: Maintenance of automated test suites in industry: An empirical study on Visual GUI Testing ->
+754: TESTAR - from academic protoype towards an industry-ready tool for automated testing at the User Interface level ->
+755: Closing Gaps between Capture and Replay: Model-based GUI Testing ->
+756: Automated Localisation Testing in Industry with Test ->
+757: Development and maintenance efforts testing graphical user interfaces: a comparison ->
+758: Automated Testing of Web Applications with TESTAR ->
+759: Combining profiling and monitoring to analyze test coverage and identify performance problems ->
+760: Another experience with Test? in industry: automated localisation testing ->
+761: TESTAR para testing IoT ->
+762: Reconocimiento de widgets automatico para aplicaciones Java/Swing en TESTAR ->
+763: Harnessing Automated Test Case Generators for GUI Testing in Industry ->
+764: Automated Testing at the User Interface level ->
+765: Hybrid monkey testing: enhancing automated GUI tests with random test generation ->
+766: Adapting automated test generation to GUI testing of industry applications ->
+767: Searching for the Best Test ->
+768: Overview of the ICST International Software Testing Contest ->
+=== Updating bibs available in bibs/illiterate/round1-others.bib ===
+=== Updating bibs available in bibs/testing/round1-google.bib ===
+769: Using the Findings of a Mapping Study to Conduct a Research Project: A Case in Knowledge Management in Software Testing ->
+770: KNOWLEDGE MAPPING PROCESS MODEL FOR RISK MITIGATION IN SOFTWARE MANAGEMENT ->
+771: ROoST: Reference Ontology on Software Testing ->
+772: An investigation of clinical knowledge management practices at the Aga Khan University Hospital, Nairobi ->
+773: Modeling and automatic code generation for wireless sensor network applications using model-driven or business process approaches: A systematic mapping study ->
+774: Semantic-Based Test Case Generation ->
+775: Knowledge Management in Software Testing ->
+776: Patients' contribution to the development of a web-based plan for integrated care a participatory design study ->
+777: Simulation-based optimization for software dynamic testing processes ->
+778: A Framework for a Knowledge Management System in a Cloud Computing Environment Using a Knowledge Engineering Approach  ->
+779: Managing Knowledge in Open Source Software Test Process ->
+780: The Role of Knowledge Management in Facilitating Learning in Software Organisations ->
+781: Knowledge management in small software development organisations : a South African perspective ->
+782: Knowledge Management in Software Development: A Literature Review ->
+783: An integrated model for effective knowledge management in Chinese organizations ->
+784: A model of knowledge management system in managing knowledge of software testing environment ->
+785: A knowledge management approach for testing open source software systems ->
+786: Towards Developing Software Testing As a Service (Staas) Model in Cloud Computing: A Case of Collaborative Knowledge Management System ->
+787: A Model of Managing Knowledge for Software Maintenance As a Service (SMaaS) in a Private Cloud Computing Environment ->
+788: Application of knowledge-based approaches in software architecture: A systematic mapping study ->
+789: A Survey on Knowledge Management in Software Engineering ->
+790: An Ontology-Based Knowledge Sharing Portal for Software Testing ->
+791: Managing technical debt in software architecture ->
+792: An Ontology-based Knowledge Management System for Software Testing ->
+793: Security Testing for Web Applications in SDLC ->
+794: Software test process improvement approaches: A systematic literature review and an industrial case study ->
+795: Motivation Assessment Model for Constructivism Learning ->
+796: A Framework for Learning Programming Using TQM ->
+797: Constructivism learning theory for programming through an e-learning ->
+798: Evaluation of Test Process Improvement approaches: An industrial case study ->
+799: A Survey of Test Framework ->
+800: Ontologies for Software Engineering: Past, Present and Future ->
+801: Using Ontology Patterns for Building a Reference Software Testing Ontology ->
+802: An Ontology for Guiding Performance Testing ->
+803: Ontologies in Software Testing: A Systematic Literature Review  ->
+804: Trustworthiness framework of reusable test case ->
+805: Software component and the semantic Web: An in-depth content analysis and integration history ->
+806: ONTO-ResAsset Development: An Ontology for Reusable Assets Specification and Management ->
+807: Knowledge Management Applied to Software Testing: A Systematic Mapping ->
+808: The perception of software quality and testing in Czech software companies ->
+809: Una aproximacion basada en metamodelado del area de proceso de Validacion del CMMI: Un caso de estudio ->
+810: An approach based on metamodelling for the validation CMMI process area: a case study/Una aproximacion basada en metamodelado del area de proceso de validacion del CMMI: un caso de estudio ->
+811: Exploration of the relationship between tacit knowledge and software system test complexity ->
+812: DESIGN OF A UNIVERSITY RESEARCH NETWORK: ANALYSIS, SELECTION, AND IMPLEMENTATION PLANNING ->
+813: Old theories, New technologies: Understanding knowledge sharing and learning in Brazilian software development companies ->
+814: ORGANIZATIONAL LEARNING APPLIED TO SOFTWARE ENGINEERING: A SYSTEMATIC REVIEW ->
+815: Towards a quality model for the evaluation of DSS based on KDD process ->
+816: H-Switch Cover: a new test criterion to generate test case from finite state machines ->
+817: A quality model for the evaluation of decision support systems based on a knowledge discovery from data process ->
+818: Towards developing lessons learned and experience based factory in software development ->
+819: Software test maturity assessment and test process improvement: A multivocal literature review ->
+820: The Role of Testers in an Agile Software Development Life Cycle within B2B Companies ->
+821: Study of Factors Influencing the Adoption of Agile Processes When Using Wikis ->
+822: A chronological survey on combinatorial testing strategies ->
+823: Maps of Lessons Learnt in Requirements Engineering ->
+824: An EFL On-line Writing: Exploring Its Gains ->
+825: Development of a method to improve the definition and alignment of intangible project outcomes and tangible project outputs ->
+826: Untying the knot of knowledge management measurement: a study of six public service agencies in Singapore ->
+827: New product development projects and project manager skill sets in the telecommunications industry ->
+828: Simulation-Based Evaluation for the Impact of Personnel Capability on Software Testing Performance ->
+829: A Structure for Knowledge Management Systems Assessment and Audit ->
+830: Applying Knowledge Management Approach for Software Testing ->
+831: Reuse-Oriented Code Recommendation Systems ->
+832: Realizing Automated Test Recommendations in Software Development Environments ->
+833: A method for recommending computer-security training for software developers ->
+834: Test Scenario Generation for Web Application Based on Past Test Artifacts ->
+835: Automatic Change Recommendation of Models and Meta Models Based on Change Histories ->
+836: Human Subject Evaluation of Computer-Security Training Recommender ->
+837: Customer Knowledge Management Competence: Towards a Theoretical Framework ->
+838: Customer knowledge transfer and key account management in professional service organizations ->
+839: Loose coupling as an inhibitor of internal customer knowledge transfer: findings from an empirical study in B to B professional services ->
+840: Organizational wiki as a knowledge management tool ->
+841: What prevents effective utilisation of customer knowledge in professional B-to-B services? An empirical study ->
+842: Technology knowledge management (TKM) taxonomy: Using technology to manage knowledge in a Saudi municipality ->
+843: Managing organizational knowledge: developing a strategy for a professional services company ->
+844: The relationship between organizational learning and organizational *change: Analyzing adult learning and organizational learning factors ->
+845: Application of the knowledge management in the knowledge-intensive service business: the case studies at ITIS and ITRI in Taiwan ->
+846: Different contributor profiles in an organizational wiki ->
+847: Os Wikis como sistemas colaborativos na gestao do conhecimento ->
+848: Agricultural knowledge management: Case of dairy production improvement ->
+849: Customer Knowledge Transfer in MNCs ->
+850: Integrated Knowledge Management Framework for Addressing IT Project Failures ->
+851: Implementing Modularization in Professional Services The Influence of Varied Knowledge Environments ->
+852: The Opportunity and Need for Marketing Knowledge Management ->
+853: Principles and Good Practices for Using Wikis within Organizations ->
+854: Wiki as a Knowledge Management Tool: The Case of a Non?Profit Administrative Entity ->
+855: Applying empirical software engineering to software architecture: challenges and lessons learned ->
+856: Scoping software process lines ->
+857: Software Testing Research and Practice ->
+858: Abordagem para Desenvolver Tecnologia de Software com Apoio de Estudos Secundarios e Primarios ->
+859: Model-based testing approaches selection for software projects ->
+860: A Picture from the Model-Based Testing Area: Concepts, Techniques, and Challenges ->
+861: A Framework for Comparing Efficiency, Effectiveness and Applicability of Software Testing Techniques ->
+862: Scoping Software Process Models - Initial Concepts and Experience from Defining Space Standards ->
+863: Maturing Software Engineering Knowledge through Classifications: A Case Study on Unit Testing Techniques ->
+864: An Iterative Empirical Strategy for the Systematic Selection of a Combination of Verification and Validation Technologies ->
+865: Developing Software Technologies through Experimentation: Experiences from the Battlefield  ->
+866: Testing techniques selection based on ODC fault types and software metrics ->
+867: Identifying the relevant information for software testing technique selection ->
+868: On Test Design ->
+869: A state-of-practice questionnaire on verification and validation for concurrent programs ->
+870: Unit testing tool competition: round three ->
+871: A Process for Identifying Relevant Information for a Repository: A Case Study for Testing Techniques ->
+872: A Methodological Framework for Evaluating Software Testing Techniques and Tools ->
+873: Evaluation of {model-based} testing techniques selection approaches: An external replication ->
+874: Supporting the selection of model-based testing approaches for software projects ->
+875: Unit Testing Tool Competition ->
+876: Early Empirical Assessment of the Practical Value of GQM+Strategies ->
+877: Unit Testing Tool Competitions Lessons Learned ->
+878: Using Defect Taxonomies to Improve the Maturity of the System Test Process: Results from an Industrial Case Study ->
+879: Applying a selection method to choose Quality Attribute Techniques ->
+880: Conducting empirical studies in industry: balancing rigor and relevance ->
+881: A learning-based method for combining testing techniques ->
+882: Selecting V&V Technology Combinations: How to Pick a Winner? ->
+883: Enablers, inhibitors, and perceptions of testing in novice software teams ->
+884: Supporting the Combined Selection of Model-Based Testing Techniques ->
+885: Estimating the Return on Investment of Defect Taxonomy Supported System Testing in Industrial Projects ->
+886: An approach for component testing and its empirical validation ->
+887: Porantim-Opt: Optimizing the Combined Selection of Model-Based Testing Techniques ->
+888: Measuring testing as a distributed component of the software life cycle ->
+889: Determining Organization-Specific Process Suitability ->
+890: Development of An Empirical Approach to Building Domain-Specific Knowledge Applied to High-End Computing ->
+891: Evolving a Computerized Infrastructure to support the Selection of Model-Based Testing Techniques ->
+892: Selecting verification and validation techniques for simulation projects: A planning and tailoring strategy ->
+893: Advanced management of data integrity: property-based testing for business rules ->
+894: A Comprehensive Planning Framework for Selecting and Customizing Quality Assurance Techniques  Sign In or Purchase ->
+895: Determining the effectiveness of three software evaluation techniques through informal aggregation ->
+896: Achieving Software Engineering Knowledge Items with an Unit Testing Approach ->
+897: An analysis of a comprehensive planning framework for customizing SQA ->
+898:  A characterization approach to selecting verification and validation techniques for simulation projects ->
+899: On the development life cycle of distributed functional applications: a case study ->
+900: Summarizing the Results of a Series of Experiments: Application to the Effectiveness of Three Software Evaluation Techniques ->
+901: PROCEDIMENTO PARA APOIO A SELECAO DE CRITERIOS DE PARADA PARA TESTES DE SOFTWARE ->
+902: SELECAO DE TECNICAS DE TESTE BASEADO EM MODELOS ->
+903: Uma abordagem para testes de componentes apoiada por uma ferramenta CASE ->
+904: CaracterIsticas de Tecnicas de Teste de Software para Uso em Projetos WEB ->
+905: Estrategia para Apoiar a Selecao de Abordagens de Teste Baseado em Modelos para Projetos de Software ->
+906: A review on verification and validation for embedded software ->
+907: Which Processes Are Needed in Five Years? Strategic Process Portfolio Management at the Japan Aerospace Exploration Agency (JAXA) ->
+908: Tales and Lessons from the Front Lines of Conducting Empirical Studies in (or with) Industry ->
+909: Systematic Review on Testing Aspect-orientedPrograms: Challenges, Techniques and Their Effectiveness ->
+910: Evaluacion y seleccion de tecnicas de prueba de software ->
+911: A CHARACTERIZATION APPROACH TO SELECTING VERIFICATION AND VALIDATION TECHNIQUES FOR SIMULATION PROJECTS ->
+912: Contributions for the structural testing of multithreaded programs: coverage criteria, testing tool, and experimental evaluation ->
+913: A Framework to Support the Selection of Software Technologies by Search-Based Strategy ->
+914: Providing Trade-Off Techniques Subsets to Improve Software Testing Effectiveness: Using Evolutionary Algorithm to Support Software Testing Techniques Selection by a Web Tool ->
+915: Rethinking Experiments in a Socio-Technical Perspective: The Case of Software Engineering ->
+916: Towards a reasoning framework for software product line testing ->
+917: A Framework for Goal-oriented Process Configuration ->
+918: Business Software Testing Model Design: A Theoretical Framework ->
+919: A Schema Support for Selection of Test Case Prioritization Techniques ->
+920: A DESIGN AND A PROTOTYPE FOR A MOBILE INFORMATION SERVICE FOR TOURISTS ->
+921: A Generic Model-Based Methodology of Testing Techniques to Obtain High Quality Software ->
+922: Porantim: An approach to support the combination and selection of Model-based Testing techniques  Sign In or Purchase ->
+923: A Toolbox for Software Architecture Design  ->
+924: Software Testing Research: Achievements, Challenges, Dreams ->
+925: Information needs for software development analytics ->
+926: The Role of Experience in Software Testing Practice ->
+927: Reporting experiments to satisfy professionals information needs ->
+928: Design of a competence model for testing teams ->
+929: Testing of Safety-Critical Systems a Structural Approach to Test Case Design ->
+930: Functional abstractions for testing repository-style information systems ->
+931: Toward a learned project-specific fault taxonomy: application of software analytics ->
+932: Systematic literature reviews pertaining to the trends, techniques, problems, and challenges in software testing (2006-2009) A systematic literature review ->
+933: System Testing of Repository-Style Software: An Experience Report ->
+934: MiSFIT: Mining Software Fault Information and Types ->
+935: Overcoming Hard Problems in Software Testing with Testing as a Service ->
+936: An Object and Performance Framework for Implementation of Web-based Knowledge Sharing Technology ->
+937: Global mapping of usability labs and centers ->
+938: Global spread of usability expertise ->
+939: Sustainable management of usability information ->
+=== Updating bibs available in bibs/testing/round2-ieee.bib ===
+940: SEON: A Software Engineering Ontology Network ->
+=== Updating bibs available in bibs/testing/round3-google.bib ===
+941: An enhanced graph-based infrastructure for software search engines ->
+942: Testing Security Requirements with Non-experts: Approaches and Empirical Investigations ->
+=== Updating bibs available in bibs/testing/round2-outros.bib ===
+943: Does the failing test execute a single or multiple faults?: an approach to classifying failing tests ->
+944: Comparing white-box and black-box test prioritization ->
+945: Using Defect Taxonomies for Testing Requirements ->
+946: Estimating the Cost and Benefit of Model-Based Testing: A Decision Support Procedure for the Application of Model-Based Testing in Industry ->
+947: Cost-Benefit Analysis of Using Dependency Knowledge at Integration Testing ->
+948: On the Evaluation of Software Maintainability Using Automatic Test Case Generation ->
+949: POU-Oriented Unit Testing of IEC 61131-3 Control Software ->
+950: What a Long, Strange Trip It's Been: Past, Present, and Future Perspectives on Software Testing Research ->
+951: A Specialized Global Software Engineering Taxonomy for Effort Estimation ->
+952: What scope is there for adopting evidence-informed teaching in SE? ->
+953: Level dependencies of individual entities in random unit testing of structured code ->
+954: Mapping software testing practice with software testing research SERP-test taxonomy ->
+955: Effectivity and economical aspects for agile quality assurance in large enterprises ->
+956: An Effort Estimation Taxonomy for Agile Software Development ->
+957: Taxonomies in software engineering: A Systematic mapping study and a revised taxonomy development method ->
+958: A taxonomy for requirements engineering and software test alignment ->
+959: An extended global software engineering taxonomy ->
+960: FACTORS AFFECTING DISTRIBUTED AGILE PROJECTS: A SYSTEMATIC REVIEW ->
+961: SERP-test: a taxonomy for supporting industry�academia communication ->
+962: Characterizing testing methods for context-aware software systems: Results from a quasi-systematic literature review ->
+963: An overview on test generation from functional requirements ->
+964: A scoping study on the 25 years of research into software testing in Brazil and an outlook on the future of the area ->
+965: Tester Experience: Concept, Issues and Definition ->
+966: Understanding Socio-technical Factors Influencing Testers in Software Development Organizations ->
+967: A Preliminary Survey of Factors Affecting Software Testers ->
+968: Impact of Education and Experience Level on the Effectiveness of Exploratory Testing: An Industrial Case Study ->
+969: Initial Investigations on the Influence of Requirement Smells on Test-Case Design ->
+970: Organization of Testing Activities in Norwegian Software Companies ->
+971: The Role of the Tester's Knowledge in Exploratory Software Testing ->
+972: Can Pairwise Testing Perform Comparably to Manually Handcrafted Testing Carried Out by Industrial Engineers? ->
+973: An empirical study of the effects of personality on software testing ->
+974: Testing Security Requirements with Non-experts: Approaches and Empirical Investigations ->
+975: How do testers do it? An exploratory study on manual testing practices ->
+976: A Preliminary Study on Factors Affecting Software Testing Team Performance ->
+977: Understanding the Influence of Social and Technical Factors Testers in Software Organizations ->
+978: A Review of Two Experiences from Applying Model Based Testing in Practice ->
+979: What Influences Usability Defect Reporting? � A Survey of Software Development Practitioners ->
+980: "Is It Really a Defect?" An Empirical Study on Measuring and Improving the Process of Software Defect Reporting ->
+981: Test Better by Exploring: Harnessing Human Skills and Knowledge ->
+982: An Empirical Investigation of Personality Traits of Software Testers ->
+983: How are software defects found? The role of implicit defect detection, individual responsibility, documents, and knowledge ->
+984: An experiment on the effectiveness and efficiency of exploratory testing ->
+=== Updating bibs available in bibs/testing/round1-ieee.bib ===
+985: A Framework for a Knowledge Management System in a Cloud Computing Environment Using a Knowledge Engineering Approach ->
+=== Updating bibs available in bibs/testing/round1-outros.bib ===
+986: Modeling and automatic code generation for wireless sensor network applications using model-driven or business process approaches: A systematic mapping study ->
+987: Analyzing the Use of Concept Maps in Computer Science: A Systematic Mapping Study ->
+988: Knowledge Management Systems Based on Topic Maps Theory ->
+989: H-Switch Cover: a new test criterion to generate test case from finite state machines ->
+990: Software test maturity assessment and test process improvement: A multivocal literature review ->
+991: A quality model for the evaluation of decision support systems based on a knowledge discovery from data process ->
+992: Towards developing lessons learned and experience based factory in software development ->
+993: A survey: Optimal approaches for distributed software testing ->
+994: �Old� theories, �New� technologies: Understanding knowledge sharing and learning in Brazilian software development companies ->
+995: Study of factors influencing the adoption of agile processes when using Wikis ->
+996: Towards a quality model for the evaluation of DSS based on KDD process ->
+997: Knowledge Management Applied to Software Testing: A Systematic Mapping ->
+998: Ontologies in software testing: A Systematic Literature Review ->
+999: Information Technology Components and Their Role in Knowledge Management for Product Design ->
+1000: Untying the knot of knowledge management measurement: a study of six public service agencies in Singapore ->
+1001: Principles and Good Practices for Using Wikis within Organizations ->
+1002: Implementing Modularization in Professional Services�The Influence of Varied Knowledge Environments ->
+1003: Technology knowledge management (TKM) taxonomy: Using technology to manage knowledge in a Saudi municipality ->
+1004: Loose coupling as an inhibitor of internal customer knowledge transfer: findings from an empirical study in B?to?B professional services ->
+1005: What prevents effective utilisation of customer knowledge in professional B-to-B services? An empirical study ->
+1006: Managing organizational knowledge: developing a strategy for a professional services company ->
+1007: Customer knowledge transfer and key account management in professional service organizations ->
+1008: Conducting empirical studies in industry: Balancing rigor and relevance ->
+1009: Applying empirical software engineering to software architecture: challenges and lessons learned ->
+1010: Contributions for the structural testing of multithreaded programs: coverage criteria, testing tool, and experimental evaluation ->
+1011: Porantim: An approach to support the combination and selection of Model-based Testing techniques ->
+1012: Selecting V&V Technology Combinations: How to Pick a Winner? ->
+1013: Tester Experience: Concept, Issues and Definition ->
+1014: How to test your concurrent software: an approach for the selection of testing techniques ->
+1015: An Iterative Empirical Strategy for the Systematic Selection of a Combination of Verification and Validation Technologies ->
+1016: Unit Testing Tool Competition ->
+1017: A Framework to Support the Selection of Software Technologies by Search-Based Strategy ->
+1018: Scoping software process lines ->
+1019: A Methodological Framework for Evaluating Software Testing Techniques and Tools ->
+1020: Unit Testing Tool Competition -- Round Three ->
+1021: A Comprehensive Planning Framework for Selecting and Customizing Quality Assurance Techniques ->
+1022: Evaluation of {model-based} testing techniques selection approaches: An external replication ->
+1023: Supporting the Combined Selection of Model-Based Testing Techniques ->
+1024: A Generic Model-Based Methodology of Testing Techniques to Obtain High Quality Software ->
+1025: Model-based testing approaches selection for software projects ->
+1026: Porantim-Opt: Optimizing the Combined Selection of Model-Based Testing Techniques ->
+1027: A Framework for Comparing Efficiency, Effectiveness and Applicability of Software Testing Techniques ->
+1028: Rethinking Experiments in a Socio-Technical Perspective: The Case of Software Engineering ->
+1029: A Picture from the Model-Based Testing Area: Concepts, Techniques, and Challenges ->
+1030: Testing techniques selection based on ODC fault types and software metrics ->
+1031: Selecting verification and validation techniques for simulation projects: A planning and tailoring strategy ->
+1032: System Testing of Repository-Style Software: An Experience Report ->
+1033: Towards developing collaborative experience based factory model for software development process in cloud computing environment ->
+1034: Toward a learned project-specific fault taxonomy: application of software analytics ->
+1035: Reporting experiments to satisfy professionals� information needs ->
+1036: Design of a competence model for testing teams ->
+1037: Information needs for software development analytics ->
+1038: Testing of safety-critical systems - A structural approach to test case design ->
+1039: Functional abstractions for testing repository-style information systems ->
+1040: The role of experience in software testing practice ->
+1041: Software testing research: Achievements, challenges, dreams ->
+=== Updating bibs available in bibs/testing/round2-google.bib ===
+1042: Sistemas embebidos en red seguros ->
+1043: Ontology patterns: clarifying concepts and terminology ->
+1044: SABiO: Systematic Approach for Building Ontologies ->
+1045: Semantic Documentation in Requirements Engineering ->
+1046: SEON: A Software Engineering Ontology Network ->
+1047: Towards Supporting International Standard-Based Software Engineering Approaches Using Semantic Web Technologies: A Systematic Literature Review ->
+1048: Canopus: A Domain-Specific Language for Modeling Performance Testing ->
+1049: Application of Inference Rules to a Software Requirements Ontology to Generate Software Test Cases ->
+1050: Unificando conceitos de avaliacao de desempenho, engenharia de desempenho e teste de software para a analise de sistemas computacionais ->
+1051: Relacionando Conceitos de areas de Estudo de Desempenho da Ciencia da Computacao ->
+1052: A Domain-Specific Language for Modeling Performance Testing ->
+1053: The Effect of Applying Design of Experiments Techniques to Software Performance Testing ->
+1054: Reuse-Based Test Recommendation in Software Engineering ->
+1055: An overview on test generation from functional requirements ->
+1056: A systematic review of state-based test tools ->
+1057: A taxonomy for requirements engineering and software test alignment ->
+1058: Test-driven Fault Navigation for Debugging Reproducible Failures ->
+1059: What scope is there for adopting evidence-informed teaching in SE? ->
+1060: POU-Oriented Unit Testing of IEC 61131-3 Control Software ->
+1061: Communication Performance Tests in Distributed Control Systems ->
+1062: FACTORS AFFECTING DISTRIBUTED AGILE PROJECTS: A SYSTEMATIC REVIEW ->
+1063: What a Long, Strange Trip It's Been: Past, Present, and Future Perspectives on Software Testing Research ->
+1064: Mapping software testing practice with software testing research � SERP-test taxonomy ->
+1065: A scoping study on the 25 years of research into software testing in Brazil and an outlook on the future of the area ->
+1066: Supporting Effort Estimation in Agile Software Development ->
+1067: SERP-test: a taxonomy for supporting industry academia communication ->
+1068: An extended global software engineering taxonomy ->
+1069: Taxonomies in software engineering: A Systematic mapping study and a revised taxonomy development method ->
+1070: Coordinating requirements engineering and software testing ->
+1071: A Specialized Global Software Engineering Taxonomy for Effort Estimation ->
+1072: Level dependencies of individual entities in random unit testing of structured code ->
+1073: An Effort Estimation Taxonomy for Agile Software Development ->
+1074: Strategizing and Evaluating the Onboarding of Software Developers in Large-Scale Globally Distributed Legacy Projects ->
+1075: Characterizing testing methods for context-aware software systems: Results from a quasi-systematic literature review ->
+1076: Effectivity and economical aspects for agile quality assurance in large enterprises ->
+1077: Parametrized Unit Testing Tool for. Net Framework ->
+1078: AN EVALUATION OF DISPERSION RELATION OF PROPAGATION OF ELECTROMAGNETIC WAVE WITH TM MODES IN CARBON NANOTUBE WITH AND WITHOUT ELECTRON ENERGY-BAND EFFECTS ->
+1079: Defect dection strategies and implications: A researcher's perspective ->
+1080: On the Evaluation of Software Maintainability Using Automatic Test Case Generation ->
+1081: Modeling Destructive Factors In Product Development Process Of Project Based Companies In The Field Of Information Technologies And Determining Their Impacts ->
+1082: Identifying some problems with selection of software testing techniques ->
+1083: Representation and Selection of Quality Attribute Techniques for Software Development Process ->
+1084: First failure data capture in embedded system ->
+1085: Testing Techniques Selection: A Systematic Approach ->
+1086: Optimize defect detection techniques through empirical software engineering method ->
+1087: Quality Attribute Techniques Framework ->
+1088: Systematic selection of quality attribute techniques ->
+1089: Model-based Testing and Verification of Dependable Systems ->
+1090: Integrating Verification and Validation Techniques Knowledge into Software Engineering Environments ->
+1091: Software Testing Techniques ->
+1092: Improving Software Consistency by Evaluating Efficiency of Software Testing Techniques ->
+1093: Problems in Making Appropriate Testing Technique Selection ->
+1094: Supporting Software Verification and Validation with Knowledg ->
+1095: Reporting guidelines for controlled experiments in software engineering ->
+1096: Reporting Experiments in Software Engineering ->
+1097: A Characterisation Schema for Software Testing Techniques ->
+1098: Accumulation and presentation of empirical evidence: problems and challenges ->
+1099: Identifying and Analyzing Knowledge Management Aspects of Practices in Open Source Software Development ->
+1100: A taxonomy of risk-based testing ->
+1101: A multiple case study on risk-based testing in industry ->
+1102: On the Role of Defect Taxonomy Types for Testing Requirements: Results of a Controlled Experiment ->
+1103: Manual test case derivation from UML activity diagrams and state machines: A controlled experiment ->
+1104: Using defect taxonomies for requirements validation in industrial projects ->
+1105: Using Defect Taxonomies for Testing Requirements ->
+1106: On failure classification: the impact of "getting it wrong" ->
+1107: Weaving Social Software Features into Enterprise Resource Planning Systems ->
+1108: Living in two different worlds: A comparison of industry and academic focus areas in software testing ->
+1109: A Label Taxonomy to Support Collaborative Formalization of Computer-interpretable Guidelines and Classification of Modeling Issues ->
+1110: Comparing White-Box and Black-Box Test Prioritization ->
+1111: An Empirical Study on the Adequacy of Testing in Open Source Projects ->
+1112: How do bugs surface? A comprehensive study on the characteristics of software bugs manifestation ->
+1113: RELAI Testing: A Technique to Assess and Improve Software Reliability ->
+1114: Does the failing test execute a single or multiple faults?: an approach to classifying failing tests ->
+1115: On Adaptive Sampling-Based Testing for Software Reliability Assessment ->
+1116: Exploring Organizations' Software Quality Assurance Strategies ->
+1117: Anonymous On-line Communication Between Program Analyses ->
+1118: Estimating the Cost and Benefit of Model-Based Testing: A Decision Support Procedure for the Application of Model-Based Testing in Industry ->
+1119: Mutual knowledge transfer between industry and academia to improve testing with defect taxonomies ->
+1120: Cost-Benefit Analysis of Using Dependency Knowledge at Integration Testing ->
+1121: Requirements-based testing with defect taxonomies ->
+1122: RETURN ON INVESMENT (ROI) OF SOFTWARE PRODUCT: A SYSTEMATIC LITERATURE REVIEW ->
+1123: A Literature Review and Classification of Selected Software Engineering Researches ->
+=== Updating bibs available in bibs/slr/round1-todos.bib ===
+1124: Stakeholders in Global Requirements Engineering: Lessons Learned
+from Practice ->
+=== Updating bibs available in bibs/games/round1-todos.bib ===
+=== Updating bibs available in bibs/pair/round1-todos.bib ===

@@ -1,0 +1,28 @@
+web service performance testing
+in partial fulfillment of the requirements
+reference architectures
+knowledge management in software testing
+??????? Web ??????
+Intelligent Framework for Web-Service Testing
+on the quality of webservices
+on the quality of webservices
+API Testing tool in cloud
+Agent systems in software engineering
+Research directions in verification
+Applications and outlook
+a structural testing approach and tool for web service composition
+automation of operator oriented code coverage using mutation testing
+software testing focus
+analytical quality assurance
+simulation product fidelity: a qualitative
+online shopping cart
+cross-browser compatibility testing based on model comparison
+cross-browser compatibility as design issue in various
+???XaaS???
+A study on similarity function for tree structured data
+Supporting to find faults in rich internet applications by extracting...
+Reverse engineering of web applications
+Automated recommender system for web based applications
+software testing and method
+On test design
+Selecting V
