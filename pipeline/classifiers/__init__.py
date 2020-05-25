@@ -15,7 +15,7 @@ class YearsSplit:
         current = max(years)
         for i in range(n_splits):
             test_index = years.index(current)
-            if len(years[test_index:]) == 1:
+            if len(years[test_index:]) < 5:
                 current = max(years[:test_index])
                 test_index = years.index(current)
 
