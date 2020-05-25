@@ -1,9 +1,11 @@
+import sys
+
 import pandas as pd
 
 files = ['games.csv', 'mdwe.csv', 'pair.csv', 'testing.csv',
          'illiterate.csv', 'ontologies.csv', 'slr.csv', 'xbi.csv']
 
-argument = sys.argv[2]
+argument = sys.argv[1]
 if argument == 'precision':
     columns = [0, 1, 2] # precision
 if argument == 'recall':
