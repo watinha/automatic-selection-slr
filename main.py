@@ -67,7 +67,7 @@ inputs = [
 ]
 
 argument = sys.argv[1]
-n_splits = 5
+n_splits = 3
 if argument == 'all':
     reporter = CSVReporter('result/all.csv')
 if argument == 'games':

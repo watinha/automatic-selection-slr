@@ -15,6 +15,10 @@ class YearsSplit:
         current = max(years)
         for i in range(n_splits):
             test_index = years.index(current)
+            if len(years[test_index:]) == 1:
+                current = max(years[:test_index])
+                test_index = years.index(current)
+
             self._test_indexes.append(test_index)
             current = max(years[:test_index])
         self._test_indexes.reverse()
@@ -64,16 +68,24 @@ class SimpleClassifier:
             y_train, y_test = y[train_index], y[test_index]
             model.fit(X_train, y_train)
             y_score = model.predict_proba(X_train)[:, 1]
-            precision, recall, threasholds2 = metrics.precision_recall_curve(y_train, y_score)
+            precision, recall, threasholds2 = metrics.precision_recall_curve(
+                    y_train, y_score)
             y_score = model.predict_proba(X_test)[:, 1]
-            matrix = metrics.confusion_matrix(y_test, [ 0 if i < threasholds2[0] else 1 for i in y_score ])
-            correct_exclusion_rate.append(matrix[0, 0] / (matrix[0, 0] + matrix[1, 1] + matrix[0, 1] + matrix[1, 0]))
+            matrix = metrics.confusion_matrix(
+                    y_test, [ 0 if i < threasholds2[0] else 1 for i in y_score ])
+            correct_exclusion_rate.append(
+                    matrix[0, 0] /
+                    (matrix[0, 0] + matrix[1, 1] + matrix[0, 1] + matrix[1, 0]))
             missed.append(matrix[1, 0] / (matrix[1, 1] + matrix[1, 0]))
             threasholds.append(threasholds2[0])
-            fscore_threashold.append(metrics.f1_score(y_test, [ 0 if i < threasholds2[0] else 1 for i in y_score ]))
+            fscore_threashold.append(metrics.f1_score(
+                y_test, [ 0 if i < threasholds2[0] else 1 for i in y_score ]))
 
-            matrix = metrics.confusion_matrix(y_test, [ 0 if i <  0.5 else 1 for i in y_score ])
-            exclusion_baseline.append(matrix[0, 0] / (matrix[0, 0] + matrix[1, 1] + matrix[0, 1] + matrix[1, 0]))
+            matrix = metrics.confusion_matrix(
+                    y_test, [ 0 if i <  0.5 else 1 for i in y_score ])
+            exclusion_baseline.append(
+                    matrix[0, 0] /
+                    (matrix[0, 0] + matrix[1, 1] + matrix[0, 1] + matrix[1, 0]))
             missed_baseline.append(matrix[1, 0] / (matrix[1, 1] + matrix[1, 0]))
 
         scores['exclusion_rate'] = correct_exclusion_rate
