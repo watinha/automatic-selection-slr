@@ -116,7 +116,7 @@ for input in inputs:
         #    GensimEmbeddingLoader(gensim_file='SO_vectors_200.bin', embedding_dim=200), k=300, random_state=42),
         GenerateDataset(TfidfVectorizer(ngram_range=(1,3), use_idf=True)),
         #LSATransformation(n_components=100, random_state=42),
-        SelectKBestSelection(k=50),
+        SelectKBestSelection(k=3000),
         #VarianceThresholdFeatureSelection(threshold=0.0001),
         #RFECVFeatureSelection(elimination_classifier),
         #USESFeatureSelection(k=50),

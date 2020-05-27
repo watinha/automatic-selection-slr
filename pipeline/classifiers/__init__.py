@@ -21,12 +21,14 @@ class YearsSplit:
 
             self._test_indexes.append(test_index)
             current = max(years[:test_index])
-        self._test_indexes.reverse()
+        #self._test_indexes.reverse()
 
     def split (self, X, y, groups=None):
+        previous = len(self._years)
         for test_index in self._test_indexes:
             train = [ i for i in range(test_index) ]
-            test = [ i for i in range(test_index, len(self._years)) ]
+            test = [ i for i in range(test_index, previous) ]
+            previous = test_index
             yield train, test
 
 
@@ -71,6 +73,8 @@ class SimpleClassifier:
             precision, recall, threasholds2 = metrics.precision_recall_curve(
                     y_train, y_score)
             y_score = model.predict_proba(X_test)[:, 1]
+            if (threasholds2[0] > 0.5):
+                threasholds2 = [0.5]
             matrix = metrics.confusion_matrix(
                     y_test, [ 0 if i < threasholds2[0] else 1 for i in y_score ])
             correct_exclusion_rate.append(

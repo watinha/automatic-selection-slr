@@ -47,6 +47,8 @@ class BibParser:
             return el['year']
         self.texts_list.sort(key=year_sort)
 
+        print([text['year'] for text in self.texts_list])
+
         return self.texts_list
 
 
