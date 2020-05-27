@@ -1,0 +1,36 @@
+ ============================ 
+   --- project mdwe ---
+ ============================ 
+===== Configure the lemmatizer =====
+===== Configuring stop words removal =====
+===== Reading bib and transforming to text =====
+[1999, 2000, 2002, 2003, 2004, 2004, 2004, 2005, 2005, 2005, 2005, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2006, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2008, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2009, 2010, 2010, 2010]
+===== Executing Text Filter =====
+===== Reading text and vectorizing =====
+(95, 16273)
+===== Feature selection - SelectKBest =====
+(95, 300)
+===== Decision Tree Classifier =====
+===== Hyperparameter tunning  =====
+class_weight : balanced
+criterion : entropy
+max_depth : 50
+min_samples_split : 10
+OUR APPROACH F-measure: 0.7248495181999018 on average and 0.046581999333979475 SD
+OUR APPROACH Precision: 0.7893518518518517 on average and 0.04258817634602677 SD
+OUR APPROACH Recall: 0.7319749694749694 on average and 0.03305172300303731 SD
+===== SVM Classifier =====
+===== Hyperparameter tunning  =====
+C : 10
+class_weight : balanced
+kernel : rbf
+tol : 0.001
+OUR APPROACH F-measure: 0.7949317738791423 on average and 0.18678048857227178 SD
+OUR APPROACH Precision: 0.91109391124871 on average and 0.04891515676399175 SD
+OUR APPROACH Recall: 0.8029761904761905 on average and 0.16444307508469508 SD
+decision_tree -> Threashold 0.000000, Recall 1.000000, Precision 0.291667
+[[ 0 17]
+ [ 0  7]]
+svm -> Threashold 0.552813, Recall 1.000000, Precision 0.875000
+[[16  1]
+ [ 0  7]]

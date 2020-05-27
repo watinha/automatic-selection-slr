@@ -1,0 +1,158 @@
+[1] "--- first run ---"
+[1] " * excluded"
+[1] " * dt"
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "dt.k50"]
+W = 0.93942, p-value = 0.6054
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "dt.k100"]
+W = 0.93347, p-value = 0.5482
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "dt.k300"]
+W = 0.93492, p-value = 0.5619
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "dt.k1000"]
+W = 0.91772, p-value = 0.4117
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "dt.k3000"]
+W = 0.90916, p-value = 0.3482
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "dt.k50"]
+W = 0.8499, p-value = 0.09505
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "dt.k100"]
+W = 0.90179, p-value = 0.2999
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "dt.k300"]
+W = 0.83897, p-value = 0.07351
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "dt.k1000"]
+W = 0.91075, p-value = 0.3594
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "dt.k3000"]
+W = 0.89757, p-value = 0.2747
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  0.2533  0.4630  0.4176  0.6341  0.7941 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  0.4000  0.6081  0.5553  0.7805  0.8462 
+
+	Paired t-test
+
+data:  target and baseline
+t = -4.8674, df = 39, p-value = 1.901e-05
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.1949168 -0.0804760
+sample estimates:
+mean of the differences 
+             -0.1376964 
+
+[1] "--- second run ---"
+[1] " * excluded"
+[1] " * dt"
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "dt.k50"]
+W = 0.90837, p-value = 0.3427
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "dt.k100"]
+W = 0.8797, p-value = 0.1871
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "dt.k300"]
+W = 0.8139, p-value = 0.04024
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "dt.k1000"]
+W = 0.80329, p-value = 0.03104
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "dt.k3000"]
+W = 0.79011, p-value = 0.02241
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "dt.k50"]
+W = 0.88257, p-value = 0.1993
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "dt.k100"]
+W = 0.86454, p-value = 0.1332
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "dt.k300"]
+W = 0.86518, p-value = 0.1351
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "dt.k1000"]
+W = 0.85825, p-value = 0.1153
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "dt.k3000"]
+W = 0.83821, p-value = 0.0722
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  0.2384  0.5476  0.4448  0.6481  0.7579 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  0.4490  0.6317  0.5659  0.7652  0.8642 
+
+	Paired t-test
+
+data:  target and baseline
+t = -3.9477, df = 39, p-value = 0.0003201
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.18318804 -0.05906389
+sample estimates:
+mean of the differences 
+              -0.121126 
+

@@ -1,0 +1,783 @@
+[1] "--- first run ---"
+[1] " * excluded"
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "dt.k50"]
+W = 0.93942, p-value = 0.6054
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "dt.k100"]
+W = 0.93347, p-value = 0.5482
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "dt.k300"]
+W = 0.93492, p-value = 0.5619
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "dt.k1000"]
+W = 0.91772, p-value = 0.4117
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "dt.k3000"]
+W = 0.90916, p-value = 0.3482
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "svm.k50"]
+W = 0.92978, p-value = 0.5141
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "svm.k100"]
+W = 0.91267, p-value = 0.3733
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "svm.k300"]
+W = 0.95548, p-value = 0.7661
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "svm.k1000"]
+W = 0.92481, p-value = 0.4701
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[first_run, "svm.k3000"]
+W = 0.91257, p-value = 0.3725
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "dt.k50"]
+W = 0.8499, p-value = 0.09505
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "dt.k100"]
+W = 0.90179, p-value = 0.2999
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "dt.k300"]
+W = 0.83897, p-value = 0.07351
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "dt.k1000"]
+W = 0.91075, p-value = 0.3594
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "dt.k3000"]
+W = 0.89757, p-value = 0.2747
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "svm.k50"]
+W = 0.91069, p-value = 0.3589
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "svm.k100"]
+W = 0.92422, p-value = 0.465
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "svm.k300"]
+W = 0.93546, p-value = 0.567
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "svm.k1000"]
+W = 0.89462, p-value = 0.2582
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[first_run, "svm.k3000"]
+W = 0.92994, p-value = 0.5155
+
+Call:
+   aov(formula = data$results ~ data$classifiers)
+
+Terms:
+                data$classifiers Residuals
+Sum of Squares          2.480228  8.645985
+Deg. of Freedom               19       140
+
+Residual standard error: 0.2485096
+Estimated effects may be unbalanced
+                  Df Sum Sq Mean Sq F value Pr(>F)   
+data$classifiers  19  2.480 0.13054   2.114 0.0071 **
+Residuals        140  8.646 0.06176                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = data$results ~ data$classifiers)
+
+$`data$classifiers`
+                                               diff         lwr        upr
+baseline.dt.k1000-baseline.dt.k100     0.0988899863 -0.35004324 0.54782321
+baseline.dt.k300-baseline.dt.k100     -0.0497127525 -0.49864597 0.39922047
+baseline.dt.k3000-baseline.dt.k100     0.0832649863 -0.36566824 0.53219821
+baseline.dt.k50-baseline.dt.k100      -0.0256086506 -0.47454187 0.42332457
+baseline.svm.k100-baseline.dt.k100    -0.0443597433 -0.49329297 0.40457348
+baseline.svm.k1000-baseline.dt.k100    0.1035196159 -0.34541361 0.55245284
+baseline.svm.k300-baseline.dt.k100     0.1027962363 -0.34613699 0.55172946
+baseline.svm.k3000-baseline.dt.k100    0.1057923432 -0.34314088 0.55472557
+baseline.svm.k50-baseline.dt.k100     -0.0309932660 -0.47992649 0.41793996
+target.dt.k100-baseline.dt.k100       -0.1034778681 -0.55241109 0.34545535
+target.dt.k1000-baseline.dt.k100      -0.1677674762 -0.61670070 0.28116575
+target.dt.k300-baseline.dt.k100       -0.1573993748 -0.60633260 0.29153385
+target.dt.k3000-baseline.dt.k100       0.0709569466 -0.37797628 0.51989017
+target.dt.k50-baseline.dt.k100        -0.3053137972 -0.75424702 0.14361942
+target.svm.k100-baseline.dt.k100      -0.1705648841 -0.61949811 0.27836834
+target.svm.k1000-baseline.dt.k100     -0.0595866115 -0.50851983 0.38934661
+target.svm.k300-baseline.dt.k100      -0.2851738865 -0.73410711 0.16375934
+target.svm.k3000-baseline.dt.k100      0.0749657849 -0.37396744 0.52389901
+target.svm.k50-baseline.dt.k100       -0.1024004270 -0.55133365 0.34653279
+baseline.dt.k300-baseline.dt.k1000    -0.1486027388 -0.59753596 0.30033048
+baseline.dt.k3000-baseline.dt.k1000   -0.0156250000 -0.46455822 0.43330822
+baseline.dt.k50-baseline.dt.k1000     -0.1244986369 -0.57343186 0.32443458
+baseline.svm.k100-baseline.dt.k1000   -0.1432497296 -0.59218295 0.30568349
+baseline.svm.k1000-baseline.dt.k1000   0.0046296296 -0.44430359 0.45356285
+baseline.svm.k300-baseline.dt.k1000    0.0039062500 -0.44502697 0.45283947
+baseline.svm.k3000-baseline.dt.k1000   0.0069023569 -0.44203086 0.45583558
+baseline.svm.k50-baseline.dt.k1000    -0.1298832523 -0.57881647 0.31904997
+target.dt.k100-baseline.dt.k1000      -0.2023678544 -0.65130108 0.24656537
+target.dt.k1000-baseline.dt.k1000     -0.2666574625 -0.71559068 0.18227576
+target.dt.k300-baseline.dt.k1000      -0.2562893612 -0.70522258 0.19264386
+target.dt.k3000-baseline.dt.k1000     -0.0279330397 -0.47686626 0.42100018
+target.dt.k50-baseline.dt.k1000       -0.4042037835 -0.85313701 0.04472944
+target.svm.k100-baseline.dt.k1000     -0.2694548704 -0.71838809 0.17947835
+target.svm.k1000-baseline.dt.k1000    -0.1584765978 -0.60740982 0.29045662
+target.svm.k300-baseline.dt.k1000     -0.3840638728 -0.83299709 0.06486935
+target.svm.k3000-baseline.dt.k1000    -0.0239242014 -0.47285742 0.42500902
+target.svm.k50-baseline.dt.k1000      -0.2012904133 -0.65022364 0.24764281
+baseline.dt.k3000-baseline.dt.k300     0.1329777388 -0.31595548 0.58191096
+baseline.dt.k50-baseline.dt.k300       0.0241041019 -0.42482912 0.47303732
+baseline.svm.k100-baseline.dt.k300     0.0053530093 -0.44358021 0.45428623
+baseline.svm.k1000-baseline.dt.k300    0.1532323685 -0.29570085 0.60216559
+baseline.svm.k300-baseline.dt.k300     0.1525089888 -0.29642423 0.60144221
+baseline.svm.k3000-baseline.dt.k300    0.1555050957 -0.29342813 0.60443832
+baseline.svm.k50-baseline.dt.k300      0.0187194865 -0.43021374 0.46765271
+target.dt.k100-baseline.dt.k300       -0.0537651156 -0.50269834 0.39516811
+target.dt.k1000-baseline.dt.k300      -0.1180547237 -0.56698795 0.33087850
+target.dt.k300-baseline.dt.k300       -0.1076866223 -0.55661984 0.34124660
+target.dt.k3000-baseline.dt.k300       0.1206696991 -0.32826352 0.56960292
+target.dt.k50-baseline.dt.k300        -0.2556010447 -0.70453427 0.19333218
+target.svm.k100-baseline.dt.k300      -0.1208521316 -0.56978535 0.32808109
+target.svm.k1000-baseline.dt.k300     -0.0098738590 -0.45880708 0.43905936
+target.svm.k300-baseline.dt.k300      -0.2354611340 -0.68439436 0.21347209
+target.svm.k3000-baseline.dt.k300      0.1246785375 -0.32425468 0.57361176
+target.svm.k50-baseline.dt.k300       -0.0526876745 -0.50162090 0.39624555
+baseline.dt.k50-baseline.dt.k3000     -0.1088736369 -0.55780686 0.34005958
+baseline.svm.k100-baseline.dt.k3000   -0.1276247296 -0.57655795 0.32130849
+baseline.svm.k1000-baseline.dt.k3000   0.0202546296 -0.42867859 0.46918785
+baseline.svm.k300-baseline.dt.k3000    0.0195312500 -0.42940197 0.46846447
+baseline.svm.k3000-baseline.dt.k3000   0.0225273569 -0.42640586 0.47146058
+baseline.svm.k50-baseline.dt.k3000    -0.1142582523 -0.56319147 0.33467497
+target.dt.k100-baseline.dt.k3000      -0.1867428544 -0.63567608 0.26219037
+target.dt.k1000-baseline.dt.k3000     -0.2510324625 -0.69996568 0.19790076
+target.dt.k300-baseline.dt.k3000      -0.2406643612 -0.68959758 0.20826886
+target.dt.k3000-baseline.dt.k3000     -0.0123080397 -0.46124126 0.43662518
+target.dt.k50-baseline.dt.k3000       -0.3885787835 -0.83751201 0.06035444
+target.svm.k100-baseline.dt.k3000     -0.2538298704 -0.70276309 0.19510335
+target.svm.k1000-baseline.dt.k3000    -0.1428515978 -0.59178482 0.30608162
+target.svm.k300-baseline.dt.k3000     -0.3684388728 -0.81737209 0.08049435
+target.svm.k3000-baseline.dt.k3000    -0.0082992014 -0.45723242 0.44063402
+target.svm.k50-baseline.dt.k3000      -0.1856654133 -0.63459864 0.26326781
+baseline.svm.k100-baseline.dt.k50     -0.0187510927 -0.46768431 0.43018213
+baseline.svm.k1000-baseline.dt.k50     0.1291282665 -0.31980496 0.57806149
+baseline.svm.k300-baseline.dt.k50      0.1284048869 -0.32052833 0.57733811
+baseline.svm.k3000-baseline.dt.k50     0.1314009938 -0.31753223 0.58033422
+baseline.svm.k50-baseline.dt.k50      -0.0053846154 -0.45431784 0.44354861
+target.dt.k100-baseline.dt.k50        -0.0778692175 -0.52680244 0.37106400
+target.dt.k1000-baseline.dt.k50       -0.1421588256 -0.59109205 0.30677440
+target.dt.k300-baseline.dt.k50        -0.1317907242 -0.58072395 0.31714250
+target.dt.k3000-baseline.dt.k50        0.0965655972 -0.35236762 0.54549882
+target.dt.k50-baseline.dt.k50         -0.2797051466 -0.72863837 0.16922808
+target.svm.k100-baseline.dt.k50       -0.1449562335 -0.59388946 0.30397699
+target.svm.k1000-baseline.dt.k50      -0.0339779609 -0.48291118 0.41495526
+target.svm.k300-baseline.dt.k50       -0.2595652359 -0.70849846 0.18936799
+target.svm.k3000-baseline.dt.k50       0.1005744356 -0.34835879 0.54950766
+target.svm.k50-baseline.dt.k50        -0.0767917764 -0.52572500 0.37214145
+baseline.svm.k1000-baseline.svm.k100   0.1478793592 -0.30105386 0.59681258
+baseline.svm.k300-baseline.svm.k100    0.1471559796 -0.30177724 0.59608920
+baseline.svm.k3000-baseline.svm.k100   0.1501520865 -0.29878114 0.59908531
+baseline.svm.k50-baseline.svm.k100     0.0133664773 -0.43556674 0.46229970
+target.dt.k100-baseline.svm.k100      -0.0591181248 -0.50805135 0.38981510
+target.dt.k1000-baseline.svm.k100     -0.1234077329 -0.57234095 0.32552549
+target.dt.k300-baseline.svm.k100      -0.1130396316 -0.56197285 0.33589359
+target.dt.k3000-baseline.svm.k100      0.1153166898 -0.33361653 0.56424991
+target.dt.k50-baseline.svm.k100       -0.2609540539 -0.70988728 0.18797917
+target.svm.k100-baseline.svm.k100     -0.1262051408 -0.57513836 0.32272808
+target.svm.k1000-baseline.svm.k100    -0.0152268682 -0.46416009 0.43370635
+target.svm.k300-baseline.svm.k100     -0.2408141432 -0.68974737 0.20811908
+target.svm.k3000-baseline.svm.k100     0.1193255282 -0.32960769 0.56825875
+target.svm.k50-baseline.svm.k100      -0.0580406838 -0.50697391 0.39089254
+baseline.svm.k300-baseline.svm.k1000  -0.0007233796 -0.44965660 0.44820984
+baseline.svm.k3000-baseline.svm.k1000  0.0022727273 -0.44666049 0.45120595
+baseline.svm.k50-baseline.svm.k1000   -0.1345128819 -0.58344610 0.31442034
+target.dt.k100-baseline.svm.k1000     -0.2069974840 -0.65593071 0.24193574
+target.dt.k1000-baseline.svm.k1000    -0.2712870921 -0.72022031 0.17764613
+target.dt.k300-baseline.svm.k1000     -0.2609189908 -0.70985221 0.18801423
+target.dt.k3000-baseline.svm.k1000    -0.0325626694 -0.48149589 0.41637055
+target.dt.k50-baseline.svm.k1000      -0.4088334131 -0.85776663 0.04009981
+target.svm.k100-baseline.svm.k1000    -0.2740845000 -0.72301772 0.17484872
+target.svm.k1000-baseline.svm.k1000   -0.1631062274 -0.61203945 0.28582699
+target.svm.k300-baseline.svm.k1000    -0.3886935024 -0.83762672 0.06023972
+target.svm.k3000-baseline.svm.k1000   -0.0285538310 -0.47748705 0.42037939
+target.svm.k50-baseline.svm.k1000     -0.2059200430 -0.65485326 0.24301318
+baseline.svm.k3000-baseline.svm.k300   0.0029961069 -0.44593711 0.45192933
+baseline.svm.k50-baseline.svm.k300    -0.1337895023 -0.58272272 0.31514372
+target.dt.k100-baseline.svm.k300      -0.2062741044 -0.65520733 0.24265912
+target.dt.k1000-baseline.svm.k300     -0.2705637125 -0.71949693 0.17836951
+target.dt.k300-baseline.svm.k300      -0.2601956112 -0.70912883 0.18873761
+target.dt.k3000-baseline.svm.k300     -0.0318392897 -0.48077251 0.41709393
+target.dt.k50-baseline.svm.k300       -0.4081100335 -0.85704326 0.04082319
+target.svm.k100-baseline.svm.k300     -0.2733611204 -0.72229434 0.17557210
+target.svm.k1000-baseline.svm.k300    -0.1623828478 -0.61131607 0.28655037
+target.svm.k300-baseline.svm.k300     -0.3879701228 -0.83690334 0.06096310
+target.svm.k3000-baseline.svm.k300    -0.0278304514 -0.47676367 0.42110277
+target.svm.k50-baseline.svm.k300      -0.2051966633 -0.65412989 0.24373656
+baseline.svm.k50-baseline.svm.k3000   -0.1367856092 -0.58571883 0.31214761
+target.dt.k100-baseline.svm.k3000     -0.2092702113 -0.65820343 0.23966301
+target.dt.k1000-baseline.svm.k3000    -0.2735598194 -0.72249304 0.17537340
+target.dt.k300-baseline.svm.k3000     -0.2631917181 -0.71212494 0.18574150
+target.dt.k3000-baseline.svm.k3000    -0.0348353966 -0.48376862 0.41409783
+target.dt.k50-baseline.svm.k3000      -0.4111061404 -0.86003936 0.03782708
+target.svm.k100-baseline.svm.k3000    -0.2763572273 -0.72529045 0.17257599
+target.svm.k1000-baseline.svm.k3000   -0.1653789547 -0.61431218 0.28355427
+target.svm.k300-baseline.svm.k3000    -0.3909662297 -0.83989945 0.05796699
+target.svm.k3000-baseline.svm.k3000   -0.0308265583 -0.47975978 0.41810666
+target.svm.k50-baseline.svm.k3000     -0.2081927702 -0.65712599 0.24074045
+target.dt.k100-baseline.svm.k50       -0.0724846021 -0.52141782 0.37644862
+target.dt.k1000-baseline.svm.k50      -0.1367742102 -0.58570743 0.31215901
+target.dt.k300-baseline.svm.k50       -0.1264061089 -0.57533933 0.32252711
+target.dt.k3000-baseline.svm.k50       0.1019502126 -0.34698301 0.55088343
+target.dt.k50-baseline.svm.k50        -0.2743205312 -0.72325375 0.17461269
+target.svm.k100-baseline.svm.k50      -0.1395716181 -0.58850484 0.30936160
+target.svm.k1000-baseline.svm.k50     -0.0285933455 -0.47752657 0.42033988
+target.svm.k300-baseline.svm.k50      -0.2541806205 -0.70311384 0.19475260
+target.svm.k3000-baseline.svm.k50      0.1059590509 -0.34297417 0.55489227
+target.svm.k50-baseline.svm.k50       -0.0714071610 -0.52034038 0.37752606
+target.dt.k1000-target.dt.k100        -0.0642896081 -0.51322283 0.38464361
+target.dt.k300-target.dt.k100         -0.0539215067 -0.50285473 0.39501172
+target.dt.k3000-target.dt.k100         0.1744348147 -0.27449841 0.62336804
+target.dt.k50-target.dt.k100          -0.2018359291 -0.65076915 0.24709729
+target.svm.k100-target.dt.k100        -0.0670870160 -0.51602024 0.38184621
+target.svm.k1000-target.dt.k100        0.0438912566 -0.40504197 0.49282448
+target.svm.k300-target.dt.k100        -0.1816960184 -0.63062924 0.26723720
+target.svm.k3000-target.dt.k100        0.1784436531 -0.27048957 0.62737687
+target.svm.k50-target.dt.k100          0.0010774411 -0.44785578 0.45001066
+target.dt.k300-target.dt.k1000         0.0103681013 -0.43856512 0.45930132
+target.dt.k3000-target.dt.k1000        0.2387244227 -0.21020880 0.68765764
+target.dt.k50-target.dt.k1000         -0.1375463210 -0.58647954 0.31138690
+target.svm.k100-target.dt.k1000       -0.0027974079 -0.45173063 0.44613581
+target.svm.k1000-target.dt.k1000       0.1081808647 -0.34075236 0.55711409
+target.svm.k300-target.dt.k1000       -0.1174064103 -0.56633963 0.33152681
+target.svm.k3000-target.dt.k1000       0.2427332611 -0.20619996 0.69166648
+target.svm.k50-target.dt.k1000         0.0653670491 -0.38356617 0.51430027
+target.dt.k3000-target.dt.k300         0.2283563214 -0.22057690 0.67728954
+target.dt.k50-target.dt.k300          -0.1479144224 -0.59684764 0.30101880
+target.svm.k100-target.dt.k300        -0.0131655093 -0.46209873 0.43576771
+target.svm.k1000-target.dt.k300        0.0978127634 -0.35112046 0.54674599
+target.svm.k300-target.dt.k300        -0.1277745117 -0.57670773 0.32115871
+target.svm.k3000-target.dt.k300        0.2323651598 -0.21656806 0.68129838
+target.svm.k50-target.dt.k300          0.0549989478 -0.39393427 0.50393217
+target.dt.k50-target.dt.k3000         -0.3762707438 -0.82520397 0.07266248
+target.svm.k100-target.dt.k3000       -0.2415218307 -0.69045505 0.20741139
+target.svm.k1000-target.dt.k3000      -0.1305435580 -0.57947678 0.31838966
+target.svm.k300-target.dt.k3000       -0.3561308331 -0.80506405 0.09280239
+target.svm.k3000-target.dt.k3000       0.0040088384 -0.44492438 0.45294206
+target.svm.k50-target.dt.k3000        -0.1733573736 -0.62229060 0.27557585
+target.svm.k100-target.dt.k50          0.1347489131 -0.31418431 0.58368213
+target.svm.k1000-target.dt.k50         0.2457271857 -0.20320604 0.69466041
+target.svm.k300-target.dt.k50          0.0201399107 -0.42879331 0.46907313
+target.svm.k3000-target.dt.k50         0.3802795822 -0.06865364 0.82921280
+target.svm.k50-target.dt.k50           0.2029133702 -0.24601985 0.65184659
+target.svm.k1000-target.svm.k100       0.1109782726 -0.33795495 0.55991149
+target.svm.k300-target.svm.k100       -0.1146090024 -0.56354222 0.33432422
+target.svm.k3000-target.svm.k100       0.2455306690 -0.20340255 0.69446389
+target.svm.k50-target.svm.k100         0.0681644571 -0.38076876 0.51709768
+target.svm.k300-target.svm.k1000      -0.2255872750 -0.67452050 0.22334595
+target.svm.k3000-target.svm.k1000      0.1345523964 -0.31438083 0.58348562
+target.svm.k50-target.svm.k1000       -0.0428138156 -0.49174704 0.40611941
+target.svm.k3000-target.svm.k300       0.3601396714 -0.08879355 0.80907289
+target.svm.k50-target.svm.k300         0.1827734595 -0.26615976 0.63170668
+target.svm.k50-target.svm.k3000       -0.1773662120 -0.62629943 0.27156701
+                                          p adj
+baseline.dt.k1000-baseline.dt.k100    0.9999994
+baseline.dt.k300-baseline.dt.k100     1.0000000
+baseline.dt.k3000-baseline.dt.k100    1.0000000
+baseline.dt.k50-baseline.dt.k100      1.0000000
+baseline.svm.k100-baseline.dt.k100    1.0000000
+baseline.svm.k1000-baseline.dt.k100   0.9999988
+baseline.svm.k300-baseline.dt.k100    0.9999989
+baseline.svm.k3000-baseline.dt.k100   0.9999983
+baseline.svm.k50-baseline.dt.k100     1.0000000
+target.dt.k100-baseline.dt.k100       0.9999988
+target.dt.k1000-baseline.dt.k100      0.9983873
+target.dt.k300-baseline.dt.k100       0.9993067
+target.dt.k3000-baseline.dt.k100      1.0000000
+target.dt.k50-baseline.dt.k100        0.6181033
+target.svm.k100-baseline.dt.k100      0.9980061
+target.svm.k1000-baseline.dt.k100     1.0000000
+target.svm.k300-baseline.dt.k100      0.7344112
+target.svm.k3000-baseline.dt.k100     1.0000000
+target.svm.k50-baseline.dt.k100       0.9999990
+baseline.dt.k300-baseline.dt.k1000    0.9996865
+baseline.dt.k3000-baseline.dt.k1000   1.0000000
+baseline.dt.k50-baseline.dt.k1000     0.9999770
+baseline.svm.k100-baseline.dt.k1000   0.9998139
+baseline.svm.k1000-baseline.dt.k1000  1.0000000
+baseline.svm.k300-baseline.dt.k1000   1.0000000
+baseline.svm.k3000-baseline.dt.k1000  1.0000000
+baseline.svm.k50-baseline.dt.k1000    0.9999561
+target.dt.k100-baseline.dt.k1000      0.9850260
+target.dt.k1000-baseline.dt.k1000     0.8266246
+target.dt.k300-baseline.dt.k1000      0.8695084
+target.dt.k3000-baseline.dt.k1000     1.0000000
+target.dt.k50-baseline.dt.k1000       0.1362190
+target.svm.k100-baseline.dt.k1000     0.8139028
+target.svm.k1000-baseline.dt.k1000    0.9992398
+target.svm.k300-baseline.dt.k1000     0.2016214
+target.svm.k3000-baseline.dt.k1000    1.0000000
+target.svm.k50-baseline.dt.k1000      0.9858654
+baseline.dt.k3000-baseline.dt.k300    0.9999375
+baseline.dt.k50-baseline.dt.k300      1.0000000
+baseline.svm.k100-baseline.dt.k300    1.0000000
+baseline.svm.k1000-baseline.dt.k300   0.9995195
+baseline.svm.k300-baseline.dt.k300    0.9995499
+baseline.svm.k3000-baseline.dt.k300   0.9994120
+baseline.svm.k50-baseline.dt.k300     1.0000000
+target.dt.k100-baseline.dt.k300       1.0000000
+target.dt.k1000-baseline.dt.k300      0.9999899
+target.dt.k300-baseline.dt.k300       0.9999977
+target.dt.k3000-baseline.dt.k300      0.9999858
+target.dt.k50-baseline.dt.k300        0.8721087
+target.svm.k100-baseline.dt.k300      0.9999855
+target.svm.k1000-baseline.dt.k300     1.0000000
+target.svm.k300-baseline.dt.k300      0.9342882
+target.svm.k3000-baseline.dt.k300     0.9999765
+target.svm.k50-baseline.dt.k300       1.0000000
+baseline.dt.k50-baseline.dt.k3000     0.9999972
+baseline.svm.k100-baseline.dt.k3000   0.9999663
+baseline.svm.k1000-baseline.dt.k3000  1.0000000
+baseline.svm.k300-baseline.dt.k3000   1.0000000
+baseline.svm.k3000-baseline.dt.k3000  1.0000000
+baseline.svm.k50-baseline.dt.k3000    0.9999940
+target.dt.k100-baseline.dt.k3000      0.9939450
+target.dt.k1000-baseline.dt.k3000     0.8885707
+target.dt.k300-baseline.dt.k3000      0.9207753
+target.dt.k3000-baseline.dt.k3000     1.0000000
+target.dt.k50-baseline.dt.k3000       0.1852894
+target.svm.k100-baseline.dt.k3000     0.8786556
+target.svm.k1000-baseline.dt.k3000    0.9998212
+target.svm.k300-baseline.dt.k3000     0.2658074
+target.svm.k3000-baseline.dt.k3000    1.0000000
+target.svm.k50-baseline.dt.k3000      0.9943441
+baseline.svm.k100-baseline.dt.k50     1.0000000
+baseline.svm.k1000-baseline.dt.k50    0.9999598
+baseline.svm.k300-baseline.dt.k50     0.9999631
+baseline.svm.k3000-baseline.dt.k50    0.9999477
+baseline.svm.k50-baseline.dt.k50      1.0000000
+target.dt.k100-baseline.dt.k50        1.0000000
+target.dt.k1000-baseline.dt.k50       0.9998333
+target.dt.k300-baseline.dt.k50        0.9999453
+target.dt.k3000-baseline.dt.k50       0.9999996
+target.dt.k50-baseline.dt.k50         0.7634880
+target.svm.k100-baseline.dt.k50       0.9997795
+target.svm.k1000-baseline.dt.k50      1.0000000
+target.svm.k300-baseline.dt.k50       0.8567059
+target.svm.k3000-baseline.dt.k50      0.9999992
+target.svm.k50-baseline.dt.k50        1.0000000
+baseline.svm.k1000-baseline.svm.k100  0.9997073
+baseline.svm.k300-baseline.svm.k100   0.9997269
+baseline.svm.k3000-baseline.svm.k100  0.9996375
+baseline.svm.k50-baseline.svm.k100    1.0000000
+target.dt.k100-baseline.svm.k100      1.0000000
+target.dt.k1000-baseline.svm.k100     0.9999799
+target.dt.k300-baseline.svm.k100      0.9999949
+target.dt.k3000-baseline.svm.k100     0.9999930
+target.dt.k50-baseline.svm.k100       0.8510671
+target.svm.k100-baseline.svm.k100     0.9999716
+target.svm.k1000-baseline.svm.k100    1.0000000
+target.svm.k300-baseline.svm.k100     0.9203605
+target.svm.k3000-baseline.svm.k100    0.9999881
+target.svm.k50-baseline.svm.k100      1.0000000
+baseline.svm.k300-baseline.svm.k1000  1.0000000
+baseline.svm.k3000-baseline.svm.k1000 1.0000000
+baseline.svm.k50-baseline.svm.k1000   0.9999258
+target.dt.k100-baseline.svm.k1000     0.9809569
+target.dt.k1000-baseline.svm.k1000    0.8053189
+target.dt.k300-baseline.svm.k1000     0.8512110
+target.dt.k3000-baseline.svm.k1000    1.0000000
+target.dt.k50-baseline.svm.k1000      0.1238010
+target.svm.k100-baseline.svm.k1000    0.7918427
+target.svm.k1000-baseline.svm.k1000   0.9988838
+target.svm.k300-baseline.svm.k1000    0.1848873
+target.svm.k3000-baseline.svm.k1000   1.0000000
+target.svm.k50-baseline.svm.k1000     0.9819738
+baseline.svm.k3000-baseline.svm.k300  1.0000000
+baseline.svm.k50-baseline.svm.k300    0.9999315
+target.dt.k100-baseline.svm.k300      0.9816445
+target.dt.k1000-baseline.svm.k300     0.8087313
+target.dt.k300-baseline.svm.k300      0.8541619
+target.dt.k3000-baseline.svm.k300     1.0000000
+target.dt.k50-baseline.svm.k300       0.1256803
+target.svm.k100-baseline.svm.k300     0.7953696
+target.svm.k1000-baseline.svm.k300    0.9989475
+target.svm.k300-baseline.svm.k300     0.1874336
+target.svm.k3000-baseline.svm.k300    1.0000000
+target.svm.k50-baseline.svm.k300      0.9826321
+baseline.svm.k50-baseline.svm.k3000   0.9999049
+target.dt.k100-baseline.svm.k3000     0.9786642
+target.dt.k1000-baseline.svm.k3000    0.7944037
+target.dt.k300-baseline.svm.k3000     0.8417216
+target.dt.k3000-baseline.svm.k3000    1.0000000
+target.dt.k50-baseline.svm.k3000      0.1180407
+target.svm.k100-baseline.svm.k3000    0.7805765
+target.svm.k1000-baseline.svm.k3000   0.9986614
+target.svm.k300-baseline.svm.k3000    0.1770507
+target.svm.k3000-baseline.svm.k3000   1.0000000
+target.svm.k50-baseline.svm.k3000     0.9797766
+target.dt.k100-baseline.svm.k50       1.0000000
+target.dt.k1000-baseline.svm.k50      0.9999050
+target.dt.k300-baseline.svm.k50       0.9999709
+target.dt.k3000-baseline.svm.k50      0.9999991
+target.dt.k50-baseline.svm.k50        0.7906857
+target.svm.k100-baseline.svm.k50      0.9998723
+target.svm.k1000-baseline.svm.k50     1.0000000
+target.svm.k300-baseline.svm.k50      0.8773757
+target.svm.k3000-baseline.svm.k50     0.9999982
+target.svm.k50-baseline.svm.k50       1.0000000
+target.dt.k1000-target.dt.k100        1.0000000
+target.dt.k300-target.dt.k100         1.0000000
+target.dt.k3000-target.dt.k100        0.9973529
+target.dt.k50-target.dt.k100          0.9854452
+target.svm.k100-target.dt.k100        1.0000000
+target.svm.k1000-target.dt.k100       1.0000000
+target.svm.k300-target.dt.k100        0.9956304
+target.svm.k3000-target.dt.k100       0.9964923
+target.svm.k50-target.dt.k100         1.0000000
+target.dt.k300-target.dt.k1000        1.0000000
+target.dt.k3000-target.dt.k1000       0.9260159
+target.dt.k50-target.dt.k1000         0.9998969
+target.svm.k100-target.dt.k1000       1.0000000
+target.svm.k1000-target.dt.k1000      0.9999975
+target.svm.k300-target.dt.k1000       0.9999908
+target.svm.k3000-target.dt.k1000      0.9149166
+target.svm.k50-target.dt.k1000        1.0000000
+target.dt.k3000-target.dt.k300        0.9500222
+target.dt.k50-target.dt.k300          0.9997064
+target.svm.k100-target.dt.k300        1.0000000
+target.svm.k1000-target.dt.k300       0.9999995
+target.svm.k300-target.dt.k300        0.9999657
+target.svm.k3000-target.dt.k300       0.9415200
+target.svm.k50-target.dt.k300         1.0000000
+target.dt.k50-target.dt.k3000         0.2321485
+target.svm.k100-target.dt.k3000       0.9183811
+target.svm.k1000-target.dt.k3000      0.9999526
+target.svm.k300-target.dt.k3000       0.3245455
+target.svm.k3000-target.dt.k3000      1.0000000
+target.svm.k50-target.dt.k3000        0.9975508
+target.svm.k100-target.dt.k50         0.9999238
+target.svm.k1000-target.dt.k50        0.9059402
+target.svm.k300-target.dt.k50         1.0000000
+target.svm.k3000-target.dt.k50        0.2160745
+target.svm.k50-target.dt.k50          0.9845861
+target.svm.k1000-target.svm.k100      0.9999962
+target.svm.k300-target.svm.k100       0.9999937
+target.svm.k3000-target.svm.k100      0.9065476
+target.svm.k50-target.svm.k100        1.0000000
+target.svm.k300-target.svm.k1000      0.9553483
+target.svm.k3000-target.svm.k1000     0.9999255
+target.svm.k50-target.svm.k1000       1.0000000
+target.svm.k3000-target.svm.k300      0.3046571
+target.svm.k50-target.svm.k300        0.9953083
+target.svm.k50-target.svm.k3000       0.9967441
+
+[1] "--- second run ---"
+[1] " * excluded"
+[1] " * dt"
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "dt.k50"]
+W = 0.90837, p-value = 0.3427
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "dt.k100"]
+W = 0.8797, p-value = 0.1871
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "dt.k300"]
+W = 0.8139, p-value = 0.04024
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "dt.k1000"]
+W = 0.80329, p-value = 0.03104
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "dt.k3000"]
+W = 0.79011, p-value = 0.02241
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "svm.k50"]
+W = 0.86355, p-value = 0.1302
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "svm.k100"]
+W = 0.85669, p-value = 0.1113
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "svm.k300"]
+W = 0.97427, p-value = 0.9292
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "svm.k1000"]
+W = 0.90686, p-value = 0.3325
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded[second_run, "svm.k3000"]
+W = 0.9327, p-value = 0.5409
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "dt.k50"]
+W = 0.88257, p-value = 0.1993
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "dt.k100"]
+W = 0.86454, p-value = 0.1332
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "dt.k300"]
+W = 0.86518, p-value = 0.1351
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "dt.k1000"]
+W = 0.85825, p-value = 0.1153
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "dt.k3000"]
+W = 0.83821, p-value = 0.0722
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "svm.k50"]
+W = 0.87424, p-value = 0.1657
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "svm.k100"]
+W = 0.89358, p-value = 0.2526
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "svm.k300"]
+W = 0.91691, p-value = 0.4053
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "svm.k1000"]
+W = 0.88455, p-value = 0.208
+
+
+	Shapiro-Wilk normality test
+
+data:  excluded_baseline[second_run, "svm.k3000"]
+W = 0.88808, p-value = 0.2246
+
+
+	Friedman rank sum test
+
+data:  data
+Friedman chi-squared = 93.293, df = 19, p-value = 8.609e-12
+
+
+	Pairwise comparisons using Nemenyi multiple comparison test	
+             with q approximation for unreplicated blocked data 
+
+data:  data 
+
+                   target.dt.k50 target.svm.k50 target.dt.k100 target.svm.k100
+target.svm.k50     1.0000        -              -              -              
+target.dt.k100     1.0000        1.0000         -              -              
+target.svm.k100    1.0000        1.0000         1.0000         -              
+target.dt.k300     1.0000        1.0000         1.0000         1.0000         
+target.svm.k300    0.3782        0.5391         0.4893         0.8616         
+target.dt.k1000    1.0000        1.0000         1.0000         1.0000         
+target.svm.k1000   0.0734        0.1354         0.1135         0.3934         
+target.dt.k3000    1.0000        1.0000         1.0000         1.0000         
+target.svm.k3000   0.1433        0.2428         0.2090         0.5725         
+baseline.dt.k50    0.9976        0.9997         0.9995         1.0000         
+baseline.svm.k50   0.0099        0.0220         0.0175         0.1006         
+baseline.dt.k100   1.0000        1.0000         1.0000         1.0000         
+baseline.svm.k100  0.0220        0.0458         0.0370         0.1787         
+baseline.dt.k300   1.0000        1.0000         1.0000         1.0000         
+baseline.svm.k300  0.0055        0.0127         0.0099         0.0643         
+baseline.dt.k1000  0.9989        0.9999         0.9998         1.0000         
+baseline.svm.k1000 0.0256        0.0525         0.0427         0.1986         
+baseline.dt.k3000  0.9931        0.9989         0.9981         1.0000         
+baseline.svm.k3000 0.0161        0.0344         0.0276         0.1433         
+                   target.dt.k300 target.svm.k300 target.dt.k1000
+target.svm.k50     -              -               -              
+target.dt.k100     -              -               -              
+target.svm.k100    -              -               -              
+target.dt.k300     -              -               -              
+target.svm.k300    0.7757         -               -              
+target.dt.k1000    1.0000         0.7893          -              
+target.svm.k1000   0.2929         1.0000          0.3063         
+target.dt.k3000    1.0000         0.9003          1.0000         
+target.svm.k3000   0.4566         1.0000          0.4729         
+baseline.dt.k50    1.0000         0.9987          1.0000         
+baseline.svm.k50   0.0643         0.9997          0.0687         
+baseline.dt.k100   1.0000         0.9638          1.0000         
+baseline.svm.k100  0.1205         1.0000          0.1278         
+baseline.dt.k300   1.0000         0.9678          1.0000         
+baseline.svm.k300  0.0397         0.9984          0.0427         
+baseline.dt.k1000  1.0000         0.9971          1.0000         
+baseline.svm.k1000 0.1354         1.0000          0.1433         
+baseline.dt.k3000  1.0000         0.9997          1.0000         
+baseline.svm.k3000 0.0946         0.9999          0.1006         
+                   target.svm.k1000 target.dt.k3000 target.svm.k3000
+target.svm.k50     -                -               -               
+target.dt.k100     -                -               -               
+target.svm.k100    -                -               -               
+target.dt.k300     -                -               -               
+target.svm.k300    -                -               -               
+target.dt.k1000    -                -               -               
+target.svm.k1000   -                -               -               
+target.dt.k3000    0.4566           -               -               
+target.svm.k3000   1.0000           0.6387          -               
+baseline.dt.k50    0.9003           1.0000          0.9678          
+baseline.svm.k50   1.0000           0.1278          1.0000          
+baseline.dt.k100   0.6223           1.0000          0.7893          
+baseline.svm.k100  1.0000           0.2199          1.0000          
+baseline.dt.k300   0.6387           1.0000          0.8025          
+baseline.svm.k300  1.0000           0.0834          1.0000          
+baseline.dt.k1000  0.8616           1.0000          0.9493          
+baseline.svm.k1000 1.0000           0.2428          1.0000          
+baseline.dt.k3000  0.9437           1.0000          0.9853          
+baseline.svm.k3000 1.0000           0.1787          1.0000          
+                   baseline.dt.k50 baseline.svm.k50 baseline.dt.k100
+target.svm.k50     -               -                -               
+target.dt.k100     -               -                -               
+target.svm.k100    -               -                -               
+target.dt.k300     -               -                -               
+target.svm.k300    -               -                -               
+target.dt.k1000    -               -                -               
+target.svm.k1000   -               -                -               
+target.dt.k3000    -               -                -               
+target.svm.k3000   -               -                -               
+baseline.dt.k50    -               -                -               
+baseline.svm.k50   0.5225          -                -               
+baseline.dt.k100   1.0000          0.2199           -               
+baseline.svm.k100  0.6868          1.0000           0.3485          
+baseline.dt.k300   1.0000          0.2312           1.0000          
+baseline.svm.k300  0.4089          1.0000           0.1516          
+baseline.dt.k1000  1.0000          0.4566           1.0000          
+baseline.svm.k1000 0.7177          1.0000           0.3782          
+baseline.dt.k3000  1.0000          0.6223           1.0000          
+baseline.svm.k3000 0.6223          1.0000           0.2929          
+                   baseline.svm.k100 baseline.dt.k300 baseline.svm.k300
+target.svm.k50     -                 -                -                
+target.dt.k100     -                 -                -                
+target.svm.k100    -                 -                -                
+target.dt.k300     -                 -                -                
+target.svm.k300    -                 -                -                
+target.dt.k1000    -                 -                -                
+target.svm.k1000   -                 -                -                
+target.dt.k3000    -                 -                -                
+target.svm.k3000   -                 -                -                
+baseline.dt.k50    -                 -                -                
+baseline.svm.k50   -                 -                -                
+baseline.dt.k100   -                 -                -                
+baseline.svm.k100  -                 -                -                
+baseline.dt.k300   0.3632            -                -                
+baseline.svm.k300  1.0000            0.1603           -                
+baseline.dt.k1000  0.6223            1.0000           0.3485           
+baseline.svm.k1000 1.0000            0.3934           1.0000           
+baseline.dt.k3000  0.7757            1.0000           0.5059           
+baseline.svm.k3000 1.0000            0.3063           1.0000           
+                   baseline.dt.k1000 baseline.svm.k1000 baseline.dt.k3000
+target.svm.k50     -                 -                  -                
+target.dt.k100     -                 -                  -                
+target.svm.k100    -                 -                  -                
+target.dt.k300     -                 -                  -                
+target.svm.k300    -                 -                  -                
+target.dt.k1000    -                 -                  -                
+target.svm.k1000   -                 -                  -                
+target.dt.k3000    -                 -                  -                
+target.svm.k3000   -                 -                  -                
+baseline.dt.k50    -                 -                  -                
+baseline.svm.k50   -                 -                  -                
+baseline.dt.k100   -                 -                  -                
+baseline.svm.k100  -                 -                  -                
+baseline.dt.k300   -                 -                  -                
+baseline.svm.k300  -                 -                  -                
+baseline.dt.k1000  -                 -                  -                
+baseline.svm.k1000 0.6549            -                  -                
+baseline.dt.k3000  1.0000            0.8025             -                
+baseline.svm.k3000 0.5558            1.0000             0.7177           
+
+P value adjustment method: none 

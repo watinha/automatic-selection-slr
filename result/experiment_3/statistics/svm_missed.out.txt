@@ -1,0 +1,52 @@
+[1] "--- first run ---"
+[1] " * missed"
+[1] " * svm"
+
+	Shapiro-Wilk normality test
+
+data:  target
+W = 0.78817, p-value = 3.874e-06
+
+
+	Shapiro-Wilk normality test
+
+data:  baseline
+W = 0.86833, p-value = 0.0002589
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.000   0.000   0.025   0.100   0.200   0.400 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  0.0000  0.1500  0.1512  0.2125  0.4000 
+
+	Wilcoxon signed rank test with continuity correction
+
+data:  target and baseline
+V = 0, p-value = 0.005729
+alternative hypothesis: true location shift is not equal to 0
+
+[1] "--- second run ---"
+[1] " * missed"
+[1] " * svm"
+
+	Shapiro-Wilk normality test
+
+data:  target
+W = 0.76561, p-value = 1.4e-06
+
+
+	Shapiro-Wilk normality test
+
+data:  baseline
+W = 0.76015, p-value = 1.104e-06
+
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+0.00000 0.00000 0.04651 0.08469 0.14881 0.27907 
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+ 0.0000  0.0000  0.1091  0.1552  0.2558  0.9167 
+
+	Wilcoxon signed rank test with continuity correction
+
+data:  target and baseline
+V = 0, p-value = 0.001635
+alternative hypothesis: true location shift is not equal to 0
+

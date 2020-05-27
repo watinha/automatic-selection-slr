@@ -1,0 +1,513 @@
+[1] "--- first run ---"
+[1] " * missed"
+
+	Shapiro-Wilk normality test
+
+data:  missed[first_run, "dt.k50"]
+W = 0.72417, p-value = 0.004214
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[first_run, "dt.k100"]
+W = 0.72725, p-value = 0.004562
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[first_run, "dt.k300"]
+W = 0.83009, p-value = 0.05949
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[first_run, "dt.k1000"]
+W = 0.71734, p-value = 0.003533
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[first_run, "dt.k3000"]
+W = 0.72417, p-value = 0.004214
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[first_run, "svm.k50"]
+W = 0.79758, p-value = 0.02697
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[first_run, "svm.k100"]
+W = 0.78161, p-value = 0.01814
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[first_run, "svm.k300"]
+W = 0.7924, p-value = 0.02372
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[first_run, "svm.k1000"]
+W = 0.78303, p-value = 0.01879
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[first_run, "svm.k3000"]
+W = 0.78303, p-value = 0.01879
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[first_run, "dt.k50"]
+W = 0.89575, p-value = 0.2644
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[first_run, "dt.k100"]
+W = 0.82044, p-value = 0.04716
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[first_run, "dt.k300"]
+W = 0.79454, p-value = 0.02501
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[first_run, "dt.k1000"]
+W = 0.82611, p-value = 0.05408
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[first_run, "dt.k3000"]
+W = 0.81262, p-value = 0.039
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[first_run, "svm.k50"]
+W = 0.78171, p-value = 0.01818
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[first_run, "svm.k100"]
+W = 0.9392, p-value = 0.6032
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[first_run, "svm.k300"]
+W = 0.86964, p-value = 0.1495
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[first_run, "svm.k1000"]
+W = 0.84686, p-value = 0.08853
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[first_run, "svm.k3000"]
+W = 0.81323, p-value = 0.03959
+
+
+	Friedman rank sum test
+
+data:  data
+Friedman chi-squared = 19.995, df = 19, p-value = 0.3949
+
+
+	Pairwise comparisons using Nemenyi multiple comparison test	
+             with q approximation for unreplicated blocked data 
+
+data:  data 
+
+                   target.dt.k50 target.svm.k50 target.dt.k100 target.svm.k100
+target.svm.k50     1.00          -              -              -              
+target.dt.k100     1.00          1.00           -              -              
+target.svm.k100    1.00          1.00           1.00           -              
+target.dt.k300     1.00          1.00           1.00           1.00           
+target.svm.k300    1.00          1.00           1.00           1.00           
+target.dt.k1000    1.00          1.00           1.00           1.00           
+target.svm.k1000   1.00          1.00           1.00           1.00           
+target.dt.k3000    1.00          1.00           1.00           1.00           
+target.svm.k3000   1.00          1.00           1.00           1.00           
+baseline.dt.k50    1.00          1.00           1.00           1.00           
+baseline.svm.k50   0.76          1.00           0.86           0.98           
+baseline.dt.k100   1.00          1.00           1.00           1.00           
+baseline.svm.k100  1.00          1.00           1.00           1.00           
+baseline.dt.k300   0.99          1.00           1.00           1.00           
+baseline.svm.k300  1.00          1.00           1.00           1.00           
+baseline.dt.k1000  1.00          1.00           1.00           1.00           
+baseline.svm.k1000 1.00          1.00           1.00           1.00           
+baseline.dt.k3000  1.00          1.00           1.00           1.00           
+baseline.svm.k3000 1.00          1.00           1.00           1.00           
+                   target.dt.k300 target.svm.k300 target.dt.k1000
+target.svm.k50     -              -               -              
+target.dt.k100     -              -               -              
+target.svm.k100    -              -               -              
+target.dt.k300     -              -               -              
+target.svm.k300    1.00           -               -              
+target.dt.k1000    1.00           1.00            -              
+target.svm.k1000   1.00           1.00            1.00           
+target.dt.k3000    1.00           1.00            1.00           
+target.svm.k3000   1.00           1.00            1.00           
+baseline.dt.k50    1.00           1.00            1.00           
+baseline.svm.k50   1.00           0.92            0.99           
+baseline.dt.k100   1.00           1.00            1.00           
+baseline.svm.k100  1.00           1.00            1.00           
+baseline.dt.k300   1.00           1.00            1.00           
+baseline.svm.k300  1.00           1.00            1.00           
+baseline.dt.k1000  1.00           1.00            1.00           
+baseline.svm.k1000 1.00           1.00            1.00           
+baseline.dt.k3000  1.00           1.00            1.00           
+baseline.svm.k3000 1.00           1.00            1.00           
+                   target.svm.k1000 target.dt.k3000 target.svm.k3000
+target.svm.k50     -                -               -               
+target.dt.k100     -                -               -               
+target.svm.k100    -                -               -               
+target.dt.k300     -                -               -               
+target.svm.k300    -                -               -               
+target.dt.k1000    -                -               -               
+target.svm.k1000   -                -               -               
+target.dt.k3000    1.00             -               -               
+target.svm.k3000   1.00             1.00            -               
+baseline.dt.k50    1.00             1.00            1.00            
+baseline.svm.k50   0.80             0.88            0.84            
+baseline.dt.k100   1.00             1.00            1.00            
+baseline.svm.k100  1.00             1.00            1.00            
+baseline.dt.k300   0.99             1.00            1.00            
+baseline.svm.k300  1.00             1.00            1.00            
+baseline.dt.k1000  1.00             1.00            1.00            
+baseline.svm.k1000 1.00             1.00            1.00            
+baseline.dt.k3000  1.00             1.00            1.00            
+baseline.svm.k3000 1.00             1.00            1.00            
+                   baseline.dt.k50 baseline.svm.k50 baseline.dt.k100
+target.svm.k50     -               -                -               
+target.dt.k100     -               -                -               
+target.svm.k100    -               -                -               
+target.dt.k300     -               -                -               
+target.svm.k300    -               -                -               
+target.dt.k1000    -               -                -               
+target.svm.k1000   -               -                -               
+target.dt.k3000    -               -                -               
+target.svm.k3000   -               -                -               
+baseline.dt.k50    -               -                -               
+baseline.svm.k50   1.00            -                -               
+baseline.dt.k100   1.00            1.00             -               
+baseline.svm.k100  1.00            1.00             1.00            
+baseline.dt.k300   1.00            1.00             1.00            
+baseline.svm.k300  1.00            0.99             1.00            
+baseline.dt.k1000  1.00            1.00             1.00            
+baseline.svm.k1000 1.00            0.97             1.00            
+baseline.dt.k3000  1.00            1.00             1.00            
+baseline.svm.k3000 1.00            0.95             1.00            
+                   baseline.svm.k100 baseline.dt.k300 baseline.svm.k300
+target.svm.k50     -                 -                -                
+target.dt.k100     -                 -                -                
+target.svm.k100    -                 -                -                
+target.dt.k300     -                 -                -                
+target.svm.k300    -                 -                -                
+target.dt.k1000    -                 -                -                
+target.svm.k1000   -                 -                -                
+target.dt.k3000    -                 -                -                
+target.svm.k3000   -                 -                -                
+baseline.dt.k50    -                 -                -                
+baseline.svm.k50   -                 -                -                
+baseline.dt.k100   -                 -                -                
+baseline.svm.k100  -                 -                -                
+baseline.dt.k300   1.00              -                -                
+baseline.svm.k300  1.00              1.00             -                
+baseline.dt.k1000  1.00              1.00             1.00             
+baseline.svm.k1000 1.00              1.00             1.00             
+baseline.dt.k3000  1.00              1.00             1.00             
+baseline.svm.k3000 1.00              1.00             1.00             
+                   baseline.dt.k1000 baseline.svm.k1000 baseline.dt.k3000
+target.svm.k50     -                 -                  -                
+target.dt.k100     -                 -                  -                
+target.svm.k100    -                 -                  -                
+target.dt.k300     -                 -                  -                
+target.svm.k300    -                 -                  -                
+target.dt.k1000    -                 -                  -                
+target.svm.k1000   -                 -                  -                
+target.dt.k3000    -                 -                  -                
+target.svm.k3000   -                 -                  -                
+baseline.dt.k50    -                 -                  -                
+baseline.svm.k50   -                 -                  -                
+baseline.dt.k100   -                 -                  -                
+baseline.svm.k100  -                 -                  -                
+baseline.dt.k300   -                 -                  -                
+baseline.svm.k300  -                 -                  -                
+baseline.dt.k1000  -                 -                  -                
+baseline.svm.k1000 1.00              -                  -                
+baseline.dt.k3000  1.00              1.00               -                
+baseline.svm.k3000 1.00              1.00               1.00             
+
+P value adjustment method: none 
+[1] "--- second run ---"
+[1] " * missed"
+[1] " * dt"
+
+	Shapiro-Wilk normality test
+
+data:  missed[second_run, "dt.k50"]
+W = 0.78102, p-value = 0.01787
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[second_run, "dt.k100"]
+W = 0.85954, p-value = 0.1188
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[second_run, "dt.k300"]
+W = 0.8214, p-value = 0.04827
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[second_run, "dt.k1000"]
+W = 0.72228, p-value = 0.004013
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[second_run, "dt.k3000"]
+W = 0.81469, p-value = 0.04102
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[second_run, "svm.k50"]
+W = 0.79071, p-value = 0.02275
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[second_run, "svm.k100"]
+W = 0.74474, p-value = 0.007144
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[second_run, "svm.k300"]
+W = 0.87944, p-value = 0.186
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[second_run, "svm.k1000"]
+W = 0.73745, p-value = 0.005929
+
+
+	Shapiro-Wilk normality test
+
+data:  missed[second_run, "svm.k3000"]
+W = 0.79438, p-value = 0.02491
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[second_run, "dt.k50"]
+W = 0.92755, p-value = 0.4941
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[second_run, "dt.k100"]
+W = 0.85973, p-value = 0.1193
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[second_run, "dt.k300"]
+W = 0.8214, p-value = 0.04827
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[second_run, "dt.k1000"]
+W = 0.78312, p-value = 0.01883
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[second_run, "dt.k3000"]
+W = 0.85397, p-value = 0.1045
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[second_run, "svm.k50"]
+W = 0.75431, p-value = 0.009116
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[second_run, "svm.k100"]
+W = 0.93722, p-value = 0.5839
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[second_run, "svm.k300"]
+W = 0.90252, p-value = 0.3044
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[second_run, "svm.k1000"]
+W = 0.77711, p-value = 0.0162
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[second_run, "svm.k3000"]
+W = 0.81709, p-value = 0.04349
+
+
+	Friedman rank sum test
+
+data:  data
+Friedman chi-squared = 40.151, df = 19, p-value = 0.003126
+
+
+	Pairwise comparisons using Nemenyi multiple comparison test	
+             with q approximation for unreplicated blocked data 
+
+data:  data 
+
+                   target.dt.k50 target.svm.k50 target.dt.k100 target.svm.k100
+target.svm.k50     1.00          -              -              -              
+target.dt.k100     1.00          1.00           -              -              
+target.svm.k100    1.00          1.00           1.00           -              
+target.dt.k300     1.00          1.00           1.00           1.00           
+target.svm.k300    1.00          1.00           1.00           1.00           
+target.dt.k1000    1.00          1.00           1.00           1.00           
+target.svm.k1000   1.00          1.00           1.00           1.00           
+target.dt.k3000    1.00          1.00           1.00           1.00           
+target.svm.k3000   1.00          1.00           1.00           1.00           
+baseline.dt.k50    1.00          0.89           1.00           0.87           
+baseline.svm.k50   0.91          0.54           1.00           0.51           
+baseline.dt.k100   1.00          1.00           1.00           1.00           
+baseline.svm.k100  1.00          1.00           1.00           1.00           
+baseline.dt.k300   1.00          1.00           1.00           1.00           
+baseline.svm.k300  1.00          1.00           1.00           1.00           
+baseline.dt.k1000  1.00          0.99           1.00           0.99           
+baseline.svm.k1000 1.00          1.00           1.00           1.00           
+baseline.dt.k3000  1.00          0.92           1.00           0.90           
+baseline.svm.k3000 1.00          1.00           1.00           1.00           
+                   target.dt.k300 target.svm.k300 target.dt.k1000
+target.svm.k50     -              -               -              
+target.dt.k100     -              -               -              
+target.svm.k100    -              -               -              
+target.dt.k300     -              -               -              
+target.svm.k300    0.99           -               -              
+target.dt.k1000    1.00           1.00            -              
+target.svm.k1000   0.98           1.00            1.00           
+target.dt.k3000    1.00           0.99            1.00           
+target.svm.k3000   0.99           1.00            1.00           
+baseline.dt.k50    1.00           0.73            1.00           
+baseline.svm.k50   1.00           0.33            0.98           
+baseline.dt.k100   1.00           0.99            1.00           
+baseline.svm.k100  1.00           0.98            1.00           
+baseline.dt.k300   1.00           0.99            1.00           
+baseline.svm.k300  1.00           1.00            1.00           
+baseline.dt.k1000  1.00           0.95            1.00           
+baseline.svm.k1000 1.00           1.00            1.00           
+baseline.dt.k3000  1.00           0.78            1.00           
+baseline.svm.k3000 1.00           1.00            1.00           
+                   target.svm.k1000 target.dt.k3000 target.svm.k3000
+target.svm.k50     -                -               -               
+target.dt.k100     -                -               -               
+target.svm.k100    -                -               -               
+target.dt.k300     -                -               -               
+target.svm.k300    -                -               -               
+target.dt.k1000    -                -               -               
+target.svm.k1000   -                -               -               
+target.dt.k3000    0.99             -               -               
+target.svm.k3000   1.00             0.99            -               
+baseline.dt.k50    0.67             1.00            0.73            
+baseline.svm.k50   0.28             1.00            0.33            
+baseline.dt.k100   0.98             1.00            0.99            
+baseline.svm.k100  0.97             1.00            0.98            
+baseline.dt.k300   0.98             1.00            0.99            
+baseline.svm.k300  1.00             1.00            1.00            
+baseline.dt.k1000  0.93             1.00            0.95            
+baseline.svm.k1000 1.00             1.00            1.00            
+baseline.dt.k3000  0.72             1.00            0.78            
+baseline.svm.k3000 1.00             1.00            1.00            
+                   baseline.dt.k50 baseline.svm.k50 baseline.dt.k100
+target.svm.k50     -               -                -               
+target.dt.k100     -               -                -               
+target.svm.k100    -               -                -               
+target.dt.k300     -               -                -               
+target.svm.k300    -               -                -               
+target.dt.k1000    -               -                -               
+target.svm.k1000   -               -                -               
+target.dt.k3000    -               -                -               
+target.svm.k3000   -               -                -               
+baseline.dt.k50    -               -                -               
+baseline.svm.k50   1.00            -                -               
+baseline.dt.k100   1.00            1.00             -               
+baseline.svm.k100  1.00            1.00             1.00            
+baseline.dt.k300   1.00            1.00             1.00            
+baseline.svm.k300  0.94            0.65             1.00            
+baseline.dt.k1000  1.00            1.00             1.00            
+baseline.svm.k1000 0.92            0.59             1.00            
+baseline.dt.k3000  1.00            1.00             1.00            
+baseline.svm.k3000 0.82            0.42             1.00            
+                   baseline.svm.k100 baseline.dt.k300 baseline.svm.k300
+target.svm.k50     -                 -                -                
+target.dt.k100     -                 -                -                
+target.svm.k100    -                 -                -                
+target.dt.k300     -                 -                -                
+target.svm.k300    -                 -                -                
+target.dt.k1000    -                 -                -                
+target.svm.k1000   -                 -                -                
+target.dt.k3000    -                 -                -                
+target.svm.k3000   -                 -                -                
+baseline.dt.k50    -                 -                -                
+baseline.svm.k50   -                 -                -                
+baseline.dt.k100   -                 -                -                
+baseline.svm.k100  -                 -                -                
+baseline.dt.k300   1.00              -                -                
+baseline.svm.k300  1.00              1.00             -                
+baseline.dt.k1000  1.00              1.00             1.00             
+baseline.svm.k1000 1.00              1.00             1.00             
+baseline.dt.k3000  1.00              1.00             0.96             
+baseline.svm.k3000 0.99              1.00             1.00             
+                   baseline.dt.k1000 baseline.svm.k1000 baseline.dt.k3000
+target.svm.k50     -                 -                  -                
+target.dt.k100     -                 -                  -                
+target.svm.k100    -                 -                  -                
+target.dt.k300     -                 -                  -                
+target.svm.k300    -                 -                  -                
+target.dt.k1000    -                 -                  -                
+target.svm.k1000   -                 -                  -                
+target.dt.k3000    -                 -                  -                
+target.svm.k3000   -                 -                  -                
+baseline.dt.k50    -                 -                  -                
+baseline.svm.k50   -                 -                  -                
+baseline.dt.k100   -                 -                  -                
+baseline.svm.k100  -                 -                  -                
+baseline.dt.k300   -                 -                  -                
+baseline.svm.k300  -                 -                  -                
+baseline.dt.k1000  -                 -                  -                
+baseline.svm.k1000 1.00              -                  -                
+baseline.dt.k3000  1.00              0.94               -                
+baseline.svm.k3000 0.98              1.00               0.85             
+
+P value adjustment method: none 
