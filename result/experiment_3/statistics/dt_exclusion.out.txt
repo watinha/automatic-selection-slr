@@ -4,155 +4,142 @@
 
 	Shapiro-Wilk normality test
 
-data:  excluded[first_run, "dt.k50"]
-W = 0.93942, p-value = 0.6054
+data:  excluded[, "dt.k50"]
+W = 0.88791, p-value = 0.01204
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded[first_run, "dt.k100"]
-W = 0.93347, p-value = 0.5482
+data:  excluded[, "dt.k100"]
+W = 0.82093, p-value = 0.0006609
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded[first_run, "dt.k300"]
-W = 0.93492, p-value = 0.5619
+data:  excluded[, "dt.k300"]
+W = 0.86601, p-value = 0.004398
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded[first_run, "dt.k1000"]
-W = 0.91772, p-value = 0.4117
+data:  excluded[, "dt.k1000"]
+W = 0.84272, p-value = 0.001606
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded[first_run, "dt.k3000"]
-W = 0.90916, p-value = 0.3482
+data:  excluded[, "dt.k3000"]
+W = 0.84885, p-value = 0.002082
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded_baseline[first_run, "dt.k50"]
-W = 0.8499, p-value = 0.09505
+data:  excluded_baseline[, "dt.k50"]
+W = 0.84581, p-value = 0.001829
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded_baseline[first_run, "dt.k100"]
-W = 0.90179, p-value = 0.2999
+data:  excluded_baseline[, "dt.k100"]
+W = 0.88511, p-value = 0.01055
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded_baseline[first_run, "dt.k300"]
-W = 0.83897, p-value = 0.07351
+data:  excluded_baseline[, "dt.k300"]
+W = 0.84581, p-value = 0.00183
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded_baseline[first_run, "dt.k1000"]
-W = 0.91075, p-value = 0.3594
+data:  excluded_baseline[, "dt.k1000"]
+W = 0.86178, p-value = 0.003646
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded_baseline[first_run, "dt.k3000"]
-W = 0.89757, p-value = 0.2747
-
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.2533  0.4630  0.4176  0.6341  0.7941 
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.4000  0.6081  0.5553  0.7805  0.8462 
-
-	Paired t-test
-
-data:  target and baseline
-t = -4.8674, df = 39, p-value = 1.901e-05
-alternative hypothesis: true difference in means is not equal to 0
-95 percent confidence interval:
- -0.1949168 -0.0804760
-sample estimates:
-mean of the differences 
-             -0.1376964 
-
-[1] "--- second run ---"
-[1] " * excluded"
-[1] " * dt"
-
-	Shapiro-Wilk normality test
-
-data:  excluded[second_run, "dt.k50"]
-W = 0.90837, p-value = 0.3427
+data:  excluded_baseline[, "dt.k3000"]
+W = 0.86525, p-value = 0.004252
 
 
-	Shapiro-Wilk normality test
+	Friedman rank sum test
 
-data:  excluded[second_run, "dt.k100"]
-W = 0.8797, p-value = 0.1871
-
-
-	Shapiro-Wilk normality test
-
-data:  excluded[second_run, "dt.k300"]
-W = 0.8139, p-value = 0.04024
+data:  mat
+Friedman chi-squared = 42.288, df = 9, p-value = 2.911e-06
 
 
-	Shapiro-Wilk normality test
+	Pairwise comparisons using Nemenyi multiple comparison test	
+             with q approximation for unreplicated blocked data 
 
-data:  excluded[second_run, "dt.k1000"]
-W = 0.80329, p-value = 0.03104
+data:  mat 
 
+                  target.dt.k50 target.dt.k100 target.dt.k300 target.dt.k1000
+target.dt.k100    1.000         -              -              -              
+target.dt.k300    0.597         0.838          -              -              
+target.dt.k1000   0.664         0.882          1.000          -              
+target.dt.k3000   0.648         0.872          1.000          1.000          
+baseline.dt.k50   0.103         0.254          0.996          0.992          
+baseline.dt.k100  0.267         0.512          1.000          1.000          
+baseline.dt.k300  0.014         0.049          0.872          0.826          
+baseline.dt.k1000 0.070         0.186          0.989          0.980          
+baseline.dt.k3000 0.157         0.350          0.999          0.998          
+                  target.dt.k3000 baseline.dt.k50 baseline.dt.k100
+target.dt.k100    -               -               -               
+target.dt.k300    -               -               -               
+target.dt.k1000   -               -               -               
+target.dt.k3000   -               -               -               
+baseline.dt.k50   0.994           -               -               
+baseline.dt.k100  1.000           1.000           -               
+baseline.dt.k300  0.838           1.000           0.989           
+baseline.dt.k1000 0.983           1.000           1.000           
+baseline.dt.k3000 0.998           1.000           1.000           
+                  baseline.dt.k300 baseline.dt.k1000
+target.dt.k100    -                -                
+target.dt.k300    -                -                
+target.dt.k1000   -                -                
+target.dt.k3000   -                -                
+baseline.dt.k50   -                -                
+baseline.dt.k100  -                -                
+baseline.dt.k300  -                -                
+baseline.dt.k1000 1.000            -                
+baseline.dt.k3000 0.998            1.000            
 
-	Shapiro-Wilk normality test
+P value adjustment method: none 
 
-data:  excluded[second_run, "dt.k3000"]
-W = 0.79011, p-value = 0.02241
+	Pairwise comparisons using Conover's test for a two-way	
+                    balanced complete block design 
 
+data:  mat 
 
-	Shapiro-Wilk normality test
+                  target.dt.k50 target.dt.k100 target.dt.k300 target.dt.k1000
+target.dt.k100    1.00000       -              -              -              
+target.dt.k300    0.00036       0.00987        -              -              
+target.dt.k1000   0.00084       0.01859        1.00000        -              
+target.dt.k3000   0.00069       0.01652        1.00000        1.00000        
+baseline.dt.k50   1.7e-08       1.5e-06        0.84016        0.54488        
+baseline.dt.k100  2.0e-06       0.00011        1.00000        1.00000        
+baseline.dt.k300  3.4e-12       6.0e-10        0.01652        0.00835        
+baseline.dt.k1000 2.8e-09       3.0e-07        0.44991        0.27137        
+baseline.dt.k3000 1.3e-07       9.4e-06        1.00000        1.00000        
+                  target.dt.k3000 baseline.dt.k50 baseline.dt.k100
+target.dt.k100    -               -               -               
+target.dt.k300    -               -               -               
+target.dt.k1000   -               -               -               
+target.dt.k3000   -               -               -               
+baseline.dt.k50   0.59569         -               -               
+baseline.dt.k100  1.00000         1.00000         -               
+baseline.dt.k300  0.00987         1.00000         0.44991         
+baseline.dt.k1000 0.30315         1.00000         1.00000         
+baseline.dt.k3000 1.00000         1.00000         1.00000         
+                  baseline.dt.k300 baseline.dt.k1000
+target.dt.k100    -                -                
+target.dt.k300    -                -                
+target.dt.k1000   -                -                
+target.dt.k3000   -                -                
+baseline.dt.k50   -                -                
+baseline.dt.k100  -                -                
+baseline.dt.k300  -                -                
+baseline.dt.k1000 1.00000          -                
+baseline.dt.k3000 1.00000          1.00000          
 
-data:  excluded_baseline[second_run, "dt.k50"]
-W = 0.88257, p-value = 0.1993
-
-
-	Shapiro-Wilk normality test
-
-data:  excluded_baseline[second_run, "dt.k100"]
-W = 0.86454, p-value = 0.1332
-
-
-	Shapiro-Wilk normality test
-
-data:  excluded_baseline[second_run, "dt.k300"]
-W = 0.86518, p-value = 0.1351
-
-
-	Shapiro-Wilk normality test
-
-data:  excluded_baseline[second_run, "dt.k1000"]
-W = 0.85825, p-value = 0.1153
-
-
-	Shapiro-Wilk normality test
-
-data:  excluded_baseline[second_run, "dt.k3000"]
-W = 0.83821, p-value = 0.0722
-
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.2384  0.5476  0.4448  0.6481  0.7579 
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.4490  0.6317  0.5659  0.7652  0.8642 
-
-	Paired t-test
-
-data:  target and baseline
-t = -3.9477, df = 39, p-value = 0.0003201
-alternative hypothesis: true difference in means is not equal to 0
-95 percent confidence interval:
- -0.18318804 -0.05906389
-sample estimates:
-mean of the differences 
-              -0.121126 
-
+P value adjustment method: holm 

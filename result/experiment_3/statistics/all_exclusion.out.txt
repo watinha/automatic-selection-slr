@@ -1,25 +1,25 @@
 [1] "--- ALL ---"
-[1] " * missed"
+[1] " * excluded"
 
 	Shapiro-Wilk normality test
 
 data:  target
-W = 0.76302, p-value < 2.2e-16
+W = 0.91735, p-value = 2.773e-10
 
 
 	Shapiro-Wilk normality test
 
 data:  baseline
-W = 0.83009, p-value = 1.686e-15
+W = 0.89773, p-value = 1.059e-11
 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.0000  0.0000  0.1222  0.2500  0.6250 
+ 0.0000  0.1792  0.5294  0.4671  0.7115  0.9524 
    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.0000  0.1339  0.1834  0.3011  1.0000 
+ 0.0000  0.4815  0.6562  0.6109  0.8125  0.9524 
 
 	Wilcoxon signed rank test with continuity correction
 
 data:  target and baseline
-V = 0, p-value = 3.639e-08
+V = 0, p-value < 2.2e-16
 alternative hypothesis: true location shift is not equal to 0
 

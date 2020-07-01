@@ -1,3 +1,5 @@
+library(PMCMR)
+
 excluded <- read.table('../all-exclusion.csv', header=T, sep=',')
 excluded_baseline <- read.table('../all-exclusion-baseline.csv', header=T, sep=',')
 missed <- read.table('../all-missed.csv', header=T, sep=',')
@@ -11,42 +13,29 @@ names(missed_baseline) <- c('id', 'fold', 'dt.k50', 'svm.k50', 'file', 'dt.k100'
 dt_classifiers <- c('dt.k50', 'dt.k100', 'dt.k300', 'dt.k1000', 'dt.k3000')
 svm_classifiers <- c('svm.k50', 'svm.k100', 'svm.k300', 'svm.k1000', 'svm.k3000')
 
-first_run <- seq(3, 24, 3)
-second_run <- seq(2, 24, 3)
-
 print('--- first run ---')
 print(' * missed')
 print(' * dt')
 
-target <- c(missed[first_run,'dt.k50'], missed[first_run,'dt.k100'],
-            missed[first_run,'dt.k300'], missed[first_run,'dt.k1000'],
-            missed[first_run,'dt.k3000'])
+shapiro.test(missed[,'dt.k50'])
+shapiro.test(missed[,'dt.k100'])
+shapiro.test(missed[,'dt.k300'])
+shapiro.test(missed[,'dt.k1000'])
+shapiro.test(missed[,'dt.k3000'])
+shapiro.test(missed_baseline[,'dt.k50'])
+shapiro.test(missed_baseline[,'dt.k100'])
+shapiro.test(missed_baseline[,'dt.k300'])
+shapiro.test(missed_baseline[,'dt.k1000'])
+shapiro.test(missed_baseline[,'dt.k3000'])
 
-baseline <- c(missed_baseline[first_run,'dt.k50'], missed_baseline[first_run,'dt.k100'],
-              missed_baseline[first_run,'dt.k300'], missed_baseline[first_run,'dt.k1000'],
-              missed_baseline[first_run,'dt.k3000'])
+ex_df <- missed[, dt_classifiers]
+names(ex_df) <- c('target.dt.k50', 'target.dt.k100', 'target.dt.k300', 'target.dt.k1000', 'target.dt.k3000')
+mat_target <- data.matrix(ex_df)
+ex_df <- missed_baseline[, dt_classifiers]
+names(ex_df) <- c('baseline.dt.k50', 'baseline.dt.k100', 'baseline.dt.k300', 'baseline.dt.k1000', 'baseline.dt.k3000')
+mat_baseline <- data.matrix(ex_df)
+mat <- cbind(mat_target, mat_baseline)
 
-shapiro.test(target)
-shapiro.test(baseline)
-
-summary(target)
-summary(baseline)
-wilcox.test(target, baseline, paired=T)
-
-print('--- second run ---')
-print(' * missed')
-print(' * dt')
-
-target <- c(missed[second_run,'dt.k50'], missed[second_run,'dt.k100'],
-            missed[second_run,'dt.k300'], missed[second_run,'dt.k1000'],
-            missed[second_run,'dt.k3000'])
-
-baseline <- c(missed_baseline[second_run,'dt.k50'], missed_baseline[second_run,'dt.k100'],
-              missed_baseline[second_run,'dt.k300'], missed_baseline[second_run,'dt.k1000'],
-              missed_baseline[second_run,'dt.k3000'])
-
-shapiro.test(target)
-shapiro.test(baseline)
-summary(target)
-summary(baseline)
-wilcox.test(target, baseline, paired=T)
+friedman.test(mat)
+posthoc.friedman.nemenyi.test(mat)
+posthoc.friedman.conover.test(mat)

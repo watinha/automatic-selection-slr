@@ -4,155 +4,142 @@
 
 	Shapiro-Wilk normality test
 
-data:  excluded[first_run, "svm.k50"]
-W = 0.92978, p-value = 0.5141
+data:  excluded[, "svm.k50"]
+W = 0.85683, p-value = 0.002935
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded[first_run, "svm.k100"]
-W = 0.91267, p-value = 0.3733
+data:  excluded[, "svm.k100"]
+W = 0.88606, p-value = 0.01103
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded[first_run, "svm.k300"]
-W = 0.95548, p-value = 0.7661
+data:  excluded[, "svm.k300"]
+W = 0.95263, p-value = 0.3087
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded[first_run, "svm.k1000"]
-W = 0.92481, p-value = 0.4701
+data:  excluded[, "svm.k1000"]
+W = 0.90693, p-value = 0.03026
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded[first_run, "svm.k3000"]
-W = 0.91257, p-value = 0.3725
+data:  excluded[, "svm.k3000"]
+W = 0.92926, p-value = 0.09386
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded_baseline[first_run, "svm.k50"]
-W = 0.91069, p-value = 0.3589
+data:  excluded_baseline[, "svm.k50"]
+W = 0.86774, p-value = 0.004753
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded_baseline[first_run, "svm.k100"]
-W = 0.92422, p-value = 0.465
+data:  excluded_baseline[, "svm.k100"]
+W = 0.92519, p-value = 0.07614
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded_baseline[first_run, "svm.k300"]
-W = 0.93546, p-value = 0.567
+data:  excluded_baseline[, "svm.k300"]
+W = 0.92218, p-value = 0.06529
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded_baseline[first_run, "svm.k1000"]
-W = 0.89462, p-value = 0.2582
+data:  excluded_baseline[, "svm.k1000"]
+W = 0.88819, p-value = 0.0122
 
 
 	Shapiro-Wilk normality test
 
-data:  excluded_baseline[first_run, "svm.k3000"]
-W = 0.92994, p-value = 0.5155
-
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.3151  0.5727  0.5121  0.7561  0.8974 
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.2500  0.5899  0.7051  0.6843  0.8460  0.8974 
-
-	Paired t-test
-
-data:  target and baseline
-t = -4.2324, df = 39, p-value = 0.0001358
-alternative hypothesis: true difference in means is not equal to 0
-95 percent confidence interval:
- -0.25445572 -0.08989165
-sample estimates:
-mean of the differences 
-             -0.1721737 
-
-[1] "--- second run ---"
-[1] " * excluded"
-[1] " * svm"
-
-	Shapiro-Wilk normality test
-
-data:  excluded[second_run, "svm.k50"]
-W = 0.86355, p-value = 0.1302
+data:  excluded_baseline[, "svm.k3000"]
+W = 0.90819, p-value = 0.03223
 
 
-	Shapiro-Wilk normality test
+	Friedman rank sum test
 
-data:  excluded[second_run, "svm.k100"]
-W = 0.85669, p-value = 0.1113
-
-
-	Shapiro-Wilk normality test
-
-data:  excluded[second_run, "svm.k300"]
-W = 0.97427, p-value = 0.9292
+data:  mat
+Friedman chi-squared = 88.21, df = 9, p-value = 3.72e-15
 
 
-	Shapiro-Wilk normality test
+	Pairwise comparisons using Nemenyi multiple comparison test
+             with q approximation for unreplicated blocked data
 
-data:  excluded[second_run, "svm.k1000"]
-W = 0.90686, p-value = 0.3325
+data:  mat
 
+                   target.svm.k50 target.svm.k100 target.svm.k300
+target.svm.k100    0.99994        -               -
+target.svm.k300    0.06063        0.24168         -
+target.svm.k1000   0.00837        0.05266         0.99987
+target.svm.k3000   0.00534        0.03651         0.99943
+baseline.svm.k50   0.00010        0.00125         0.83830
+baseline.svm.k100  0.00092        0.00837         0.98010
+baseline.svm.k300  1.2e-05        0.00018         0.56330
+baseline.svm.k1000 0.00067        0.00640         0.97010
+baseline.svm.k3000 2.1e-06        4.0e-05         0.35035
+                   target.svm.k1000 target.svm.k3000 baseline.svm.k50
+target.svm.k100    -                -                -
+target.svm.k300    -                -                -
+target.svm.k1000   -                -                -
+target.svm.k3000   1.00000          -                -
+baseline.svm.k50   0.99083          0.99634          -
+baseline.svm.k100  0.99994          0.99999          0.99998
+baseline.svm.k300  0.90986          0.94572          0.99999
+baseline.svm.k1000 0.99982          0.99997          1.00000
+baseline.svm.k3000 0.75807          0.82606          0.99926
+                   baseline.svm.k100 baseline.svm.k300 baseline.svm.k1000
+target.svm.k100    -                 -                 -
+target.svm.k300    -                 -                 -
+target.svm.k1000   -                 -                 -
+target.svm.k3000   -                 -                 -
+baseline.svm.k50   -                 -                 -
+baseline.svm.k100  -                 -                 -
+baseline.svm.k300  0.99634           -                 -
+baseline.svm.k1000 1.00000           0.99806           -
+baseline.svm.k3000 0.97010           1.00000           0.98010
 
-	Shapiro-Wilk normality test
+P value adjustment method: none
 
-data:  excluded[second_run, "svm.k3000"]
-W = 0.9327, p-value = 0.5409
+	Pairwise comparisons using Conover's test for a two-way
+                    balanced complete block design
 
+data:  mat
 
-	Shapiro-Wilk normality test
+                   target.svm.k50 target.svm.k100 target.svm.k300
+target.svm.k100    1.0000         -               -              -                -                -        -                 -                 -
+target.svm.k300    3.5e-10        3.9e-07         -              -                -                -        -                 -                 -
+target.svm.k1000   7.9e-14        1.9e-10         1.0000         -                -                -        -                 -                 -
+target.svm.k3000   1.4e-14        3.7e-11         1.0000         1.0000           -                -        -                 -                 -
+baseline.svm.k50   < 2e-16        < 2e-16         0.0054         0.3279           0.6230           -        -                 -                 -
+baseline.svm.k100  < 2e-16        7.9e-14         0.1701         1.0000           1.0000           1.0000   -                 -                 -
+baseline.svm.k300  < 2e-16        < 2e-16         0.0001         0.0211           0.0508           1.0000   0.6230            -                 -
+baseline.svm.k1000 < 2e-16        2.8e-14         0.1149         1.0000           1.0000           1.0000   1.0000            0.8111            -
+baseline.svm.k3000 < 2e-16        < 2e-16         3.6e-06        0.0016           0.0046           1.0000   0.1149            1.0000            0.1701
+                   target.svm.k1000 target.svm.k3000 baseline.svm.k50
+target.svm.k100    -                -                -
+target.svm.k300    -                -                -
+target.svm.k1000   -                -                -
+target.svm.k3000   1.0000           -                -
+baseline.svm.k50   0.3279           0.6230           -
+baseline.svm.k100  1.0000           1.0000           1.0000
+baseline.svm.k300  0.0211           0.0508           1.0000
+baseline.svm.k1000 1.0000           1.0000           1.0000
+baseline.svm.k3000 0.0016           0.0046           1.0000
+                   baseline.svm.k100 baseline.svm.k300 baseline.svm.k1000
+target.svm.k100    -                 -                 -
+target.svm.k300    -                 -                 -
+target.svm.k1000   -                 -                 -
+target.svm.k3000   -                 -                 -
+baseline.svm.k50   -                 -                 -
+baseline.svm.k100  -                 -                 -
+baseline.svm.k300  0.6230            -                 -
+baseline.svm.k1000 1.0000            0.8111            -
+baseline.svm.k3000 0.1149            1.0000            0.1701
 
-data:  excluded_baseline[second_run, "svm.k50"]
-W = 0.87424, p-value = 0.1657
-
-
-	Shapiro-Wilk normality test
-
-data:  excluded_baseline[second_run, "svm.k100"]
-W = 0.89358, p-value = 0.2526
-
-
-	Shapiro-Wilk normality test
-
-data:  excluded_baseline[second_run, "svm.k300"]
-W = 0.91691, p-value = 0.4053
-
-
-	Shapiro-Wilk normality test
-
-data:  excluded_baseline[second_run, "svm.k1000"]
-W = 0.88455, p-value = 0.208
-
-
-	Shapiro-Wilk normality test
-
-data:  excluded_baseline[second_run, "svm.k3000"]
-W = 0.88808, p-value = 0.2246
-
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.1875  0.5271  0.4850  0.7639  0.9259 
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.1579  0.5255  0.7449  0.6785  0.8519  0.9259 
-
-	Paired t-test
-
-data:  target and baseline
-t = -4.1868, df = 39, p-value = 0.000156
-alternative hypothesis: true difference in means is not equal to 0
-95 percent confidence interval:
- -0.28692551 -0.09999962
-sample estimates:
-mean of the differences 
-             -0.1934626 
-
+P value adjustment method: holm

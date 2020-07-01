@@ -4,49 +4,142 @@
 
 	Shapiro-Wilk normality test
 
-data:  target
-W = 0.78817, p-value = 3.874e-06
+data:  missed[, "svm.k50"]
+W = 0.75528, p-value = 5.954e-05
 
 
 	Shapiro-Wilk normality test
 
-data:  baseline
-W = 0.86833, p-value = 0.0002589
-
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-  0.000   0.000   0.025   0.100   0.200   0.400 
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.0000  0.1500  0.1512  0.2125  0.4000 
-
-	Wilcoxon signed rank test with continuity correction
-
-data:  target and baseline
-V = 0, p-value = 0.005729
-alternative hypothesis: true location shift is not equal to 0
-
-[1] "--- second run ---"
-[1] " * missed"
-[1] " * svm"
-
-	Shapiro-Wilk normality test
-
-data:  target
-W = 0.76561, p-value = 1.4e-06
+data:  missed[, "svm.k100"]
+W = 0.72827, p-value = 2.438e-05
 
 
 	Shapiro-Wilk normality test
 
-data:  baseline
-W = 0.76015, p-value = 1.104e-06
+data:  missed[, "svm.k300"]
+W = 0.78656, p-value = 0.000179
 
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
-0.00000 0.00000 0.04651 0.08469 0.14881 0.27907 
-   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
- 0.0000  0.0000  0.1091  0.1552  0.2558  0.9167 
 
-	Wilcoxon signed rank test with continuity correction
+	Shapiro-Wilk normality test
 
-data:  target and baseline
-V = 0, p-value = 0.001635
-alternative hypothesis: true location shift is not equal to 0
+data:  missed[, "svm.k1000"]
+W = 0.70834, p-value = 1.301e-05
 
+
+	Shapiro-Wilk normality test
+
+data:  missed[, "svm.k3000"]
+W = 0.72111, p-value = 1.94e-05
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[, "svm.k50"]
+W = 0.85859, p-value = 0.003169
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[, "svm.k100"]
+W = 0.90841, p-value = 0.03258
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[, "svm.k300"]
+W = 0.82543, p-value = 0.0007909
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[, "svm.k1000"]
+W = 0.73248, p-value = 2.793e-05
+
+
+	Shapiro-Wilk normality test
+
+data:  missed_baseline[, "svm.k3000"]
+W = 0.72106, p-value = 1.937e-05
+
+
+	Friedman rank sum test
+
+data:  mat
+Friedman chi-squared = 32.472, df = 9, p-value = 0.0001649
+
+
+	Pairwise comparisons using Nemenyi multiple comparison test
+             with q approximation for unreplicated blocked data
+
+data:  mat
+
+                   target.svm.k50 target.svm.k100 target.svm.k300
+target.svm.k100    1.000          -               -
+target.svm.k300    1.000          1.000           -
+target.svm.k1000   1.000          1.000           1.000
+target.svm.k3000   1.000          1.000           1.000
+baseline.svm.k50   0.207          0.103           0.166
+baseline.svm.k100  0.743          0.546           0.681
+baseline.svm.k300  1.000          1.000           1.000
+baseline.svm.k1000 1.000          1.000           1.000
+baseline.svm.k3000 1.000          1.000           1.000
+                   target.svm.k1000 target.svm.k3000 baseline.svm.k50
+target.svm.k100    -                -                -
+target.svm.k300    -                -                -
+target.svm.k1000   -                -                -
+target.svm.k3000   1.000            -                -
+baseline.svm.k50   0.091            0.097            -
+baseline.svm.k100  0.512            0.529            0.998
+baseline.svm.k300  0.999            0.999            0.445
+baseline.svm.k1000 1.000            1.000            0.166
+baseline.svm.k3000 1.000            1.000            0.157
+                   baseline.svm.k100 baseline.svm.k300 baseline.svm.k1000
+target.svm.k100    -                 -                 -
+target.svm.k300    -                 -                 -
+target.svm.k1000   -                 -                 -
+target.svm.k3000   -                 -                 -
+baseline.svm.k50   -                 -                 -
+baseline.svm.k100  -                 -                 -
+baseline.svm.k300  0.933             -                 -
+baseline.svm.k1000 0.681             1.000             -
+baseline.svm.k3000 0.664             1.000             1.000
+
+P value adjustment method: none
+
+	Pairwise comparisons using Conover's test for a two-way
+                    balanced complete block design
+
+data:  mat
+
+                   target.svm.k50 target.svm.k100 target.svm.k300
+target.svm.k100    1.00000        -               -              -                -                -            -                 -                 -
+target.svm.k300    1.00000        1.00000         -              -                -                -            -                 -                 -
+target.svm.k1000   1.00000        1.00000         1.00000        -                -                -            -                 -                 -
+target.svm.k3000   1.00000        1.00000         1.00000        1.00000          -                -            -                 -                 -
+baseline.svm.k50   1.8e-06        7.8e-08         6.6e-07        4.6e-08          6.0e-08          -            -                 -                 -
+baseline.svm.k100  0.00452        0.00041         0.00215        0.00028          0.00034          1.00000      -                 -                 -
+baseline.svm.k300  1.00000        1.00000         1.00000        1.00000          1.00000          0.00012      0.09299           -                 -
+baseline.svm.k1000 1.00000        1.00000         1.00000        1.00000          1.00000          6.6e-07      0.00215           1.00000           -
+baseline.svm.k3000 1.00000        1.00000         1.00000        1.00000          1.00000          5.2e-07      0.00180           1.00000           1.00000
+                   target.svm.k1000 target.svm.k3000 baseline.svm.k50
+target.svm.k100    -                -                -
+target.svm.k300    -                -                -
+target.svm.k1000   -                -                -
+target.svm.k3000   1.00000          -                -
+baseline.svm.k50   4.6e-08          6.0e-08          -
+baseline.svm.k100  0.00028          0.00034          1.00000
+baseline.svm.k300  1.00000          1.00000          0.00012
+baseline.svm.k1000 1.00000          1.00000          6.6e-07
+baseline.svm.k3000 1.00000          1.00000          5.2e-07
+                   baseline.svm.k100 baseline.svm.k300 baseline.svm.k1000
+target.svm.k100    -                 -                 -
+target.svm.k300    -                 -                 -
+target.svm.k1000   -                 -                 -
+target.svm.k3000   -                 -                 -
+baseline.svm.k50   -                 -                 -
+baseline.svm.k100  -                 -                 -
+baseline.svm.k300  0.09299           -                 -
+baseline.svm.k1000 0.00215           1.00000           -
+baseline.svm.k3000 0.00180           1.00000           1.00000
+
+P value adjustment method: holm
