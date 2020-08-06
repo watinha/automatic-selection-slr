@@ -1,0 +1,315 @@
+[1] "--- FSCORE ---"
+[1] " - Classifier:  dt.k50"
+
+	Shapiro-Wilk normality test
+
+data:  fscore[, i]
+W = 0.95633, p-value = 0.3692
+
+[1] " - Classifier:  svm.k50"
+
+	Shapiro-Wilk normality test
+
+data:  fscore[, i]
+W = 0.85502, p-value = 0.002713
+
+[1] " - Classifier:  dt.k100"
+
+	Shapiro-Wilk normality test
+
+data:  fscore[, i]
+W = 0.95792, p-value = 0.3981
+
+[1] " - Classifier:  svm.k100"
+
+	Shapiro-Wilk normality test
+
+data:  fscore[, i]
+W = 0.9267, p-value = 0.08227
+
+[1] " - Classifier:  dt.k300"
+
+	Shapiro-Wilk normality test
+
+data:  fscore[, i]
+W = 0.92094, p-value = 0.06128
+
+[1] " - Classifier:  svm.k300"
+
+	Shapiro-Wilk normality test
+
+data:  fscore[, i]
+W = 0.73331, p-value = 2.87e-05
+
+[1] " - Classifier:  dt.k1000"
+
+	Shapiro-Wilk normality test
+
+data:  fscore[, i]
+W = 0.9625, p-value = 0.4907
+
+[1] " - Classifier:  svm.k1000"
+
+	Shapiro-Wilk normality test
+
+data:  fscore[, i]
+W = 0.71647, p-value = 1.676e-05
+
+[1] " - Classifier:  dt.k3000"
+
+	Shapiro-Wilk normality test
+
+data:  fscore[, i]
+W = 0.95537, p-value = 0.3526
+
+[1] " - Classifier:  svm.k3000"
+
+	Shapiro-Wilk normality test
+
+data:  fscore[, i]
+W = 0.6053, p-value = 7.082e-07
+
+
+	Friedman rank sum test
+
+data:  mat
+Friedman chi-squared = 129.13, df = 9, p-value < 2.2e-16
+
+
+	Pairwise comparisons using Nemenyi multiple comparison test	
+             with q approximation for unreplicated blocked data 
+
+data:  mat 
+
+          dt.k50  svm.k50 dt.k100 svm.k100 dt.k300 svm.k300 dt.k1000 svm.k1000
+svm.k50   0.01404 -       -       -        -       -        -        -        
+dt.k100   0.99999 0.00251 -       -        -       -        -        -        
+svm.k100  0.00487 1.00000 0.00075 -        -       -        -        -        
+dt.k300   1.00000 0.04237 0.99878 0.01658  -       -        -        -        
+svm.k300  0.00020 0.99083 2.2e-05 0.99926  0.00092 -        -        -        
+dt.k1000  1.00000 0.00837 1.00000 0.00276  0.99998 0.00010  -        -        
+svm.k1000 7.2e-05 0.96605 7.0e-06 0.99461  0.00035 1.00000  3.5e-05  -        
+dt.k3000  1.00000 0.00640 1.00000 0.00206  0.99994 7.2e-05  1.00000  2.5e-05  
+svm.k3000 7.2e-07 0.52912 4.7e-08 0.72808  4.7e-06 0.98730  3.1e-07  0.99758  
+          dt.k3000
+svm.k50   -       
+dt.k100   -       
+svm.k100  -       
+dt.k300   -       
+svm.k300  -       
+dt.k1000  -       
+svm.k1000 -       
+dt.k3000  -       
+svm.k3000 2.0e-07 
+
+P value adjustment method: none 
+[1] "--- Precision ---"
+[1] " - Classifier:  dt.k50"
+
+	Shapiro-Wilk normality test
+
+data:  precision[, i]
+W = 0.93854, p-value = 0.1513
+
+[1] " - Classifier:  svm.k50"
+
+	Shapiro-Wilk normality test
+
+data:  precision[, i]
+W = 0.74027, p-value = 3.603e-05
+
+[1] " - Classifier:  dt.k100"
+
+	Shapiro-Wilk normality test
+
+data:  precision[, i]
+W = 0.93158, p-value = 0.1057
+
+[1] " - Classifier:  svm.k100"
+
+	Shapiro-Wilk normality test
+
+data:  precision[, i]
+W = 0.93344, p-value = 0.1164
+
+[1] " - Classifier:  dt.k300"
+
+	Shapiro-Wilk normality test
+
+data:  precision[, i]
+W = 0.88922, p-value = 0.01281
+
+[1] " - Classifier:  svm.k300"
+
+	Shapiro-Wilk normality test
+
+data:  precision[, i]
+W = 0.65221, p-value = 2.501e-06
+
+[1] " - Classifier:  dt.k1000"
+
+	Shapiro-Wilk normality test
+
+data:  precision[, i]
+W = 0.92383, p-value = 0.07103
+
+[1] " - Classifier:  svm.k1000"
+
+	Shapiro-Wilk normality test
+
+data:  precision[, i]
+W = 0.58092, p-value = 3.81e-07
+
+[1] " - Classifier:  dt.k3000"
+
+	Shapiro-Wilk normality test
+
+data:  precision[, i]
+W = 0.93191, p-value = 0.1076
+
+[1] " - Classifier:  svm.k3000"
+
+	Shapiro-Wilk normality test
+
+data:  precision[, i]
+W = 0.53322, p-value = 1.204e-07
+
+
+	Friedman rank sum test
+
+data:  mat
+Friedman chi-squared = 161.17, df = 9, p-value < 2.2e-16
+
+
+	Pairwise comparisons using Nemenyi multiple comparison test	
+             with q approximation for unreplicated blocked data 
+
+data:  mat 
+
+          dt.k50  svm.k50 dt.k100 svm.k100 dt.k300 svm.k300 dt.k1000 svm.k1000
+svm.k50   0.00054 -       -       -        -       -        -        -        
+dt.k100   1.00000 0.00010 -       -        -       -        -        -        
+svm.k100  7.2e-05 0.99999 1.2e-05 -        -       -        -        -        
+dt.k300   1.00000 0.00276 0.99926 0.00044  -       -        -        -        
+svm.k300  7.0e-06 0.99701 9.5e-07 0.99999  5.1e-05 -        -        -        
+dt.k1000  1.00000 0.00054 1.00000 7.2e-05  1.00000 7.0e-06  -        -        
+svm.k1000 3.6e-06 0.99227 4.7e-07 0.99991  2.8e-05 1.00000  3.6e-06  -        
+dt.k3000  1.00000 0.00032 1.00000 4.0e-05  0.99997 3.6e-06  1.00000  1.9e-06  
+svm.k3000 5.5e-08 0.78656 5.5e-09 0.95674  5.5e-07 0.99806  5.5e-08  0.99943  
+          dt.k3000
+svm.k50   -       
+dt.k100   -       
+svm.k100  -       
+dt.k300   -       
+svm.k300  -       
+dt.k1000  -       
+svm.k1000 -       
+dt.k3000  -       
+svm.k3000 2.6e-08 
+
+P value adjustment method: none 
+[1] "--- Recall ---"
+[1] " - Classifier:  dt.k50"
+
+	Shapiro-Wilk normality test
+
+data:  recall[, i]
+W = 0.93573, p-value = 0.1309
+
+[1] " - Classifier:  svm.k50"
+
+	Shapiro-Wilk normality test
+
+data:  recall[, i]
+W = 0.93974, p-value = 0.161
+
+[1] " - Classifier:  dt.k100"
+
+	Shapiro-Wilk normality test
+
+data:  recall[, i]
+W = 0.89855, p-value = 0.02005
+
+[1] " - Classifier:  svm.k100"
+
+	Shapiro-Wilk normality test
+
+data:  recall[, i]
+W = 0.93942, p-value = 0.1583
+
+[1] " - Classifier:  dt.k300"
+
+	Shapiro-Wilk normality test
+
+data:  recall[, i]
+W = 0.93325, p-value = 0.1152
+
+[1] " - Classifier:  svm.k300"
+
+	Shapiro-Wilk normality test
+
+data:  recall[, i]
+W = 0.78374, p-value = 0.0001616
+
+[1] " - Classifier:  dt.k1000"
+
+	Shapiro-Wilk normality test
+
+data:  recall[, i]
+W = 0.9008, p-value = 0.02238
+
+[1] " - Classifier:  svm.k1000"
+
+	Shapiro-Wilk normality test
+
+data:  recall[, i]
+W = 0.78361, p-value = 0.0001609
+
+[1] " - Classifier:  dt.k3000"
+
+	Shapiro-Wilk normality test
+
+data:  recall[, i]
+W = 0.9304, p-value = 0.09949
+
+[1] " - Classifier:  svm.k3000"
+
+	Shapiro-Wilk normality test
+
+data:  recall[, i]
+W = 0.71562, p-value = 1.631e-05
+
+
+	Friedman rank sum test
+
+data:  mat
+Friedman chi-squared = 105.21, df = 9, p-value < 2.2e-16
+
+
+	Pairwise comparisons using Nemenyi multiple comparison test	
+             with q approximation for unreplicated blocked data 
+
+data:  mat 
+
+          dt.k50  svm.k50 dt.k100 svm.k100 dt.k300 svm.k300 dt.k1000 svm.k1000
+svm.k50   0.16649 -       -       -        -       -        -        -        
+dt.k100   1.00000 0.07447 -       -        -       -        -        -        
+svm.k100  0.06063 1.00000 0.02294 -        -       -        -        -        
+dt.k300   0.99997 0.44500 0.99845 0.21824  -       -        -        -        
+svm.k300  0.00044 0.80017 0.00010 0.95145  0.00368 -        -        -        
+dt.k1000  1.00000 0.20711 1.00000 0.07962  1.00000 0.00067  -        -        
+svm.k1000 0.00049 0.81335 0.00012 0.95674  0.00404 1.00000  0.00075  -        
+dt.k3000  1.00000 0.12426 1.00000 0.04237  0.99982 0.00025  1.00000  0.00028  
+svm.k3000 1.9e-06 0.14849 3.1e-07 0.33555  2.8e-05 0.98730  3.2e-06  0.98518  
+          dt.k3000
+svm.k50   -       
+dt.k100   -       
+svm.k100  -       
+dt.k300   -       
+svm.k300  -       
+dt.k1000  -       
+svm.k1000 -       
+dt.k3000  -       
+svm.k3000 9.5e-07 
+
+P value adjustment method: none 

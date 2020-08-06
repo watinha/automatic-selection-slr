@@ -1,7 +1,7 @@
 import re, codecs, np, sys, csv, bibtexparser
 
-#from keras.preprocessing.text import Tokenizer
-#from keras.preprocessing.sequence import pad_sequences
+from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 class BibParser:
