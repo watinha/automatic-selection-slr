@@ -19,7 +19,7 @@ class EmbeddingClassifier:
         # generate embedding matrix
         self._embedding_matrix = self.get_embeddings(word_index)
 
-        def create_model (neurons=1):
+        def create_model (filters=32, kernel_size=3, neurons=1):
             input_dim = X.shape[1]
             model = Sequential()
             model.add(layers.Embedding(input_dim=self._vocab_size,
@@ -28,7 +28,9 @@ class EmbeddingClassifier:
                                        input_length=self._maxlen,
                                        trainable=True))
             #model.add(layers.LSTM(units=neurons))
-            model.add(layers.Flatten())
+            #model.add(layers.Flatten())
+            model.add(layers.Conv1D(filters, kernel_size, activation='relu'))
+            model.add(layers.GlobalMaxPooling1D())
             model.add(layers.Dense(neurons, activation='relu'))
             model.add(layers.Dense(1, activation='sigmoid'))
             model.compile(loss="binary_crossentropy", optimizer="adam", metrics=["accuracy"])
@@ -38,6 +40,8 @@ class EmbeddingClassifier:
         print('===== Keras hyperparameter optimization =====')
         model = KerasClassifier(build_fn=create_model, epochs=150, verbose=0)
         params = {
+            'filters': [32, 64, 128],
+            'kernel_size': [3, 5, 7],
             'neurons': [1, 10, 20, 30, 50]
         }
         cfl = GridSearchCV(model, params, cv=2, scoring='accuracy')
@@ -53,11 +57,9 @@ class EmbeddingClassifier:
     def execute (self, dataset):
         X = dataset['features']
         y = dataset['categories']
-
         groups = dataset['years']
-        kfold = YearsSplit(n_splits=self._n_splits, years=groups)
         random.seed(self._seed)
-
+        kfold = YearsSplit(n_splits=self._n_splits, years=groups)
         model = self.get_classifier(X, y, dataset['word_index'])
         scores = cross_validate(model, X, y, cv=kfold, scoring=['f1_macro', 'precision_macro', 'recall_macro'])
         print("OUR APPROACH F-measure: %s on average and %s SD" %
@@ -67,11 +69,51 @@ class EmbeddingClassifier:
         print("OUR APPROACH Recall: %s on average and %s SD" %
                 (scores['test_recall_macro'].mean(), scores['test_recall_macro'].std()))
 
-        #X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=42)
-        #model.fit(X_train, y_train)
-        #probabilities = model.predict_proba(X_test)
-        #scores['probabilities'] = probabilities[:, 1]
-        #scores['y_test'] = y_test
+        X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=42)
+        model.fit(X_train, y_train)
+        probabilities = model.predict_proba(X_test)
+        scores['probabilities'] = probabilities[:, 1]
+        scores['y_test'] = y_test
+
+        correct_exclusion_rate = []
+        threasholds = []
+        missed = []
+        fscore_threashold = []
+        exclusion_baseline = []
+        missed_baseline = []
+        for train_index, test_index in kfold.split(X, y):
+            X_train, X_test = X[train_index], X[test_index]
+            y_train, y_test = y[train_index], y[test_index]
+            model.fit(X_train, y_train)
+            y_score = model.predict_proba(X_train)[:, 1]
+            precision, recall, threasholds2 = metrics.precision_recall_curve(
+                    y_train, y_score)
+            y_score = model.predict_proba(X_test)[:, 1]
+            if (threasholds2[0] > 0.5):
+                threasholds2 = [0.5]
+            matrix = metrics.confusion_matrix(
+                    y_test, [ 0 if i < threasholds2[0] else 1 for i in y_score ])
+            correct_exclusion_rate.append(
+                    matrix[0, 0] /
+                    (matrix[0, 0] + matrix[1, 1] + matrix[0, 1] + matrix[1, 0]))
+            missed.append(matrix[1, 0] / (matrix[1, 1] + matrix[1, 0]))
+            threasholds.append(threasholds2[0])
+            fscore_threashold.append(metrics.f1_score(
+                y_test, [ 0 if i < threasholds2[0] else 1 for i in y_score ]))
+
+            matrix = metrics.confusion_matrix(
+                    y_test, [ 0 if i <  0.5 else 1 for i in y_score ])
+            exclusion_baseline.append(
+                    matrix[0, 0] /
+                    (matrix[0, 0] + matrix[1, 1] + matrix[0, 1] + matrix[1, 0]))
+            missed_baseline.append(matrix[1, 0] / (matrix[1, 1] + matrix[1, 0]))
+
+        scores['exclusion_rate'] = correct_exclusion_rate
+        scores['threasholds'] = threasholds
+        scores['missed'] = missed
+        scores['fscore_threashold'] = fscore_threashold
+        scores['exclusion_baseline'] = exclusion_baseline
+        scores['missed_baseline'] = missed_baseline
 
         dataset['%s_scores' % self.classifier_name] = scores
         return dataset
