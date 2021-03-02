@@ -121,7 +121,7 @@ for input in inputs:
         #RFECVFeatureSelection(elimination_classifier),
         #USESFeatureSelection(k=50),
         #DecisionTreeClassifier(seed=42, criterion='gini', n_splits=n_splits),
-        #MLPKerasClassifier(seed=42, activation='relu'),
+        MLPKerasClassifier(seed=42, activation='relu'),
         #RandomForestClassifier(seed=42, criterion='gini'),
         #SVMClassifier(42, n_splits=n_splits),
         #LogisticRegressionClassifier(42),
@@ -131,8 +131,8 @@ for input in inputs:
         GenerateSequences(num_words=200, maxlen=150),
         MLPGloveEmbeddings(seed=42, activation='relu', embedding_dim=200,
                            maxlen=150, glove_file='embeddings/glove.6B.200d.txt'),
-        #MLPSEEmbeddings(seed=42, activation='relu', embedding_dim=200,
-        #                maxlen=150, gensim_file='embeddings/SO_vectors_200.bin'),
+        MLPSEEmbeddings(seed=42, activation='relu', embedding_dim=200,
+                        maxlen=150, gensim_file='embeddings/SO_vectors_200.bin'),
         reporter
     ]
 

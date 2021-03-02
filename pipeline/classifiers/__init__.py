@@ -1,8 +1,8 @@
 import np, random
 
-#from keras import layers
-#from keras.models import Sequential
-#from keras.wrappers.scikit_learn import KerasClassifier
+from keras import layers
+from keras.models import Sequential
+from keras.wrappers.scikit_learn import KerasClassifier
 
 from sklearn import tree, metrics, svm, naive_bayes, ensemble, linear_model, neural_network
 from sklearn.model_selection import cross_validate, StratifiedKFold, GroupKFold, TimeSeriesSplit, GridSearchCV, train_test_split

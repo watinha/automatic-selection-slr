@@ -6,11 +6,13 @@ from keras.wrappers.scikit_learn import KerasClassifier
 from sklearn import metrics
 from sklearn.model_selection import cross_validate, StratifiedKFold, GridSearchCV, train_test_split
 
+from pipeline.classifiers import YearsSplit
 
 class EmbeddingClassifier:
-    def __init__ (self, seed):
+    def __init__ (self, seed, n_splits=3):
         self._seed = seed
         self._embedding_matrix = None
+        self._n_splits = n_splits
 
     def get_classifier (self, X, y, word_index):
         print('===== MLP Keras =====')
@@ -25,10 +27,10 @@ class EmbeddingClassifier:
                                        weights=[self._embedding_matrix],
                                        input_length=self._maxlen,
                                        trainable=True))
-            model.add(layers.LSTM(units=neurons))
-            #model.add(layers.Flatten())
-            #model.add(layers.Dense(neurons, activation='relu'))
-            model.add(layers.Dense(1, activation='relu'))
+            #model.add(layers.LSTM(units=neurons))
+            model.add(layers.Flatten())
+            model.add(layers.Dense(neurons, activation='relu'))
+            model.add(layers.Dense(1, activation='sigmoid'))
             model.compile(loss="binary_crossentropy", optimizer="adam", metrics=["accuracy"])
             #model.summary()
             return model
@@ -51,8 +53,11 @@ class EmbeddingClassifier:
     def execute (self, dataset):
         X = dataset['features']
         y = dataset['categories']
+
+        groups = dataset['years']
+        kfold = YearsSplit(n_splits=self._n_splits, years=groups)
         random.seed(self._seed)
-        kfold = StratifiedKFold(n_splits=5, random_state=self._seed)
+
         model = self.get_classifier(X, y, dataset['word_index'])
         scores = cross_validate(model, X, y, cv=kfold, scoring=['f1_macro', 'precision_macro', 'recall_macro'])
         print("OUR APPROACH F-measure: %s on average and %s SD" %
