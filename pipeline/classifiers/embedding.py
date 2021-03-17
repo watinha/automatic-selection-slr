@@ -19,7 +19,7 @@ class EmbeddingClassifier:
         # generate embedding matrix
         self._embedding_matrix = self.get_embeddings(word_index)
 
-        def create_model (filters=32, kernel_size=3, neurons=1):
+        def create_model (filters=32, kernel_size=3, neurons=1, trainable=True):
             input_dim = X.shape[1]
             model = Sequential()
             model.add(layers.Embedding(input_dim=self._vocab_size,
@@ -34,7 +34,7 @@ class EmbeddingClassifier:
             model.add(layers.Dense(neurons, activation='relu'))
             model.add(layers.Dense(1, activation='sigmoid'))
             model.compile(loss="binary_crossentropy", optimizer="adam", metrics=["accuracy"])
-            #model.summary()
+            model.summary()
             return model
 
         print('===== Keras hyperparameter optimization =====')
@@ -42,7 +42,8 @@ class EmbeddingClassifier:
         params = {
             'filters': [32, 64, 128],
             'kernel_size': [3, 5, 7],
-            'neurons': [1, 10, 20, 30, 50]
+            'neurons': [1, 10, 20, 30, 50],
+            'trainable': [True, False]
         }
         cfl = GridSearchCV(model, params, cv=2, scoring='accuracy')
         cfl.fit(X, y)

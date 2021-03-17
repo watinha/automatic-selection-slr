@@ -128,7 +128,7 @@ for input in inputs:
         #MLPClassifier(42),
         #LinearSVMClassifier(42),
         #NaiveBayesClassifier(42),
-        GenerateSequences(num_words=200, maxlen=150),
+        GenerateSequences(num_words=None, maxlen=150),
         MLPGloveEmbeddings(seed=42, activation='relu', embedding_dim=200,
                            maxlen=150, glove_file='embeddings/glove.6B.200d.txt'),
         MLPSEEmbeddings(seed=42, activation='relu', embedding_dim=200,
