@@ -293,7 +293,7 @@ class MLPKerasClassifier (SimpleClassifier):
         params = {
             'neurons': [1, 10, 20, 30, 50]
         }
-        cfl = GridSearchCV(model, params, cv=5, scoring='accuracy')
+        cfl = GridSearchCV(model, params, cv=2, scoring='accuracy')
         cfl.fit(X, y)
         for param, value in cfl.best_params_.items():
             print("%s : %s" % (param, value))
