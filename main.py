@@ -108,7 +108,7 @@ for input in inputs:
     argument = input['argument']
     elimination_classifier = input['elimination_classifier']
     actions = [
-        BibParser(write_files=False, project_folder=project_folder),
+        BibParser(write_files=False, project_folder=project_folder, only_titles=True),
         #TextFilterComposite([ LemmatizerFilter(), StopWordsFilter() ]),
         #EmbeddingsFeatureSelection(
         #    GloveEmbeddingLoader(glove_file='embeddings/glove.6B.200d.txt', embedding_dim=200), k=50, random_state=42),
@@ -121,7 +121,7 @@ for input in inputs:
         #RFECVFeatureSelection(elimination_classifier),
         #USESFeatureSelection(k=50),
         #DecisionTreeClassifier(seed=42, criterion='gini', n_splits=n_splits),
-        MLPKerasClassifier(seed=42, activation='relu'),
+        #MLPKerasClassifier(seed=42, activation='relu'),
         #RandomForestClassifier(seed=42, criterion='gini'),
         #SVMClassifier(42, n_splits=n_splits),
         #LogisticRegressionClassifier(42),
