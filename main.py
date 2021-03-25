@@ -114,7 +114,7 @@ for input in inputs:
         #    GloveEmbeddingLoader(glove_file='embeddings/glove.6B.200d.txt', embedding_dim=200), k=50, random_state=42),
         #EmbeddingsFeatureSelection(
         #    GensimEmbeddingLoader(gensim_file='embeddings/SO_vectors_200.bin', embedding_dim=200), k=300, random_state=42),
-        GenerateDataset(TfidfVectorizer(ngram_range=(1,3), use_idf=True)),
+        #GenerateDataset(TfidfVectorizer(ngram_range=(1,3), use_idf=True)),
         #LSATransformation(n_components=100, random_state=42),
         #SelectKBestSelection(k=300),
         #VarianceThresholdFeatureSelection(threshold=0.0001),
@@ -128,11 +128,11 @@ for input in inputs:
         #MLPClassifier(42),
         #LinearSVMClassifier(42),
         #NaiveBayesClassifier(42),
-        GenerateSequences(num_words=None, maxlen=150),
+        GenerateSequences(num_words=None, maxlen=30),
         MLPGloveEmbeddings(seed=42, activation='relu', embedding_dim=200,
-                           maxlen=150, glove_file='embeddings/glove.6B.200d.txt'),
+                           maxlen=30, glove_file='embeddings/glove.6B.200d.txt'),
         MLPSEEmbeddings(seed=42, activation='relu', embedding_dim=200,
-                        maxlen=150, gensim_file='embeddings/SO_vectors_200.bin'),
+                        maxlen=30, gensim_file='embeddings/SO_vectors_200.bin'),
         reporter
     ]
 

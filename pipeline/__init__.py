@@ -81,9 +81,17 @@ class GenerateSequences:
     def execute (self, result):
         print('===== Transforming texts to sequence representation =====')
         tokenizer = Tokenizer(num_words=self._num_words)
-        tokenizer.fit_on_texts(result['texts'])
-        features = tokenizer.texts_to_sequences(result['texts'])
+        texts = [ r['content'] for r in result ]
+        categories = [ 1 if text_data['category'] == 'selecionado' else 0
+                for text_data in result ]
+        years = [ text_data['year'] for text_data in result ]
+        tokenizer.fit_on_texts(texts)
+        features = tokenizer.texts_to_sequences(texts)
         features = pad_sequences(features, padding='post', maxlen=self._maxlen)
-        result['word_index'] = tokenizer.word_index
-        result['features'] = features
+        result = {
+            'categories': np.array(categories),
+            'word_index': tokenizer.word_index,
+            'features': features,
+            'years': years
+        }
         return result
