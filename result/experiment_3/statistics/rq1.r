@@ -7,7 +7,10 @@ names(fscore) <- c('id', 'fold', 'dt.k50', 'svm.k50', 'file', 'dt.k100', 'svm.k1
 names(precision) <- c('id', 'fold', 'dt.k50', 'svm.k50', 'file', 'dt.k100', 'svm.k100', 'dt.k300', 'svm.k300', 'dt.k1000', 'svm.k1000', 'dt.k3000', 'svm.k3000')
 names(recall) <- c('id', 'fold', 'dt.k50', 'svm.k50', 'file', 'dt.k100', 'svm.k100', 'dt.k300', 'svm.k300', 'dt.k1000', 'svm.k1000', 'dt.k3000', 'svm.k3000')
 
-classifiers <- c('dt.k50', 'svm.k50', 'dt.k100', 'svm.k100', 'dt.k300', 'svm.k300', 'dt.k1000', 'svm.k1000', 'dt.k3000', 'svm.k3000')
+classifiers <- c(
+     'dt.k50', 'dt.k100', 'dt.k300', 'dt.k1000', 'dt.k3000',
+     'svm.k50', 'svm.k100', 'svm.k300', 'svm.k1000', 'svm.k3000'
+)
 
 print('--- FSCORE ---')
 for (i in classifiers) {
